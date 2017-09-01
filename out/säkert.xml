@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="s&#xE4;ker" lang="sv" class="jj" id="182440" lexinid="18245" origin="lexin" date="2011-03-03">
+    <translation id="182440-17637" value="safe" origin="user" date="2012-02-12T00:08:02"/>
+    <translation id="182440-17638" value="sure" origin="user" date="2012-02-12T00:08:02"/>
+    <translation id="182440-17639" value="certain" origin="user" date="2012-02-12T00:08:02"/>
+    <phonetic value="s&#xC4;:ker" soundFile="s&#xE4;ker.swf" date="2011-03-03"/>
+    <paradigm id="15936" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;kert"/>
+      <inflection value="s&#xE4;kra"/>
+    </paradigm>
+    <synonym value="oomtvistlig" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="osviklig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="trygg" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..1||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..2||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..3||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10291" value="pengarna &#xE4;r i s&#xE4;kert f&#xF6;rvar" date="2011-03-03">
+      <translation value="the money is in safe keeping"/>
+    </example>
+    <example id="10292" value="ett s&#xE4;kert st&#xF6;d i kristider" date="2011-03-03">
+      <translation value="a reliable source of help in times of crisis"/>
+    </example>
+    <compound id="6205" value="bombs&#xE4;ker" date="2011-03-03">
+      <translation value="absolutely sure"/>
+    </compound>
+    <definition id="17636" value="utom fara, skyddad, trygg" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;ker" lang="sv" class="jj" id="182450" lexinid="18246" origin="lexin" date="2011-03-03">
+    <translation id="182450-17638" value="reliable" origin="user" date="2012-03-27T01:41:03"/>
+    <translation id="182450-17639" value="safe" origin="user" date="2012-03-27T01:41:03"/>
+    <phonetic value="s&#xC4;:ker" soundFile="s&#xE4;ker.swf" date="2011-03-03"/>
+    <paradigm id="15937" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;kert"/>
+      <inflection value="s&#xE4;kra"/>
+    </paradigm>
+    <synonym value="p&#xE5;litlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillf&#xF6;rlitlig" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="trygg" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..1||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..2||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..3||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10293" value="enligt s&#xE4;kra uppgifter" date="2011-03-03">
+      <translation value="according to reliable information (information from a reliable source)"/>
+    </example>
+    <definition id="17637" value="tillf&#xF6;rlitlig" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;ker" lang="sv" class="jj" id="182460" lexinid="18247" origin="lexin" date="2011-03-03">
+    <translation id="17920" value="sure, certain" date="2011-03-03"/>
+    <phonetic value="s&#xC4;:ker" soundFile="s&#xE4;ker.swf" date="2011-03-03"/>
+    <paradigm id="15938" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;kert"/>
+      <inflection value="s&#xE4;kra"/>
+    </paradigm>
+    <synonym value="best&#xE4;md" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rvissad" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="oomtvistlig" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="otvivelaktig" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..1||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..2||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ker||s&#xE4;ker..3||s&#xE4;ker..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10294" value="jag &#xE4;r s&#xE4;ker p&#xE5; att jag har r&#xE4;tt" date="2011-03-03">
+      <translation value="I am sure I am right"/>
+    </example>
+    <definition id="17638" value="&#xF6;vertygad, f&#xF6;rvissad" date="2011-03-03"/>
+    <grammar value="&amp; (p&#xE5; x)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;kert" lang="sv" class="ab" id="182570" lexinid="18258" origin="lexin" date="2011-03-03">
+    <translation id="182570-17651" value="undoubtedly" origin="user" date="2012-03-23T04:42:09"/>
+    <translation id="182570-17652" value="certainly" origin="user" date="2012-03-23T04:42:09"/>
+    <translation id="182570-17653" value="probably" origin="user" date="2012-03-23T04:42:09"/>
+    <phonetic value="s&#xC4;:ker+t" soundFile="s&#xE4;kert.swf" date="2011-03-03"/>
+    <synonym value="absolut" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="best&#xE4;mt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="bevisligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="odiskutabelt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sannerligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <example id="10300" value="en s&#xE5;dan l&#xF6;sning &#xE4;r s&#xE4;kert den b&#xE4;sta" date="2011-03-03">
+      <translation value="such a solution is certainly best"/>
+    </example>
+    <definition id="17650" value="utan tvivel; sannolikt" date="2011-03-03"/>
+  </word>
+  <word value="assuredly" lang="en" class="ab" id="22591" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="22591-1" value="f&#xF6;rvisso" origin="lexin" date="2009-02-24"/>
+    <translation id="22591-2" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="22591-3" value="absolut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="certainly" lang="en" class="ab" id="72211" lexinid="51" origin="lexin" date="2009-02-24">
+    <translation id="72211-1" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="72211-2" value="best&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <translation id="72211-3" value="s&#xE4;kerligen" origin="lexin" date="2009-02-24"/>
+    <translation id="72211-4" value="f&#xF6;rvisso" origin="lexin" date="2009-02-24"/>
+    <translation id="72211-5" value="visserligen" origin="lexin" date="2009-02-24"/>
+    <example id="72211-6" value="you&amp;#39;ll certainly regret that!" origin="lexin" date="2009-02-24">
+      <translation value="du kommer alldeles best&#xE4;mt att &#xE5;ngra det!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*completely, *unconditionally" origin="lexin" date="2009-02-24">
+      <translation value="fullst&#xE4;ndigt, helt, ovillkorligt" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="clearly" lang="en" class="ab" id="82161" origin="lexin" date="2009-02-24">
+    <translation id="82161-1" value="tydligen" origin="lexin" date="2009-02-24"/>
+    <translation id="82161-2" value="uppenbarligen" origin="lexin" date="2009-02-24"/>
+    <translation id="82161-3" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="doubtless" lang="en" class="ab" id="142251" origin="lexin" date="2009-02-24">
+    <translation id="142251-1" value="utan tvivel" origin="lexin" date="2009-02-24"/>
+    <translation id="142251-2" value="utan tvekan" origin="lexin" date="2009-02-24"/>
+    <translation id="142251-3" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="142251-4" value="med all sannolikhet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="firmly" lang="en" class="ab" id="176371" origin="lexin" date="2009-02-24">
+    <translation id="176371-1" value="fast" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-2" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-3" value="best&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-4" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-5" value="f&#xF6;rtroendeingivande" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-6" value="beslutsamt" origin="lexin" date="2009-02-24"/>
+    <idiom id="176371-7" value="fully believe" origin="lexin" date="2009-02-24">
+      <translation value="tro fullt och fast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="infallibly" lang="en" class="ab" id="232041" origin="lexin" date="2009-02-24">
+    <translation id="232041-1" value="ofelbart" origin="lexin" date="2009-02-24"/>
+    <translation id="232041-2" value="utan minsta tvivel" origin="lexin" date="2009-02-24"/>
+    <translation id="232041-3" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <example id="232041-4" value="choral singing infallibly puts me in a good mood" origin="lexin" date="2009-02-24">
+      <translation value="k&#xF6;rs&#xE5;ng g&#xF6;r mig ofelbart p&#xE5; gott hum&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="sure" lang="en" class="ab" id="407851" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="407851-1" value="javisst" origin="lexin" date="2009-02-24"/>
+    <translation id="407851-2" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="407851-3" value="absolut" origin="lexin" date="2009-02-24"/>
+    <example id="407851-4" value="&amp;quot;Are you coming tonight?&amp;quot; &amp;quot;Sure, I&amp;#39;ll be there!&amp;quot;" origin="lexin" date="2009-02-24">
+      <translation value="&amp;quot;Kommer du ikv&#xE4;ll?&amp;quot; &amp;quot;Javisst, jag kommer!&amp;quot;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An informal way of saying certainly." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="unerringly" lang="en" class="ab" id="432211" origin="lexin" date="2009-02-24">
+    <translation id="432211-1" value="ofelbart" origin="lexin" date="2009-02-24"/>
+    <translation id="432211-2" value="osvikligt" origin="lexin" date="2009-02-24"/>
+    <translation id="432211-3" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="432211-4" value="tr&#xE4;ffs&#xE4;kert" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="safely" lang="en" id="481571" origin="user" date="2012-10-13T00:35:48">
+    <translation id="481571-1" value="s&#xE4;kert" origin="user" date="2012-10-13T00:35:50"/>
+    <translation id="481571-1" value="Boka" origin="user" date="2012-12-17T05:18:34"/>
+    <translation id="481571-1" value="snart" origin="user" date="2013-01-01T02:05:34"/>
+  </word>
+  <word value="spoonbill" lang="en" id="542081" origin="user" date="2015-09-03T03:42:20">
+    <translation id="542081-1" value="s&#xE4;kert" origin="user" date="2015-09-03T03:42:20"/>
+  </word>
+</definition>

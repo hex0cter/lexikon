@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;rutom" lang="sv" class="pp" id="58230" lexinid="5823" origin="lexin" date="2011-03-03">
+    <translation id="5727" value="apart from, aside from" origin="user" date="2013-01-31T03:50:28"/>
+    <phonetic value="&#xB2;f&#xF6;rU:t&#xE5;m" soundFile="f&#xF6;rutom.swf" date="2011-03-03"/>
+    <synonym value="bortsett fr&#xE5;n" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="fr&#xE5;nsett" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="undantagen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ut&#xF6;ver" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rutom||f&#xF6;rutom..1||f&#xF6;rutom..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3427" value="f&#xF6;rutom att hon kan sjunga (s&#xE5;) kan hon ocks&#xE5; spela basfiol" date="2011-03-03">
+      <translation value="apart from being able to sing, she can also play the double bass"/>
+    </example>
+    <definition id="5608" value="utom, med undantag av" date="2011-03-03"/>
+  </word>
+  <word value="aside from" lang="en" class="ab" id="20851" origin="lexin" date="2009-02-24">
+    <translation id="20851-1" value="f&#xF6;rutom" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bating" lang="en" class="pp" id="34711" origin="lexin" date="2009-02-24">
+    <translation id="34711-1" value="utom" origin="lexin" date="2009-02-24"/>
+    <translation id="34711-2" value="f&#xF6;rutom" comment="&#xE5;lderdomligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="besides" lang="en" class="pp" id="39881" origin="lexin" date="2009-02-24">
+    <translation id="39881-1" value="utom" origin="lexin" date="2009-02-24"/>
+    <translation id="39881-2" value="f&#xF6;rutom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="beyond" lang="en" class="pp" id="40541" origin="lexin" date="2009-02-24">
+    <translation id="40541-1" value="utom" origin="lexin" date="2009-02-24"/>
+    <translation id="40541-2" value="f&#xF6;rutom" origin="lexin" date="2009-02-24"/>
+    <translation id="40541-3" value="med undantag av" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="only" lang="en" class="kn" id="294711" origin="lexin" date="2009-02-24">
+    <translation id="294711-1" value="men" origin="lexin" date="2009-02-24"/>
+    <translation id="294711-2" value="det &#xE4;r bara det att" origin="lexin" date="2009-02-24"/>
+    <translation id="294711-3" value="utom" origin="lexin" date="2009-02-24"/>
+    <translation id="294711-4" value="f&#xF6;rutom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="outside of" lang="en" class="ab" id="299341" origin="lexin" date="2009-02-24">
+    <translation id="299341-1" value="f&#xF6;rutom" comment="informellt, s&#xE4;rskilt amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="299341-2" value="outside of you, I can&amp;#39;t of anyone who would fit that description" origin="lexin" date="2009-02-24">
+      <translation value="jag kan inte komma p&#xE5; n&#xE5;gon annan f&#xF6;rutom du som passar in p&#xE5; den beskrivningen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

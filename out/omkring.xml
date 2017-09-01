@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="omkring" lang="sv" class="ab" id="123840" lexinid="12385" origin="lexin" comment="i sifferuttryck" date="2011-03-03">
+    <translation id="123840-11928" value="around" origin="user" date="2011-11-12T00:14:32"/>
+    <translation id="123840-11929" value="about" origin="user" date="2011-11-12T00:14:32"/>
+    <phonetic value="&#xE5;mkrI@:" soundFile="omkring.swf" date="2011-03-03"/>
+    <synonym value="ungef&#xE4;r" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="omkring||omkring..2||omkring..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="omkring||omkring..3||omkring..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6910" value="omkring 5 grader" date="2011-03-03">
+      <translation value="about 5 degrees"/>
+    </example>
+    <example id="6911" value="omkring hundra kronor" date="2011-03-03">
+      <translation value="about a hundred kronor"/>
+    </example>
+    <definition id="11927" value="ungef&#xE4;r, cirka" date="2011-03-03"/>
+  </word>
+  <word value="omkring" lang="sv" class="ab" id="123850" lexinid="12386" origin="lexin" date="2011-03-03">
+    <translation id="12164" value="around" date="2011-03-03"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="&#xE5;mkrI@:" soundFile="omkring.swf" date="2011-03-03"/>
+    <see value="omkring||omkring..3||omkring..ab.1" type="saldo" origin="saldo" date="2014-11-11T01:04:16"/>
+    <example id="6912" value="resa omkring i Sverige" date="2011-03-03">
+      <translation value="travel around Sweden"/>
+    </example>
+    <idiom id="1098" value="n&#xE4;r allt kommer omkring (&amp;quot;n&#xE4;r man tar h&#xE4;nsyn till alla omst&#xE4;ndigheter&amp;quot;)" date="2011-03-03">
+      <translation value="after all, when all is said and done (&amp;quot;when all things are considered&amp;quot;)"/>
+    </idiom>
+    <definition id="11928" value="runt" date="2011-03-03"/>
+  </word>
+  <word class="pp" date="2011-03-03" id="123860" lang="sv" lexinid="12387" origin="lexin" value="omkring">
+    <translation date="2011-03-03" id="12165" value="around"/>
+    <phonetic date="2011-03-03" soundFile="omkring.swf" value="&#xE5;mkrI@:"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="cirka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="n&#xE4;stan"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="runt"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="ungef&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="omkring||omkring..1||omkring..pp.1"/>
+    <example date="2011-03-03" id="6913" value="sprida skr&#xE4;ck omkring sig">
+      <translation value="terrorize one&amp;#39;s surroundings"/>
+    </example>
+    <example date="2011-03-03" id="6914" value="omkring &#xE5;rsskiftet">
+      <translation value="around the end of the year"/>
+    </example>
+    <example date="2011-03-03" id="6915" value="dansa omkring julgranen">
+      <translation value="dance around the Christmas tree"/>
+    </example>
+    <definition date="2011-03-03" id="11929" value="runt"/>
+  </word>
+  <word value="about" lang="en" class="pp" id="1131" origin="lexin" date="2009-02-24">
+    <translation id="1131-1" value="omkring" comment="i m&#xE5;tts- och tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <example id="1131-2" value="he is about your size" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r ungef&#xE4;r i din storlek" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="about" lang="en" class="ab" id="1181" origin="lexin" date="2009-02-24">
+    <translation id="1181-1" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="1181-2" value="runt" origin="lexin" date="2009-02-24"/>
+    <translation id="1181-3" value="runtomkring" origin="lexin" date="2009-02-24"/>
+    <translation id="1181-4" value="hit och dit" origin="lexin" date="2009-02-24"/>
+    <example id="1181-5" value="all about" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; alla sidor, runtomkring" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="about" lang="en" class="pp" id="1231" origin="lexin" date="2009-02-24">
+    <translation id="1231-1" value="omkring" comment="i m&#xE5;tts- och tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <example id="1231-2" value="he is about your size" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r ungef&#xE4;r av din storlek" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="approx." lang="en" class="abbrev" id="17461" origin="lexin" date="2009-02-24">
+    <translation id="17461-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-2" value="ungef&#xE4;rligen" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-3" value="cirka" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-5" value="i runda tal" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-6" value="i stora drag" origin="lexin" date="2009-02-24"/>
+    <explanation value="approximately" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="approximately" lang="en" class="ab" id="17521" origin="lexin" date="2009-02-24">
+    <translation id="17521-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-2" value="ungef&#xE4;rligen" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-3" value="cirka" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-5" value="i runda tal" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-6" value="i stora drag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="around" lang="en" class="pp" id="19381" origin="lexin" date="2009-02-24">
+    <translation id="19381-1" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="19381-2" value="runtomkring" origin="lexin" date="2009-02-24"/>
+    <translation id="19381-3" value="runt" origin="lexin" date="2009-02-24"/>
+    <translation id="19381-4" value="runtom" origin="lexin" date="2009-02-24"/>
+    <example id="19381-5" value="throw one&amp;#39;s arms around somebody&amp;#39;s neck" origin="lexin" date="2009-02-24">
+      <translation value="sl&#xE5; armarna kring n&#xE5;gons hals" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="19381-6" value="around the turn of the century" origin="lexin" date="2009-02-24">
+      <translation value="kring sekelskiftet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="round" lang="en" class="ab" id="365531" origin="lexin" date="2009-02-24">
+    <translation id="365531-1" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365531-2" value="s&#xE5; d&#xE4;r omkring" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="round" lang="en" class="pp" id="365621" origin="lexin" date="2009-02-24">
+    <translation id="365621-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-2" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-3" value="runt" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-5" value="runt omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-6" value="kring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-7" value="runtom" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-8" value="omkring i" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-9" value="runt i" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="round" lang="en" class="ab" id="365681" origin="lexin" date="2009-02-24">
+    <translation id="365681-1" value="runt" origin="lexin" date="2009-02-24"/>
+    <translation id="365681-2" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365681-3" value="runtomkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365681-4" value="runtom" origin="lexin" date="2009-02-24"/>
+    <translation id="365681-5" value="i omkrets" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="some" lang="en" class="ab" id="389981" origin="lexin" date="2009-02-24">
+    <translation id="389981-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="389981-2" value="omkring" origin="lexin" date="2009-02-24"/>
+    <example id="389981-3" value="There were some 50 people present." origin="lexin" date="2009-02-24">
+      <translation value="Det var ungef&#xE4;r 50 personer n&#xE4;rvarande." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="about" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

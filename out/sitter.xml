@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="sitta" lang="sv" class="vb" id="155110" lexinid="15512" origin="lexin" date="2011-03-03">
+    <translation id="155110-15028" value="be seated (sitting)" origin="user" date="2012-01-21T00:38:57"/>
+    <translation id="155110-15029" value="sit" origin="user" date="2012-01-21T00:38:57"/>
+    <phonetic value="sIt:er" soundFile="sitter.swf" date="2011-03-03"/>
+    <paradigm id="13521" origin="lexin" date="2011-03-03">
+      <inflection value="satt"/>
+      <inflection value="suttit"/>
+      <inflection value="sitt"/>
+      <inflection value="sitta"/>
+      <inflection value="sitter"/>
+    </paradigm>
+    <see value="sitta||sitta..1||sitta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sitter.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="8776" value="sitta till bords" date="2011-03-03">
+      <translation value="sit down at the table"/>
+    </example>
+    <example id="8777" value="sitta p&#xE5; stolen" date="2011-03-03">
+      <translation value="be seated on the chair"/>
+    </example>
+    <example id="8778" value="sitta i en f&#xE5;t&#xF6;lj" date="2011-03-03">
+      <translation value="sit in an armchair"/>
+    </example>
+    <compound id="5418" value="sitt|plats" date="2011-03-03">
+      <translation value="seat"/>
+    </compound>
+    <idiom id="1328" value="sitta p&#xE5; huk (&amp;quot;med l&#xE5;rens baksida vilande mot h&#xE4;larna&amp;quot;)" date="2011-03-03">
+      <translation value="squat (&amp;quot;sit on one&amp;#39;s heels&amp;quot;)"/>
+    </idiom>
+    <definition id="15027" value="vila p&#xE5; bakdelen med &#xF6;verkroppen uppr&#xE4;tt; vila p&#xE5; en stol" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5; x)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="sitta" lang="sv" class="vb" id="155120" lexinid="15513" origin="lexin" date="2011-03-03">
+    <translation id="155120-15029" value="be" origin="user" date="2012-01-14T23:15:27"/>
+    <translation id="155120-15030" value="act (serve) as" origin="user" date="2012-01-14T23:15:27"/>
+    <phonetic value="sIt:er" soundFile="sitter.swf" date="2011-03-03"/>
+    <paradigm id="13522" origin="lexin" date="2011-03-03">
+      <inflection value="satt"/>
+      <inflection value="suttit"/>
+      <inflection value="sitt"/>
+      <inflection value="sitta"/>
+      <inflection value="sitter"/>
+    </paradigm>
+    <see value="sitta||sitta..1||sitta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8779" value="sitta barnvakt" date="2011-03-03">
+      <translation value="be babysitting"/>
+    </example>
+    <example id="8780" value="den sittande regeringen" date="2011-03-03">
+      <translation value="the government in power"/>
+    </example>
+    <example id="8781" value="sitta i f&#xE4;ngelse" date="2011-03-03">
+      <translation value="be in prison"/>
+    </example>
+    <example id="8782" value="sitta som ordf&#xF6;rande" date="2011-03-03">
+      <translation value="act as chairman"/>
+    </example>
+    <definition id="15028" value="h&#xE5;lla p&#xE5; med en viss verksamhet, fungera som" date="2011-03-03"/>
+    <grammar value="A &amp; (som) + PRED" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" comment="s&#xE4;rskilt &amp;quot;vara s&#xE4;kert f&#xE4;st&amp;quot;" date="2011-03-03" id="155130" lang="sv" lexinid="15514" origin="lexin" value="sitta">
+    <translation comment="especially in the sense of &amp;quot;be securely attached to&amp;quot;" date="2011-03-03" id="15236" value="be placed (located); be fixed (fitted, kept in place)"/>
+    <phonetic date="2011-03-03" soundFile="sitter.swf" value="sIt:er"/>
+    <paradigm date="2011-03-03" id="13523" origin="lexin">
+      <inflection value="satt"/>
+      <inflection value="suttit"/>
+      <inflection value="sitt"/>
+      <inflection value="sitta"/>
+      <inflection value="sitter"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sitta||sitta..1||sitta..vb.1"/>
+    <example date="2011-03-03" id="8783" value="stolpen sitter som berget">
+      <translation value="the post just won&amp;#39;t budge"/>
+    </example>
+    <example date="2011-03-03" id="8784" value="det satt spikar p&#xE5; v&#xE4;ggen">
+      <translation value="there were nails in the wall"/>
+    </example>
+    <definition date="2011-03-03" id="15029" value="vara placerad"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp; + S&#xC4;TT"/>
+  </word>
+  <word class="vb" comment="om kl&#xE4;der" date="2011-03-03" id="155140" lang="sv" lexinid="15515" origin="lexin" value="sitta">
+    <translation comment="used of clothes" date="2011-03-03" id="15237" value="fit"/>
+    <phonetic date="2011-03-03" soundFile="sitter.swf" value="sIt:er"/>
+    <paradigm date="2011-03-03" id="13524" origin="lexin">
+      <inflection value="satt"/>
+      <inflection value="suttit"/>
+      <inflection value="sitt"/>
+      <inflection value="sitta"/>
+      <inflection value="sitter"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sitta||sitta..1||sitta..vb.1"/>
+    <example date="2011-03-03" id="8785" value="byxorna sitter snyggt">
+      <translation value="the trousers fit well"/>
+    </example>
+    <definition date="2011-03-03" id="15030" value="passa"/>
+  </word>
+  <word value="sitter" lang="en" class="nn" id="384071" origin="lexin" date="2009-02-24">
+    <variant value="baby-sitter" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="384071-1" value="barnvakt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sitter" lang="en" class="nn" id="384081" origin="lexin" date="2009-02-24">
+    <translation id="384081-1" value="modell" origin="lexin" date="2009-02-24"/>
+    <translation id="384081-2" value="person som sitter f&#xF6;r portr&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

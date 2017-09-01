@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="30350" lang="sv" lexinid="3035" origin="lexin" value="del">
+    <translation date="2011-03-03" id="2995" value="part"/>
+    <phonetic date="2011-03-03" soundFile="del.swf" value="de:l"/>
+    <paradigm date="2011-03-03" id="2656" origin="lexin">
+      <inflection value="delen"/>
+      <inflection value="delar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="andel"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="bit"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="fraktion"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="pusselbit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="segment"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="del||del..1||del..nn.1"/>
+    <example date="2011-03-03" id="1720" value="en del av semestern">
+      <translation value="part of the vacation"/>
+    </example>
+    <example date="2011-03-03" id="1721" value="motorns delar"/>
+    <compound date="2011-03-03" id="1082" value="stadsdel">
+      <translation value="quarter; section of a city"/>
+    </compound>
+    <compound date="2011-03-03" id="1083" value="femtedel">
+      <translation value="fifth"/>
+    </compound>
+    <idiom date="2011-03-03" id="227" value="f&#xE5; sin besk&#xE4;rda del (&amp;quot;f&#xE5; det som tillfaller en&amp;quot;)">
+      <translation value="get one&amp;#39;s share (&amp;quot;get that which is rightly due&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="228" value="ta del av (&amp;quot;skaffa sig kunskap om&amp;quot;)">
+      <translation value="acquaint oneself with"/>
+    </idiom>
+    <idiom date="2011-03-03" id="229" value="f&#xF6;r den delen (&amp;quot;vad det betr&#xE4;ffar&amp;quot;)">
+      <translation value="for that matter, (&amp;quot;as far as that goes&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="230" value="f&#xF6;r all del (&amp;quot;ingen orsak&amp;quot;)">
+      <translation value="don&amp;#39;t mention it!"/>
+    </idiom>
+    <idiom date="2011-03-03" id="231" value="en hel del (&amp;quot;m&#xE5;nga&amp;quot;)">
+      <translation value="a good many (&amp;quot;many&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="232" value="jag f&#xF6;r min del (&amp;quot;jag personligen&amp;quot;)">
+      <translation value="for my part (&amp;quot;I personally&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="233" value="en del (&amp;quot;vissa&amp;quot;) m&#xE4;nniskor">
+      <translation value="some (&amp;quot;certain&amp;quot;) people"/>
+    </idiom>
+    <definition date="2011-03-03" id="2935" value="mindre bit av en helhet">
+      <translation value="a component of a whole"/>
+    </definition>
+  </word>
+  <word value="dela" lang="sv" class="vb" id="30370" lexinid="3037" origin="lexin" date="2011-03-03">
+    <translation id="30370-2938" value="cut up" origin="user" date="2012-01-14T23:15:28"/>
+    <translation id="30370-2939" value="split up" origin="user" date="2012-01-14T23:15:28"/>
+    <translation id="30370-2940" value="divide" origin="user" date="2012-01-14T23:15:28"/>
+    <phonetic value="&#xB2;dE:lar" soundFile="delar.swf" date="2011-03-03"/>
+    <paradigm id="2658" origin="lexin" date="2011-03-03">
+      <inflection value="delade"/>
+      <inflection value="delat"/>
+      <inflection value="dela"/>
+      <inflection value="delar"/>
+    </paradigm>
+    <synonym value="avskilja" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="dividera" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="klyva" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="separera" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="skilja" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="stycka" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="dela||dela..1||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dela||dela..2||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1723" value="dela ett arv" date="2011-03-03">
+      <translation value="distribute an inheritance"/>
+    </example>
+    <example id="1724" value="dela ett &#xE4;pple i fyra delar" date="2011-03-03">
+      <translation value="divide an apple in four parts"/>
+    </example>
+    <idiom id="234" value="det r&#xE5;der delade meningar (&amp;quot;det finns olika uppfattningar&amp;quot;)" date="2011-03-03">
+      <translation value="opinion is divided (&amp;quot;there are differing opinions&amp;quot;)"/>
+    </idiom>
+    <idiom id="235" value="dela med sig (&amp;quot;ge av n&#xE5;got man har&amp;quot;)" date="2011-03-03">
+      <translation value="share with other people (&amp;quot;give away sth. one has&amp;quot;)"/>
+    </idiom>
+    <definition id="2937" value="avskilja i delar" date="2011-03-03">
+      <translation value="separate into parts"/>
+    </definition>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="dela" lang="sv" class="vb" id="30380" lexinid="3038" origin="lexin" date="2011-03-03">
+    <translation id="2998" value="share" date="2011-03-03"/>
+    <phonetic value="&#xB2;dE:lar" soundFile="delar.swf" date="2011-03-03"/>
+    <paradigm id="2659" origin="lexin" date="2011-03-03">
+      <inflection value="delade"/>
+      <inflection value="delat"/>
+      <inflection value="dela"/>
+      <inflection value="delar"/>
+    </paradigm>
+    <synonym value="stycka" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="dela||dela..1||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dela||dela..2||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1725" value="dela n&#xE5;gons &#xE5;sikt" date="2011-03-03">
+      <translation value="share an opinion"/>
+    </example>
+    <example id="1726" value="dela rum" date="2011-03-03">
+      <translation value="share a room"/>
+    </example>
+    <definition id="2938" value="ha gemensamt" date="2011-03-03">
+      <translation value="have in common"/>
+    </definition>
+    <grammar value="A &amp; x med B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="dela" lang="sv" class="vb" id="30390" lexinid="3039" origin="lexin" date="2011-03-03">
+    <translation id="2999" value="divide" date="2011-03-03"/>
+    <phonetic value="&#xB2;dE:lar" soundFile="delar.swf" date="2011-03-03"/>
+    <paradigm id="2660" origin="lexin" date="2011-03-03">
+      <inflection value="delade"/>
+      <inflection value="delat"/>
+      <inflection value="dela"/>
+      <inflection value="delar"/>
+    </paradigm>
+    <synonym value="skilja" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="dela||dela..1||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dela||dela..2||dela..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1727" value="nio delat med tre &#xE4;r tre (9:3=3)" date="2011-03-03">
+      <translation value="nine divided by three is three (9/3=3)"/>
+    </example>
+    <definition id="2939" value="dividera" date="2011-03-03"/>
+    <grammar value="A &amp; x med y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="delar" lang="sv" id="283510" origin="user" date="2012-09-23T02:57:22">
+    <translation id="283510-1" value="parts" origin="user" date="2012-09-23T02:57:22"/>
+  </word>
+  <word value="parts" lang="en" class="nn" id="306601" origin="lexin" date="2009-02-24">
+    <translation id="306601-1" value="trakt" origin="lexin" date="2009-02-24"/>
+    <translation id="306601-2" value="trakter" origin="lexin" date="2009-02-24"/>
+    <translation id="306601-3" value="ort" origin="lexin" date="2009-02-24"/>
+    <translation id="306601-4" value="del" origin="lexin" date="2009-02-24"/>
+    <translation id="306601-5" value="delar" origin="lexin" date="2009-02-24"/>
+    <translation id="306601-6" value="kvarter" origin="lexin" date="2009-02-24"/>
+    <grammar value="alltid i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

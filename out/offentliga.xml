@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="121830" lang="sv" lexinid="12184" origin="lexin" value="offentlig">
+    <translation date="2011-03-03" id="11963" value="public"/>
+    <phonetic date="2011-03-03" soundFile="offentlig.swf" value="&#xE5;fEn:tlig"/>
+    <paradigm date="2011-03-03" id="10552" origin="lexin">
+      <inflection value="offentligt"/>
+      <inflection value="offentliga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="allm&#xE4;n"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="publik"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="&#xF6;ppen"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="offentlig||offentlig..1||offentlig..av.1"/>
+    <example date="2011-03-03" id="6725" value="offentlig debatt">
+      <translation value="public debate"/>
+    </example>
+    <example date="2011-03-03" id="6726" value="offentlig handling">
+      <translation value="official document"/>
+    </example>
+    <related origin="lexin" type="antonym" value="privat">
+      <translation date="2011-03-03" origin="lexin" value="private, confidential"/>
+    </related>
+    <related origin="lexin" type="antonym" value="hemlig">
+      <translation date="2011-03-03" origin="lexin" value=""/>
+    </related>
+    <definition date="2011-03-03" id="11732" value="som g&#xE4;ller allm&#xE4;nheten, allm&#xE4;n, officiell"/>
+  </word>
+  <word value="offentlig" lang="sv" class="jj" id="121840" lexinid="12185" origin="lexin" date="2011-03-03">
+    <translation id="121840-11734" value="public" origin="user" date="2012-01-16T00:06:01"/>
+    <translation id="121840-11735" value="official" origin="user" date="2012-01-16T00:06:01"/>
+    <phonetic value="&#xE5;fEn:tlig" soundFile="offentlig.swf" date="2011-03-03"/>
+    <paradigm id="10553" origin="lexin" date="2011-03-03">
+      <inflection value="offentligt"/>
+      <inflection value="offentliga"/>
+    </paradigm>
+    <synonym value="allm&#xE4;n" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="publik" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xF6;ppen" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="offentlig||offentlig..1||offentlig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6727" value="offentlig f&#xF6;rsvarare" date="2011-03-03">
+      <translation value="public defence counsel"/>
+    </example>
+    <example id="6728" value="den offentliga sektorn" date="2011-03-03">
+      <translation value="the public sector"/>
+    </example>
+    <related value="privat" type="antonym" origin="lexin">
+      <translation value="private" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="11733" value="som g&#xE4;ller statlig och kommunal verksamhet" date="2011-03-03"/>
+  </word>
+</definition>

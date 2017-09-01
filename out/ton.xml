@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ton" lang="sv" class="nn" id="190450" lexinid="19046" origin="lexin" date="2011-03-03">
+    <translation id="190450-18411" value="note" origin="user" date="2012-01-26T00:06:48"/>
+    <translation id="190450-18412" value="tone" origin="user" date="2012-01-26T00:06:48"/>
+    <phonetic value="to:n" soundFile="ton.swf" date="2011-03-03"/>
+    <paradigm id="16635" origin="lexin" date="2011-03-03">
+      <inflection value="tonen"/>
+      <inflection value="toner"/>
+    </paradigm>
+    <see value="ton||ton..1||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..2||ton..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..3||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10706" value="h&#xF6;ga toner" date="2011-03-03">
+      <translation value="high notes"/>
+    </example>
+    <compound id="6412" value="tonl&#xE4;ge" date="2011-03-03">
+      <translation value="pitch"/>
+    </compound>
+    <compound id="6413" value="grundton" date="2011-03-03">
+      <translation value="keynote"/>
+    </compound>
+    <idiom id="1644" value="ta sig ton (&amp;quot;sticka upp&amp;quot;)" date="2011-03-03">
+      <translation value="speak in an imperious tone of voice (&amp;quot; be disrespectful&amp;quot;)"/>
+    </idiom>
+    <definition id="18410" value="ljud med regelbundet sv&#xE4;ngningstal" date="2011-03-03"/>
+  </word>
+  <word value="ton" lang="sv" class="nn" id="190460" lexinid="19047" origin="lexin" date="2011-03-03">
+    <translation id="18700" value="manner" date="2011-03-03"/>
+    <use value="endast singular" date="2011-03-03"/>
+    <phonetic value="to:n" soundFile="ton.swf" date="2011-03-03"/>
+    <paradigm id="16636" origin="lexin" date="2011-03-03">
+      <inflection value="tonen"/>
+      <inflection value="toner"/>
+    </paradigm>
+    <see value="ton||ton..1||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..2||ton..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..3||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10707" value="det h&#xF6;r inte till god ton" date="2011-03-03">
+      <translation value="that isn&amp;#39;t good manners"/>
+    </example>
+    <example id="10708" value="samtalet f&#xF6;rdes i hj&#xE4;rtlig ton" date="2011-03-03">
+      <translation value="the talk was held in an atmosphere of great cordiality"/>
+    </example>
+    <definition id="18411" value="s&#xE4;tt att tala och upptr&#xE4;da" date="2011-03-03"/>
+  </word>
+  <word value="ton" lang="sv" class="nn" id="190470" lexinid="19048" origin="lexin" date="2011-03-03">
+    <translation id="190470-18413" value="hue" origin="user" date="2012-01-26T00:06:48"/>
+    <translation id="190470-18414" value="tint" origin="user" date="2012-01-26T00:06:48"/>
+    <phonetic value="to:n" soundFile="ton.swf" date="2011-03-03"/>
+    <paradigm id="16637" origin="lexin" date="2011-03-03">
+      <inflection value="tonen"/>
+      <inflection value="toner"/>
+    </paradigm>
+    <synonym value="nyans" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="ton||ton..1||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..2||ton..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..3||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10709" value="f&#xE4;rgerna gick ton i ton" date="2011-03-03">
+      <translation value="the colours were in perfect harmony"/>
+    </example>
+    <definition id="18412" value="f&#xE4;rgnyans" date="2011-03-03"/>
+  </word>
+  <word value="ton" lang="sv" class="nn" id="190480" lexinid="19049" origin="lexin" date="2011-03-03">
+    <translation id="18702" value="tonne" date="2011-03-03"/>
+    <phonetic value="t&#xE5;n:" soundFile="ton.swf" date="2011-03-03"/>
+    <paradigm id="16638" origin="lexin" date="2011-03-03">
+      <inflection value="tonnet"/>
+      <inflection value="ton"/>
+      <inflection value="tonnen"/>
+    </paradigm>
+    <see value="ton||ton..1||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..2||ton..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ton||ton..3||ton..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10710" value="200 ton kalk" date="2011-03-03">
+      <translation value="200 tonnes of lime"/>
+    </example>
+    <definition id="18413" value="viktenheten 1 000 kg" date="2011-03-03"/>
+  </word>
+  <word value="note" lang="en" class="nn" id="288951" origin="lexin" date="2009-02-24">
+    <translation id="288951-1" value="st&#xE4;mning" origin="lexin" date="2009-02-24"/>
+    <translation id="288951-2" value="underton" origin="lexin" date="2009-02-24"/>
+    <translation id="288951-3" value="ton" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sound" lang="en" class="nn" id="390571" origin="lexin" date="2009-02-24">
+    <translation id="390571-1" value="ljud" origin="lexin" date="2009-02-24"/>
+    <translation id="390571-2" value="ton" origin="lexin" date="2009-02-24"/>
+    <translation id="390571-3" value="knyst" origin="lexin" date="2009-02-24"/>
+    <example id="390571-4" value="within sound" origin="lexin" date="2009-02-24">
+      <translation value="inom h&#xF6;rh&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="390571-5" value="the speed of sound" origin="lexin" date="2009-02-24">
+      <translation value="ljudets hastighet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="390571-6" value="do not make a sound" origin="lexin" date="2009-02-24">
+      <translation value="inte ett knyst" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="stop" lang="en" class="nn" id="400001" origin="lexin" comment="musikaliskt" date="2009-02-24">
+    <translation id="400001-1" value="grepp" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-2" value="tv&#xE4;rband" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-3" value="klaff" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-4" value="h&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-5" value="ventil" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-6" value="register" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-7" value="st&#xE4;mma" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-8" value="register" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-9" value="ton" origin="lexin" date="2009-02-24"/>
+    <translation id="400001-10" value="stil" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="strain" lang="en" class="nn" id="400811" origin="lexin" date="2009-02-24">
+    <translation id="400811-1" value="ton" origin="lexin" date="2009-02-24"/>
+    <translation id="400811-2" value="stil" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="twang" lang="en" class="nn" id="428401" origin="lexin" date="2009-02-24">
+    <translation id="428401-1" value="ton" origin="lexin" date="2009-02-24"/>
+    <translation id="428401-2" value="ljud" origin="lexin" date="2009-02-24"/>
+    <example id="428401-3" value="she has a nasal twang" origin="lexin" date="2009-02-24">
+      <translation value="hon talar i n&#xE4;san" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="vanligen i singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ton" lang="en" class="nn" id="429941" origin="lexin" date="2009-02-24">
+    <translation id="429941-1" value="ton" origin="lexin" date="2009-02-24"/>
+    <example id="429941-3" value="This mine used to produce five tons of coal a week." origin="lexin" date="2009-02-24">
+      <translation value="Den h&#xE4;r gruvan producerade fem ton kol i veckan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="429941-2" value="She came down on us like a ton of bricks." origin="lexin" date="2009-02-24">
+      <translation value="Hon sl&#xE4;ppte l&#xF6;s hela sin vrede &#xF6;ver oss." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="A unit of weight; 2240 lbs;1000 kilos; something very heavy." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tone" lang="en" class="nn" id="429951" origin="lexin" date="2009-02-24">
+    <translation id="429951-1" value="ton" origin="lexin" date="2009-02-24"/>
+    <translation id="429951-2" value="helton" origin="lexin" date="2009-02-24"/>
+    <example id="429951-3" value="Let&amp;#39;s try that song one tone up." origin="lexin" date="2009-02-24">
+      <translation value="L&#xE5;t oss pr&#xF6;va den d&#xE4;r s&#xE5;ngen en helton upp." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A musical term for the difference in pitch between, for instance, do and re." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tone" lang="en" class="nn" id="429961" origin="lexin" date="2009-02-24">
+    <translation id="429961-1" value="nyans" origin="lexin" date="2009-02-24"/>
+    <translation id="429961-2" value="ton" origin="lexin" date="2009-02-24"/>
+    <example id="429961-3" value="Her new suit was in two tones of raspberry red." origin="lexin" date="2009-02-24">
+      <translation value="Hennes nya dr&#xE4;kt var i tv&#xE5; nyanser av hallonr&#xF6;tt." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A shade of color which is lighter, darker, brighter etc, than another of the same colour." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tone" lang="en" class="nn" id="429971" origin="lexin" date="2009-02-24">
+    <translation id="429971-1" value="ton" origin="lexin" date="2009-02-24"/>
+    <example id="429971-2" value="His voice had an irritated tone." origin="lexin" date="2009-02-24">
+      <translation value="Hans r&#xF6;st hade en irriterad ton." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429971-3" value="The overall tone of her letter was positive." origin="lexin" date="2009-02-24">
+      <translation value="Den allm&#xE4;nna tonen i hennes brev var positiv." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A quality of sound, voice, or something said or written." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

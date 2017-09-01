@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="119070" lang="sv" lexinid="11908" origin="lexin" value="nyligen">
+    <translation date="2011-03-03" id="11694" value="recently"/>
+    <phonetic date="2011-03-03" soundFile="nyligen.swf" value="&#xB2;nY:ligen"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="h&#xE4;rf&#xF6;rleden"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="just"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="nyss"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="nyligen||nyligen..1||nyligen..ab.1"/>
+    <example date="2011-03-03" id="6520" value="vi tr&#xE4;ffades helt nyligen i Lund">
+      <translation value="we met quite recently in Lund"/>
+    </example>
+    <definition date="2011-03-03" id="11474" value="f&#xF6;r kort tid sedan"/>
+  </word>
+  <word value="fresh" lang="en" class="ab" id="186151" origin="lexin" date="2009-02-24">
+    <translation id="186151-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="186151-2" value="nyligen" origin="lexin" date="2009-02-24"/>
+    <idiom id="186151-3" value="be fresh out of&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;har precis tagit slut (amerikansk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="just" lang="en" class="ab" id="244171" origin="lexin" date="2009-02-24">
+    <translation id="244171-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="244171-2" value="nyss" origin="lexin" date="2009-02-24"/>
+    <translation id="244171-3" value="nyligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="late" lang="en" class="jj" id="250251" origin="lexin" date="2009-02-24">
+    <translation id="250251-1" value="nyligen" origin="lexin" date="2009-02-24"/>
+    <translation id="250251-2" value="alldeles nyss" origin="lexin" date="2009-02-24"/>
+    <example id="250251-3" value="there is some late news" origin="lexin" date="2009-02-24">
+      <translation value="det har precis kommit in n&#xE5;gra sena nyheter" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ingen komparering" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="newly" lang="en" class="ab" id="286271" origin="lexin" date="2009-02-24">
+    <translation id="286271-1" value="ny-" origin="lexin" date="2009-02-24"/>
+    <translation id="286271-2" value="nyligen" origin="lexin" date="2009-02-24"/>
+    <example id="286271-3" value="she is a newly graduated lawyer" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r nyutexaminerad jurist" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="286271-4" value="the newly-married couple looked very happy" origin="lexin" date="2009-02-24">
+      <translation value="det nygifta paret s&#xE5;g v&#xE4;ldigt lyckligt ut" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="as having just woken up and still drowsy" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="recently" lang="en" class="ab" id="348601" origin="lexin" date="2009-02-24">
+    <translation id="348601-1" value="nyss" origin="lexin" date="2009-02-24"/>
+    <translation id="348601-2" value="nyligen" origin="lexin" date="2009-02-24"/>
+    <translation id="348601-3" value="p&#xE5; sista tiden" origin="lexin" date="2009-02-24"/>
+    <example id="348601-4" value="The recently acquired car could be seen in the driveway." origin="lexin" date="2009-02-24">
+      <translation value="Den nyligen ink&#xF6;pta bilen kunde ses p&#xE5; uppfarten." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="If it happened recently it happened a short while ago." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

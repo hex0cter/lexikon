@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="innan" lang="sv" class="ab" id="77180" lexinid="7718" origin="lexin" date="2011-03-03">
+    <translation id="77180-7416" value="until" origin="user" date="2012-02-29T00:28:36"/>
+    <translation id="77180-7417" value="before" origin="user" date="2012-02-29T00:28:36"/>
+    <phonetic value="&#xB2;In:an" soundFile="innan.swf" date="2011-03-03"/>
+    <synonym value="f&#xF6;re" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="innan||innan..3||innan..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4556" value="dagen innan" date="2011-03-03">
+      <translation value="the day before"/>
+    </example>
+    <definition id="7415" value="f&#xF6;rut, dessf&#xF6;rinnan" date="2011-03-03"/>
+  </word>
+  <word class="kn" date="2011-03-03" id="77190" lang="sv" lexinid="7719" origin="lexin" value="innan">
+    <translation date="2011-03-03" id="7575" value="before"/>
+    <phonetic date="2011-03-03" soundFile="innan.swf" value="&#xB2;In:an"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;re"/>
+    <example date="2011-03-03" id="4557" value="det dr&#xF6;jde l&#xE4;nge innan han kom">
+      <translation value="it took a long time before he came"/>
+    </example>
+    <example date="2011-03-03" id="4558" value="ring mig innan du &#xE5;ker!">
+      <translation value="call me before you leave!"/>
+    </example>
+    <definition date="2011-03-03" id="7416" value="f&#xF6;re, f&#xF6;rr&#xE4;n"/>
+  </word>
+  <word class="pp" date="2011-03-03" id="77200" lang="sv" lexinid="7720" origin="lexin" value="innan">
+    <translation date="2011-03-03" id="7576" value="before"/>
+    <phonetic date="2011-03-03" soundFile="innan.swf" value="&#xB2;In:an"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;re"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="innan||innan..2||innan..pp.1"/>
+    <example date="2011-03-03" id="4559" value="innan jul">
+      <translation value="before Christmas"/>
+    </example>
+    <example date="2011-03-03" id="4560" value="innan dess">
+      <translation value="before that (happens)"/>
+    </example>
+    <definition date="2011-03-03" id="7417" value="f&#xF6;re"/>
+  </word>
+  <word value="ago" lang="en" class="ab" id="8761" origin="lexin" date="2009-02-24">
+    <translation id="8761-1" value="f&#xF6;r&#xE4;sedan" origin="lexin" date="2009-02-24"/>
+    <translation id="8761-5" value="innan" origin="user" date="2014-04-25T05:01:53"/>
+    <translation id="8761-5" value="sedan" origin="user" date="2014-04-28T00:42:38"/>
+    <example id="8761-2" value="how long ago did you write this book?" origin="lexin" date="2009-02-24">
+      <translation value="hur l&#xE4;nge sedan &#xE4;r/var det du skrev den h&#xE4;r boken?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="8761-3" value="Jane left long ago" origin="lexin" date="2009-02-24">
+      <translation value="Jane gick f&#xF6;r l&#xE4;nge sedan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="8761-4" value="we got married two years ago" origin="lexin" date="2009-02-24">
+      <translation value="vi gifte oss f&#xF6;r tv&#xE5; &#xE5;r sedan" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="before" lang="en" class="kn" id="37551" origin="lexin" date="2009-02-24">
+    <translation id="37551-1" value="innan" origin="lexin" date="2009-02-24"/>
+    <translation id="37551-2" value="annars" origin="lexin" date="2009-02-24"/>
+    <example id="37551-3" value="get out before I tell your boss" origin="lexin" date="2009-02-24">
+      <translation value="ge dig iv&#xE4;g, annars ber&#xE4;ttar jag f&#xF6;r din chef" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="before" lang="en" class="kn" id="37561" origin="lexin" date="2009-02-24">
+    <translation id="37561-1" value="innan" origin="lexin" date="2009-02-24"/>
+    <translation id="37561-2" value="f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    <translation id="37561-3" value="f&#xF6;rr&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <example id="37561-4" value="call me before you leave!" origin="lexin" date="2009-02-24">
+      <translation value="ring mig innan du &#xE5;ker!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="37561-5" value="it will be two weeks before we know for sure" origin="lexin" date="2009-02-24">
+      <translation value="det dr&#xF6;jer tv&#xE5; veckor tills vi vet helt s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="before" lang="en" class="ab" id="37571" origin="lexin" date="2009-02-24">
+    <translation id="37571-1" value="innan" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-2" value="f&#xF6;rut" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-3" value="dessf&#xF6;rinnan" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-4" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="37571-6" value="haven&amp;#39;t we met before?" origin="lexin" date="2009-02-24">
+      <translation value="har vi inte tr&#xE4;ffats f&#xF6;rut?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="37571-5" value="the day before" origin="lexin" date="2009-02-24">
+      <translation value="dagen innan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="by" lang="en" class="pp" id="62671" origin="lexin" date="2009-02-24">
+    <translation id="62671-1" value="senast" origin="lexin" date="2009-02-24"/>
+    <translation id="62671-2" value="innan" origin="lexin" date="2009-02-24"/>
+    <example id="62671-3" value="I want those papers by Monday morning at the very latest" origin="lexin" date="2009-02-24">
+      <translation value="jag vill ha papperen absolut senast p&#xE5; m&#xE5;ndag morgon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="62671-4" value="you must have finished this chapter by five o&amp;#39;clock today" origin="lexin" date="2009-02-24">
+      <translation value="du m&#xE5;ste vara klar med kapitlet innan klockan fem i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

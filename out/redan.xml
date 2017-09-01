@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="i vissa uttryck &#xE4;ven &amp;quot;k&#xE4;nnedom&amp;quot;" date="2011-03-03" id="140680" lang="sv" lexinid="14069" origin="lexin" value="reda">
+    <phonetic date="2011-03-03" soundFile="reda.swf" value="&#xB2;rE:da"/>
+    <paradigm date="2011-03-03" id="12242" origin="lexin">
+      <inflection value="redan"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="ordna"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="ordning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="reda||reda..1||reda..nn.1"/>
+    <example date="2011-03-03" id="7894" value="g&#xF6;ra reda f&#xF6;r sig">
+      <translation value="account for"/>
+    </example>
+    <example date="2011-03-03" id="7895" value="ordning och reda">
+      <translation value="orderliness"/>
+    </example>
+    <idiom date="2011-03-03" id="1218" value="ta reda p&#xE5; (&amp;quot;s&#xF6;ka r&#xE4;tt p&#xE5;, skaffa sig k&#xE4;nnedom om&amp;quot;)">
+      <translation value="find, find out about (&amp;quot;locate, learn about&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1219" value="f&#xE5; reda p&#xE5; (&amp;quot;f&#xE5; k&#xE4;nnedom om&amp;quot;)">
+      <translation value="find out (&amp;quot;learn about&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="13603" value="ordning"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="140720" lang="sv" lexinid="14073" origin="lexin" value="redan">
+    <translation date="2011-03-03" id="13819" value="already"/>
+    <phonetic date="2011-03-03" soundFile="redan.swf" value="&#xB2;rE:dan"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="allaredan"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="redan||redan..1||redan..ab.1"/>
+    <example date="2011-03-03" id="7897" value="&#xE4;r du redan f&#xE4;rdig?">
+      <translation value="have you finished already?"/>
+    </example>
+    <example date="2011-03-03" id="7898" value="vi har redan b&#xF6;rjat">
+      <translation value="we have already begun"/>
+    </example>
+    <example date="2011-03-03" id="7899" value="redan om en vecka">
+      <translation value="in a week at the latest"/>
+    </example>
+    <example date="2011-03-03" id="7900" value="redan som ung">
+      <translation value="even when young"/>
+    </example>
+    <example date="2011-03-03" id="7901" value="redan 1828">
+      <translation value="as early (long ago) as 1828"/>
+    </example>
+    <definition date="2011-03-03" id="13606" value="s&#xE5; h&#xE4;r (ov&#xE4;ntat) tidigt"/>
+  </word>
+  <word value="already" lang="en" class="ab" id="11131" origin="lexin" date="2009-02-24">
+    <translation id="11131-1" value="redan" origin="lexin" date="2009-02-24"/>
+    <example id="11131-2" value="have you finished already?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r du redan f&#xE4;rdig?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="11131-3" value="we have already begun" origin="lexin" date="2009-02-24">
+      <translation value="vi har redan b&#xF6;rjat" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="yet" lang="en" class="ab" id="449481" origin="lexin" date="2009-02-24">
+    <translation id="449481-1" value="&#xE4;nnu" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-2" value="&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-3" value="fortfarande" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-4" value="redan" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-5" value="till sist" origin="lexin" date="2009-02-24"/>
+    <idiom id="449481-6" value="as yet" origin="lexin" date="2009-02-24">
+      <translation value="hittintills" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

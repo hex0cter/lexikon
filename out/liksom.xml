@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="liksom" lang="sv" class="ab" id="100060" lexinid="10006" origin="lexin" date="2011-03-03">
+    <translation id="100060-9641" value="so to speak" origin="user" date="2012-02-14T22:56:55"/>
+    <translation id="100060-9642" value="as it were" origin="user" date="2012-02-14T22:56:55"/>
+    <phonetic value="lI:ks&#xE5;m (el. lIk:-)" soundFile="liksom.swf" date="2011-03-03"/>
+    <synonym value="typ" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="liksom||liksom..1||liksom..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liksom||liksom..3||liksom..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5456" value="du h&#xF6;r liksom till familjen" date="2011-03-03">
+      <translation value="you&amp;#39;re almost one of the family"/>
+    </example>
+    <definition id="9640" value="n&#xE4;stan, p&#xE5; n&#xE5;got s&#xE4;tt" date="2011-03-03"/>
+  </word>
+  <word value="liksom" lang="sv" class="kn" id="100070" lexinid="10007" origin="lexin" date="2011-03-03">
+    <translation id="100070-9642" value="like" origin="user" date="2012-02-23T00:13:54"/>
+    <translation id="100070-9643" value="as" origin="user" date="2012-02-23T00:13:54"/>
+    <phonetic value="lI:ks&#xE5;m (el. lIk:-)" soundFile="liksom.swf" date="2011-03-03"/>
+    <synonym value="typ" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ven" level="3.1" origin="synlex" date="2011-03-03"/>
+    <example id="5457" value="jag sj&#xE4;lv liksom de flesta andra" date="2011-03-03">
+      <translation value="I, like most other people"/>
+    </example>
+    <definition id="9641" value="i likhet med, p&#xE5; samma s&#xE4;tt som" date="2011-03-03"/>
+  </word>
+  <word value="like" lang="en" class="ab" id="257281" origin="lexin" date="2009-02-24">
+    <translation id="257281-1" value="s&#xE5; att s&#xE4;ga" origin="lexin" date="2009-02-24"/>
+    <translation id="257281-2" value="liksom" comment="icke standard" origin="lexin" date="2009-02-24"/>
+    <example id="257281-3" value="she started talking to me, like, as if nothing had happened" origin="lexin" date="2009-02-24">
+      <translation value="hon b&#xF6;rjade prata med mig som om ingenting hade h&#xE4;nt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="inom" lang="sv" class="pp" id="77470" lexinid="7747" origin="lexin" comment="anger avgr&#xE4;nsning i rummet" date="2011-03-03">
+    <translation id="77470-7443" value="in" origin="user" date="2012-04-04T04:42:00"/>
+    <translation id="77470-7444" value="within" origin="user" date="2012-04-04T04:42:00"/>
+    <phonetic value="&#xB2;In:&#xE5;m" soundFile="inom.swf" date="2011-03-03"/>
+    <synonym value="i" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="inom||inom..1||inom..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4581" value="inom landet" date="2011-03-03">
+      <translation value="inside the country"/>
+    </example>
+    <example id="4582" value="inom partiet" date="2011-03-03">
+      <translation value="within the party"/>
+    </example>
+    <idiom id="647" value="inom ramen f&#xF6;r (&amp;quot;inom gr&#xE4;nserna f&#xF6;r&amp;quot;) (projektet)" date="2011-03-03">
+      <translation value="within the framework for (&amp;quot;within the limits for&amp;quot;) (the project)"/>
+    </idiom>
+    <definition id="7442" value="innanf&#xF6;r" date="2011-03-03"/>
+  </word>
+  <word class="pp" comment="anger avgr&#xE4;nsning i tiden" date="2011-03-03" id="77480" lang="sv" lexinid="7748" origin="lexin" value="inom">
+    <translation comment="denotes temporal limitation" date="2011-03-03" id="7603" value="within"/>
+    <phonetic date="2011-03-03" soundFile="inom.swf" value="&#xB2;In:&#xE5;m"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="i"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="inom||inom..1||inom..pp.1"/>
+    <example date="2011-03-03" id="4583" value="inom en vecka">
+      <translation value="within a week"/>
+    </example>
+    <idiom date="2011-03-03" id="648" value="inom kort (&amp;quot;snart&amp;quot;)">
+      <translation value="shortly (&amp;quot;soon&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="7443" value="senast vid slutet av (en tidsperiod)"/>
+  </word>
+  <word value="within" lang="en" class="pp" id="446071" origin="lexin" date="2009-02-24">
+    <translation id="446071-1" value="inom" origin="lexin" date="2009-02-24"/>
+    <example id="446071-2" value="We have three golf courses within half an hour&amp;#39;s journey." origin="lexin" date="2009-02-24">
+      <translation value="Vi har tre golfbanor inom en halvtimmes resa." origin="user" date="2014-06-14T08:03:06"/>
+    </example>
+    <example id="446071-3" value="It is within walking distance." origin="lexin" date="2009-02-24">
+      <translation value="Det &#xE4;r inom g&#xE5;ngavst&#xE5;nd." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="446071-4" value="We are recruiting within the company." origin="lexin" date="2009-02-24">
+      <translation value="Vi rekryterar inom f&#xF6;retaget." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="not beyond, not more than" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

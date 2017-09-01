@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="109900" lang="sv" lexinid="10990" origin="lexin" value="mest">
+    <translation date="2011-03-03" id="10797" value="most"/>
+    <use date="2011-03-03" value="superlativ"/>
+    <phonetic date="2011-03-03" soundFile="mest.swf" value="mes:t"/>
+    <paradigm date="2011-03-03" id="9571" origin="lexin">
+      <inflection value="mesta"/>
+    </paradigm>
+    <example date="2011-03-03" id="5943" value="den mesta tiden &#xE4;gnar jag &#xE5;t l&#xE4;sning">
+      <translation value="I devote most of my time to reading"/>
+    </example>
+    <example date="2011-03-03" id="5944" value="man h&#xE4;ller bort det mesta av spadet">
+      <translation value="you pour off most of the liquid"/>
+    </example>
+    <example date="2011-03-03" id="5945" value="jag tj&#xE4;nar mest pengar">
+      <translation value="I make the most money"/>
+    </example>
+    <idiom date="2011-03-03" id="974" value="f&#xF6;r det mesta (&amp;quot;oftast&amp;quot;)">
+      <translation value="for the most (&amp;quot;most often&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="10596" value="som utg&#xF6;r st&#xF6;rsta delen el. m&#xE4;ngden, st&#xF6;rst"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="mycket"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="109910" lang="sv" lexinid="10991" origin="lexin" value="mest">
+    <translation date="2011-03-03" id="10798" value="most"/>
+    <use date="2011-03-03" value="s&#xE4;rskilt vid komparation"/>
+    <phonetic date="2011-03-03" soundFile="mest.swf" value="mes:t"/>
+    <example date="2011-03-03" id="5946" value="jag spelar mest bastuba">
+      <translation value="I mostly play bass tuba"/>
+    </example>
+    <example date="2011-03-03" id="5947" value="mest uppeh&#xE5;ll och l&#xE4;ttande molnt&#xE4;cke">
+      <translation value="weather mostly fair, clearing"/>
+    </example>
+    <example date="2011-03-03" id="5948" value="en av Sveriges mest k&#xE4;nda konstn&#xE4;rer">
+      <translation value="one of Sweden&amp;#39;s most famous artists"/>
+    </example>
+    <example date="2011-03-03" id="5949" value="av de mest skilda slag">
+      <translation value="of the most varied types"/>
+    </example>
+    <definition date="2011-03-03" id="10597" value="i h&#xF6;gsta grad; oftast"/>
+  </word>
+  <word value="best" lang="en" class="ab" id="39981" origin="lexin" date="2009-02-24">
+    <translation id="39981-1" value="b&#xE4;st" origin="lexin" date="2009-02-24"/>
+    <translation id="39981-2" value="mest" origin="lexin" date="2009-02-24"/>
+    <translation id="39981-3" value="helst" origin="lexin" date="2009-02-24"/>
+    <idiom id="39981-4" value="as best one can" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; bra man kan, s&#xE5; gott man kan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="39981-5" value="had best" origin="lexin" date="2009-02-24">
+      <translation value="(talspr&#xE5;k) (det) &#xE4;r b&#xE4;st, b&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="most" lang="en" class="ab" id="278531" origin="lexin" date="2009-02-24">
+    <translation id="278531-1" value="mest" origin="lexin" date="2009-02-24"/>
+    <example id="278531-2" value="this is the most flattering comment I&amp;#39;ve had in days" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xE4;r &#xE4;r den mest smickrande kommentaren jag har f&#xE5;tt p&#xE5; flera dagar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="minst" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="least" origin="lexin" date="2009-02-24"/>
+    </related>
+    <grammar value="anv&#xE4;nds f&#xF6;r att bilda superlativ av de flesta tv&#xE5;- eller flerstaviga adjektiv och adverb" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="most" lang="en" class="ab" id="278541" origin="lexin" date="2009-02-24">
+    <translation id="278541-1" value="mest" origin="lexin" date="2009-02-24"/>
+    <translation id="278541-2" value="mer &#xE4;n n&#xE5;gonting annat" origin="lexin" date="2009-02-24"/>
+    <example id="278541-4" value="what pleased me the most was the fact that you came to the concert with me" origin="lexin" date="2009-02-24">
+      <translation value="det som gjorde mig gladast var att du f&#xF6;ljde med p&#xE5; konserten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="minst, mindre &#xE4;n n&#xE5;gonting annat" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="least" origin="lexin" date="2009-02-24"/>
+    </related>
+    <idiom id="278541-3" value="most of all" origin="lexin" date="2009-02-24">
+      <translation value="mest av allt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="mostly" lang="en" class="ab" id="278571" origin="lexin" date="2009-02-24">
+    <translation id="278571-1" value="mestadels" origin="lexin" date="2009-02-24"/>
+    <translation id="278571-2" value="mest" origin="lexin" date="2009-02-24"/>
+    <translation id="278571-3" value="vanligtvis." origin="lexin" date="2009-02-24"/>
+    <example id="278571-4" value="This is mostly water." origin="lexin" date="2009-02-24">
+      <translation value="Det h&#xE4;r &#xE4;r mestadels vatten." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="278571-5" value="56 guests, mostly relatives, were invited to the wedding." origin="lexin" date="2009-02-24">
+      <translation value="56 g&#xE4;ster, mest sl&#xE4;ktingar, var bjudna till br&#xF6;llopet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Mainly, nearly all the time." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

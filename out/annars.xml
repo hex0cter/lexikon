@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="annars" lang="sv" class="ab" id="4770" lexinid="477" origin="lexin" date="2011-03-03">
+    <translation id="4770-474" value="otherwise" origin="user" date="2012-01-28T23:48:24"/>
+    <translation id="4770-475" value="else" origin="user" date="2012-01-28T23:48:24"/>
+    <phonetic value="&#xB2;An:ar+s" soundFile="annars.swf" date="2011-03-03"/>
+    <synonym value="eljest" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="annars||annars..1||annars..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="339" value="skynda dig, annars missar vi t&#xE5;get!" date="2011-03-03">
+      <translation value="hurry up, otherwise (else) we&amp;#39;ll miss the train"/>
+    </example>
+    <definition id="473" value="i annat fall; f&#xF6;r &#xF6;vrigt" date="2011-03-03"/>
+  </word>
+  <word value="before" lang="en" class="kn" id="37551" origin="lexin" date="2009-02-24">
+    <translation id="37551-1" value="innan" origin="lexin" date="2009-02-24"/>
+    <translation id="37551-2" value="annars" origin="lexin" date="2009-02-24"/>
+    <example id="37551-3" value="get out before I tell your boss" origin="lexin" date="2009-02-24">
+      <translation value="ge dig iv&#xE4;g, annars ber&#xE4;ttar jag f&#xF6;r din chef" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="else" lang="en" class="ab" id="153611" lexinid="475" origin="lexin" date="2009-02-24">
+    <translation id="153611-1" value="annars" origin="lexin" date="2009-02-24"/>
+    <translation id="153611-2" value="eljest" origin="lexin" date="2009-02-24"/>
+    <translation id="153611-3" value="f&#xF6;r annars" origin="lexin" date="2009-02-24"/>
+    <translation id="153611-4" value="eller ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="153611-5" value="i annat fall" origin="lexin" date="2009-02-24"/>
+    <example id="153611-10" value="hurry up, or else we&amp;#39;ll miss the train!" origin="lexin" date="2009-02-24">
+      <translation value="skynda dig f&#xF6;r annars missar vi t&#xE5;get!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="153611-6" value="or else" origin="lexin" date="2009-02-24">
+      <translation value="eller ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="153611-7" value="everywhere else" origin="lexin" date="2009-02-24">
+      <translation value="&#xF6;verallt annars, p&#xE5; alla andra st&#xE4;llen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="153611-8" value="little else" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;ga annat, inte mycket mer" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="153611-9" value="nowhere else" origin="lexin" date="2009-02-24">
+      <translation value="ingen annanstans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="or" lang="en" class="kn" id="296381" origin="lexin" date="2009-02-24">
+    <translation id="296381-1" value="eller" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-2" value="annars" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-3" value="eller ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-4" value="eljest" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="otherwise" lang="en" class="ab" id="297851" lexinid="475" origin="lexin" date="2009-02-24">
+    <translation id="297851-1" value="annars" origin="lexin" date="2009-02-24"/>
+    <translation id="297851-2" value="i annat fall" origin="lexin" date="2009-02-24"/>
+    <translation id="297851-3" value="eljest" origin="lexin" date="2009-02-24"/>
+    <example id="297851-4" value="hurry up, otherwise we&amp;#39;ll miss the train" origin="lexin" date="2009-02-24">
+      <translation value="skynda dig, annars missar vi t&#xE5;get!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="security factor" lang="en" id="530191" origin="user" date="2014-02-28T05:02:23">
+    <translation id="530191-1" value="annars" origin="user" date="2014-02-28T05:02:23"/>
+    <translation id="530191-2" value="s&#xE4;kerhetsfaktor" origin="user" date="2014-02-28T05:02:24"/>
+  </word>
+</definition>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="n&#xE4;mligen" lang="sv" class="ab" id="119590" lexinid="11960" origin="lexin" comment="f&#xF6;rklarar el. preciserar n&#xE5;got tidigare sagt el. skrivet" date="2011-03-03">
+    <translation id="119590-11517" value="namely" origin="user" date="2017-02-01T03:12:18"/>
+    <translation id="119590-11519" value="for" origin="user" date="2012-03-11T03:08:32"/>
+    <phonetic value="&#xB2;nEm:ligen" soundFile="n&#xE4;mligen.swf" date="2011-03-03"/>
+    <synonym value="allts&#xE5;" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="n&#xE4;mligen||n&#xE4;mligen..1||n&#xE4;mligen..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6558" value="boken handlar om en bristvara, n&#xE4;mligen oljan" date="2011-03-03">
+      <translation value="the book is about a commodity in short supply, namely oil"/>
+    </example>
+    <example id="6559" value="jag kunde inte komma -- jag var n&#xE4;mligen sjuk" date="2011-03-03">
+      <translation value="I couldn&amp;#39;t come -- I was sick, you see"/>
+    </example>
+    <definition id="11516" value="n&#xE4;rmare best&#xE4;mt" date="2011-03-03"/>
+  </word>
+</definition>

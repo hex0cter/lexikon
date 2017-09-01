@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="122060" lang="sv" lexinid="12207" origin="lexin" value="ofta">
+    <translation date="2011-03-03" id="11986" value="often"/>
+    <phonetic date="2011-03-03" soundFile="ofta.swf" value="&#xB2;&#xC5;f:ta"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ideligen"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="mycket"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="vanligtvis"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ofta||ofta..1||ofta..ab.1"/>
+    <example date="2011-03-03" id="6743" value="jag sl&#xE5;r ofta upp ord i lexikon">
+      <translation value="I often look words up in the dictionary"/>
+    </example>
+    <example date="2011-03-03" id="6744" value="komik bygger ofta p&#xE5; upprepning">
+      <translation value="comedy is often based on repetition"/>
+    </example>
+    <example date="2011-03-03" id="6745" value="hans namn h&#xF6;rs allt oftare i debatten">
+      <translation value="his name is heard more and more often in the debate"/>
+    </example>
+    <definition date="2011-03-03" id="11756" value="vid m&#xE5;nga upprepade tillf&#xE4;llen"/>
+  </word>
+  <word value="much" lang="en" class="ab" id="280181" origin="lexin" date="2009-02-24">
+    <translation id="280181-1" value="ofta" origin="lexin" date="2009-02-24"/>
+    <example id="280181-2" value="I don&amp;#39;t go out much" origin="lexin" date="2009-02-24">
+      <translation value="jag g&#xE5;r inte ut s&#xE4;rskilt ofta" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="vanligen i fr&#xE5;gor och negativa satser" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="often" lang="en" class="ab" id="293451" origin="lexin" date="2009-02-24">
+    <translation id="293451-1" value="ofta" origin="lexin" date="2009-02-24"/>
+    <translation id="293451-2" value="m&#xE5;nga g&#xE5;nger" origin="lexin" date="2009-02-24"/>
+    <translation id="293451-3" value="upprepade g&#xE5;nger" origin="lexin" date="2009-02-24"/>
+    <example id="293451-7" value="I often look words up in the dictionary" origin="lexin" date="2009-02-24">
+      <translation value="jag sl&#xE5;r ofta upp ord i lexikon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="293451-4" value="as often as not" origin="lexin" date="2009-02-24">
+      <translation value="ganska ofta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="293451-5" value="every so often" origin="lexin" date="2009-02-24">
+      <translation value="allt som oftast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="293451-6" value="more often than not" origin="lexin" date="2009-02-24">
+      <translation value="oftast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="often" lang="en" class="ab" id="293461" origin="lexin" date="2009-02-24">
+    <translation id="293461-1" value="ofta" origin="lexin" date="2009-02-24"/>
+    <translation id="293461-2" value="i m&#xE5;nga fall" origin="lexin" date="2009-02-24"/>
+    <example id="293461-3" value="comedy is often based on repetition" origin="lexin" date="2009-02-24">
+      <translation value="komik bygger ofta p&#xE5; upprepning" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="293461-4" value="it is often difficult to find the right words" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r ofta sv&#xE5;rt att finna de r&#xE4;tta orden" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

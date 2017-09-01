@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="anv&#xE4;nds i sms idag om stora f&#xF6;rs&#xE4;ljningsst&#xE4;llen i allm&#xE4;nhet" date="2011-03-03" id="107260" lang="sv" lexinid="10726" origin="lexin" value="marknad">
+    <translation comment="currently used in compounds for any large place where sales are made" date="2011-03-03" id="10536" value="market"/>
+    <phonetic date="2011-03-03" soundFile="marknad.swf" value="&#xB2;mAr:knad"/>
+    <paradigm date="2011-03-03" id="9349" origin="lexin">
+      <inflection value="marknaden"/>
+      <inflection value="marknader"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="handelsplats"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="marknad||marknad..1||marknad..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="marknad||marknad..2||marknad..nn.1"/>
+    <example date="2011-03-03" id="5790" value="Kiviks marknad">
+      <translation value="the Kivik Market"/>
+    </example>
+    <compound date="2011-03-03" id="3796" inflection="marknads|platsen" value="marknads|plats">
+      <translation value="marketplace"/>
+    </compound>
+    <compound date="2011-03-03" id="3797" value="stormarknad">
+      <translation value="discount warehouse"/>
+    </compound>
+    <explanation date="2011-03-03" id="10338" value="En viktig form av handelsutbyte i &#xE4;ldre tid.">
+      <translation value="&amp;quot;an important form of trade in former years&amp;quot;"/>
+    </explanation>
+    <definition date="2011-03-03" id="10339" value="(offentligt utlyst och regelbundet &#xE5;terkommande) handel utomhus; torghandel; basar"/>
+  </word>
+  <word value="marknad" lang="sv" class="nn" id="107270" lexinid="10727" origin="lexin" comment="ekonomisk term; bildligt &#xE4;ven om annat &#xE4;n ekonomi" date="2011-03-03">
+    <translation id="10537" value="market" comment="economic term; figuratively not restricted to economics" date="2011-03-03"/>
+    <phonetic value="&#xB2;mAr:knad" soundFile="marknad.swf" date="2011-03-03"/>
+    <paradigm id="9350" origin="lexin" date="2011-03-03">
+      <inflection value="marknaden"/>
+      <inflection value="marknader"/>
+    </paradigm>
+    <see value="marknad||marknad..2||marknad..nn.1" type="saldo" origin="saldo" date="2014-12-20T01:33:34"/>
+    <example id="5791" value="s&#xE4;ljarens marknad" date="2011-03-03">
+      <translation value="seller&amp;#39;s market"/>
+    </example>
+    <example id="5792" value="den svenska marknaden" date="2011-03-03">
+      <translation value="the Swedish market"/>
+    </example>
+    <compound id="3798" value="exportmarknad" date="2011-03-03">
+      <translation value="export market"/>
+    </compound>
+    <compound id="3799" value="v&#xE4;rldsmarknad" date="2011-03-03">
+      <translation value="world market"/>
+    </compound>
+    <compound id="3800" value="arbetsmarknad" date="2011-03-03">
+      <translation value="labour market"/>
+    </compound>
+    <compound id="3801" value="marknads|andel" date="2011-03-03">
+      <translation value="market share"/>
+    </compound>
+    <compound id="3802" value="&#xE4;ktenskapsmarknad" date="2011-03-03">
+      <translation value="meat market"/>
+    </compound>
+    <definition id="10340" value="avs&#xE4;ttning(somr&#xE5;de)" date="2011-03-03"/>
+  </word>
+</definition>

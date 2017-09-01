@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="56200" lang="sv" lexinid="5620" origin="lexin" value="f&#xF6;rr">
+    <translation date="2011-03-03" id="5531" value="before"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;rr.swf" value="f&#xF6;r:"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="fordom"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tidigare"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;rr||f&#xF6;rr..1||f&#xF6;rr..ab.1"/>
+    <example date="2011-03-03" id="3285" value="f&#xF6;rr kunde man &#xE4;ta lunch f&#xF6;r en femma">
+      <translation value="one used to be able to buy a lunch for five kronor"/>
+    </example>
+    <example date="2011-03-03" id="3286" value="ju f&#xF6;rr desto b&#xE4;ttre">
+      <translation value="the sooner the better"/>
+    </example>
+    <idiom date="2011-03-03" id="406" value="f&#xF6;rr eller senare (&amp;quot;n&#xE5;gon g&#xE5;ng&amp;quot;)">
+      <translation value="sooner or later (&amp;quot;sometime&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="407" value="f&#xF6;rr i tiden (eller v&#xE4;rlden) (&amp;quot;tidigare i historien&amp;quot;)">
+      <translation value="in former times (&amp;quot;earlier in history&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="5412" value="f&#xF6;rut, tidigare"/>
+  </word>
+  <word value="formerly" lang="en" class="ab" id="183091" origin="lexin" date="2009-02-24">
+    <translation id="183091-1" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-2" value="f&#xF6;rut" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-3" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-4" value="fordom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="once" lang="en" class="ab" id="294351" origin="lexin" date="2009-02-24">
+    <translation id="294351-1" value="en g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-2" value="en g&#xE5;ng i tiden" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-3" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-4" value="f&#xF6;rr i tiden" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-5" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="294351-6" value="once upon a time there was a king" origin="lexin" date="2009-02-24">
+      <translation value="det var en g&#xE5;ng en kung" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="sooner" lang="en" class="ab" id="390221" origin="lexin" date="2009-02-24">
+    <translation id="390221-1" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="390221-2" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <idiom id="390221-3" value="no sooner &#xE4; than" origin="lexin" date="2009-02-24">
+      <translation value="knappt &#xE4; f&#xF6;rr&#xE4;n" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390221-4" value="sooner or later" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rr eller senare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390221-5" value="the sooner the better" origin="lexin" date="2009-02-24">
+      <translation value="ju f&#xF6;rr dess b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="yore" lang="en" class="nn" id="449691" origin="lexin" date="2009-02-24">
+    <translation id="449691-1" value="fordom" origin="lexin" date="2009-02-24"/>
+    <translation id="449691-2" value="f&#xF6;rr" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <idiom id="449691-3" value="in days of yore" origin="lexin" date="2009-02-24">
+      <translation value="i forna tider, fordom" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

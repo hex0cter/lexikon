@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="forts&#xE4;tta" lang="sv" class="vb" id="47870" lexinid="4787" origin="lexin" date="2011-03-03">
+    <translation id="47870-4617" value="continue" origin="user" date="2012-02-03T23:48:04"/>
+    <translation id="47870-4618" value="go on" origin="user" date="2012-02-03T23:48:04"/>
+    <translation id="47870-4619" value="keep on" origin="user" date="2012-02-03T23:48:04"/>
+    <phonetic value="&#xB2;fOr+t:set:er" soundFile="forts&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="4152" origin="lexin" date="2011-03-03">
+      <inflection value="fortsatte"/>
+      <inflection value="fortsatt"/>
+      <inflection value="forts&#xE4;tt"/>
+      <inflection value="forts&#xE4;tta"/>
+      <inflection value="forts&#xE4;tter"/>
+    </paradigm>
+    <synonym value="fortg&#xE5;" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fortskrida" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xE5; vidare" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="forts&#xE4;tta||forts&#xE4;tta..1||forts&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2735" value="&#xE5;skv&#xE4;dret fortsatte hela natten" date="2011-03-03">
+      <translation value="the thunderstorm went on all night"/>
+    </example>
+    <definition id="4616" value="h&#xE5;lla p&#xE5;, h&#xE5;lla ig&#xE5;ng" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="forts&#xE4;tta" lang="sv" class="vb" id="47880" lexinid="4788" origin="lexin" date="2011-03-03">
+    <translation id="47880-4618" value="continue" origin="user" date="2011-12-22T15:10:06"/>
+    <translation id="47880-4619" value="keep on" origin="user" date="2011-12-22T15:10:06"/>
+    <translation id="47880-4620" value="carry on" origin="user" date="2011-12-22T15:10:06"/>
+    <phonetic value="&#xB2;fOr+t:set:er" soundFile="forts&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="4153" origin="lexin" date="2011-03-03">
+      <inflection value="fortsatte"/>
+      <inflection value="fortsatt"/>
+      <inflection value="forts&#xE4;tt"/>
+      <inflection value="forts&#xE4;tta"/>
+      <inflection value="forts&#xE4;tter"/>
+    </paradigm>
+    <synonym value="fortg&#xE5;" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fortskrida" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xE5; vidare" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="forts&#xE4;tta||forts&#xE4;tta..1||forts&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2736" value="hon fortsatte sin ber&#xE4;ttelse" date="2011-03-03">
+      <translation value="she went on with her story"/>
+    </example>
+    <example id="2737" value="de forts&#xE4;tter att f&#xF6;rs&#xF6;ka l&#xF6;sa tvisten" date="2011-03-03">
+      <translation value="they are continuing their efforts to resolve the dispute"/>
+    </example>
+    <definition id="4617" value="&#xE5;teruppta (efter ett avbrott), g&#xE5; vidare med" date="2011-03-03">
+      <translation value="resume (after an interruption), go on with"/>
+    </definition>
+    <grammar value="A &amp; (med) x/att + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="h&#xE4;vda" lang="sv" class="vb" id="73480" lexinid="7348" origin="lexin" date="2011-03-03">
+    <translation id="7211" value="uphold" date="2011-03-03"/>
+    <phonetic value="&#xB2;hEv:dar" soundFile="h&#xE4;vdar.swf" date="2011-03-03"/>
+    <paradigm id="6383" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE4;vdade"/>
+      <inflection value="h&#xE4;vdat"/>
+      <inflection value="h&#xE4;vda"/>
+      <inflection value="h&#xE4;vdar"/>
+    </paradigm>
+    <synonym value="proklamera" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE4;vda||h&#xE4;vda..1||h&#xE4;vda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE4;vda||h&#xE4;vda..2||h&#xE4;vda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4339" value="hon h&#xE4;vdar sig bra i konkurrensen" date="2011-03-03">
+      <translation value="she&amp;#39;s making a good showing now she&amp;#39;s facing competition"/>
+    </example>
+    <example id="4340" value="h&#xE4;vda sin r&#xE4;tt" date="2011-03-03">
+      <translation value="uphold one&amp;#39;s right"/>
+    </example>
+    <definition id="7071" value="f&#xF6;rsvara" date="2011-03-03">
+      <translation value="defend"/>
+    </definition>
+    <grammar value="A &amp; x/ sig" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE4;vda" lang="sv" class="vb" id="73490" lexinid="7349" origin="lexin" date="2011-03-03">
+    <translation id="73490-7073" value="claim" origin="user" date="2012-03-02T04:14:20"/>
+    <translation id="73490-7074" value="maintain" origin="user" date="2012-03-02T04:14:20"/>
+    <translation id="73490-7075" value="assert" origin="user" date="2012-03-02T04:14:20"/>
+    <phonetic value="&#xB2;hEv:dar" soundFile="h&#xE4;vdar.swf" date="2011-03-03"/>
+    <paradigm id="6384" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE4;vdade"/>
+      <inflection value="h&#xE4;vdat"/>
+      <inflection value="h&#xE4;vda"/>
+      <inflection value="h&#xE4;vdar"/>
+    </paradigm>
+    <synonym value="p&#xE5;st&#xE5;" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="vidmakth&#xE5;lla" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE4;vda||h&#xE4;vda..1||h&#xE4;vda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE4;vda||h&#xE4;vda..2||h&#xE4;vda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4341" value="polisen h&#xE4;vdade att branden var anlagd" date="2011-03-03">
+      <translation value="the police claimed that it was arson"/>
+    </example>
+    <definition id="7072" value="p&#xE5;st&#xE5;" date="2011-03-03"/>
+    <grammar value="A &amp; att + SATS" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

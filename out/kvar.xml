@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="95180" lang="sv" lexinid="9518" origin="lexin" value="kvar">
+    <translation date="2011-03-03" id="9351" value="left"/>
+    <phonetic date="2011-03-03" soundFile="kvar.swf" value="kva:r"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="innest&#xE5;ende"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="&#xF6;ver"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kvar||kvar..1||kvar..ab.1"/>
+    <example date="2011-03-03" id="5258" value="stanna kvar i Malm&#xF6;">
+      <translation value="remain in Malm&#xF6;"/>
+    </example>
+    <definition date="2011-03-03" id="9171" value="p&#xE5; samma st&#xE4;lle som f&#xF6;rut"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="95190" lang="sv" lexinid="9519" origin="lexin" value="kvar">
+    <translation date="2011-03-03" id="9352" value="left"/>
+    <phonetic date="2011-03-03" soundFile="kvar.swf" value="kva:r"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="innest&#xE5;ende"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="&#xF6;ver"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kvar||kvar..1||kvar..ab.1"/>
+    <example date="2011-03-03" id="5259" value="jag har inga pengar kvar">
+      <translation value="I&amp;#39;ve no more money"/>
+    </example>
+    <definition date="2011-03-03" id="9172" value="i beh&#xE5;ll, &#xF6;ver"/>
+  </word>
+  <word value="on" lang="en" class="ab, jj" id="294261" origin="lexin" date="2009-02-24">
+    <translation id="294261-1" value="kvar" origin="lexin" date="2009-02-24"/>
+    <example id="294261-2" value="sit on" origin="lexin" date="2009-02-24">
+      <translation value="sitta kvar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="predikativt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="over" lang="en" class="ab" id="299981" origin="lexin" date="2009-02-24">
+    <translation id="299981-1" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="299981-2" value="kvar" origin="lexin" date="2009-02-24"/>
+    <example id="299981-3" value="was there any food over?" origin="lexin" date="2009-02-24">
+      <translation value="blev det n&#xE5;gon mat &#xF6;ver?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

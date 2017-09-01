@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="&#xE4;ven bildligt &amp;quot;kr&#xE4;va, fordra&amp;quot;" date="2011-03-03" id="91860" lang="sv" lexinid="9186" origin="lexin" value="kosta">
+    <translation comment="also used figuratively, &amp;quot;demand, require&amp;quot;" date="2011-03-03" id="9028" value="cost"/>
+    <phonetic date="2011-03-03" soundFile="kostar.swf" value="&#xB2;k&#xC5;s:tar"/>
+    <paradigm date="2011-03-03" id="7963" origin="lexin">
+      <inflection value="kostade"/>
+      <inflection value="kostat"/>
+      <inflection value="kosta"/>
+      <inflection value="kostar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kosta||kosta..1||kosta..vb.1"/>
+    <example date="2011-03-03" id="5133" value="vad kostar &#xE4;pplena?">
+      <translation value="how much are the apples?"/>
+    </example>
+    <idiom date="2011-03-03" id="778" value="kosta p&#xE5; sig (&amp;quot;unna sig&amp;quot;) en ny rock">
+      <translation value="treat oneself to (&amp;quot;allow oneself to purchase&amp;quot;) a new coat"/>
+    </idiom>
+    <definition date="2011-03-03" id="8845" value="ha som pris"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp; + SUMMA"/>
+  </word>
+</definition>

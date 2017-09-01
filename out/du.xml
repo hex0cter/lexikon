@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="anger den tilltalade" date="2011-03-03" id="35140" lang="sv" lexinid="3514" origin="lexin" value="du">
+    <translation comment="refers to the person being addressed" date="2011-03-03" id="3468" value="you"/>
+    <use date="2011-03-03" value="b&#xF6;jd form anv&#xE4;nds som objekt och efter preposition"/>
+    <phonetic date="2011-03-03" soundFile="du.swf" value="du:"/>
+    <paradigm date="2011-03-03" id="3069" origin="lexin">
+      <inflection value="dig"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="ni"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="du||du..1||du..pn.1"/>
+    <example date="2011-03-03" id="2023" value="har du h&#xE4;mtat boken?">
+      <translation value="have you got the book?"/>
+    </example>
+    <example date="2011-03-03" id="2024" value="jag h&#xF6;r dig inte">
+      <translation value="I can&amp;#39;t hear you"/>
+    </example>
+  </word>
+  <word value="sister" lang="en" class="nn" id="383691" origin="lexin" date="2009-02-24">
+    <translation id="383691-1" value="du" origin="lexin" date="2009-02-24"/>
+    <translation id="383691-2" value="tjejen" comment="amerikansk engelska, slanguttryck" origin="lexin" date="2009-02-24"/>
+    <example id="383691-3" value="all right, sister, give me back my purse!" origin="lexin" date="2009-02-24">
+      <translation value="h&#xF6;rrudu, tjejen, f&#xE5;r jag tillbaka min v&#xE4;ska!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="you" lang="en" class="pn" id="449721" origin="lexin" date="2009-02-24">
+    <translation id="449721-1" value="du" origin="lexin" date="2009-02-24"/>
+    <translation id="449721-2" value="dig" origin="lexin" date="2009-02-24"/>
+    <translation id="449721-3" value="dej" origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thou" lang="en" id="513261" origin="user" date="2013-09-01T01:10:44">
+    <translation id="513261-1" value="ni (gammaldags)" origin="user" date="2013-09-01T01:10:44"/>
+    <translation id="513261-1" value="du" origin="user" date="2013-09-17T01:24:57"/>
+    <translation id="513261-2" value="helhetssyn" origin="user" date="2016-02-12T02:41:54"/>
+    <translation id="513261-3" value="du (gammaldags)" origin="user" date="2016-08-07T03:34:51"/>
+  </word>
+</definition>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="f&#xF6;r tv&#xE4;ttning etc" date="2011-03-03" id="69850" lang="sv" lexinid="6985" origin="lexin" value="ho">
+    <translation comment="used for washing, etc." date="2011-03-03" id="6858" value="trough"/>
+    <use date="2011-03-03" value="mest i sms"/>
+    <phonetic date="2011-03-03" soundFile="ho.swf" value="ho:"/>
+    <paradigm date="2011-03-03" id="6068" origin="lexin">
+      <inflection value="hon"/>
+      <inflection value="hoar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="balja"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ho||ho..1||ho..nn.1"/>
+    <compound date="2011-03-03" id="2559" value="diskho">
+      <translation value="(washing-up) sink"/>
+    </compound>
+    <definition date="2011-03-03" id="6724" value="&#xF6;ppen vattenbeh&#xE5;llare">
+      <translation value="open receptacle for holding water"/>
+    </definition>
+  </word>
+  <word class="pn" comment="anger kvinnlig individ" date="2011-03-03" id="69970" lang="sv" lexinid="6997" origin="lexin" value="hon">
+    <translation comment="indicates a female individual" date="2011-03-03" id="6870" value="she"/>
+    <use date="2011-03-03" value="b&#xF6;jd form anv&#xE4;nds som objekt och efter preposition"/>
+    <phonetic date="2011-03-03" soundFile="hon.swf" value="hon:"/>
+    <paradigm date="2011-03-03" id="6079" origin="lexin">
+      <inflection value="henne"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="hon||hon..1||hon..pn.1"/>
+    <example date="2011-03-03" id="4104" value="jag s&#xE5;g henne">
+      <translation value="I saw her"/>
+    </example>
+    <example date="2011-03-03" id="4105" value="hon har en vit kjol">
+      <translation value="she&amp;#39;s wearing a white skirt"/>
+    </example>
+    <example date="2011-03-03" id="4106" value="detta &#xE4;r hennes bok">
+      <translation value="this is her book"/>
+    </example>
+  </word>
+  <word value="her" lang="en" class="pn" id="217141" origin="lexin" date="2009-02-24">
+    <translation id="217141-1" value="hon" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <example id="217141-2" value="it&amp;#39;s her" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r hon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="she" lang="en" class="pn" id="378911" origin="lexin" date="2009-02-24">
+    <translation id="378911-1" value="hon" origin="lexin" date="2009-02-24"/>
+    <explanation value="She refers to a woman, girl, boy or female animal, who is the subject of a clause." origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person singular, subjektform." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

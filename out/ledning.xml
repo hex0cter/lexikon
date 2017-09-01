@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="leda" lang="sv" class="vb" id="98920" lexinid="9892" origin="lexin" date="2011-03-03">
+    <translation id="9716" value="lead" date="2011-03-03"/>
+    <phonetic value="lE:der" soundFile="leder.swf" date="2011-03-03"/>
+    <paradigm id="8607" origin="lexin" date="2011-03-03">
+      <inflection value="ledde"/>
+      <inflection value="lett"/>
+      <inflection value="led"/>
+      <inflection value="leda"/>
+      <inflection value="leder"/>
+    </paradigm>
+    <synonym value="f&#xF6;ra" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="leda||leda..1||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..2||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..4||leda..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5395" value="svenskarna ledde matchen med 2--1" date="2011-03-03">
+      <translation value="the Swedes were leading 2-1"/>
+    </example>
+    <derivation id="466" value="ledning" date="2011-03-03">
+      <translation value="management; lead (in sports)"/>
+    </derivation>
+    <definition id="9530" value="ligga fr&#xE4;mst" date="2011-03-03"/>
+    <grammar value="A &amp; (x); A &amp; &#xF6;ver B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="ledning" lang="sv" class="nn" id="98970" lexinid="9897" origin="lexin" date="2011-03-03">
+    <translation id="9721" value="management" date="2011-03-03"/>
+    <phonetic value="&#xB2;lE:dni@" soundFile="ledning.swf" date="2011-03-03"/>
+    <paradigm id="8612" origin="lexin" date="2011-03-03">
+      <inflection value="ledningen"/>
+      <inflection value="ledningar"/>
+    </paradigm>
+    <synonym value="direktion" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="styre" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="styrelse" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="ledning||ledning..1||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..2||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..3||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..4||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3532" value="f&#xF6;retagsledning" date="2011-03-03">
+      <translation value="company management"/>
+    </compound>
+    <compound id="3533" value="lednings|grupp" date="2011-03-03">
+      <translation value="managerial body, (the executive(s) [US])"/>
+    </compound>
+    <definition id="9535" value="styrelse" date="2011-03-03"/>
+  </word>
+  <word value="ledning" lang="sv" class="nn" id="98980" lexinid="9898" origin="lexin" date="2011-03-03">
+    <translation id="98980-9537" value="pipe" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="98980-9538" value="wire" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="98980-9539" value="line" origin="user" date="2012-01-14T23:15:24"/>
+    <phonetic value="&#xB2;lE:dni@" soundFile="ledning.swf" date="2011-03-03"/>
+    <paradigm id="8613" origin="lexin" date="2011-03-03">
+      <inflection value="ledningen"/>
+      <inflection value="ledningar"/>
+    </paradigm>
+    <synonym value="kabel" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;gledning" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="wire" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="ledning||ledning..1||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..2||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..3||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..4||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3534" value="elledning" date="2011-03-03">
+      <translation value="electric cable"/>
+    </compound>
+    <compound id="3535" value="vattenledning" date="2011-03-03">
+      <translation value="water pipe"/>
+    </compound>
+    <definition id="9536" value="r&#xF6;r el. kabel som n&#xE5;got leds igenom" date="2011-03-03"/>
+  </word>
+  <word value="conduit" lang="en" class="nn" id="95771" origin="lexin" date="2009-02-24">
+    <translation id="95771-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="95771-2" value="vattenledning" origin="lexin" date="2009-02-24"/>
+    <translation id="95771-3" value="kanal" origin="lexin" date="2009-02-24"/>
+    <translation id="95771-4" value="ledningsr&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="95771-5" value="skyddsr&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="connection" lang="en" class="nn" id="97351" origin="lexin" date="2009-02-24">
+    <variant value="connexion" comment="i brittisk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="97351-1" value="koppling" comment="teknik" origin="lexin" date="2009-02-24"/>
+    <translation id="97351-2" value="skarv" origin="lexin" date="2009-02-24"/>
+    <translation id="97351-3" value="kontakt" origin="lexin" date="2009-02-24"/>
+    <translation id="97351-4" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conveyance" lang="en" class="nn" id="101821" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="101821-1" value="transport" origin="lexin" date="2009-02-24"/>
+    <translation id="101821-2" value="&#xF6;verf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="101821-3" value="befordran" origin="lexin" date="2009-02-24"/>
+    <translation id="101821-4" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="direction" lang="en" class="nn" id="132181" origin="lexin" date="2009-02-24">
+    <translation id="132181-1" value="f&#xF6;rvaltning" origin="lexin" date="2009-02-24"/>
+    <translation id="132181-2" value="styrelse" origin="lexin" date="2009-02-24"/>
+    <translation id="132181-3" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="132181-4" value="&#xF6;verinseende" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="government" lang="en" class="nn" id="201941" origin="lexin" date="2009-02-24">
+    <translation id="201941-1" value="styrande" origin="lexin" date="2009-02-24"/>
+    <translation id="201941-2" value="styrelse" origin="lexin" date="2009-02-24"/>
+    <translation id="201941-3" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="guidance" lang="en" class="nn" id="207871" lexinid="44" origin="lexin" date="2009-02-24">
+    <translation id="207871-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="207871-2" value="v&#xE4;gledning" origin="lexin" date="2009-02-24"/>
+    <translation id="207871-3" value="r&#xE5;dgivning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="heading" lang="en" class="nn" id="214721" origin="lexin" date="2009-02-24">
+    <translation id="214721-1" value="anf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="214721-2" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="nn" id="251831" origin="lexin" date="2009-02-24">
+    <translation id="251831-1" value="ledning" comment="elteknik" origin="lexin" date="2009-02-24"/>
+    <translation id="251831-2" value="ledare" origin="lexin" date="2009-02-24"/>
+    <translation id="251831-3" value="kabel" origin="lexin" date="2009-02-24"/>
+    <translation id="251831-4" value="sladd" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="nn" id="251981" origin="lexin" date="2009-02-24">
+    <translation id="251981-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="251981-2" value="ledande plats" origin="lexin" date="2009-02-24"/>
+    <translation id="251981-3" value="ledande st&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="251981-4" value="f&#xF6;rspr&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="251981-5" value="t&#xE4;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="leadership" lang="en" class="nn" id="252131" origin="lexin" date="2009-02-24">
+    <translation id="252131-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <example id="252131-2" value="The leadership of the movement." origin="lexin" date="2009-02-24">
+      <translation value="R&#xF6;relsens ledning." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The ones who are in control of a group or an organization." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="line" lang="en" class="nn" id="257821" origin="lexin" date="2009-02-24">
+    <translation id="257821-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="257821-2" value="kabel" origin="lexin" date="2009-02-24"/>
+    <translation id="257821-3" value="tr&#xE5;d" origin="lexin" date="2009-02-24"/>
+    <translation id="257821-4" value="linje" origin="lexin" date="2009-02-24"/>
+    <example id="257821-5" value="there&amp;#39;s someone on the line for you!" origin="lexin" date="2009-02-24">
+      <translation value="du har telefon!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257821-6" value="hold the line, please" origin="lexin" date="2009-02-24">
+      <translation value="(i telefon) var god och dr&#xF6;j" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="live wire" lang="en" class="nn" id="259151" origin="lexin" date="2009-02-24">
+    <translation id="259151-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="259151-2" value="kabel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="management" lang="en" class="nn" id="266051" origin="lexin" date="2009-02-24">
+    <translation id="266051-1" value="ledning" origin="lexin" date="2009-02-24"/>
+    <translation id="266051-2" value="styrelse" origin="lexin" date="2009-02-24"/>
+    <translation id="266051-3" value="direktion" origin="lexin" date="2009-02-24"/>
+    <explanation value="The people who control and organize a company or establishment." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pipe" lang="en" class="nn" id="318621" origin="lexin" date="2009-02-24">
+    <translation id="318621-1" value="r&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="318621-2" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="superintendence" lang="en" class="nn" id="407031" origin="lexin" date="2009-02-24">
+    <translation id="407031-1" value="&#xF6;vervakning" origin="lexin" date="2009-02-24"/>
+    <translation id="407031-2" value="tillsyn" origin="lexin" date="2009-02-24"/>
+    <translation id="407031-3" value="kontroll" origin="lexin" date="2009-02-24"/>
+    <translation id="407031-4" value="ledning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="praesidium" lang="en" id="534861" origin="user" date="2014-06-14T08:03:02">
+    <translation id="534861-1" value="ledning, styrelse, presidium" origin="user" date="2014-06-14T08:03:06"/>
+  </word>
+</definition>

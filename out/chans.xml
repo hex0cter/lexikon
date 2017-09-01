@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="27770" lang="sv" lexinid="2777" origin="lexin" value="chans">
+    <translation date="2011-03-03" id="2740" value="chance"/>
+    <phonetic date="2011-03-03" soundFile="chans.swf" value="can:s (el. $a@:s)"/>
+    <paradigm date="2011-03-03" id="2437" origin="lexin">
+      <inflection value="chansen"/>
+      <inflection value="chanser"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="m&#xF6;jlighet"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="tillf&#xE4;lle"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="chans||chans..1||chans..nn.1"/>
+    <example date="2011-03-03" id="1636" value="gripa chansen">
+      <translation value="seize the opportunity"/>
+    </example>
+    <example date="2011-03-03" id="1637" value="m&#xE5;lvakten var utan chans">
+      <translation value="the goalkeeper didn&amp;#39;t have a chance"/>
+    </example>
+    <example date="2011-03-03" id="1638" value="han hade ingen chans att klara sig">
+      <translation value="he didn&amp;#39;t have a chance of making it"/>
+    </example>
+    <compound date="2011-03-03" id="957" value="vinstchans">
+      <translation value="lottery ticket"/>
+    </compound>
+    <compound date="2011-03-03" id="958" inflection="chans|l&#xF6;st" value="chans|l&#xF6;s">
+      <translation value="out of the running, without a chance"/>
+    </compound>
+    <derivation date="2011-03-03" id="144" inflection="chansningen" value="chansning">
+      <translation value="gamble, attempt"/>
+    </derivation>
+    <idiom date="2011-03-03" id="207" value="ta en chans (&amp;quot;f&#xF6;rs&#xF6;ka p&#xE5; vinst och f&#xF6;rlust&amp;quot;)">
+      <translation value="take a chance (&amp;quot;give it a shot; try, for better or for worse&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="2680" value="m&#xF6;jlighet att lyckas, tillf&#xE4;lle">
+      <translation value="possibility of success, opportunity"/>
+    </definition>
+  </word>
+  <word value="break" lang="en" class="nn" id="54021" origin="lexin" date="2009-02-24">
+    <translation id="54021-1" value="chans" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="chance" lang="en" class="nn" id="73031" origin="lexin" date="2009-02-24">
+    <translation id="73031-1" value="chans" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-3" value="tillf&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-4" value="utsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-5" value="utsikter" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-6" value="slump" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-7" value="slumpen" origin="lexin" date="2009-02-24"/>
+    <idiom id="73031-8" value="any chance of their coming?" origin="lexin" date="2009-02-24">
+      <translation value="finns den n&#xE5;gon chans att de kommer? (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-9" value="be in with a chance" origin="lexin" date="2009-02-24">
+      <translation value="ha en (stor) chans (m&#xF6;jlighet)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-10" value="by any chance" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) h&#xE4;ndelsevis" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-11" value="by chance" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;ndelsevis, av en h&#xE4;ndelse/slump" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-12" value="the chance is a million to one" origin="lexin" date="2009-02-24">
+      <translation value="chansen &#xE4;r en p&#xE5; miljonen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-13" value="the chance of your lifetime" origin="lexin" date="2009-02-24">
+      <translation value="ditt livs stora chans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-14" value="chances are against it" origin="lexin" date="2009-02-24">
+      <translation value="allting talar mot det" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-15" value="chances are that..." origin="lexin" date="2009-02-24">
+      <translation value="det finns en chans att..., allting talar f&#xF6;r att..." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-16" value="do something on the off chance" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra n&#xE5;got f&#xF6;r alla eventualiteters skull, chansa" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-17" value="fat chance!" origin="lexin" date="2009-02-24">
+      <translation value="inte en chans! om&#xF6;jligt! (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-18" value="give somebody a chance" origin="lexin" date="2009-02-24">
+      <translation value="ge n&#xE5;gon en chans, l&#xE5;ta n&#xE5;gon f&#xF6;rs&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-19" value="given half a chance" origin="lexin" date="2009-02-24">
+      <translation value="om minsta m&#xF6;jlighet gives" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-20" value="grab at the chance of" origin="lexin" date="2009-02-24">
+      <translation value="gripa chansen (tillf&#xE4;llet) att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-21" value="have an even chance" origin="lexin" date="2009-02-24">
+      <translation value="ha femtio procents chans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="prayer" lang="en" class="nn" id="329401" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="329401-1" value="chans" comment="i fasta uttryck" origin="lexin" date="2009-02-24"/>
+    <idiom id="329401-2" value="not have a prayer" origin="lexin" date="2009-02-24">
+      <translation value="inte ha en chans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="probes" lang="en" id="538861" origin="user" date="2015-03-07T03:03:43">
+    <translation id="538861-1" value="chans" origin="user" date="2015-03-07T03:03:46"/>
+    <translation id="538861-2" value="m&#xE4;tsond" origin="user" date="2015-03-07T03:03:49"/>
+  </word>
+</definition>

@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="m&#xE5;l" lang="sv" class="nn" id="114520" lexinid="11452" origin="lexin" comment="bildligt &amp;quot;&#xE4;ndam&#xE5;l, syfte&amp;quot;" date="2011-03-03">
+    <translation id="114520-11040" value="goal" origin="user" date="2011-12-07T22:20:31"/>
+    <translation id="114520-11041" value="target" origin="user" date="2011-12-07T22:20:31"/>
+    <phonetic value="m&#xE5;:l" soundFile="m&#xE5;l.swf" date="2011-03-03"/>
+    <paradigm id="9969" origin="lexin" date="2011-03-03">
+      <inflection value="m&#xE5;let"/>
+      <inflection value="m&#xE5;l"/>
+      <inflection value="m&#xE5;len"/>
+    </paradigm>
+    <synonym value="avsikt" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="destination" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="destinationsort" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dr&#xF6;mmar" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="finish" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;resats" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="intention" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="mening" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktpunkt" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="slutpunkt" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="m&#xE5;l||m&#xE5;l..1||m&#xE5;l..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="m&#xE5;l||m&#xE5;l..7||m&#xE5;l..nn.1" type="saldo" origin="saldo" date="2014-06-28"/>
+    <example id="6217" value="resans m&#xE5;l" date="2011-03-03">
+      <translation value="destination"/>
+    </example>
+    <example id="6218" value="m&#xE5;let f&#xF6;r regeringens politik" date="2011-03-03">
+      <translation value="the objective of the government&amp;#39;s policy"/>
+    </example>
+    <example id="6219" value="fr&#xE5;n start till m&#xE5;l" date="2011-03-03">
+      <translation value="from start to finish"/>
+    </example>
+    <compound id="4036" value="m&#xE5;l|grupp" date="2011-03-03">
+      <translation value="target group"/>
+    </compound>
+    <compound id="4037" value="utflyktsm&#xE5;l" date="2011-03-03">
+      <translation value="destination"/>
+    </compound>
+    <definition id="11039" value="slutpunkt, riktpunkt" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="114530" lang="sv" lexinid="11453" origin="lexin" value="m&#xE5;l">
+    <translation date="2011-03-03" id="11251" value="goal"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;l.swf" value="m&#xE5;:l"/>
+    <paradigm date="2011-03-03" id="9970" origin="lexin">
+      <inflection value="m&#xE5;let"/>
+      <inflection value="m&#xE5;l"/>
+      <inflection value="m&#xE5;len"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;l||m&#xE5;l..4||m&#xE5;l..nn.1"/>
+    <example date="2011-03-03" id="6220" value="skjuta m&#xE5;l">
+      <translation value="score a goal"/>
+    </example>
+    <compound date="2011-03-03" id="4038" inflection="m&#xE5;l|vakten" value="m&#xE5;l|vakt">
+      <translation value="goalkeeper"/>
+    </compound>
+    <definition date="2011-03-03" id="11040" value="bur i fotboll (m. fl. bollsporter); skott i m&#xE5;lburen"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="20/sport.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="gor_mal.swf"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="114540" lang="sv" lexinid="11454" origin="lexin" value="m&#xE5;l">
+    <translation date="2011-03-03" id="11252" value="meal"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;l.swf" value="m&#xE5;:l"/>
+    <paradigm date="2011-03-03" id="9971" origin="lexin">
+      <inflection value="m&#xE5;let"/>
+      <inflection value="m&#xE5;l"/>
+      <inflection value="m&#xE5;len"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;l||m&#xE5;l..2||m&#xE5;l..nn.1"/>
+    <example date="2011-03-03" id="6221" value="ett m&#xE5;l mat">
+      <translation value="a square meal"/>
+    </example>
+    <compound date="2011-03-03" id="4039" value="mellanm&#xE5;l">
+      <translation value="[between-meal] snack"/>
+    </compound>
+    <definition date="2011-03-03" id="11041" value="den m&#xE4;ngd mat man &#xE4;ter vid ett visst tillf&#xE4;lle, m&#xE5;ltid"/>
+  </word>
+  <word value="m&#xE5;l" lang="sv" class="nn" id="114550" lexinid="11455" origin="lexin" date="2011-03-03">
+    <translation id="114550-11043" value="case" origin="user" date="2012-01-09T23:36:37"/>
+    <translation id="114550-11044" value="lawsuit" origin="user" date="2012-01-09T23:36:37"/>
+    <phonetic value="m&#xE5;:l" soundFile="m&#xE5;l.swf" date="2011-03-03"/>
+    <paradigm id="9972" origin="lexin" date="2011-03-03">
+      <inflection value="m&#xE5;let"/>
+      <inflection value="m&#xE5;l"/>
+      <inflection value="m&#xE5;len"/>
+    </paradigm>
+    <synonym value="r&#xE4;tteg&#xE5;ng" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE4;ttsfall" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="m&#xE5;l||m&#xE5;l..3||m&#xE5;l..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6222" value="resning i m&#xE5;let" date="2011-03-03">
+      <translation value="new trial (hearing)"/>
+    </example>
+    <compound id="4040" value="m&#xE5;ls|&#xE4;gande" date="2011-03-03">
+      <translation value="plaintiff"/>
+    </compound>
+    <compound id="4041" value="spionm&#xE5;l" date="2011-03-03">
+      <translation value="spy case"/>
+    </compound>
+    <definition id="11042" value="r&#xE4;tteg&#xE5;ng, process" date="2011-03-03"/>
+  </word>
+  <word value="m&#xE5;l" lang="sv" class="nn" id="114560" lexinid="11456" origin="lexin" date="2011-03-03">
+    <translation id="114560-11044" value="tongue" origin="user" date="2012-02-03T23:48:03"/>
+    <translation id="114560-11045" value="dialect" origin="user" date="2012-02-03T23:48:03"/>
+    <use value="mest i sms" date="2011-03-03"/>
+    <phonetic value="m&#xE5;:l" soundFile="m&#xE5;l.swf" date="2011-03-03"/>
+    <paradigm id="9973" origin="lexin" date="2011-03-03">
+      <inflection value="m&#xE5;let"/>
+      <inflection value="m&#xE5;l"/>
+      <inflection value="m&#xE5;len"/>
+    </paradigm>
+    <synonym value="dialekt" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="m&#xE5;l||m&#xE5;l..6||m&#xE5;l..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="4042" value="modersm&#xE5;l" date="2011-03-03">
+      <translation value="mother tongue"/>
+    </compound>
+    <compound id="4043" value="m&#xE5;l|l&#xF6;s" date="2011-03-03">
+      <translation value="speechless, dumbfounded"/>
+    </compound>
+    <idiom id="1012" value="ha m&#xE5;l i munnen (&amp;quot;kunna tala&amp;quot;)" date="2011-03-03">
+      <translation value="have a tongue in one&amp;#39;s head (&amp;quot;be able to speak&amp;quot;)"/>
+    </idiom>
+    <definition id="11043" value="spr&#xE5;k, talf&#xF6;rm&#xE5;ga" date="2011-03-03"/>
+  </word>
+  <word value="aim" lang="en" class="nn" id="9221" origin="lexin" date="2009-02-24">
+    <translation id="9221-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="9221-2" value="m&#xE5;ls&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <translation id="9221-3" value="syfte" origin="lexin" date="2009-02-24"/>
+    <translation id="9221-4" value="avsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="9221-5" value="&#xE4;ndam&#xE5;l" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="base" lang="en" class="nn" id="33561" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="33561-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-2" value="m&#xE5;llinje" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-3" value="startlinje" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-4" value="bas" comment="baseball" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-5" value="bo" origin="lexin" date="2009-02-24"/>
+    <idiom id="33561-6" value="get to first base" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) (baseball) hinna till f&#xF6;rsta basen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="33561-7" value="get to first base" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) komma en bit p&#xE5; v&#xE4;gen, komma n&#xE5;gon vart" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="butt" lang="en" class="nn" id="61991" origin="lexin" date="2009-02-24">
+    <translation id="61991-1" value="m&#xE5;l" comment="&#xE5;lderdomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="61991-2" value="syfte" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="case" lang="en" class="nn" id="68621" origin="lexin" date="2009-02-24">
+    <translation id="68621-1" value="r&#xE4;ttsfall" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="68621-2" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="68621-3" value="process" origin="lexin" date="2009-02-24"/>
+    <translation id="68621-4" value="&#xE4;rende" origin="lexin" date="2009-02-24"/>
+    <translation id="68621-5" value="sak" origin="lexin" date="2009-02-24"/>
+    <translation id="68621-6" value="aff&#xE4;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conversion" lang="en" class="nn" id="101581" origin="lexin" date="2009-02-24">
+    <translation id="101581-1" value="m&#xE5;l" comment="i rugby och amerikansk fotboll" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="destination" lang="en" class="nn" id="127631" origin="lexin" date="2009-02-24">
+    <translation id="127631-1" value="best&#xE4;mmelseort" origin="lexin" date="2009-02-24"/>
+    <translation id="127631-2" value="destination" origin="lexin" date="2009-02-24"/>
+    <translation id="127631-3" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="end" lang="en" class="nn" id="155891" origin="lexin" date="2009-02-24">
+    <translation id="155891-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="155891-2" value="syfte" origin="lexin" date="2009-02-24"/>
+    <translation id="155891-3" value="&#xE4;ndam&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <explanation value="best&#xE4;mt syfte" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="end" lang="en" class="nn" id="155901" origin="lexin" date="2009-02-24">
+    <translation id="155901-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="155901-2" value="&#xE4;ndam&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="155901-3" value="syfte" origin="lexin" date="2009-02-24"/>
+    <example id="155901-4" value="an end in itself" origin="lexin" date="2009-02-24">
+      <translation value="ett sj&#xE4;lv&#xE4;ndam&#xE5;l" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="end" lang="en" class="nn" id="155991" origin="lexin" date="2009-02-24">
+    <variant value="ends" comment="formellt" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="155991-1" value="syfte" origin="lexin" date="2009-02-24"/>
+    <translation id="155991-2" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <idiom id="155991-3" value="do the ends justify the means?" origin="lexin" date="2009-02-24">
+      <translation value="helgar &#xE4;ndam&#xE5;len medlen?" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155991-4" value="to that end" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r detta &#xE4;ndam&#xE5;l" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="finish" lang="en" class="nn" id="175851" origin="lexin" date="2009-02-24">
+    <translation id="175851-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-3" value="slutspurt" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-4" value="finish" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-5" value="upplopp" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-6" value="slutkamp" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-7" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-8" value="slutscen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="goal" lang="en" class="nn" id="199811" origin="lexin" date="2009-02-24">
+    <translation id="199811-1" value="m&#xE5;l" comment="i idrottsammanhang" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="goal" lang="en" class="nn" id="199821" origin="lexin" date="2009-02-24">
+    <translation id="199821-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <example id="199821-2" value="I am working towards a specific goal" origin="lexin" date="2009-02-24">
+      <translation value="jag arbetar mot ett specifikt m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="idiom" lang="en" class="nn" id="225771" origin="lexin" date="2009-02-24">
+    <translation id="225771-1" value="spr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="225771-2" value="idiom" origin="lexin" date="2009-02-24"/>
+    <translation id="225771-3" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mark" lang="en" class="nn" id="267561" origin="lexin" date="2009-02-24">
+    <translation id="267561-1" value="m&#xE5;ltavla" origin="lexin" date="2009-02-24"/>
+    <translation id="267561-2" value="m&#xE5;l" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <idiom id="267561-3" value="wide of the mark" origin="lexin" date="2009-02-24">
+      <translation value="felaktig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="object" lang="en" class="nn" id="290791" origin="lexin" date="2009-02-24">
+    <translation id="290791-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="290791-2" value="syfte" origin="lexin" date="2009-02-24"/>
+    <example id="290791-4" value="the object of this interview is the determine how much you know about bears" origin="lexin" date="2009-02-24">
+      <translation value="syftet med den h&#xE4;r intervjun &#xE4;r att fastst&#xE4;lla hur mycket du/ni vet om bj&#xF6;rnar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="290791-3" value="the object of the exercise" origin="lexin" date="2009-02-24">
+      <translation value="syftet med &#xF6;vningen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="objective" lang="en" class="nn" id="290861" origin="lexin" date="2009-02-24">
+    <translation id="290861-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="objective" lang="en" class="nn" id="290891" origin="lexin" date="2009-02-24">
+    <variant value="goal" origin="lexin" date="2009-02-24"/>
+    <variant value="target" origin="lexin" date="2009-02-24"/>
+    <translation id="290891-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <explanation value="The purpose of a person or organisation; something that is aimed at and determines one&amp;#39;s actions." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="purpose" lang="en" class="nn" id="340901" origin="lexin" date="2009-02-24">
+    <translation id="340901-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="340901-2" value="uppgift" origin="lexin" date="2009-02-24"/>
+    <translation id="340901-3" value="mening" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speech" lang="en" class="nn" id="392031" origin="lexin" date="2009-02-24">
+    <translation id="392031-1" value="spr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="392031-2" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="392031-3" value="s&#xE4;tt att tala" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suit" lang="en" class="nn" id="406221" origin="lexin" date="2009-02-24">
+    <translation id="406221-1" value="r&#xE4;tteg&#xE5;ng" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="406221-2" value="process" origin="lexin" date="2009-02-24"/>
+    <translation id="406221-3" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="406221-4" value="talan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="target" lang="en" class="nn" id="428931" origin="lexin" date="2009-02-24">
+    <translation id="428931-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="428931-2" value="m&#xE5;ls&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <example id="428931-3" value="He set himself the target of losing 20 pounds." origin="lexin" date="2009-02-24">
+      <translation value="Han satte som m&#xE5;l att g&#xE5; ner ca 10 kilo." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Something which you aim to achieve." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="target" lang="en" class="nn" id="428941" origin="lexin" date="2009-02-24">
+    <translation id="428941-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="428941-2" value="m&#xE5;ltavla" origin="lexin" date="2009-02-24"/>
+    <example id="428941-3" value="He shot, but missed the target." origin="lexin" date="2009-02-24">
+      <translation value="Han sk&#xF6;t, men missade m&#xE5;ltavlan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="something at which you aim in shooting practice" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

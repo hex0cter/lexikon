@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="ofta vid antalsuppgift" date="2011-03-03" id="130190" lang="sv" lexinid="13020" origin="lexin" value="person">
+    <translation comment="often when stating number" date="2011-03-03" id="12784" value="person"/>
+    <phonetic date="2011-03-03" soundFile="person.swf" value="p&#xE4;r+sO:n"/>
+    <paradigm date="2011-03-03" id="11284" origin="lexin">
+      <inflection value="personen"/>
+      <inflection value="personer"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="individ"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="m&#xE4;nniska"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="person||person..1||person..nn.1"/>
+    <example date="2011-03-03" id="7261" value="salen rymmer 10 personer"/>
+    <compound date="2011-03-03" id="4535" value="privatperson">
+      <translation value="private person"/>
+    </compound>
+    <compound date="2011-03-03" id="4536" value="myndighetsperson">
+      <translation value="person in authority"/>
+    </compound>
+    <compound date="2011-03-03" id="4537" value="f&#xF6;rs&#xF6;ksperson">
+      <translation value="subject of an experiment, person to experiment on"/>
+    </compound>
+    <compound date="2011-03-03" id="4538" value="huvudperson">
+      <translation value="main (principal) character"/>
+    </compound>
+    <compound date="2011-03-03" id="4539" value="person|kult">
+      <translation value="personality cult"/>
+    </compound>
+    <compound date="2011-03-03" id="4540" inflection="person|fr&#xE5;gan" value="person|fr&#xE5;ga">
+      <translation value="question of whom to choose"/>
+    </compound>
+    <idiom date="2011-03-03" id="1156" value="juridisk person (&amp;quot;organisation etc som juridiskt har samma st&#xE4;llning som en enskild person&amp;quot;)">
+      <translation value="legal person (&amp;quot;organization etc which has the legal status of a private person&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="12550" value="m&#xE4;nniska, individ"/>
+  </word>
+  <word value="body" lang="en" class="nn" id="48101" origin="lexin" date="2009-02-24">
+    <translation id="48101-1" value="m&#xE4;nniska" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="48101-2" value="person" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="character" lang="en" class="nn" id="73771" origin="lexin" date="2009-02-24">
+    <translation id="73771-1" value="person" origin="lexin" date="2009-02-24"/>
+    <translation id="73771-2" value="personlighet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="head" lang="en" class="nn" id="214461" origin="lexin" date="2009-02-24">
+    <translation id="214461-1" value="person" origin="lexin" date="2009-02-24"/>
+    <translation id="214461-2" value="individ" origin="lexin" date="2009-02-24"/>
+    <translation id="214461-3" value="styck" origin="lexin" date="2009-02-24"/>
+    <translation id="214461-4" value="enskilt djur" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="misfit" lang="en" class="nn" id="274611" origin="lexin" date="2009-02-24">
+    <translation id="274611-1" value="misslyckad" origin="lexin" date="2009-02-24"/>
+    <translation id="274611-2" value="person" origin="lexin" date="2009-02-24"/>
+    <translation id="274611-3" value="missanpassad person" origin="lexin" date="2009-02-24"/>
+    <example id="274611-4" value="she is a social misfit" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r en socialt missanpassad person" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="person" lang="en" class="nn" id="313901" origin="lexin" date="2009-02-24">
+    <translation id="313901-1" value="person" comment="grammatiskt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="313901-4" origin="lexin" date="2009-02-24">
+      <inflection value="persons" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="313901-3" value="it should be in the third person singular" origin="lexin" date="2009-02-24">
+      <translation value="det ska st&#xE5; i tredje person singular" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="313901-2" value="first/second/third person" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rsta/andra/tredje person" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="person" lang="en" class="nn" id="313911" origin="lexin" date="2009-02-24">
+    <translation id="313911-1" value="person" origin="lexin" date="2009-02-24"/>
+    <paradigm id="313911-6" origin="lexin" date="2009-02-24">
+      <inflection value="people" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="313911-4" value="I like him as a person" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker om honom som person" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="313911-5" value="they are very nice people" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r trevliga personer" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="313911-2" value="in person" origin="lexin" date="2009-02-24">
+      <translation value="i egen h&#xF6;g person" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="313911-3" value="in the person" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;mligen (formellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="pick-up" lang="en" class="nn" id="316541" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="316541-1" value="person" origin="lexin" date="2009-02-24"/>
+    <translation id="316541-2" value="s&#xE4;rskilt kvinna" origin="lexin" date="2009-02-24"/>
+    <translation id="316541-3" value="som man raggat upp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="man" lang="sv" class="nn" id="106530" lexinid="10653" origin="lexin" comment="s&#xE4;rskilt om trupp, lag etc." date="2011-03-03">
+    <translation id="10465" value="person" comment="especially used of troops, teams, etc." date="2011-03-03"/>
+    <use value="ob&#xF6;jligt" date="2011-03-03"/>
+    <phonetic value="man:" soundFile="man.swf" date="2011-03-03"/>
+    <paradigm id="9280" origin="lexin" date="2011-03-03">
+      <inflection value="mannen"/>
+      <inflection value="m&#xE4;n"/>
+      <inflection value="m&#xE4;nnen"/>
+    </paradigm>
+    <see value="man||man..2||man..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="man||man..3||man..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5762" value="en styrka p&#xE5; 1000 man" date="2011-03-03">
+      <translation value="a force of 1000 men"/>
+    </example>
+    <definition id="10266" value="medlem i en grupp" date="2011-03-03"/>
+  </word>
+  <word value="m&#xE4;nniska" lang="sv" class="nn" id="115090" lexinid="11509" origin="lexin" date="2011-03-03">
+    <variant value="m&#xE4;nska" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="115090-11093" value="human being" origin="user" date="2012-01-28T23:48:19"/>
+    <translation id="115090-11094" value="person" origin="user" date="2012-01-28T23:48:19"/>
+    <phonetic value="&#xB2;mEn:i$a" soundFile="m&#xE4;nniska.swf" date="2011-03-03"/>
+    <paradigm id="10017" origin="lexin" date="2011-03-03">
+      <inflection value="m&#xE4;nniskan"/>
+      <inflection value="m&#xE4;nniskor"/>
+    </paradigm>
+    <synonym value="individ" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="person" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="m&#xE4;nniska||m&#xE4;nniska..1||m&#xE4;nniska..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6268" value="den moderna m&#xE4;nniskans situation" date="2011-03-03">
+      <translation value="the plight of the modern man"/>
+    </example>
+    <example id="6269" value="&#xE4;ldre m&#xE4;nniskor" date="2011-03-03">
+      <translation value="elderly people"/>
+    </example>
+    <compound id="4063" value="m&#xE4;nnisko|v&#xE4;rde" date="2011-03-03">
+      <translation value="human dignity"/>
+    </compound>
+    <compound id="4064" value="medm&#xE4;nniska" date="2011-03-03">
+      <translation value="fellow creature"/>
+    </compound>
+    <compound id="4065" value="m&#xE4;nnisko|liv" date="2011-03-03">
+      <translation value="human life"/>
+    </compound>
+    <compound id="4066" value="m&#xE4;nnisko|kropp" date="2011-03-03">
+      <translation value="human body"/>
+    </compound>
+    <definition id="11092" value="individ av sl&#xE4;ktet Homo sapiens; man el. kvinna el. barn" date="2011-03-03"/>
+  </word>
+  <word class="nn" comment="i antalsuppgifter" date="2011-03-03" id="115100" lang="sv" lexinid="11510" origin="lexin" value="m&#xE4;nniska">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="m&#xE4;nska"/>
+    <translation comment="in amounts" date="2011-03-03" id="11305" value="person"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE4;nniska.swf" value="&#xB2;mEn:i$a"/>
+    <paradigm date="2011-03-03" id="10018" origin="lexin">
+      <inflection value="m&#xE4;nniskan"/>
+      <inflection value="m&#xE4;nniskor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="individ"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="person"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE4;nniska||m&#xE4;nniska..1||m&#xE4;nniska..nn.1"/>
+    <example date="2011-03-03" id="6270" value="tre m&#xE4;nniskor skadades vid olyckan">
+      <translation value="three persons were injured in the accident"/>
+    </example>
+    <definition date="2011-03-03" id="11093" value="person"/>
+  </word>
+  <word class="abbrev" date="2011-03-03" id="130110" lang="sv" lexinid="13012" origin="lexin" value="pers">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="pers."/>
+    <translation date="2011-03-03" id="12777" value="person(s)"/>
+    <phonetic date="2011-03-03" soundFile="pers.swf" value="p&#xE4;r+sO:n(er)"/>
+    <definition date="2011-03-03" id="12542" value="person(er)"/>
+  </word>
+  <word value="person" lang="en" class="nn" id="313881" origin="lexin" date="2009-02-24">
+    <translation id="313881-1" value="n&#xE5;gons kropp eller yttre" origin="lexin" date="2009-02-24"/>
+    <translation id="313881-2" value="figur" comment="formellt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="313881-4" origin="lexin" date="2009-02-24">
+      <inflection value="persons" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="313881-3" value="she had the stolen money hidden about her person" origin="lexin" date="2009-02-24">
+      <translation value="hon hade g&#xF6;mt de stulna pengarna p&#xE5; sig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="vanligen i singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="person" lang="en" class="nn" id="313891" origin="lexin" date="2009-02-24">
+    <translation id="313891-1" value="ok&#xE4;nd person" comment="s&#xE4;rskilt formellt eller juridiskt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="313891-3" origin="lexin" date="2009-02-24">
+      <inflection value="persons" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="313891-2" value="he works in the missing persons department" origin="lexin" date="2009-02-24">
+      <translation value="han arbetar p&#xE5; avdelningen f&#xF6;r f&#xF6;rsvunna personer" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="187030" lang="sv" lexinid="18704" origin="lexin" value="tidig">
+    <translation date="2011-03-03" id="18372" value="early"/>
+    <phonetic date="2011-03-03" soundFile="tidig.swf" value="&#xB2;tI:dig"/>
+    <paradigm date="2011-03-03" id="16350" origin="lexin">
+      <inflection value="tidigt"/>
+      <inflection value="tidiga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="arla"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tidig||tidig..1||tidig..av.1"/>
+    <example date="2011-03-03" id="10511" value="aldrig tidigare hade hon upplevt n&#xE5;got s&#xE5;dant">
+      <translation value="never before had she been through anything like that"/>
+    </example>
+    <example date="2011-03-03" id="10512" value="p&#xE5; ett tidigt stadium">
+      <translation value="at an early stage"/>
+    </example>
+    <example date="2011-03-03" id="10513" value="hon kom f&#xF6;r tidigt">
+      <translation value="she arrived too early"/>
+    </example>
+    <example date="2011-03-03" id="10514" value="vi &#xE5;t en tidig lunch">
+      <translation value="we ate an early lunch"/>
+    </example>
+    <definition date="2011-03-03" id="18093" value="som &#xE4;r i b&#xF6;rjan av en viss period"/>
+  </word>
+  <word value="tidigt" lang="sv" id="286710" origin="user" date="2012-10-04T03:49:46">
+    <translation id="286710-1" value="premature" origin="user" date="2012-10-04T03:49:46"/>
+    <translation id="286710-2" value="early" origin="user" date="2012-10-04T03:49:51"/>
+  </word>
+  <word value="early" lang="en" class="ab" id="149391" origin="lexin" date="2009-02-24">
+    <translation id="149391-1" value="tidigt" origin="lexin" date="2009-02-24"/>
+    <translation id="149391-2" value="i god tid" origin="lexin" date="2009-02-24"/>
+    <translation id="149391-3" value="f&#xF6;r tidigt" origin="lexin" date="2009-02-24"/>
+    <translation id="149391-4" value="bittida" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="soon" lang="en" class="ab" id="390191" origin="lexin" date="2009-02-24">
+    <translation id="390191-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="390191-2" value="tidigt" origin="lexin" date="2009-02-24"/>
+    <idiom id="390191-3" value="as soon as" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; snart som" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390191-4" value="too soon" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r tidigt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

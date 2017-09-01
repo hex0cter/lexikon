@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="led" lang="sv" class="jj" id="98780" lexinid="9878" origin="lexin" date="2011-03-03">
+    <phonetic value="le:d" soundFile="led.swf" date="2011-03-03"/>
+    <paradigm id="8593" origin="lexin" date="2011-03-03">
+      <inflection value="lett"/>
+      <inflection value="leda"/>
+    </paradigm>
+    <synonym value="pl&#xE5;gades" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="led||led..3||led..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="led||led..5||led..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5386" value="jag &#xE4;r led p&#xE5; mitt jobb" date="2011-03-03">
+      <translation value="I am [sick and] tired of my job"/>
+    </example>
+    <definition id="9516" value="tr&#xF6;tt, uttr&#xE5;kad" date="2011-03-03"/>
+  </word>
+  <word value="led" lang="sv" class="jj" id="98790" lexinid="9879" origin="lexin" date="2011-03-03">
+    <translation id="98790-9518" value="nasty" origin="user" date="2012-02-03T23:47:59"/>
+    <translation id="98790-9519" value="evil" origin="user" date="2012-02-03T23:47:59"/>
+    <phonetic value="le:d" soundFile="led.swf" date="2011-03-03"/>
+    <paradigm id="8594" origin="lexin" date="2011-03-03">
+      <inflection value="lett"/>
+      <inflection value="leda"/>
+    </paradigm>
+    <synonym value="f&#xE4;rdv&#xE4;g" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="nod" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="pl&#xE5;gades" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="led||led..3||led..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="led||led..5||led..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9517" value="ot&#xE4;ck, elak" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="98840" lang="sv" lexinid="9884" origin="lexin" value="leda">
+    <translation date="2011-03-03" id="9708" value="boredom"/>
+    <phonetic date="2011-03-03" soundFile="leda.swf" value="&#xB2;lE:da"/>
+    <paradigm date="2011-03-03" id="8599" origin="lexin">
+      <inflection value="ledan"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="anf&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="dirigera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="eskortera"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="f&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="guida"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="instruera"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="lotsa"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="regera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="styra"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="tr&#xE5;kighet"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="v&#xE4;gleda"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="leda||leda..3||leda..nn.1"/>
+    <definition date="2011-03-03" id="9522" value="k&#xE4;nsla av att vara uttr&#xE5;kad"/>
+  </word>
+  <word value="leda" lang="sv" class="vb" id="98900" lexinid="9890" origin="lexin" comment="om el etc &amp;quot;&#xF6;verf&#xF6;ra&amp;quot;" date="2011-03-03">
+    <translation id="98900-9529" value="lead" origin="user" date="2012-02-12T00:08:01"/>
+    <translation id="98900-9530" value="conduct" origin="user" date="2012-02-12T00:08:01"/>
+    <phonetic value="lE:der" soundFile="leder.swf" date="2011-03-03"/>
+    <paradigm id="8605" origin="lexin" date="2011-03-03">
+      <inflection value="ledde"/>
+      <inflection value="lett"/>
+      <inflection value="led"/>
+      <inflection value="leda"/>
+      <inflection value="leder"/>
+    </paradigm>
+    <synonym value="eskortera" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="guida" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="styra" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="leda||leda..1||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..2||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..4||leda..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5391" value="leda en person &#xF6;ver gatan" date="2011-03-03">
+      <translation value="help a person across the street"/>
+    </example>
+    <example id="5392" value="vart leder den h&#xE4;r v&#xE4;gen?" date="2011-03-03">
+      <translation value="where does this road lead?"/>
+    </example>
+    <example id="5393" value="m&#xF6;tet ledde inte till n&#xE5;got resultat" date="2011-03-03">
+      <translation value="the meeting led nowhere"/>
+    </example>
+    <idiom id="837" value="en ledande fr&#xE5;ga (&amp;quot;en fr&#xE5;ga som &#xE4;r avsedd att leda till ett visst svar&amp;quot;)" date="2011-03-03">
+      <translation value="a leading question (&amp;quot;a question intended to suggest to a specific answer&amp;quot;)"/>
+    </idiom>
+    <definition id="9528" value="f&#xF6;ra (till ett m&#xE5;l)" date="2011-03-03"/>
+    <grammar value="A &amp; b + RIKTNING; x &amp; (till) y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="leda" lang="sv" class="vb" id="98910" lexinid="9891" origin="lexin" date="2011-03-03">
+    <translation id="9715" value="lead" date="2011-03-03"/>
+    <phonetic value="lE:der" soundFile="leder.swf" date="2011-03-03"/>
+    <paradigm id="8606" origin="lexin" date="2011-03-03">
+      <inflection value="ledde"/>
+      <inflection value="lett"/>
+      <inflection value="led"/>
+      <inflection value="leda"/>
+      <inflection value="leder"/>
+    </paradigm>
+    <synonym value="instruera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lotsa" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="tr&#xE5;kighet" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="leda||leda..1||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..2||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..4||leda..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5394" value="leda ett sammantr&#xE4;de" date="2011-03-03">
+      <translation value="lead a meeting"/>
+    </example>
+    <definition id="9529" value="vara ledare el. chef f&#xF6;r; sk&#xF6;ta, styra" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="leda" lang="sv" class="vb" id="98920" lexinid="9892" origin="lexin" date="2011-03-03">
+    <translation id="9716" value="lead" date="2011-03-03"/>
+    <phonetic value="lE:der" soundFile="leder.swf" date="2011-03-03"/>
+    <paradigm id="8607" origin="lexin" date="2011-03-03">
+      <inflection value="ledde"/>
+      <inflection value="lett"/>
+      <inflection value="led"/>
+      <inflection value="leda"/>
+      <inflection value="leder"/>
+    </paradigm>
+    <synonym value="f&#xF6;ra" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="leda||leda..1||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..2||leda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="leda||leda..4||leda..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5395" value="svenskarna ledde matchen med 2--1" date="2011-03-03">
+      <translation value="the Swedes were leading 2-1"/>
+    </example>
+    <derivation id="466" value="ledning" date="2011-03-03">
+      <translation value="management; lead (in sports)"/>
+    </derivation>
+    <definition id="9530" value="ligga fr&#xE4;mst" date="2011-03-03"/>
+    <grammar value="A &amp; (x); A &amp; &#xF6;ver B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="aridity" lang="en" class="nn" id="18951" origin="lexin" date="2009-02-24">
+    <translation id="18951-1" value="tristess" origin="lexin" date="2009-02-24"/>
+    <translation id="18951-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="18951-3" value="h&#xE4;ndelsel&#xF6;shet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="articulate" lang="en" class="vb" id="20121" origin="lexin" date="2009-02-24">
+    <translation id="20121-1" value="f&#xF6;rena genom leder" origin="lexin" date="2009-02-24"/>
+    <translation id="20121-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="captain" lang="en" class="vb" id="66611" origin="lexin" date="2009-02-24">
+    <translation id="66611-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="66611-2" value="anf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="carry" lang="en" class="vb" id="68091" origin="lexin" date="2009-02-24">
+    <translation id="68091-1" value="f&#xF6;ra" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="68091-2" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="68091-3" value="driva fram" origin="lexin" date="2009-02-24"/>
+    <translation id="68091-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conduct" lang="en" class="vb" id="95661" origin="lexin" date="2009-02-24">
+    <translation id="95661-1" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="95661-2" value="leda" comment="elektricitet, v&#xE4;rme med mera" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conduct" lang="en" class="vb" id="95681" origin="lexin" date="2009-02-24">
+    <translation id="95681-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="95681-2" value="anf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="convey" lang="en" class="vb" id="101771" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="101771-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="101771-2" value="&#xF6;verf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="101771-3" value="f&#xF6;rmedla" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="direct" lang="en" class="vb" id="132111" origin="lexin" date="2009-02-24">
+    <translation id="132111-1" value="dirigera" origin="lexin" date="2009-02-24"/>
+    <translation id="132111-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="132111-3" value="anf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="132111-4" value="instruera" origin="lexin" date="2009-02-24"/>
+    <translation id="132111-5" value="regissera" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="divert" lang="en" class="vb" id="138151" lexinid="960" origin="lexin" date="2009-02-24">
+    <translation id="138151-1" value="avleda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-2" value="avv&#xE4;nda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-3" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-5" value="leda bort" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-6" value="l&#xE4;gga om" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-7" value="dirigera om" origin="lexin" date="2009-02-24"/>
+    <example id="138151-8" value="divert somebody&amp;#39;s attention" origin="lexin" date="2009-02-24">
+      <translation value="avleda en persons uppm&#xE4;rksamhet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="move in another direction" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;ra &#xE5;t annat h&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    </explanation>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144171" origin="lexin" date="2009-02-24">
+    <translation id="144171-1" value="dra" comment="i olika betydelser" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-2" value="draga" comment="i olika betydelser" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-3" value="dra till sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-4" value="dra &#xE5;t sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-5" value="dra med sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-6" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-7" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-8" value="flytta" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-9" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144171-10" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144171-11" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go up" lang="en" class="vb" id="199401" origin="lexin" date="2009-02-24">
+    <translation id="199401-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="199401-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="199401-4" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="199401-3" value="this road leads up to the cottage" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r v&#xE4;gen g&#xE5;r upp till stugan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go" lang="en" class="vb" id="199611" origin="lexin" date="2009-02-24">
+    <translation id="199611-1" value="g&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="199611-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="199611-3" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="199611-7" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="199611-6" value="this path goes to the lake" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r stigen leder till sj&#xF6;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="199611-4" value="go far" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; l&#xE5;ngt; n&#xE5; l&#xE5;ngt, lyckas" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="199611-5" value="go far" origin="lexin" date="2009-02-24">
+      <translation value="r&#xE4;cka till mycket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="head" lang="en" class="vb" id="214451" origin="lexin" date="2009-02-24">
+    <translation id="214451-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="214451-2" value="styra" origin="lexin" date="2009-02-24"/>
+    <translation id="214451-3" value="anf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="214451-4" value="st&#xE5; i spetsen f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="251851" origin="lexin" date="2009-02-24">
+    <translation id="251851-1" value="g&#xE5;" comment="om v&#xE4;gar och dylikt" origin="lexin" date="2009-02-24"/>
+    <translation id="251851-2" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="251851-3" value="leda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="251851-4" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="251921" origin="lexin" date="2009-02-24">
+    <translation id="251921-1" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="251921-2" value="g&#xE5; f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    <translation id="251921-3" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="251921-4" value="v&#xE4;gleda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="251921-8" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <idiom id="251921-5" value="lead somebody a dance" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla till med bekymmer f&#xF6;r n&#xE5;gon (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="251921-6" value="lead somebody by the nose" origin="lexin" date="2009-02-24">
+      <translation value="ha n&#xE5;gon helt i sitt v&#xE5;ld (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="251921-7" value="lead somebody up the garden path" origin="lexin" date="2009-02-24">
+      <translation value="lura n&#xE5;gon (brittisk engelska; informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="251931" origin="lexin" date="2009-02-24">
+    <translation id="251931-1" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="251931-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="251931-3" value="g&#xE5; f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    <translation id="251931-4" value="v&#xE4;gleda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="251931-5" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="251961" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="251961-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="251961-2" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="251971" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="251971-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="251971-2" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="loathing" lang="en" class="nn" id="259671" origin="lexin" date="2009-02-24">
+    <translation id="259671-1" value="avsky" origin="lexin" date="2009-02-24"/>
+    <translation id="259671-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="259671-3" value="&#xE4;ckel" origin="lexin" date="2009-02-24"/>
+    <translation id="259671-4" value="motvilja" origin="lexin" date="2009-02-24"/>
+    <translation id="259671-5" value="avsmak" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="manage" lang="en" class="vb" id="265991" origin="lexin" date="2009-02-24">
+    <translation id="265991-1" value="behandla" origin="lexin" date="2009-02-24"/>
+    <translation id="265991-2" value="sk&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="265991-3" value="handha" origin="lexin" date="2009-02-24"/>
+    <translation id="265991-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="265991-5" value="ha hand om" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mastermind" lang="en" class="vb" id="268961" origin="lexin" date="2009-02-24">
+    <translation id="268961-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="268961-2" value="vara hj&#xE4;rnan bakom" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="moderate" lang="en" class="vb" id="276271" origin="lexin" date="2009-02-24">
+    <translation id="276271-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="276271-2" value="leda f&#xF6;rhandlingar" origin="lexin" date="2009-02-24"/>
+    <translation id="276271-3" value="vara diskussionsledare" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="moderate" lang="en" class="vb" id="276281" origin="lexin" date="2009-02-24">
+    <translation id="276281-1" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="276281-2" value="leda f&#xF6;rhandlingar" origin="lexin" date="2009-02-24"/>
+    <translation id="276281-3" value="leda f&#xF6;rhandlingarna" origin="lexin" date="2009-02-24"/>
+    <translation id="276281-4" value="vara diskussionsledare" origin="lexin" date="2009-02-24"/>
+    <translation id="276281-5" value="vara programledare" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="operate" lang="en" class="vb" id="295361" origin="lexin" date="2009-02-24">
+    <translation id="295361-1" value="sk&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="295361-2" value="man&#xF6;vrera" origin="lexin" date="2009-02-24"/>
+    <translation id="295361-3" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="295361-4" value="h&#xE5;lla ig&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="295361-5" value="driva" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="order" lang="en" class="vb" id="296721" origin="lexin" date="2009-02-24">
+    <translation id="296721-1" value="ordna upp" origin="lexin" date="2009-02-24"/>
+    <translation id="296721-2" value="anordna" origin="lexin" date="2009-02-24"/>
+    <translation id="296721-3" value="inr&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <translation id="296721-4" value="st&#xE4;lla i ordning" origin="lexin" date="2009-02-24"/>
+    <translation id="296721-5" value="styra" origin="lexin" date="2009-02-24"/>
+    <translation id="296721-6" value="leda" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pilot" lang="en" class="vb" id="317721" origin="lexin" date="2009-02-24">
+    <translation id="317721-1" value="lotsa" origin="lexin" date="2009-02-24"/>
+    <translation id="317721-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="push" lang="en" class="vb" id="341441" origin="lexin" date="2009-02-24">
+    <translation id="341441-1" value="skjuta" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-2" value="f&#xF6;sa" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-3" value="skjuta p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-5" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-6" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-7" value="trycka p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-8" value="tr&#xE4;nga sig p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-9" value="hunsa med" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-10" value="knuffa omkull" origin="lexin" date="2009-02-24"/>
+    <example id="341441-11" value="push a button" origin="lexin" date="2009-02-24">
+      <translation value="trycka p&#xE5; en knapp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341441-12" value="push a pram" origin="lexin" date="2009-02-24">
+      <translation value="dra en barnvagn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341441-13" value="push somebody around" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) k&#xF6;ra med n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="run" lang="en" class="vb" id="367591" origin="lexin" date="2009-02-24">
+    <translation id="367591-1" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="367591-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="367591-3" value="styra" origin="lexin" date="2009-02-24"/>
+    <translation id="367591-4" value="sk&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="367591-5" value="f&#xF6;rest&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="367591-7" origin="lexin" date="2009-02-24">
+      <inflection value="ran" origin="lexin" date="2009-02-24"/>
+      <inflection value="run" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="367591-6" value="he runs a course in karate" origin="lexin" date="2009-02-24">
+      <translation value="han h&#xE5;ller en kurs i karate" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="supervise" lang="en" class="vb" id="407131" origin="lexin" date="2009-02-24">
+    <translation id="407131-1" value="&#xF6;vervaka" origin="lexin" date="2009-02-24"/>
+    <translation id="407131-2" value="kontrollera" origin="lexin" date="2009-02-24"/>
+    <translation id="407131-3" value="ha &#xF6;versyn &#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="407131-4" value="sk&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="407131-5" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="407131-6" value="basa" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="transmit" lang="en" class="vb" id="424301" origin="lexin" date="2009-02-24">
+    <translation id="424301-1" value="leda" comment="fysik" origin="lexin" date="2009-02-24"/>
+    <translation id="424301-2" value="&#xF6;verf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="424301-3" value="sl&#xE4;ppa igenom" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

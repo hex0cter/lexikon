@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="sedan" lang="sv" class="ab" id="152430" lexinid="15244" origin="lexin" date="2011-03-03">
+    <variant value="sen" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="152430-14764" value="then" origin="user" date="2012-03-01T01:33:20"/>
+    <translation id="152430-14765" value="afterwards" origin="user" date="2012-03-01T01:33:20"/>
+    <translation id="152430-14766" value="later" origin="user" date="2012-03-01T01:33:20"/>
+    <phonetic value="&#xB2;sE:dan" soundFile="sedan.swf" date="2011-03-03"/>
+    <synonym value="d&#xE4;refter" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="d&#xE4;rn&#xE4;st" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="d&#xE4;rp&#xE5;" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="efter&#xE5;t" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="inom kort" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="sedan||sedan..1||sedan..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8638" value="f&#xF6;rst &#xE5;t vi och sedan gick vi ut" date="2011-03-03">
+      <translation value="we had lunch first, then we went out"/>
+    </example>
+    <definition id="14763" value="d&#xE4;refter, d&#xE4;rp&#xE5;" date="2011-03-03"/>
+  </word>
+  <word class="pp" date="2011-03-03" id="152450" lang="sv" lexinid="15246" origin="lexin" value="sedan">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="sen"/>
+    <translation date="2011-03-03" id="14976" value="since"/>
+    <phonetic date="2011-03-03" soundFile="sedan.swf" value="sE:dan"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="d&#xE4;refter"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="d&#xE4;rn&#xE4;st"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="d&#xE4;rp&#xE5;"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="efter&#xE5;t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="inom kort"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sedan||sedan..4||sedan..pp.1"/>
+    <example date="2011-03-03" id="8640" value="f&#xF6;r m&#xE5;nga &#xE5;r sedan">
+      <translation value="many years ago"/>
+    </example>
+    <example date="2011-03-03" id="8641" value="det har h&#xE4;nt mycket sedan 1968">
+      <translation value="a lot has happened since 1968"/>
+    </example>
+    <example date="2011-03-03" id="8642" value="&#xE4;nda sedan medeltiden">
+      <translation value="ever since the Middle Ages"/>
+    </example>
+    <definition date="2011-03-03" id="14765" value="fr&#xE5;n, efter"/>
+  </word>
+  <word class="" date="2011-03-03" id="153180" lang="sv" lexinid="15319" origin="lexin" value="sen">
+    <translation date="2011-03-03" id="15049" value="since, then"/>
+    <phonetic date="2011-03-03" soundFile="sen.swf" value="sen:"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="f&#xF6;rsenad"/>
+    <see date="2011-03-03" origin="lexin" value="sedan"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="153190" lang="sv" lexinid="15320" origin="lexin" value="sen">
+    <translation date="2011-03-03" id="15050" value="late"/>
+    <phonetic date="2011-03-03" soundFile="sen.swf" value="se:n"/>
+    <paradigm date="2011-03-03" id="13361" origin="lexin">
+      <inflection value="sent"/>
+      <inflection value="sena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="f&#xF6;rsenad"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sen||sen..1||sen..av.1"/>
+    <example date="2011-03-03" id="8674" value="hon kom f&#xF6;r sent">
+      <translation value="she came too late"/>
+    </example>
+    <example date="2011-03-03" id="8675" value="v&#xE5;ren &#xE4;r sen i &#xE5;r">
+      <translation value="spring is late this year"/>
+    </example>
+    <definition date="2011-03-03" id="14840" value="som intr&#xE4;ffar efter f&#xF6;rv&#xE4;ntad tidpunkt, f&#xF6;rsenad"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="153200" lang="sv" lexinid="15321" origin="lexin" value="sen">
+    <translation date="2011-03-03" id="15051" value="late"/>
+    <phonetic date="2011-03-03" soundFile="sen.swf" value="se:n"/>
+    <paradigm date="2011-03-03" id="13362" origin="lexin">
+      <inflection value="sent"/>
+      <inflection value="sena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="f&#xF6;rsenad"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sen||sen..1||sen..av.1"/>
+    <example date="2011-03-03" id="8676" value="sent p&#xE5; kv&#xE4;llen">
+      <translation value="late in the evening"/>
+    </example>
+    <example date="2011-03-03" id="8677" value="vid denna sena timme">
+      <translation value="at this late hour"/>
+    </example>
+    <definition date="2011-03-03" id="14841" value="mot slutet (av en dag etc)"/>
+  </word>
+  <word value="backward" lang="en" class="jj" id="28521" origin="lexin" date="2009-02-24">
+    <translation id="28521-1" value="underutvecklad" origin="lexin" date="2009-02-24"/>
+    <translation id="28521-2" value="sen" origin="lexin" date="2009-02-24"/>
+    <translation id="28521-3" value="sent utvecklad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="late" lang="en" class="jj" id="250271" origin="lexin" date="2009-02-24">
+    <translation id="250271-1" value="sen" origin="lexin" date="2009-02-24"/>
+    <translation id="250271-2" value="l&#xE5;ngt framskriden" origin="lexin" date="2009-02-24"/>
+    <example id="250271-3" value="at this late hour" origin="lexin" date="2009-02-24">
+      <translation value="vid denna sena timme" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250271-4" value="he was born in the late nineteenth century" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r f&#xF6;dd i slutet av 1800-talet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250271-5" value="it all happened in late September" origin="lexin" date="2009-02-24">
+      <translation value="alltihop h&#xE4;nde i slutet av september" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250271-6" value="it&amp;#39;s getting late, and we we should get back" origin="lexin" date="2009-02-24">
+      <translation value="det b&#xF6;rjar bli sent och vi borde &#xE5;ka hem" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250271-7" value="late in the evening" origin="lexin" date="2009-02-24">
+      <translation value="sent p&#xE5; kv&#xE4;llen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="late" lang="en" class="jj" id="250281" origin="lexin" date="2009-02-24">
+    <translation id="250281-1" value="sen" origin="lexin" date="2009-02-24"/>
+    <translation id="250281-2" value="som intr&#xE4;ffar senare &#xE4;n planerat" origin="lexin" date="2009-02-24"/>
+    <translation id="250281-3" value="f&#xF6;rsenad" origin="lexin" date="2009-02-24"/>
+    <translation id="250281-4" value="f&#xF6;r sen" origin="lexin" date="2009-02-24"/>
+    <example id="250281-5" value="I was late for the meeting" origin="lexin" date="2009-02-24">
+      <translation value="jag var f&#xF6;rsenad till m&#xF6;tet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250281-6" value="spring is late this year" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE5;ren &#xE4;r sen i &#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250281-7" value="she came too late" origin="lexin" date="2009-02-24">
+      <translation value="hon kom f&#xF6;r sent" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="250281-8" value="you&amp;#39;re late" origin="lexin" date="2009-02-24">
+      <translation value="du &#xE4;r sen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="nocturnal" lang="en" class="jj" id="287381" origin="lexin" date="2009-02-24">
+    <translation id="287381-1" value="nattlig" origin="lexin" date="2009-02-24"/>
+    <translation id="287381-2" value="natt-" origin="lexin" date="2009-02-24"/>
+    <translation id="287381-3" value="sen" comment="formellt eller tekniskt" origin="lexin" date="2009-02-24"/>
+    <example id="287381-4" value="he paid me a nocturnal visit" origin="lexin" date="2009-02-24">
+      <translation value="han bes&#xF6;kte mig nattetid" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="slow" lang="en" class="jj" id="386721" origin="lexin" date="2009-02-24">
+    <translation id="386721-1" value="sen" origin="lexin" date="2009-02-24"/>
+    <translation id="386721-2" value="som g&#xE5;r f&#xF6;r sakta" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

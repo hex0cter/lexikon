@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" date="2011-03-03" id="194790" lang="sv" lexinid="19480" origin="lexin" value="tv">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="teve"/>
+    <translation date="2011-03-03" id="19130" value="TV"/>
+    <phonetic date="2011-03-03" soundFile="tv.swf" value="&#xB2;tE:ve:"/>
+    <paradigm date="2011-03-03" id="17036" origin="lexin">
+      <inflection value="tv:n"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="TV-apparat"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="burken"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="dumburk"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="television"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="televisionsapparat"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="televisionsapparatur"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="teve"/>
+    <example date="2011-03-03" id="10897" value="titta p&#xE5; tv">
+      <translation value="watch TV"/>
+    </example>
+    <compound date="2011-03-03" id="6515" value="f&#xE4;rg-tv">
+      <translation value="colour TV"/>
+    </compound>
+    <compound date="2011-03-03" id="6516" value="tv-program">
+      <translation value="TV programme"/>
+    </compound>
+    <compound date="2011-03-03" id="6517" inflection="tv-kanalen" value="tv-kanal">
+      <translation value="TV channel"/>
+    </compound>
+    <definition date="2011-03-03" id="18840" value="television; televisionsapparat"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="11/vardagsrum.swf"/>
+  </word>
+  <word value="boob tube" lang="en" class="nn" id="49491" origin="lexin" date="2009-02-24">
+    <translation id="49491-1" value="dumburk" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="49491-2" value="TV" origin="lexin" date="2009-02-24"/>
+    <translation id="49491-3" value="TV-apparat" origin="lexin" date="2009-02-24"/>
+    <explanation value="television" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="broadcasting" lang="en" class="nn" id="56331" origin="lexin" date="2009-02-24">
+    <translation id="56331-1" value="TV" origin="lexin" date="2009-02-24"/>
+    <translation id="56331-2" value="radio" origin="lexin" date="2009-02-24"/>
+    <translation id="56331-3" value="TV-s&#xE4;ndning" origin="lexin" date="2009-02-24"/>
+    <translation id="56331-4" value="radiouts&#xE4;ndning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="goggle box" lang="en" class="nn" id="200191" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="200191-1" value="dumburk" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="200191-2" value="TV" origin="lexin" date="2009-02-24"/>
+    <translation id="200191-3" value="TV-apparat" origin="lexin" date="2009-02-24"/>
+    <explanation value="television" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="television" lang="en" class="nn" id="429051" origin="lexin" date="2009-02-24">
+    <translation id="429051-1" value="television" origin="lexin" date="2009-02-24"/>
+    <translation id="429051-2" value="TV" origin="lexin" date="2009-02-24"/>
+    <example id="429051-3" value="She works in television." origin="lexin" date="2009-02-24">
+      <translation value="Hon jobbar inom TV." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429051-4" value="The television didn&amp;#39;t work, so Pete and Laura decided to go out instead." origin="lexin" date="2009-02-24">
+      <translation value="TV:n fungerade inte s&#xE5; Pete och Laura besl&#xF6;t sig f&#xF6;r att g&#xE5; ut ist&#xE4;llet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429051-5" value="Anything on television tonight?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r det n&#xE5;t p&#xE5; TV ikv&#xE4;ll?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="the electronic system of broadcasting pictures and sounds and recieving them on a monitor. Also the monitor itself and the programmes it shows." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="TV" lang="en" class="nn" id="430521" origin="lexin" date="2009-02-24">
+    <translation id="430521-1" value="TV" origin="lexin" date="2009-02-24"/>
+    <explanation value="television" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

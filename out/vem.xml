@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="206820" lang="sv" lexinid="20683" origin="lexin" value="vem">
+    <translation date="2011-03-03" id="20321" value="who"/>
+    <use date="2011-03-03" value="fr&#xE5;gande och relativt"/>
+    <phonetic date="2011-03-03" soundFile="vem.swf" value="vem:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vem||vem..1||vem..pn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vem||vem_&#xE4;n..1||vem..pn.1"/>
+    <example date="2011-03-03" id="11607" value="jag s&#xE5;g vem som kom">
+      <translation value="I saw who came"/>
+    </example>
+    <example date="2011-03-03" id="11608" value="vem &#xE4;r hon?">
+      <translation value="who is she?"/>
+    </example>
+    <example date="2011-03-03" id="11609" value="vems bok &#xE4;r detta?"/>
+    <example date="2011-03-03" id="11610" value="vem som helst">
+      <translation value="anybody, anyone you like"/>
+    </example>
+    <definition date="2011-03-03" id="19984" value="vilken person"/>
+  </word>
+  <word value="which" lang="en" class="pn" id="443311" origin="lexin" date="2009-02-24">
+    <translation id="443311-1" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="443311-2" value="vilket" origin="lexin" date="2009-02-24"/>
+    <translation id="443311-3" value="vilka" origin="lexin" date="2009-02-24"/>
+    <translation id="443311-4" value="vem" origin="lexin" date="2009-02-24"/>
+    <example id="443311-6" value="which of you did this?" origin="lexin" date="2009-02-24">
+      <translation value="vem av er var det som gjorde det h&#xE4;r?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="443311-5" value="which is which?" origin="lexin" date="2009-02-24">
+      <translation value="vem &#xE4;r vem?" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="interrogativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="who" lang="en" class="pn" id="443831" origin="lexin" date="2009-02-24">
+    <translation id="443831-1" value="vem" origin="lexin" date="2009-02-24"/>
+    <translation id="443831-2" value="vilka" origin="lexin" date="2009-02-24"/>
+    <example id="443831-3" value="do you think she knows who did it?" origin="lexin" date="2009-02-24">
+      <translation value="tror du att hon vet vem som gjorde det?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443831-4" value="who is it?" origin="lexin" date="2009-02-24">
+      <translation value="vem &#xE4;r det?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443831-5" value="who told him that?" origin="lexin" date="2009-02-24">
+      <translation value="vem sade det till honom?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="interrogativt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="i genitiv whose" origin="lexin" date="2009-02-24"/>
+    <grammar value="objektsform whom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whoever" lang="en" class="pn" id="443871" origin="lexin" date="2009-02-24">
+    <translation id="443871-1" value="vem" comment="fr&#xE5;gande" origin="lexin" date="2009-02-24"/>
+    <grammar value="interrogativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whom" lang="en" class="pn" id="443941" origin="lexin" comment="formellt; skriftspr&#xE5;k" date="2009-02-24">
+    <translation id="443941-1" value="vem" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-2" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-3" value="vilka" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-4" value="som" origin="lexin" date="2009-02-24"/>
+    <example id="443941-5" value="To whom did you speak?" origin="lexin" date="2009-02-24">
+      <translation value="Vem talade du med?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443941-6" value="She introduced four of her friends, none of whom I had ever seen before." origin="lexin" date="2009-02-24">
+      <translation value="Hon presenterade fyra av sina v&#xE4;nner, av vilka jag inte hade sett n&#xE5;gon f&#xF6;rut." origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="objektsform av who" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whom" lang="en" class="pn" id="443951" origin="lexin" date="2009-02-24">
+    <translation id="443951-1" value="vem" origin="lexin" date="2009-02-24"/>
+    <translation id="443951-2" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="443951-3" value="vilken" comment="objektsformen till who" origin="lexin" date="2009-02-24"/>
+    <example id="443951-4" value="along the road came two men, one of whom was bald" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; v&#xE4;gen kom tv&#xE5; personer varav en var flintskallig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="av vilket, av vilka" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="non-irrigated" lang="en" id="485031" origin="user" date="2012-11-08T03:02:56">
+    <translation id="485031-1" value="vem" origin="user" date="2012-11-08T03:02:56"/>
+  </word>
+</definition>

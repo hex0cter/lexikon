@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="klar" lang="sv" class="jj" id="85240" lexinid="8524" origin="lexin" date="2011-03-03">
+    <translation id="8371" value="clear, bright" date="2011-03-03"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7349" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4895" value="klart vatten" date="2011-03-03">
+      <translation value="clear water"/>
+    </example>
+    <example id="4896" value="klara &#xF6;gon" date="2011-03-03">
+      <translation value="bright eyes"/>
+    </example>
+    <related value="matt" type="antonym" origin="lexin">
+      <translation value="matte, opaque" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="ogenomskinlig" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="8189" value="ljus, lysande, genomskinlig" date="2011-03-03"/>
+  </word>
+  <word value="klar" lang="sv" class="jj" id="85250" lexinid="8525" origin="lexin" date="2011-03-03">
+    <translation id="85250-8191" value="obvious" origin="user" date="2011-12-23T22:43:54"/>
+    <translation id="85250-8192" value="clear" origin="user" date="2011-12-23T22:43:54"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7350" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <synonym value="beredd" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="nykter" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="tydlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4897" value="klara besked" date="2011-03-03">
+      <translation value="straight answers"/>
+    </example>
+    <example id="4898" value="en klar majoritet" date="2011-03-03">
+      <translation value="an indisputable majority"/>
+    </example>
+    <related value="oklar" type="antonym" origin="lexin">
+      <translation value="unclear, obscure" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="dunkel" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <idiom id="710" value="vara klar &#xF6;ver (n&#xE5;got) (&amp;quot;f&#xF6;rst&#xE5; (n&#xE5;got)&amp;quot;)" date="2011-03-03">
+      <translation value="be perfectly aware of (&amp;quot;understand (sth.)&amp;quot;)"/>
+    </idiom>
+    <idiom id="711" value="ha klart f&#xF6;r sig (&amp;quot;vara medveten om&amp;quot;)" date="2011-03-03">
+      <translation value="have a clear idea of (&amp;quot;be aware of&amp;quot;)"/>
+    </idiom>
+    <idiom id="712" value="det &#xE4;r klart att man blir arg (&amp;quot;naturligtvis blir man arg&amp;quot;)" date="2011-03-03">
+      <translation value="it&amp;#39;s the sort of thing that makes you really upset (&amp;quot;one would naturally get angry&amp;quot;)"/>
+    </idiom>
+    <idiom id="713" value="s&#xE5; klart (&amp;quot;naturligtvis&amp;quot;)" date="2011-03-03">
+      <translation value="of course (&amp;quot;naturally&amp;quot;)"/>
+    </idiom>
+    <definition id="8190" value="tydlig, l&#xE4;ttbegriplig" date="2011-03-03"/>
+  </word>
+  <word value="klar" lang="sv" class="jj" id="85260" lexinid="8526" origin="lexin" date="2011-03-03">
+    <translation id="8373" value="ready" date="2011-03-03"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7351" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <synonym value="f&#xE4;rdig" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="redo" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4899" value="&#xE4;r du klar snart?" date="2011-03-03">
+      <translation value="will you be ready soon?"/>
+    </example>
+    <example id="4900" value="maten &#xE4;r klar" date="2011-03-03">
+      <translation value="the food is ready"/>
+    </example>
+    <definition id="8191" value="f&#xE4;rdig" date="2011-03-03"/>
+    <grammar value="A/x &#xE4;r &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="articulate" lang="en" class="jj" id="20161" origin="lexin" date="2009-02-24">
+    <translation id="20161-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="20161-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="20161-3" value="artikulerad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bright" lang="en" class="jj" id="55481" origin="lexin" date="2009-02-24">
+    <translation id="55481-1" value="blank" origin="lexin" date="2009-02-24"/>
+    <translation id="55481-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="55481-3" value="ljus" origin="lexin" date="2009-02-24"/>
+    <translation id="55481-4" value="lysande" origin="lexin" date="2009-02-24"/>
+    <translation id="55481-5" value="gl&#xE4;nsande" origin="lexin" date="2009-02-24"/>
+    <translation id="55481-6" value="skinande" origin="lexin" date="2009-02-24"/>
+    <idiom id="55481-7" value="look on the bright side of something" origin="lexin" date="2009-02-24">
+      <translation value="se n&#xE5;got fr&#xE5;n den ljusa sidan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="bright; not written on, empty" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="broad" lang="en" class="jj" id="56161" origin="lexin" date="2009-02-24">
+    <translation id="56161-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="56161-2" value="full" origin="lexin" date="2009-02-24"/>
+    <idiom id="56161-3" value="in broad daylight" origin="lexin" date="2009-02-24">
+      <translation value="mitt p&#xE5; ljusa dagen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="broad" lang="en" class="jj" id="56171" origin="lexin" date="2009-02-24">
+    <translation id="56171-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="56171-2" value="&#xF6;ppen" origin="lexin" date="2009-02-24"/>
+    <translation id="56171-3" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="56171-4" value="uppenbar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81701" origin="lexin" date="2009-02-24">
+    <translation id="81701-1" value="klar" comment="om ljud" origin="lexin" date="2009-02-24"/>
+    <translation id="81701-2" value="ren" origin="lexin" date="2009-02-24"/>
+    <idiom id="81701-3" value="clear as a bell" origin="lexin" date="2009-02-24">
+      <translation value="klockren" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81831" origin="lexin" date="2009-02-24">
+    <translation id="81831-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="81831-2" value="genomskinlig" origin="lexin" date="2009-02-24"/>
+    <translation id="81831-3" value="ljus" origin="lexin" date="2009-02-24"/>
+    <translation id="81831-4" value="gl&#xE4;nsande" origin="lexin" date="2009-02-24"/>
+    <translation id="81831-5" value="fl&#xE4;ckfri" origin="lexin" date="2009-02-24"/>
+    <idiom id="81831-6" value="as clear as mud" origin="lexin" date="2009-02-24">
+      <translation value="(sk&#xE4;mtsamt) of&#xF6;rst&#xE5;eligt, man fattar inte ett dugg" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81831-7" value="see one&amp;#39;s way clear to do something" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) t&#xE4;nka sig att g&#xF6;ra n&#xE5;got, ha m&#xF6;jlighet att g&#xF6;ra n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81831-8" value="the coast is clear" origin="lexin" date="2009-02-24">
+      <translation value="kusten &#xE4;r klar/det &#xE4;r fritt fram" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81841" origin="lexin" date="2009-02-24">
+    <translation id="81841-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="81841-2" value="redig" origin="lexin" date="2009-02-24"/>
+    <translation id="81841-3" value="ogrumlad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81851" origin="lexin" date="2009-02-24">
+    <translation id="81851-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="81851-2" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="81851-3" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="81851-4" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <idiom id="81851-5" value="clear as daylight" origin="lexin" date="2009-02-24">
+      <translation value="solklar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81851-6" value="make clear" origin="lexin" date="2009-02-24">
+      <translation value="klarg&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clear-cut" lang="en" class="jj" id="82061" origin="lexin" date="2009-02-24">
+    <translation id="82061-1" value="markerad" origin="lexin" date="2009-02-24"/>
+    <translation id="82061-2" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="82061-3" value="klar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clear-cut" lang="en" class="jj" id="82071" origin="lexin" date="2009-02-24">
+    <translation id="82071-1" value="ren" origin="lexin" date="2009-02-24"/>
+    <translation id="82071-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="82071-3" value="entydig" origin="lexin" date="2009-02-24"/>
+    <example id="82071-4" value="there&amp;#39;s no clear-cut distinction between severe depression and mental illness" origin="lexin" date="2009-02-24">
+      <translation value="det finns ingen klar skillnad mellan sv&#xE5;r depression och mentalsjukdom" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="direct" lang="en" class="jj" id="132101" origin="lexin" date="2009-02-24">
+    <translation id="132101-1" value="direkt" origin="lexin" date="2009-02-24"/>
+    <translation id="132101-2" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="132101-3" value="klar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="distinct" lang="en" class="jj" id="137211" origin="lexin" date="2009-02-24">
+    <translation id="137211-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-3" value="distinkt" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-4" value="p&#xE5;taglig" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-5" value="tydligt m&#xE4;rkbar" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-6" value="avgjord" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-7" value="best&#xE4;md" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-8" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="137211-9" value="utpr&#xE4;glad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="emphatic" lang="en" class="jj" id="154841" origin="lexin" date="2009-02-24">
+    <translation id="154841-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="154841-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="154841-3" value="i&#xF6;gonfallande" origin="lexin" date="2009-02-24"/>
+    <translation id="154841-4" value="konturskarp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="explicit" lang="en" class="jj" id="165611" origin="lexin" date="2009-02-24">
+    <translation id="165611-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="165611-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="165611-3" value="uttalad" origin="lexin" date="2009-02-24"/>
+    <translation id="165611-4" value="explicit" origin="lexin" date="2009-02-24"/>
+    <example id="165611-5" value="we need more explicit instructions" origin="lexin" date="2009-02-24">
+      <translation value="vi beh&#xF6;ver tydligare instruktioner" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="express" lang="en" class="jj" id="166211" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="166211-1" value="uttrycklig" origin="lexin" date="2009-02-24"/>
+    <translation id="166211-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="166211-3" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="166211-4" value="best&#xE4;md" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fair" lang="en" class="jj" id="168871" origin="lexin" date="2009-02-24">
+    <translation id="168871-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="168871-2" value="meterologiskt klar" origin="lexin" date="2009-02-24"/>
+    <example id="168871-3" value="fair weather" origin="lexin" date="2009-02-24">
+      <translation value="uppeh&#xE5;llsv&#xE4;der" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="intelligible" lang="en" class="jj" id="236051" origin="lexin" date="2009-02-24">
+    <translation id="236051-1" value="begriplig" origin="lexin" date="2009-02-24"/>
+    <translation id="236051-2" value="f&#xF6;rst&#xE5;elig" origin="lexin" date="2009-02-24"/>
+    <translation id="236051-3" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="236051-4" value="uppenbar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="level" lang="en" class="jj" id="254841" origin="lexin" date="2009-02-24">
+    <translation id="254841-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="254841-2" value="redig" origin="lexin" date="2009-02-24"/>
+    <idiom id="254841-3" value="do one&amp;#39;s level best" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra sitt allra b&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="liquid" lang="en" class="jj" id="258301" origin="lexin" date="2009-02-24">
+    <translation id="258301-1" value="klar" comment="uppskattande, s&#xE4;rskilt formellt eller litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <example id="258301-2" value="she had liquid eyes" origin="lexin" date="2009-02-24">
+      <translation value="hon hade klara &#xF6;gon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="258301-3" value="the air was liquid" origin="lexin" date="2009-02-24">
+      <translation value="luften var klar" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="lucid" lang="en" class="jj" id="263031" origin="lexin" date="2009-02-24">
+    <translation id="263031-1" value="kristallklar" origin="lexin" date="2009-02-24"/>
+    <translation id="263031-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="263031-3" value="genomskinlig" origin="lexin" date="2009-02-24"/>
+    <example id="263031-4" value="the air was lucid" origin="lexin" date="2009-02-24">
+      <translation value="luften var kristallklar" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="manifest" lang="en" class="jj" id="266471" origin="lexin" date="2009-02-24">
+    <translation id="266471-1" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="266471-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="266471-3" value="p&#xE5;taglig" comment="formellt" origin="lexin" date="2009-02-24"/>
+    <example id="266471-4" value="joy was manifest on her face" origin="lexin" date="2009-02-24">
+      <translation value="gl&#xE4;djen var p&#xE5;taglig i hennes ansikte" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="obvious" lang="en" class="jj" id="291821" origin="lexin" date="2009-02-24">
+    <translation id="291821-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="291821-2" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="291821-3" value="l&#xE4;ttbegriplig" origin="lexin" date="2009-02-24"/>
+    <translation id="291821-4" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="291821-5" value="p&#xE5;taglig" origin="lexin" date="2009-02-24"/>
+    <translation id="291821-6" value="upplagd" origin="lexin" date="2009-02-24"/>
+    <example id="291821-7" value="for obvious reasons" origin="lexin" date="2009-02-24">
+      <translation value="av l&#xE4;tt f&#xF6;rklarliga sk&#xE4;l" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="patent" lang="en" class="jj" id="308461" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="308461-1" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="308461-2" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="308461-3" value="klar" comment="s&#xE4;rskilt om k&#xE4;nslor eller egenskaper" origin="lexin" date="2009-02-24"/>
+    <example id="308461-4" value="her patent vulnerability" origin="lexin" date="2009-02-24">
+      <translation value="hennes uppenbara s&#xE5;rbarhet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="plain" lang="en" class="jj" id="320201" origin="lexin" date="2009-02-24">
+    <translation id="320201-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="320201-2" value="l&#xE4;ttbegriplig" origin="lexin" date="2009-02-24"/>
+    <translation id="320201-3" value="klar" origin="lexin" date="2009-02-24"/>
+    <example id="320201-4" value="it is plain to me that she is lying to us" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r helt klart att hon ljuger f&#xF6;r oss" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pronounced" lang="en" class="jj" id="336051" origin="lexin" date="2009-02-24">
+    <translation id="336051-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-3" value="avgjord" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-4" value="best&#xE4;md" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-5" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-6" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-7" value="utpr&#xE4;glad" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-8" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-9" value="markerad" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-10" value="uttalad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ready" lang="en" class="jj" id="347511" origin="lexin" date="2009-02-24">
+    <translation id="347511-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="347511-2" value="f&#xE4;rdig" origin="lexin" date="2009-02-24"/>
+    <translation id="347511-3" value="beredd" origin="lexin" date="2009-02-24"/>
+    <translation id="347511-4" value="redo" origin="lexin" date="2009-02-24"/>
+    <translation id="347511-5" value="i ordning" origin="lexin" date="2009-02-24"/>
+    <example id="347511-6" value="the food is ready" origin="lexin" date="2009-02-24">
+      <translation value="maten &#xE4;r klar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="347511-7" value="will you be ready soon?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r du klar snart?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="shiny" lang="en" class="jj" id="379671" origin="lexin" date="2009-02-24">
+    <translation id="379671-1" value="blank" origin="lexin" date="2009-02-24"/>
+    <translation id="379671-2" value="gl&#xE4;nsande" origin="lexin" date="2009-02-24"/>
+    <translation id="379671-3" value="skinande" origin="lexin" date="2009-02-24"/>
+    <translation id="379671-4" value="str&#xE5;lande" origin="lexin" date="2009-02-24"/>
+    <translation id="379671-5" value="klar" origin="lexin" date="2009-02-24"/>
+    <explanation value="bright; not written on, empty" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="simple" lang="en" class="jj" id="382881" origin="lexin" date="2009-02-24">
+    <translation id="382881-1" value="enkel" origin="lexin" date="2009-02-24"/>
+    <translation id="382881-2" value="l&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="382881-3" value="l&#xE4;ttfattlig" origin="lexin" date="2009-02-24"/>
+    <translation id="382881-4" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="382881-5" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <example id="382881-6" value="I just need simple instructions" origin="lexin" date="2009-02-24">
+      <translation value="jag beh&#xF6;ver bara l&#xE4;ttfattliga instruktioner" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="square" lang="en" class="jj" id="394741" origin="lexin" date="2009-02-24">
+    <translation id="394741-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="394741-2" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="394741-3" value="&#xE4;rlig" origin="lexin" date="2009-02-24"/>
+    <translation id="394741-4" value="&#xF6;ppen" origin="lexin" date="2009-02-24"/>
+    <translation id="394741-5" value="r&#xE4;ttvis" origin="lexin" date="2009-02-24"/>
+    <translation id="394741-6" value="renh&#xE5;rig" origin="lexin" date="2009-02-24"/>
+    <example id="394741-7" value="get a square deal" origin="lexin" date="2009-02-24">
+      <translation value="bli r&#xE4;ttvist behandlad" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="394741-8" value="be square with somebody" origin="lexin" date="2009-02-24">
+      <translation value="vara &#xF6;ppen mot n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="transparent" lang="en" class="jj" id="424411" origin="lexin" date="2009-02-24">
+    <translation id="424411-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="424411-2" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="424411-3" value="uppenbar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="unequivocal" lang="en" class="jj" id="432201" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="432201-1" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="432201-2" value="entydig" origin="lexin" date="2009-02-24"/>
+    <translation id="432201-3" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="432201-4" value="tydlig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="vivid" lang="en" class="jj" id="438251" origin="lexin" date="2009-02-24">
+    <translation id="438251-1" value="livlig" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-2" value="levande, ljus" comment="om f&#xE4;rg" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-3" value="skarp" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-4" value="bl&#xE4;ndande" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-5" value="glad" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-6" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="438251-7" value="intensiv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="completed" lang="en" id="514751" origin="user" date="2013-09-17T01:24:53">
+    <translation id="514751-1" value="f&#xE4;rdig" origin="user" date="2013-09-17T01:24:53"/>
+    <translation id="514751-1" value="avslutad" origin="user" date="2014-01-28T05:04:29"/>
+    <translation id="514751-2" value="f&#xE4;rdigst&#xE4;llde, avslutade" origin="user" date="2015-04-08T01:45:03"/>
+    <translation id="514751-3" value="slutf&#xF6;rd" origin="user" date="2015-09-09T01:17:08"/>
+    <translation id="514751-4" value="Klar" origin="user" date="2015-10-14T03:06:02"/>
+  </word>
+</definition>

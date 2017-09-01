@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="mamma" lang="sv" class="nn" id="106490" lexinid="10649" origin="lexin" date="2011-03-03">
+    <translation id="106490-10264" value="mummy" origin="user" date="2011-12-07T22:20:31"/>
+    <translation id="106490-10265" value="mum" origin="user" date="2011-12-07T22:20:31"/>
+    <translation id="106490-10266" value="(mom [US])" origin="user" date="2011-12-07T22:20:31"/>
+    <translation id="106490-10264" value="mother" origin="user" date="2013-11-29T04:35:29"/>
+    <translation id="106490-10264" value="(mommy [US])" origin="user" date="2014-02-14T04:59:33"/>
+    <translation id="106490-10267" value="(mama [US])" origin="user" date="2015-09-04T00:31:12"/>
+    <phonetic value="&#xB2;mAm:a" soundFile="mamma.swf" date="2011-03-03"/>
+    <paradigm id="9277" origin="lexin" date="2011-03-03">
+      <inflection value="mamman"/>
+      <inflection value="mammor"/>
+    </paradigm>
+    <synonym value="moder" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="mor" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="morsa" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="morsan" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="mamma||mamma..1||mamma..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3757" value="mamma|kl&#xE4;nning" date="2011-03-03">
+      <translation value="maternity dress"/>
+    </compound>
+    <compound id="3758" value="mamma|kl&#xE4;der" date="2011-03-03">
+      <translation value="maternity clothes"/>
+    </compound>
+    <compound id="3759" value="kycklingmamma" date="2011-03-03">
+      <translation value="overprotective mother"/>
+    </compound>
+    <compound id="3760" value="mamma|ledig" date="2011-03-03">
+      <translation value="maternity leave"/>
+    </compound>
+    <derivation id="485" value="mammig" date="2011-03-03">
+      <translation value="tied to one&amp;#39;s mother&amp;#39;s apron strings"/>
+    </derivation>
+    <definition id="10263" value="mor, moder" date="2011-03-03"/>
+    <url value="1/familj.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <grammar value="A &#xE4;r &amp; till B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="mum" lang="en" class="nn" id="280881" origin="lexin" comment="informellt, vardagligt" date="2009-02-24">
+    <translation id="280881-1" value="mamma" origin="lexin" date="2009-02-24"/>
+    <translation id="280881-2" value="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="280881-3" value="i amerikansk engelska mom" origin="lexin" date="2009-02-24"/>
+    <example id="280881-4" value="She misses her mum." origin="lexin" date="2009-02-24">
+      <translation value="Hon saknar sin mamma." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An informal word for mother" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

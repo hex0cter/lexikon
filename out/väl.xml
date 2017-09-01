@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="v&#xE4;l" lang="sv" class="ab" id="211570" lexinid="21158" origin="lexin" comment="&#xE4;ven allm&#xE4;nt &amp;quot;mycket&amp;quot;" date="2011-03-03">
+    <translation id="20778" value="well" comment="also commonly &amp;quot;very&amp;quot;" date="2011-03-03"/>
+    <use value="betonat" date="2011-03-03"/>
+    <phonetic value="v&#xE4;:l" soundFile="v&#xE4;l.swf" date="2011-03-03"/>
+    <synonym value="gott" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..1||v&#xE4;l_1..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..2||v&#xE4;l_2..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11920" value="det &#xE4;r v&#xE4;l k&#xE4;nt" date="2011-03-03">
+      <translation value="that is well known"/>
+    </example>
+    <example id="11921" value="vara v&#xE4;l medveten om" date="2011-03-03">
+      <translation value="be well aware of"/>
+    </example>
+    <example id="11922" value="v&#xE4;l f&#xF6;rberedd" date="2011-03-03">
+      <translation value="well prepared"/>
+    </example>
+    <example id="11923" value="v&#xE4;l insatt i fr&#xE5;gan" date="2011-03-03">
+      <translation value="very well-informed about (familiar with) the matter"/>
+    </example>
+    <definition id="20433" value="p&#xE5; ett bra s&#xE4;tt" date="2011-03-03"/>
+  </word>
+  <word value="v&#xE4;l" lang="sv" class="ab" id="211580" lexinid="21159" origin="lexin" date="2011-03-03">
+    <translation id="20779" value="too" date="2011-03-03"/>
+    <use value="betonat" date="2011-03-03"/>
+    <phonetic value="v&#xE4;:l" soundFile="v&#xE4;l.swf" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..1||v&#xE4;l_1..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..2||v&#xE4;l_2..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11924" value="&#xE4;r hon inte lite v&#xE4;l ung?" date="2011-03-03">
+      <translation value="isn&amp;#39;t she a little too young?"/>
+    </example>
+    <definition id="20434" value="i alltf&#xF6;r h&#xF6;g grad" date="2011-03-03"/>
+  </word>
+  <word value="v&#xE4;l" lang="sv" class="ab" id="211590" lexinid="21160" origin="lexin" date="2011-03-03">
+    <translation id="20780" value="surely" date="2011-03-03"/>
+    <use value="obetonat" date="2011-03-03"/>
+    <phonetic value="v&#xE4;:l" soundFile="v&#xE4;l.swf" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..1||v&#xE4;l_1..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="v&#xE4;l||v&#xE4;l..2||v&#xE4;l_2..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11925" value="du &#xE4;r v&#xE4;l inte arg?" date="2011-03-03">
+      <translation value="surely you are not angry?"/>
+    </example>
+    <example id="11926" value="du fattar v&#xE4;l att vi m&#xE5;ste g&#xE5; nu?" date="2011-03-03">
+      <translation value="surely you realize we have to go now?"/>
+    </example>
+    <example id="11927" value="jag f&#xE5;r v&#xE4;l g&#xE5; nu" date="2011-03-03">
+      <translation value="I suppose I have to go now"/>
+    </example>
+    <definition id="20435" value="nog, troligen, eller hur?" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="211600" lang="sv" lexinid="21161" origin="lexin" value="v&#xE4;l">
+    <translation date="2011-03-03" id="20781" value="welfare"/>
+    <phonetic date="2011-03-03" soundFile="v&#xE4;l.swf" value="ve:l"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="antagligen"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="bra"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="gott"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="v&#xE4;l||v&#xE4;l..3||v&#xE4;l..nn.1"/>
+    <idiom date="2011-03-03" id="1860" value="i v&#xE4;l och ve (&amp;quot;i medg&#xE5;ng och motg&#xE5;ng&amp;quot;)">
+      <translation value="for better or for worse, in prosperity and adversity"/>
+    </idiom>
+    <definition date="2011-03-03" id="20436" value="v&#xE4;lf&#xE4;rd"/>
+  </word>
+  <word value="well" lang="en" class="ab" id="442511" origin="lexin" date="2009-02-24">
+    <translation id="442511-1" value="bra" origin="lexin" date="2009-02-24"/>
+    <translation id="442511-2" value="gott" origin="lexin" date="2009-02-24"/>
+    <translation id="442511-3" value="v&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <paradigm id="442511-8" origin="lexin" date="2009-02-24">
+      <inflection value="better" origin="lexin" date="2009-02-24"/>
+      <inflection value="best" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="442511-6" value="everything went well" origin="lexin" date="2009-02-24">
+      <translation value="allt gick bra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="442511-7" value="I&amp;#39;m doing really well" origin="lexin" date="2009-02-24">
+      <translation value="det g&#xE5;r verkligen bra f&#xF6;r mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="illa, d&#xE5;ligt" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="badly, ill" origin="lexin" date="2009-02-24"/>
+    </related>
+    <idiom id="442511-4" value="do well out of" origin="lexin" date="2009-02-24">
+      <translation value="tj&#xE4;na p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="442511-5" value="speak well of somebody" origin="lexin" date="2009-02-24">
+      <translation value="tala v&#xE4;l om n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="well" lang="en" class="jj" id="442641" origin="lexin" date="2009-02-24">
+    <translation id="442641-1" value="v&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <translation id="442641-2" value="gott" comment="s&#xE4;rskilt litter&#xE4;rt eller gammaldags" origin="lexin" date="2009-02-24"/>
+    <paradigm id="442641-5" origin="lexin" date="2009-02-24">
+      <inflection value="better" origin="lexin" date="2009-02-24"/>
+      <inflection value="best" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="442641-4" value="it&amp;#39;s all very well for you to say" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r l&#xE4;tt f&#xF6;r dig att s&#xE4;ga" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="442641-3" value="all is well that ens well" origin="lexin" date="2009-02-24">
+      <translation value="slutet gott, allting gott" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="profligacy" lang="en" id="484821" origin="user" date="2012-11-07T04:59:28">
+    <translation id="484821-1" value="v&#xE4;l" origin="user" date="2012-11-07T04:59:28"/>
+  </word>
+</definition>

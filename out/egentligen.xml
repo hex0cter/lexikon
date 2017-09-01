@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="egentligen" lang="sv" class="ab" id="37780" lexinid="3778" origin="lexin" date="2011-03-03">
+    <translation id="37780-3633" value="actually" origin="user" date="2012-01-23T00:35:24"/>
+    <translation id="37780-3634" value="really" origin="user" date="2012-01-23T00:35:24"/>
+    <phonetic value="ejEn:tligen" soundFile="egentligen.swf" date="2011-03-03"/>
+    <synonym value="i sj&#xE4;lva verket" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="nog" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="egentligen||egentligen..1||egentligen..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2243" value="bullret &#xE4;r egentligen det enda som st&#xF6;r mig" date="2011-03-03">
+      <translation value="the noise is actually the only thing that bothers me"/>
+    </example>
+    <definition id="3632" value="i sj&#xE4;lva verket" date="2011-03-03"/>
+  </word>
+  <word value="actually" lang="en" class="ab" id="4301" origin="lexin" date="2009-02-24">
+    <translation id="4301-1" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-2" value="i sj&#xE4;lva verket" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-4" value="verkligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="basically" lang="en" class="ab" id="33811" origin="lexin" date="2009-02-24">
+    <translation id="33811-1" value="egentligen" comment="talspr&#xE5;kligt" origin="lexin" date="2009-02-24"/>
+    <example id="33811-2" value="basically, it&amp;#39;s all a mess" origin="lexin" date="2009-02-24">
+      <translation value="allt &#xE4;r egentligen en enda r&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="intrinsically" lang="en" class="ab" id="238171" origin="lexin" date="2009-02-24">
+    <translation id="238171-1" value="i sitt innersta v&#xE4;sen" origin="lexin" date="2009-02-24"/>
+    <translation id="238171-2" value="egentligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244211" origin="lexin" date="2009-02-24">
+    <translation id="244211-1" value="minsann" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-2" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-3" value="egentligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="literally" lang="en" class="ab" id="258641" origin="lexin" date="2009-02-24">
+    <translation id="258641-1" value="bokstavligt" origin="lexin" date="2009-02-24"/>
+    <translation id="258641-2" value="bokstavligen" origin="lexin" date="2009-02-24"/>
+    <translation id="258641-3" value="i egentlig betydelse" origin="lexin" date="2009-02-24"/>
+    <translation id="258641-4" value="egentligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="really" lang="en" class="ab" id="347721" origin="lexin" date="2009-02-24">
+    <translation id="347721-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-2" value="sannerligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-4" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <idiom id="347721-5" value="not really" origin="lexin" date="2009-02-24">
+      <translation value="inte precis, inte direkt, egentligen inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="347721-6" value="really and truly" origin="lexin" date="2009-02-24">
+      <translation value="verkligen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

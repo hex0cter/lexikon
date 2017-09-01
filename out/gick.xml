@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="gick" lang="sv" id="60820" lexinid="6082" origin="lexin" date="2011-03-03">
+    <translation id="60820-1" value="went" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="60820-2" value="walked" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="jik:" soundFile="gick.swf" date="2011-03-03"/>
+    <see value="g&#xE5;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="g&#xE5;" lang="sv" class="vb" id="65190" lexinid="6519" origin="lexin" comment="&#xE4;ven avl&#xE4;gsna sig" date="2011-03-03">
+    <translation id="65190-6283" value="go" origin="user" date="2012-02-20T23:41:26"/>
+    <translation id="65190-6284" value="walk" origin="user" date="2012-02-20T23:41:26"/>
+    <phonetic value="g&#xE5;:r" soundFile="g&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="5665" origin="lexin" date="2011-03-03">
+      <inflection value="gick"/>
+      <inflection value="g&#xE5;tt"/>
+      <inflection value="g&#xE5;"/>
+      <inflection value="g&#xE5;r"/>
+    </paradigm>
+    <synonym value="bege" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="bege sig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="flanera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="knalla" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="knata" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lomma" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lunka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="promenera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="spankulera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="spatsera" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="str&#xF6;va" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="traska" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="vandra" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="g&#xE5;||g&#xE5;..1||g&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="gar.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="gar_over_gatan.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="3812" value="han har g&#xE5;tt" date="2011-03-03">
+      <translation value="he has left"/>
+    </example>
+    <example id="3813" value="tiden g&#xE5;r" date="2011-03-03">
+      <translation value="the clock is ticking"/>
+    </example>
+    <example id="3814" value="g&#xE5; f&#xF6;rbi" date="2011-03-03">
+      <translation value="go past"/>
+    </example>
+    <example id="3815" value="g&#xE5; ut och g&#xE5;" date="2011-03-03">
+      <translation value="go out for a walk"/>
+    </example>
+    <idiom id="469" value="g&#xE5; p&#xE5; ett ut (&amp;quot;kvitta&amp;quot;)" date="2011-03-03">
+      <translation value="make no difference (&amp;quot;which option is chosen&amp;quot;)"/>
+    </idiom>
+    <idiom id="470" value="g&#xE5; vidare (&amp;quot;forts&#xE4;tta&amp;quot;)" date="2011-03-03">
+      <translation value="move on (&amp;quot;continue&amp;quot;)"/>
+    </idiom>
+    <idiom id="471" value="g&#xE5; i kras (&amp;quot;g&#xE5; s&#xF6;nder&amp;quot;)" date="2011-03-03">
+      <translation value="break"/>
+    </idiom>
+    <idiom id="472" value="g&#xE5; i l&#xE5;s (&amp;quot;lyckas&amp;quot;)" date="2011-03-03">
+      <translation value="succeed"/>
+    </idiom>
+    <idiom id="473" value="g&#xE5; i arv (&amp;quot;&#xE4;rvas&amp;quot;)" date="2011-03-03">
+      <translation value="be passed on (from generation to generation) (&amp;quot;be inherited&amp;quot;)"/>
+    </idiom>
+    <definition id="6282" value="f&#xF6;rflytta sig (till fots)" date="2011-03-03"/>
+    <grammar value="A/x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="g&#xE5;" lang="sv" class="vb" id="65200" lexinid="6520" origin="lexin" date="2011-03-03">
+    <translation id="65200-6284" value="run" origin="user" date="2012-01-19T23:50:01"/>
+    <translation id="65200-6285" value="progress" origin="user" date="2012-01-19T23:50:01"/>
+    <translation id="65200-6286" value="work" origin="user" date="2012-01-19T23:50:01"/>
+    <phonetic value="g&#xE5;:r" soundFile="g&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="5666" origin="lexin" date="2011-03-03">
+      <inflection value="gick"/>
+      <inflection value="g&#xE5;tt"/>
+      <inflection value="g&#xE5;"/>
+      <inflection value="g&#xE5;r"/>
+    </paradigm>
+    <synonym value="bege" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="bege sig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="flanera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="knalla" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="knata" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lomma" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lunka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="promenera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="spankulera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="spatsera" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="str&#xF6;va" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="traska" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="vandra" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="g&#xE5;||g&#xE5;..1||g&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3816" value="det h&#xE4;r g&#xE5;r aldrig v&#xE4;l" date="2011-03-03">
+      <translation value="this will never work"/>
+    </example>
+    <example id="3817" value="bilen g&#xE5;r inte" date="2011-03-03">
+      <translation value="the car doesn&amp;#39;t work"/>
+    </example>
+    <definition id="6283" value="fungera; avl&#xF6;pa" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="65210" lang="sv" lexinid="6521" origin="lexin" value="g&#xE5;">
+    <translation date="2011-03-03" id="6410" value="leave, begin"/>
+    <phonetic date="2011-03-03" soundFile="g&#xE5;r.swf" value="g&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="5667" origin="lexin">
+      <inflection value="gick"/>
+      <inflection value="g&#xE5;tt"/>
+      <inflection value="g&#xE5;"/>
+      <inflection value="g&#xE5;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="bege"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="bege sig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="flanera"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="knalla"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="knata"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="lomma"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="lunka"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="promenera"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="spankulera"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="spatsera"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="str&#xF6;va"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="traska"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="vandra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="g&#xE5;||g&#xE5;..1||g&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="3818" value="t&#xE5;get g&#xE5;r kl 10">
+      <translation value="the train departs at 10 o&amp;#39;clock"/>
+    </example>
+    <definition date="2011-03-03" id="6284" value="avg&#xE5;, s&#xE4;tta ig&#xE5;ng"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp; + TIDPUNKT"/>
+  </word>
+  <word value="g&#xE5;" lang="sv" class="vb" id="65220" lexinid="6522" origin="lexin" date="2011-03-03">
+    <translation id="65220-6286" value="play" origin="user" date="2012-01-05T00:32:31"/>
+    <translation id="65220-6287" value="show" origin="user" date="2012-01-05T00:32:31"/>
+    <translation id="65220-6288" value="run" origin="user" date="2012-01-05T00:32:31"/>
+    <phonetic value="g&#xE5;:r" soundFile="g&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="5668" origin="lexin" date="2011-03-03">
+      <inflection value="gick"/>
+      <inflection value="g&#xE5;tt"/>
+      <inflection value="g&#xE5;"/>
+      <inflection value="g&#xE5;r"/>
+    </paradigm>
+    <synonym value="bege" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="bege sig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="flanera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="knalla" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="knata" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lomma" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lunka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="promenera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="spankulera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="spatsera" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="str&#xF6;va" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="traska" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="vandra" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="g&#xE5;||g&#xE5;..1||g&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3819" value="var g&#xE5;r filmen?" date="2011-03-03">
+      <translation value="where is the film showing?"/>
+    </example>
+    <definition id="6285" value="spelas" date="2011-03-03"/>
+  </word>
+  <word value="g&#xE5;" lang="sv" class="vb" id="65230" lexinid="6523" origin="lexin" date="2011-03-03">
+    <translation id="65230-6287" value="contain" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="65230-6288" value="comprise" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="g&#xE5;:r" soundFile="g&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="5669" origin="lexin" date="2011-03-03">
+      <inflection value="gick"/>
+      <inflection value="g&#xE5;tt"/>
+      <inflection value="g&#xE5;"/>
+      <inflection value="g&#xE5;r"/>
+    </paradigm>
+    <synonym value="bege" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="bege sig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="flanera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="knalla" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="knata" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lomma" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lunka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="promenera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="spankulera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="spatsera" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="str&#xF6;va" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="traska" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="vandra" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="g&#xE5;||g&#xE5;..1||g&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3820" value="det g&#xE5;r tio kilometer p&#xE5; en mil" date="2011-03-03">
+      <translation value="there are ten kilometres in a (Swedish) &amp;quot;mile&amp;quot;"/>
+    </example>
+    <definition id="6286" value="rymma, inneh&#xE5;lla" date="2011-03-03"/>
+  </word>
+</definition>

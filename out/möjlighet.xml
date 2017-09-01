@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="115640" lang="sv" lexinid="11564" origin="lexin" value="m&#xF6;jlighet">
+    <translation date="2011-03-03" id="11356" value="possibility"/>
+    <phonetic date="2011-03-03" soundFile="m&#xF6;jlighet.swf" value="&#xB2;m&#xD6;j:lighe:t"/>
+    <paradigm date="2011-03-03" id="10069" origin="lexin">
+      <inflection value="m&#xF6;jligheten"/>
+      <inflection value="m&#xF6;jligheter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="chans"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="g&#xE4;llande"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="opportunitet"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="potential"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="tillf&#xE4;lle"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="utsikt"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="&#xF6;ppning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xF6;jlighet||m&#xF6;jlighet..1||m&#xF6;jlighet..nn.1"/>
+    <example date="2011-03-03" id="6311" value="goda m&#xF6;jligheter till utbildning och befordran">
+      <translation value="satisfactory opportunities of education and advancement"/>
+    </example>
+    <example date="2011-03-03" id="6312" value="jag har ingen m&#xF6;jlighet att komma">
+      <translation value="there is no chance of my coming"/>
+    </example>
+    <compound date="2011-03-03" id="4091" value="valm&#xF6;jlighet">
+      <translation value="option"/>
+    </compound>
+    <derivation date="2011-03-03" id="536" value="om&#xF6;jlighet">
+      <translation value="impossibility"/>
+    </derivation>
+    <definition date="2011-03-03" id="11147" value="m&#xF6;jlig utv&#xE4;g, tillf&#xE4;lle"/>
+  </word>
+  <word value="alternative" lang="en" class="nn" id="11361" lexinid="291" origin="lexin" date="2009-02-24">
+    <translation id="11361-1" value="alternativ" origin="lexin" date="2009-02-24"/>
+    <translation id="11361-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <example id="11361-3" value="what alternatives are there to nuclear power?" origin="lexin" date="2009-02-24">
+      <translation value="vad finns det f&#xF6;r alternativ till k&#xE4;rnkraft?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="11361-4" value="(our) only alternative is to give up" origin="lexin" date="2009-02-24">
+      <translation value="enda alternativet &#xE4;r att ge upp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="a choice between two or more possibilities, one of a number of *possibilities" origin="lexin" date="2009-02-24">
+      <translation value="val mellan olika m&#xF6;jligheter, en av flera m&#xF6;jligheter" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="capacity" lang="en" class="nn" id="66171" origin="lexin" date="2009-02-24">
+    <translation id="66171-1" value="f&#xF6;rm&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    <translation id="66171-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="66171-3" value="kraft" origin="lexin" date="2009-02-24"/>
+    <translation id="66171-4" value="prestationsf&#xF6;rm&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    <translation id="66171-5" value="effekt" origin="lexin" date="2009-02-24"/>
+    <translation id="66171-6" value="effektivitet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="chance" lang="en" class="nn" id="73031" origin="lexin" date="2009-02-24">
+    <translation id="73031-1" value="chans" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-3" value="tillf&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-4" value="utsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-5" value="utsikter" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-6" value="slump" origin="lexin" date="2009-02-24"/>
+    <translation id="73031-7" value="slumpen" origin="lexin" date="2009-02-24"/>
+    <idiom id="73031-8" value="any chance of their coming?" origin="lexin" date="2009-02-24">
+      <translation value="finns den n&#xE5;gon chans att de kommer? (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-9" value="be in with a chance" origin="lexin" date="2009-02-24">
+      <translation value="ha en (stor) chans (m&#xF6;jlighet)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-10" value="by any chance" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) h&#xE4;ndelsevis" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-11" value="by chance" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;ndelsevis, av en h&#xE4;ndelse/slump" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-12" value="the chance is a million to one" origin="lexin" date="2009-02-24">
+      <translation value="chansen &#xE4;r en p&#xE5; miljonen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-13" value="the chance of your lifetime" origin="lexin" date="2009-02-24">
+      <translation value="ditt livs stora chans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-14" value="chances are against it" origin="lexin" date="2009-02-24">
+      <translation value="allting talar mot det" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-15" value="chances are that..." origin="lexin" date="2009-02-24">
+      <translation value="det finns en chans att..., allting talar f&#xF6;r att..." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-16" value="do something on the off chance" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra n&#xE5;got f&#xF6;r alla eventualiteters skull, chansa" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-17" value="fat chance!" origin="lexin" date="2009-02-24">
+      <translation value="inte en chans! om&#xF6;jligt! (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-18" value="give somebody a chance" origin="lexin" date="2009-02-24">
+      <translation value="ge n&#xE5;gon en chans, l&#xE5;ta n&#xE5;gon f&#xF6;rs&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-19" value="given half a chance" origin="lexin" date="2009-02-24">
+      <translation value="om minsta m&#xF6;jlighet gives" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-20" value="grab at the chance of" origin="lexin" date="2009-02-24">
+      <translation value="gripa chansen (tillf&#xE4;llet) att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="73031-21" value="have an even chance" origin="lexin" date="2009-02-24">
+      <translation value="ha femtio procents chans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="contingency" lang="en" class="nn" id="100211" origin="lexin" date="2009-02-24">
+    <translation id="100211-1" value="eventualitet" origin="lexin" date="2009-02-24"/>
+    <translation id="100211-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <explanation value="m&#xF6;jligen intr&#xE4;ffande fall" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="eventuality" lang="en" class="nn" id="162111" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="162111-1" value="eventualitet" origin="lexin" date="2009-02-24"/>
+    <translation id="162111-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <explanation value="m&#xF6;jligen intr&#xE4;ffande fall" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="facility" lang="en" class="nn" id="168201" origin="lexin" date="2009-02-24">
+    <translation id="168201-1" value="tillf&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="168201-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="168201-3" value="bekv&#xE4;mlighet" origin="lexin" date="2009-02-24"/>
+    <example id="168201-4" value="The sporting facilities were excellent." origin="lexin" date="2009-02-24">
+      <translation value="Det fanns utm&#xE4;rkta m&#xF6;jligheter att idrotta." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Usually plural. Equipments or services that enable you to do something." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="opportunity" lang="en" class="nn" id="295861" origin="lexin" date="2009-02-24">
+    <translation id="295861-1" value="tillf&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="295861-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="possibility" lang="en" class="nn" id="326931" origin="lexin" date="2009-02-24">
+    <translation id="326931-1" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="326931-2" value="faktisk m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="326931-3" value="eventualitet" comment="om n&#xE5;gonting som &#xE4;r m&#xF6;jligt" origin="lexin" date="2009-02-24"/>
+    <example id="326931-4" value="failure to finish the project on time is not a possibility as far as I am concerned" origin="lexin" date="2009-02-24">
+      <translation value="jag betraktar inte underl&#xE5;tenhet att avsluta projektet i tid som en faktisk m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="possibility" lang="en" class="nn" id="326941" origin="lexin" date="2009-02-24">
+    <translation id="326941-1" value="eventualitet" origin="lexin" date="2009-02-24"/>
+    <translation id="326941-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <example id="326941-3" value="there is the possibility that he&amp;#39;ll refuse" origin="lexin" date="2009-02-24">
+      <translation value="det kan h&#xE4;nda att han v&#xE4;grar" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="possibility" lang="en" class="nn" id="326951" origin="lexin" date="2009-02-24">
+    <translation id="326951-1" value="m&#xF6;jlighet" comment="grad av rimlighet" origin="lexin" date="2009-02-24"/>
+    <example id="326951-2" value="is there any possibility that you&amp;#39;ll make it to the party?" origin="lexin" date="2009-02-24">
+      <translation value="finns det n&#xE5;gon m&#xF6;ljighet att du kan komma p&#xE5; festen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="possibility" lang="en" class="nn" id="326961" origin="lexin" date="2009-02-24">
+    <translation id="326961-1" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="326961-2" value="sannolikhet" origin="lexin" date="2009-02-24"/>
+    <translation id="326961-3" value="grad av sannolikhet" origin="lexin" date="2009-02-24"/>
+    <example id="326961-4" value="there is still the possibility that she&amp;#39;ll show up on time" origin="lexin" date="2009-02-24">
+      <translation value="det finns fortfarande en m&#xF6;jlighet att hon kommer i tid" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="possibility" lang="en" class="nn" id="326981" origin="lexin" date="2009-02-24">
+    <translation id="326981-1" value="utsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="326981-2" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="326981-3" value="det att vara m&#xF6;jlig" origin="lexin" date="2009-02-24"/>
+    <idiom id="326981-4" value="the realms of possibility" origin="lexin" date="2009-02-24">
+      <translation value="det m&#xF6;jligas gr&#xE4;ns" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="possible" lang="en" class="nn" id="327001" origin="lexin" date="2009-02-24">
+    <translation id="327001-1" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="327001-2" value="t&#xE4;nkbar kandidat" origin="lexin" date="2009-02-24"/>
+    <translation id="327001-3" value="t&#xE4;nkbar vinnare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="prospect" lang="en" class="nn" id="337081" origin="lexin" date="2009-02-24">
+    <translation id="337081-1" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="337081-2" value="framtidsutsikter" origin="lexin" date="2009-02-24"/>
+    <translation id="337081-3" value="utsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="337081-4" value="f&#xF6;rhoppning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="way" lang="en" class="nn" id="441351" origin="lexin" date="2009-02-24">
+    <translation id="441351-1" value="v&#xE4;g" origin="lexin" date="2009-02-24"/>
+    <translation id="441351-2" value="utv&#xE4;g" origin="lexin" date="2009-02-24"/>
+    <translation id="441351-3" value="r&#xE5;d" origin="lexin" date="2009-02-24"/>
+    <translation id="441351-4" value="m&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

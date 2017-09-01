@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="liv" lang="sv" class="nn" id="100670" lexinid="10067" origin="lexin" date="2011-03-03">
+    <translation id="9889" value="life" date="2011-03-03"/>
+    <phonetic value="li:v" soundFile="liv.swf" date="2011-03-03"/>
+    <paradigm id="8761" origin="lexin" date="2011-03-03">
+      <inflection value="livet"/>
+      <inflection value="liv"/>
+      <inflection value="liven"/>
+    </paradigm>
+    <synonym value="oljud" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xF6;relse" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="stoj" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="liv||liv..1||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..2||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..3||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..4||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..5||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5481" value="ett l&#xE5;ngt liv" date="2011-03-03">
+      <translation value="a long life"/>
+    </example>
+    <example id="5482" value="det dagliga livet" date="2011-03-03">
+      <translation value="daily life"/>
+    </example>
+    <example id="5483" value="har du sl&#xE4;ktingar i livet?" date="2011-03-03">
+      <translation value="do you have living relatives?"/>
+    </example>
+    <compound id="3585" value="m&#xE4;nniskoliv" date="2011-03-03">
+      <translation value="human life"/>
+    </compound>
+    <compound id="3586" value="livs|gl&#xE4;dje" date="2011-03-03">
+      <translation value="joie de vivre, love of life"/>
+    </compound>
+    <compound id="3587" value="liv|full" date="2011-03-03">
+      <translation value="lively, vivid"/>
+    </compound>
+    <compound id="3588" value="livs|stil" date="2011-03-03">
+      <translation value="lifestyle"/>
+    </compound>
+    <compound id="3589" value="liv|r&#xE4;ddare" date="2011-03-03">
+      <translation value="lifesaver"/>
+    </compound>
+    <compound id="3590" value="liv|aktig" date="2011-03-03">
+      <translation value="lively, active"/>
+    </compound>
+    <idiom id="860" value="ta livet av sig (&amp;quot;beg&#xE5; sj&#xE4;lvmord&amp;quot;)" date="2011-03-03">
+      <translation value="take one&amp;#39;s own life (&amp;quot;commit suicide&amp;quot;)"/>
+    </idiom>
+    <idiom id="861" value="vara vid liv (&amp;quot;vara levande&amp;quot;)" date="2011-03-03">
+      <translation value="be alive (&amp;quot;be living&amp;quot;)"/>
+    </idiom>
+    <idiom id="862" value="springa f&#xF6;r livet (&amp;quot;som om det g&#xE4;llde livet&amp;quot;)" date="2011-03-03">
+      <translation value="run for your life (&amp;quot;as if it were a matter of life and death&amp;quot;)"/>
+    </idiom>
+    <idiom id="863" value="aldrig i livet! (&amp;quot;inte under n&#xE5;gra omst&#xE4;ndigheter&amp;quot;)" date="2011-03-03">
+      <translation value="never in all my life! (&amp;quot;not under any circumstances&amp;quot;)"/>
+    </idiom>
+    <definition id="9696" value="det att leva, levnad" date="2011-03-03"/>
+  </word>
+  <word value="liv" lang="sv" class="nn" id="100680" lexinid="10068" origin="lexin" date="2011-03-03">
+    <translation id="9890" value="life" date="2011-03-03"/>
+    <phonetic value="li:v" soundFile="liv.swf" date="2011-03-03"/>
+    <paradigm id="8762" origin="lexin" date="2011-03-03">
+      <inflection value="livet"/>
+      <inflection value="liv"/>
+      <inflection value="liven"/>
+    </paradigm>
+    <synonym value="midja" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tumult" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;snas" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="liv||liv..1||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..2||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..3||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..4||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..5||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5484" value="det politiska livet" date="2011-03-03">
+      <translation value="political life"/>
+    </example>
+    <compound id="3591" value="kulturliv" date="2011-03-03">
+      <translation value="cultural life"/>
+    </compound>
+    <definition id="9697" value="verksamhet" date="2011-03-03"/>
+  </word>
+  <word value="liv" lang="sv" class="nn" id="100690" lexinid="10069" origin="lexin" date="2011-03-03">
+    <translation id="100690-9699" value="row" origin="user" date="2012-02-25T16:22:16"/>
+    <translation id="100690-9700" value="commotion" origin="user" date="2012-02-25T16:22:16"/>
+    <phonetic value="li:v" soundFile="liv.swf" date="2011-03-03"/>
+    <paradigm id="8763" origin="lexin" date="2011-03-03">
+      <inflection value="livet"/>
+      <inflection value="liv"/>
+      <inflection value="liven"/>
+    </paradigm>
+    <synonym value="oljud" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="rabalder" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="stoj" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="st&#xE5;hej" level="3.9" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;snas" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="liv||liv..1||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..2||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..3||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..4||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..5||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5485" value="liv och r&#xF6;relse" date="2011-03-03">
+      <translation value="hustle and bustle"/>
+    </example>
+    <example id="5486" value="f&#xF6;ra ett f&#xF6;rskr&#xE4;ckligt liv" date="2011-03-03">
+      <translation value="raise Cain"/>
+    </example>
+    <definition id="9698" value="livlighet; ov&#xE4;sen" date="2011-03-03"/>
+  </word>
+  <word value="liv" lang="sv" class="nn" id="100700" lexinid="10070" origin="lexin" date="2011-03-03">
+    <translation id="9892" value="waist" date="2011-03-03"/>
+    <phonetic value="li:v" soundFile="liv.swf" date="2011-03-03"/>
+    <paradigm id="8764" origin="lexin" date="2011-03-03">
+      <inflection value="livet"/>
+      <inflection value="liv"/>
+      <inflection value="liven"/>
+    </paradigm>
+    <synonym value="midja" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="liv||liv..1||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..2||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..3||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..4||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..5||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5487" value="h&#xE5;lla n&#xE5;gon om livet" date="2011-03-03">
+      <translation value="hold sby about the waist"/>
+    </example>
+    <compound id="3592" value="livtag" date="2011-03-03">
+      <translation value="waist-lock"/>
+    </compound>
+    <definition id="9699" value="midja" date="2011-03-03"/>
+  </word>
+  <word value="liv" lang="sv" class="nn" id="100710" lexinid="10071" origin="lexin" date="2011-03-03">
+    <translation id="9893" value="bodice" date="2011-03-03"/>
+    <phonetic value="li:v" soundFile="liv.swf" date="2011-03-03"/>
+    <paradigm id="8765" origin="lexin" date="2011-03-03">
+      <inflection value="livet"/>
+      <inflection value="liv"/>
+      <inflection value="liven"/>
+    </paradigm>
+    <synonym value="v&#xE4;snas" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="liv||liv..1||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..2||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..3||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..4||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="liv||liv..5||liv..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3593" value="blusliv" date="2011-03-03">
+      <translation value="waist"/>
+    </compound>
+    <definition id="9700" value="den del av ett kl&#xE4;desplagg som r&#xE4;cker fr&#xE5;n halsen till midjan" date="2011-03-03">
+      <translation value="waist-hold, waist-lock"/>
+    </definition>
+  </word>
+  <word value="animation" lang="en" class="nn" id="14071" origin="lexin" date="2009-02-24">
+    <translation id="14071-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="14071-2" value="livlighet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bustle" lang="en" class="nn" id="61731" origin="lexin" date="2009-02-24">
+    <translation id="61731-1" value="br&#xE5;dska" origin="lexin" date="2009-02-24"/>
+    <translation id="61731-2" value="j&#xE4;kt" origin="lexin" date="2009-02-24"/>
+    <translation id="61731-3" value="fl&#xE4;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="61731-4" value="larm" origin="lexin" date="2009-02-24"/>
+    <translation id="61731-5" value="liv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="carcass" lang="en" class="nn" id="67021" origin="lexin" date="2009-02-24">
+    <translation id="67021-1" value="lekamen" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="67021-2" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="67021-3" value="livhank" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="carrying-on" lang="en" class="nn" id="68211" origin="lexin" comment="informellt" date="2009-02-24">
+    <variant value="carryings-on" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="68211-1" value="st&#xE5;hej" origin="lexin" date="2009-02-24"/>
+    <translation id="68211-2" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="68211-3" value="ov&#xE4;sen" origin="lexin" date="2009-02-24"/>
+    <example id="68211-4" value="they couldn&amp;#39;t sleep because of all the carryings-on in the street outside" origin="lexin" date="2009-02-24">
+      <translation value="de kunde inte sova p&#xE5; grund av allt ov&#xE4;sen p&#xE5; gatan utanf&#xF6;r dem" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="carryings-on" lang="en" class="nn" id="68221" origin="lexin" date="2009-02-24">
+    <variant value="carrying-on" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="68221-1" value="st&#xE5;hej" origin="lexin" date="2009-02-24"/>
+    <translation id="68221-2" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="68221-3" value="ov&#xE4;sen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="existence" lang="en" class="nn" id="164561" origin="lexin" date="2009-02-24">
+    <translation id="164561-1" value="existens" origin="lexin" date="2009-02-24"/>
+    <translation id="164561-2" value="tillvaro" origin="lexin" date="2009-02-24"/>
+    <translation id="164561-3" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="164561-4" value="f&#xF6;rekomst" origin="lexin" date="2009-02-24"/>
+    <translation id="164561-5" value="f&#xF6;rs&#xF6;rjning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="life" lang="en" class="nn" id="256111" origin="lexin" date="2009-02-24">
+    <translation id="256111-1" value="existens" origin="lexin" date="2009-02-24"/>
+    <translation id="256111-2" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="256111-3" value="tillvaro" origin="lexin" date="2009-02-24"/>
+    <translation id="256111-4" value="det att vara vid liv" origin="lexin" date="2009-02-24"/>
+    <paradigm id="256111-9" origin="lexin" date="2009-02-24">
+      <inflection value="lives" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="256111-7" value="how many lives were lost in the war?" origin="lexin" date="2009-02-24">
+      <translation value="hur m&#xE5;nga dog i kriget?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="256111-8" value="the managed to bring her back to life" origin="lexin" date="2009-02-24">
+      <translation value="de lyckades f&#xE5; liv i henne igen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="256111-5" value="a matter of life and death" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;got som g&#xE4;ller livet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256111-6" value="run for your life!" origin="lexin" date="2009-02-24">
+      <translation value="spring f&#xF6;r livet!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="life" lang="en" class="nn" id="256131" origin="lexin" date="2009-02-24">
+    <translation id="256131-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <example id="256131-12" value="there is hardly any life in this plant" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r knappt n&#xE5;got liv i den h&#xE4;r v&#xE4;xten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="256131-2" value="(as) large as life" origin="lexin" date="2009-02-24">
+      <translation value="i egen h&#xF6;g person" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-3" value="come/bring to life" origin="lexin" date="2009-02-24">
+      <translation value="&#xE5;terf&#xE5; medvetandet, f&#xE5; att kvickna till" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-4" value="come/bring to life" origin="lexin" date="2009-02-24">
+      <translation value="visa intresse, nyfikenhet etcetera, v&#xE4;cka intresse, nyfikenhet etcetera" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-5" value="for dear life" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r brinnande livet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-6" value="for the life of one" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r ens live, trots alla f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-7" value="not on your life!" origin="lexin" date="2009-02-24">
+      <translation value="absolut inte!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-8" value="take one&amp;#39;s (own) life" origin="lexin" date="2009-02-24">
+      <translation value="ta livet av sig (formellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-9" value="take one&amp;#39;s life in one&amp;#39;s (own) hands" origin="lexin" date="2009-02-24">
+      <translation value="riskera livet (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-10" value="take one&amp;#39;s life in one&amp;#39;s (own) hands" origin="lexin" date="2009-02-24">
+      <translation value="ta kontrollen &#xF6;ver sitt liv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="256131-11" value="take somone&amp;#39;s life" origin="lexin" date="2009-02-24">
+      <translation value="ta livet av n&#xE5;gon(formellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="ej i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="life" lang="en" class="nn" id="256141" origin="lexin" date="2009-02-24">
+    <translation id="256141-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="256141-2" value="ens hela liv" origin="lexin" date="2009-02-24"/>
+    <example id="256141-3" value="my work is my life" origin="lexin" date="2009-02-24">
+      <translation value="jag lever f&#xF6;r mitt arbete" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ej i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="life" lang="en" class="nn" id="256151" origin="lexin" date="2009-02-24">
+    <translation id="256151-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="256151-2" value="levande materia" origin="lexin" date="2009-02-24"/>
+    <example id="256151-3" value="do you believe there is life on the moon?" origin="lexin" date="2009-02-24">
+      <translation value="tror du att det finns liv p&#xE5; m&#xE5;nen?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ej i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="life" lang="en" class="nn" id="256161" origin="lexin" date="2009-02-24">
+    <translation id="256161-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="256161-2" value="sj&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <translation id="256161-3" value="eldsj&#xE4;l" comment="endast i fasta uttryck" origin="lexin" date="2009-02-24"/>
+    <idiom id="256161-4" value="be the life and soul of the party" origin="lexin" date="2009-02-24">
+      <translation value="vara den som f&#xE5;r fart p&#xE5; festen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="alltid med best&#xE4;md artikel och i singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="life" lang="en" class="nn" id="256181" origin="lexin" date="2009-02-24">
+    <translation id="256181-1" value="livsf&#xF6;ring" origin="lexin" date="2009-02-24"/>
+    <translation id="256181-2" value="leverne" origin="lexin" date="2009-02-24"/>
+    <translation id="256181-3" value="liv" comment="om viss del av ens existens" origin="lexin" date="2009-02-24"/>
+    <paradigm id="256181-5" origin="lexin" date="2009-02-24">
+      <inflection value="lives" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="256181-4" value="my working life is going well" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r framg&#xE5;ngsrik i mitt yrke" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="life" lang="en" class="nn" id="256191" origin="lexin" date="2009-02-24">
+    <translation id="256191-1" value="livsf&#xF6;ring" origin="lexin" date="2009-02-24"/>
+    <translation id="256191-2" value="leverne" origin="lexin" date="2009-02-24"/>
+    <translation id="256191-3" value="liv" comment="om viss typ av existens" origin="lexin" date="2009-02-24"/>
+    <paradigm id="256191-6" origin="lexin" date="2009-02-24">
+      <inflection value="lives" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="256191-4" value="she certainly enjoys married life" origin="lexin" date="2009-02-24">
+      <translation value="hon njuter verkligen av att vara gift" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="256191-5" value="they led a very quiet life in the country" origin="lexin" date="2009-02-24">
+      <translation value="de levde ett mycket stillsamt liv p&#xE5; landet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="living" lang="en" class="nn" id="259451" origin="lexin" date="2009-02-24">
+    <translation id="259451-1" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="259451-2" value="livss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="259451-3" value="This is typical of urban living." origin="lexin" date="2009-02-24">
+      <translation value="Det h&#xE4;r &#xE4;r typiskt f&#xF6;r livet i stan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The qualities of peoples lives." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="row" lang="en" class="nn" id="366021" origin="lexin" date="2009-02-24">
+    <translation id="366021-1" value="v&#xE4;sen" origin="lexin" date="2009-02-24"/>
+    <translation id="366021-2" value="br&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="366021-3" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="366021-4" value="ov&#xE4;sen" origin="lexin" date="2009-02-24"/>
+    <translation id="366021-5" value="stoj" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="spirit" lang="en" class="nn" id="392691" origin="lexin" date="2009-02-24">
+    <translation id="392691-1" value="kraft" origin="lexin" date="2009-02-24"/>
+    <translation id="392691-2" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="392691-3" value="fart" origin="lexin" date="2009-02-24"/>
+    <translation id="392691-4" value="energi" origin="lexin" date="2009-02-24"/>
+    <translation id="392691-5" value="gnista" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="verve" lang="en" class="nn" id="436621" origin="lexin" date="2009-02-24">
+    <translation id="436621-1" value="fart" origin="lexin" date="2009-02-24"/>
+    <translation id="436621-2" value="fl&#xE4;kt" origin="lexin" date="2009-02-24"/>
+    <translation id="436621-3" value="kl&#xE4;m" origin="lexin" date="2009-02-24"/>
+    <translation id="436621-4" value="liv" origin="lexin" date="2009-02-24"/>
+    <translation id="436621-5" value="schvung" origin="lexin" date="2009-02-24"/>
+    <explanation value="great skill, brilliance" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="169670" lang="sv" lexinid="16968" origin="lexin" value="spelare">
+    <translation date="2011-03-03" id="16669" value="player"/>
+    <phonetic date="2011-03-03" soundFile="spelare.swf" value="&#xB2;spE:lare"/>
+    <paradigm date="2011-03-03" id="14815" origin="lexin">
+      <inflection value="spelaren"/>
+      <inflection value="spelare"/>
+      <inflection value="spelarna"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.9" origin="synlex" value="lirare"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spelare||spelare..1||spelare..nn.1"/>
+    <compound date="2011-03-03" id="5816" value="landslagsspelare">
+      <translation value="international player"/>
+    </compound>
+    <definition date="2011-03-03" id="16430" value="person som spelar"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="20/sport.swf"/>
+  </word>
+  <word value="player" lang="en" class="nn" id="321771" lexinid="163" origin="lexin" date="2009-02-24">
+    <translation id="321771-1" value="spelare" origin="lexin" date="2009-02-24"/>
+    <translation id="321771-2" value="spelande" origin="lexin" date="2009-02-24"/>
+    <translation id="321771-3" value="lekande" origin="lexin" date="2009-02-24"/>
+    <translation id="321771-4" value="deltagare" origin="lexin" date="2009-02-24"/>
+    <translation id="321771-5" value="akt&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="321771-6" value="sk&#xE5;despelare" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

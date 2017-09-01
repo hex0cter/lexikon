@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ber&#xE4;tta" lang="sv" class="vb" id="15910" lexinid="1591" origin="lexin" date="2011-03-03">
+    <translation id="15910-1548" value="relate" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="15910-1549" value="tell" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="15910-1550" value="narrate" origin="user" date="2012-01-14T23:15:29"/>
+    <phonetic value="berEt:ar" soundFile="ber&#xE4;ttar.swf" date="2011-03-03"/>
+    <paradigm id="1365" origin="lexin" date="2011-03-03">
+      <inflection value="ber&#xE4;ttade"/>
+      <inflection value="ber&#xE4;ttat"/>
+      <inflection value="ber&#xE4;tta"/>
+      <inflection value="ber&#xE4;ttar"/>
+    </paradigm>
+    <synonym value="delge" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rt&#xE4;lja" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="informera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="kl&#xE4;cka ur sig" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="meddela" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="redog&#xF6;ra" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="skriva" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="s&#xE4;ga" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tala om" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="ber&#xE4;tta||ber&#xE4;tta..1||ber&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1011" value="ber&#xE4;tta en saga" date="2011-03-03">
+      <translation value="tell a story"/>
+    </example>
+    <example id="1012" value="jag kan ber&#xE4;tta att myndigheterna nu lyssnar p&#xE5; v&#xE5;ra krav" date="2011-03-03">
+      <translation value="I can inform you that the authorities are now prepared to take our demands into consideration"/>
+    </example>
+    <example id="1013" value="ber&#xE4;tta om n&#xE4;r du var liten!" date="2011-03-03">
+      <translation value="tell us about your childhood!"/>
+    </example>
+    <definition id="1547" value="tala om, meddela, skildra, beskriva" date="2011-03-03">
+      <translation value="inform, describe"/>
+    </definition>
+    <grammar value="A &amp; (om) x/att+SATS" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

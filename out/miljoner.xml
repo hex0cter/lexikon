@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="110320" lang="sv" lexinid="11032" origin="lexin" value="miljon">
+    <translation date="2011-03-03" id="10838" value="million"/>
+    <phonetic date="2011-03-03" soundFile="miljon.swf" value="miljO:n"/>
+    <paradigm date="2011-03-03" id="9605" origin="lexin">
+      <inflection value="miljonen"/>
+      <inflection value="miljoner"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="miljon||miljon..2||miljon..nn.1"/>
+    <example date="2011-03-03" id="5974" value="en miljon kronor">
+      <translation value="one million kronor"/>
+    </example>
+    <example date="2011-03-03" id="5975" value="under miljoner &#xE5;r">
+      <translation value="for millions of years"/>
+    </example>
+    <definition date="2011-03-03" id="10635" value="1 000 000"/>
+  </word>
+  <word value="miljoner" lang="sv" class="nn" id="267270" origin="user" date="2012-07-17T02:40:18">
+    <translation id="267270-1" value="millions" origin="user" date="2012-07-17T02:40:20"/>
+  </word>
+</definition>

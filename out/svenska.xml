@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="svensk" lang="sv" class="jj" id="179790" lexinid="17980" origin="lexin" date="2011-03-03">
+    <translation id="17662" value="Swedish" date="2011-03-03"/>
+    <phonetic value="sven:sk" soundFile="svensk.swf" date="2011-03-03"/>
+    <paradigm id="15721" origin="lexin" date="2011-03-03">
+      <inflection value="svenskt"/>
+      <inflection value="svenska"/>
+    </paradigm>
+    <see value="svensk||svensk..1||svensk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="svensk||svensk..3||svensk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10158" value="svensk medborgare" date="2011-03-03">
+      <translation value="Swedish citizen"/>
+    </example>
+    <definition id="17381" value="som avser Sverige eller svenska spr&#xE5;ket" date="2011-03-03"/>
+  </word>
+  <word value="svenska" lang="sv" class="nn" id="179810" lexinid="17982" origin="lexin" date="2011-03-03">
+    <translation id="17664" value="Swedish" date="2011-03-03"/>
+    <phonetic value="&#xB2;svEn:ska" soundFile="svenska.swf" date="2011-03-03"/>
+    <paradigm id="15723" origin="lexin" date="2011-03-03">
+      <inflection value="svenskan"/>
+    </paradigm>
+    <synonym value="svenska spr&#xE5;ket" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="svenska||svenska..1||svenska..nn.1" type="saldo" origin="saldo" date="2014-10-11T03:01:13"/>
+    <compound id="6139" value="svensk|undervisning" date="2011-03-03">
+      <translation value="Swedish language training"/>
+    </compound>
+    <definition id="17383" value="huvudspr&#xE5;ket i Sverige" date="2011-03-03"/>
+  </word>
+  <word value="svenska" lang="sv" class="nn" id="179820" lexinid="17983" origin="lexin" date="2011-03-03">
+    <translation id="179820-17385" value="Swede" origin="user" date="2015-04-30T03:48:19"/>
+    <phonetic value="&#xB2;svEn:ska" soundFile="svenska.swf" date="2011-03-03"/>
+    <paradigm id="15724" origin="lexin" date="2011-03-03">
+      <inflection value="svenskan"/>
+      <inflection value="svenskor"/>
+    </paradigm>
+    <see value="svenska||svenska..1||svenska..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="svenska||svenska..2||svenska..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="17384" value="svensk kvinna" date="2011-03-03"/>
+  </word>
+  <word value="Swede" lang="en" class="nn" id="409181" origin="lexin" date="2009-02-24">
+    <translation id="409181-1" value="svenska" origin="lexin" date="2009-02-24"/>
+    <explanation value="kvinnlig person fr&#xE5;n Sverige" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Swedish" lang="en" class="nn" id="409281" lexinid="18" origin="lexin" date="2009-02-24">
+    <translation id="409281-1" value="svenska" origin="lexin" date="2009-02-24"/>
+    <translation id="409281-2" value="svenska spr&#xE5;ket" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="revitalization" lang="en" id="506281" origin="user" date="2013-05-24T01:03:13">
+    <translation id="506281-1" value="svenska" origin="user" date="2013-05-24T01:03:13"/>
+  </word>
+  <word value="distillation" lang="en" id="543971" origin="user" date="2015-11-19T05:19:19">
+    <translation id="543971-1" value="svenska" origin="user" date="2015-11-19T05:19:21"/>
+    <translation id="543971-2" value="destillering" origin="user" date="2016-05-16T04:16:24"/>
+  </word>
+</definition>

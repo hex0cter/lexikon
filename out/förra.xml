@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="56210" lang="sv" lexinid="5621" origin="lexin" value="f&#xF6;rra">
+    <translation date="2011-03-03" id="5532" value="former"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;rra.swf" value="&#xB2;f&#xD6;r:a"/>
+    <paradigm date="2011-03-03" id="4869" origin="lexin">
+      <inflection value="f&#xF6;rre"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;rutvarande"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="tidigare"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;rra||f&#xF6;rra..1||f&#xF6;rra..av.1"/>
+    <example date="2011-03-03" id="3287" value="den f&#xF6;rre presidenten">
+      <translation value="the former president"/>
+    </example>
+    <example date="2011-03-03" id="3288" value="i f&#xF6;rra veckan">
+      <translation value="last week"/>
+    </example>
+    <definition date="2011-03-03" id="5413" value="f&#xF6;rutvarande; tidigare"/>
+  </word>
+  <word value="former" lang="en" class="jj" id="183071" origin="lexin" date="2009-02-24">
+    <translation id="183071-1" value="f&#xF6;rre" origin="lexin" date="2009-02-24"/>
+    <translation id="183071-2" value="f&#xF6;rra" origin="lexin" date="2009-02-24"/>
+    <translation id="183071-3" value="f.d." origin="lexin" date="2009-02-24"/>
+    <translation id="183071-4" value="ex-" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="old" lang="en" class="jj" id="293691" origin="lexin" date="2009-02-24">
+    <translation id="293691-1" value="f&#xF6;re detta" origin="lexin" date="2009-02-24"/>
+    <translation id="293691-2" value="gammal" origin="lexin" date="2009-02-24"/>
+    <translation id="293691-3" value="forna" origin="lexin" date="2009-02-24"/>
+    <translation id="293691-4" value="f&#xF6;rra" origin="lexin" date="2009-02-24"/>
+    <example id="293691-5" value="I got my old job back" origin="lexin" date="2009-02-24">
+      <translation value="jag fick tillbaka mitt gamla jobb" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ingen komparation" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="previous" lang="en" class="jj" id="332401" origin="lexin" date="2009-02-24">
+    <translation id="332401-1" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="332401-2" value="f&#xF6;rra" origin="lexin" date="2009-02-24"/>
+    <example id="332401-3" value="A child from a previous marriage." origin="lexin" date="2009-02-24">
+      <translation value="Ett barn fr&#xE5;n ett tidigare &#xE4;ktenskap." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A previous event, condition or time occurred before the present one." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

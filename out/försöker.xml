@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;rs&#xF6;ka" lang="sv" class="vb" id="57650" lexinid="5765" origin="lexin" date="2011-03-03">
+    <translation id="57650-5553" value="try" origin="user" date="2012-01-18T00:49:50"/>
+    <translation id="57650-5554" value="attempt" origin="user" date="2012-01-18T00:49:50"/>
+    <phonetic value="f&#xF6;r+s&#xD6;:ker" soundFile="f&#xF6;rs&#xF6;ker.swf" date="2011-03-03"/>
+    <paradigm id="4995" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rs&#xF6;kte"/>
+      <inflection value="f&#xF6;rs&#xF6;kt"/>
+      <inflection value="f&#xF6;rs&#xF6;k"/>
+      <inflection value="f&#xF6;rs&#xF6;ka"/>
+      <inflection value="f&#xF6;rs&#xF6;ker"/>
+    </paradigm>
+    <synonym value="prova" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="pr&#xF6;va" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="testa" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rs&#xF6;ka||f&#xF6;rs&#xF6;ka..1||f&#xF6;rs&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3382" value="han f&#xF6;rs&#xF6;ker visa vad han kan" date="2011-03-03">
+      <translation value="he tries to show what he can do"/>
+    </example>
+    <definition id="5552" value="anstr&#xE4;nga sig att &#xE5;stadkomma n&#xE5;got" date="2011-03-03"/>
+    <grammar value="A &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

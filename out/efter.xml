@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="37060" lang="sv" lexinid="3706" origin="lexin" value="efter">
+    <translation date="2011-03-03" id="3653" value="after, next, following"/>
+    <use date="2011-03-03" value="mest som verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="efter.swf" value="Ef:ter"/>
+    <synonym date="2011-03-03" id="4" value="following in time"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="postumt"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="efter||efter..4||efter..ab.1"/>
+    <example date="2011-03-03" id="2183" value="t&#xE4;nka efter">
+      <translation value="consider, reflect, think"/>
+    </example>
+    <example date="2011-03-03" id="2184" value="ge efter (f&#xF6;r)">
+      <translation value="give way (to), yield (to)"/>
+    </example>
+    <example date="2011-03-03" id="2185" value="han d&#xF6;k upp dagen efter och bad om urs&#xE4;kt">
+      <translation value="he turned up the next day and apologized"/>
+    </example>
+    <see date="2011-03-03" id="37080" origin="lexin" type="compare" value="efter"/>
+  </word>
+  <word class="kn" comment="vardagligt" date="2011-03-03" id="37070" lang="sv" lexinid="3707" origin="lexin" value="efter">
+    <translation comment="informal" date="2011-03-03" id="3654" value="after"/>
+    <phonetic date="2011-03-03" soundFile="efter.swf" value="(2)Ef:ter"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="postumt"/>
+    <example date="2011-03-03" id="2186" value="efter det att jag hade g&#xE5;tt b&#xF6;rjade festen">
+      <translation value="the party began after I had left"/>
+    </example>
+    <definition date="2011-03-03" id="3566" value="sedan">
+      <translation value="later in time than"/>
+    </definition>
+  </word>
+  <word value="efter" lang="sv" class="pp" id="37080" lexinid="3708" origin="lexin" comment="bildligt &amp;quot;i enlighet med&amp;quot;" date="2011-03-03">
+    <translation id="37080-3568" value="after" origin="user" date="2012-04-19T03:30:40"/>
+    <translation id="37080-3569" value="later" origin="user" date="2012-04-19T03:30:40"/>
+    <phonetic value="(2)Ef:ter" soundFile="efter.swf" date="2011-03-03"/>
+    <synonym value="postumt" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="efter||efter..1||efter..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="efter||efter..2||efter..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2187" value="efter kriget" date="2011-03-03">
+      <translation value="after the war"/>
+    </example>
+    <example id="2188" value="han stod efter mig i k&#xF6;n" date="2011-03-03">
+      <translation value="he stood behind me in the queue"/>
+    </example>
+    <example id="2189" value="han kom tillbaka efter en timme" date="2011-03-03">
+      <translation value="he came back an hour later"/>
+    </example>
+    <example id="2190" value="han kom efter det att festen hade b&#xF6;rjat" date="2011-03-03"/>
+    <example id="2191" value="&#xE5;r efter &#xE5;r" date="2011-03-03">
+      <translation value="year after year"/>
+    </example>
+    <example id="2192" value="st&#xE4;da efter sig" date="2011-03-03">
+      <translation value="to clean up after oneself"/>
+    </example>
+    <idiom id="280" value="anpassa sig efter (n&#xE5;gons &#xF6;nskem&#xE5;l)" date="2011-03-03">
+      <translation value="adapt to (sby&amp;#39;s wishes)"/>
+    </idiom>
+    <idiom id="281" value="sjunga efter noter" date="2011-03-03">
+      <translation value="sight-read"/>
+    </idiom>
+    <definition id="3567" value="senare &#xE4;n; bakom" date="2011-03-03"/>
+  </word>
+  <word value="efter" lang="sv" class="pp" id="37090" lexinid="3709" origin="lexin" date="2011-03-03">
+    <translation id="3656" value="for" date="2011-03-03"/>
+    <phonetic value="Ef:ter" soundFile="efter.swf" date="2011-03-03"/>
+    <see value="efter||efter..2||efter..pp.1" type="saldo" origin="saldo" date="2015-01-11T05:14:56"/>
+    <example id="2193" value="l&#xE4;ngta efter (n&#xE5;gon)" date="2011-03-03">
+      <translation value="long for (sby)"/>
+    </example>
+    <example id="2194" value="s&#xF6;ka efter (n&#xE5;gon)" date="2011-03-03">
+      <translation value="look for (sby)"/>
+    </example>
+    <example id="2195" value="str&#xE4;va efter (att)" date="2011-03-03">
+      <translation value="strive for, aim at"/>
+    </example>
+    <example id="2196" value="jag &#xE4;r p&#xE5; jakt efter en ny cykel" date="2011-03-03">
+      <translation value="I am looking for a new bicycle"/>
+    </example>
+    <example id="2197" value="ringa efter polisen" date="2011-03-03">
+      <translation value="ring for the police"/>
+    </example>
+    <definition id="3568" value="f&#xF6;r att finna; med avseende p&#xE5;" date="2011-03-03"/>
+  </word>
+  <word value="according to" lang="en" class="pp" id="3021" origin="lexin" date="2009-02-24">
+    <translation id="3021-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-2" value="i enlighet med" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-3" value="alltefter" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-4" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="after" lang="en" class="ab" id="7971" origin="lexin" date="2009-02-24">
+    <translation id="7971-1" value="efter" comment="rum" origin="lexin" date="2009-02-24"/>
+    <translation id="7971-2" value="bakom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="after" lang="en" class="pp" id="7981" origin="lexin" date="2009-02-24">
+    <translation id="7981-1" value="efter" comment="rum" origin="lexin" date="2009-02-24"/>
+    <translation id="7981-2" value="bakom" origin="lexin" date="2009-02-24"/>
+    <translation id="7981-3" value="n&#xE4;st" origin="lexin" date="2009-02-24"/>
+    <example id="7981-4" value="her name comes after mine in the list" origin="lexin" date="2009-02-24">
+      <translation value="hennes namn kommer efter mitt i listan" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="after" lang="en" class="pp" id="8001" origin="lexin" date="2009-02-24">
+    <translation id="8001-1" value="efter" comment="tid" origin="lexin" date="2009-02-24"/>
+    <example id="8001-2" value="there is just one complication after another" origin="lexin" date="2009-02-24">
+      <translation value="det uppst&#xE5;r hela tiden nya komplikationer" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="after" lang="en" class="ab" id="8011" origin="lexin" date="2009-02-24">
+    <translation id="8011-1" value="efter" comment="tid" origin="lexin" date="2009-02-24"/>
+    <translation id="8011-2" value="efter&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="8011-3" value="senare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="after" lang="en" class="pp" id="8021" origin="lexin" date="2009-02-24">
+    <translation id="8021-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <example id="8021-2" value="I&amp;#39;ll clean my room after lunch" origin="lexin" date="2009-02-24">
+      <translation value="jag ska st&#xE4;da mitt rum efter lunch" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="8021-3" value="it&amp;#39;s ten after eleven" origin="lexin" date="2009-02-24">
+      <translation value="klockan &#xE4;r tio &#xF6;ver elva (amerikansk engelska)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="after" lang="en" class="kn" id="8031" origin="lexin" date="2009-02-24">
+    <translation id="8031-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="8031-2" value="efter att" origin="lexin" date="2009-02-24"/>
+    <translation id="8031-3" value="efter det att" origin="lexin" date="2009-02-24"/>
+    <translation id="8031-4" value="sedan" origin="lexin" date="2009-02-24"/>
+    <example id="8031-5" value="the party began after I had left" origin="lexin" date="2009-02-24">
+      <translation value="efter det att jag hade g&#xE5;tt b&#xF6;rjade festen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="later in time than" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="after" lang="en" class="pp" id="8041" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="8041-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="8041-2" value="i likhet med" origin="lexin" date="2009-02-24"/>
+    <translation id="8041-3" value="i j&#xE4;mf&#xF6;relse med" origin="lexin" date="2009-02-24"/>
+    <example id="8041-5" value="this is a novel after Hemingway" origin="lexin" date="2009-02-24">
+      <translation value="detta &#xE4;r en roman i Hemingwaystil" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="8041-4" value="after one&amp;#39;s own heart" origin="lexin" date="2009-02-24">
+      <translation value="av samma typ som en sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="after" lang="en" class="pp" id="8091" origin="lexin" date="2009-02-24">
+    <translation id="8091-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <example id="8091-2" value="I was named after my mother" origin="lexin" date="2009-02-24">
+      <translation value="jag heter efter min mor" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="back" lang="en" class="ab" id="27441" origin="lexin" date="2009-02-24">
+    <translation id="27441-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="27441-2" value="i efterhand" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="behind" lang="en" class="ab" id="38131" origin="lexin" date="2009-02-24">
+    <translation id="38131-1" value="bak" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-2" value="bakom" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-3" value="bakp&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-4" value="baktill" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-5" value="bak&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-6" value="tillbaka" origin="lexin" date="2009-02-24"/>
+    <translation id="38131-7" value="efter" origin="lexin" date="2009-02-24"/>
+    <idiom id="38131-8" value="be behind with something" origin="lexin" date="2009-02-24">
+      <translation value="vara efter med n&#xE5;got, vara f&#xF6;rsenad med n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="38131-9" value="fall behind with something" origin="lexin" date="2009-02-24">
+      <translation value="bli efter med n&#xE5;got, sl&#xE4;pa efter med n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="baktill, p&#xE5; ryggsidan, p&#xE5; baksidan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="behind" lang="en" class="pp" id="38141" origin="lexin" date="2009-02-24">
+    <translation id="38141-1" value="bakom" origin="lexin" date="2009-02-24"/>
+    <translation id="38141-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <idiom id="38141-3" value="be behind schedule" origin="lexin" date="2009-02-24">
+      <translation value="ligga efter, vara f&#xF6;rsenad" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="38141-4" value="be behind somebody all the way" origin="lexin" date="2009-02-24">
+      <translation value="st&#xF6;dja n&#xE5;gon fullt ut, st&#xE5; bakom n&#xE5;gon helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="38141-5" value="be behind something" origin="lexin" date="2009-02-24">
+      <translation value="ligga bakom n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="38141-6" value="be behind the times" origin="lexin" date="2009-02-24">
+      <translation value="vara gammalmodig, vara efter" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="behind-hand" lang="en" class="jj" id="38151" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="38151-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="38151-2" value="p&#xE5; efterk&#xE4;lken" origin="lexin" date="2009-02-24"/>
+    <translation id="38151-3" value="efterbliven" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="beyond" lang="en" class="pp" id="40521" origin="lexin" date="2009-02-24">
+    <translation id="40521-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="40521-2" value="senare &#xE4;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="following" lang="en" class="pp" id="181211" origin="lexin" date="2009-02-24">
+    <translation id="181211-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="181211-2" value="omedelbart efter" origin="lexin" date="2009-02-24"/>
+    <translation id="181211-3" value="till f&#xF6;ljd av" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="for" lang="en" class="pp" id="181701" origin="lexin" date="2009-02-24">
+    <translation id="181701-1" value="f&#xF6;r att f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="181701-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="181701-3" value="om" origin="lexin" date="2009-02-24"/>
+    <example id="181701-4" value="I&amp;#39;m asking you for a favour" origin="lexin" date="2009-02-24">
+      <translation value="jag ber dig om en tj&#xE4;nst" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="from" lang="en" class="pp" id="186881" origin="lexin" date="2009-02-24">
+    <translation id="186881-1" value="efter" comment="om m&#xF6;nster och f&#xF6;rebild" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="from" lang="en" class="pp" id="186891" origin="lexin" date="2009-02-24">
+    <translation id="186891-1" value="p&#xE5; grund av" comment="om orsak och motiv" origin="lexin" date="2009-02-24"/>
+    <translation id="186891-2" value="att d&#xF6;ma av" origin="lexin" date="2009-02-24"/>
+    <translation id="186891-3" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292631" origin="lexin" date="2009-02-24">
+    <translation id="292631-1" value="av" comment="i uttryck med objektiv genitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-4" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-5" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-6" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292651" origin="lexin" date="2009-02-24">
+    <translation id="292651-1" value="i" comment="i uttryck som betecknar f&#xF6;rbindelse, &#xE4;gande" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-3" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-4" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-5" value="vid" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-6" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-7" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-8" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-9" value="som tillh&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292671" origin="lexin" date="2009-02-24">
+    <translation id="292671-1" value="om" comment="i uttryck som betecknar l&#xE4;ge, utg&#xE5;ngspunkt, avskiljande, ber&#xF6;vande" origin="lexin" date="2009-02-24"/>
+    <translation id="292671-2" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292671-3" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="on" lang="en" class="pp" id="294181" origin="lexin" date="2009-02-24">
+    <translation id="294181-1" value="efter" comment="i tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="294181-2" value="omedelbart efter" comment="i tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="294181-3" value="vid" origin="lexin" date="2009-02-24"/>
+    <example id="294181-4" value="on my father&amp;#39;s death" origin="lexin" date="2009-02-24">
+      <translation value="omedelbart efter min fars d&#xF6;d" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="pp" id="294191" origin="lexin" date="2009-02-24">
+    <translation id="294191-1" value="efter" comment="i tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="294191-2" value="vid" comment="och till f&#xF6;ljd av" origin="lexin" date="2009-02-24"/>
+    <example id="294191-3" value="on hearing this she changed her mind" origin="lexin" date="2009-02-24">
+      <translation value="d&#xE5; hon fick h&#xF6;ra detta, &#xE4;ndrade hon sig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="pp" id="294211" origin="lexin" date="2009-02-24">
+    <translation id="294211-1" value="p&#xE5;" comment="vid upprepningar" origin="lexin" date="2009-02-24"/>
+    <translation id="294211-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <example id="294211-3" value="loss on loss" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rlust p&#xE5; f&#xF6;rlust" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="pp" id="294221" origin="lexin" date="2009-02-24">
+    <translation id="294221-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="294221-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <example id="294221-3" value="on this principle" origin="lexin" date="2009-02-24">
+      <translation value="enligt den h&#xE4;r principen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="past" lang="en" class="pp" id="307751" origin="lexin" date="2009-02-24">
+    <translation id="307751-1" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="307751-2" value="&#xF6;ver" comment="om tid" origin="lexin" date="2009-02-24"/>
+    <example id="307751-3" value="it&amp;#39;s half past seven" origin="lexin" date="2009-02-24">
+      <translation value="klockan &#xE4;r halv &#xE5;tta" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="307751-4" value="she must be past seventy" origin="lexin" date="2009-02-24">
+      <translation value="hon m&#xE5;ste vara &#xF6;ver sjuttio" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="to" lang="en" class="pp" id="420781" origin="lexin" date="2009-02-24">
+    <translation id="420781-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="420781-2" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

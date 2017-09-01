@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="samt" lang="sv" class="kn" id="151190" lexinid="15120" origin="lexin" comment="anv&#xE4;nds som variant till &amp;quot;och&amp;quot; i slutet av en uppr&#xE4;kning" date="2011-03-03">
+    <translation id="14853" value="and" comment="in Swedish, used as a variant of &amp;quot;och&amp;quot; (&amp;quot;and&amp;quot;) at the end of a list" date="2011-03-03"/>
+    <translation id="151190-14647" value="as well as" origin="user" date="2012-11-06T05:05:21"/>
+    <phonetic value="sam:t" soundFile="samt.swf" date="2011-03-03"/>
+    <synonym value="d&#xE4;rtill" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="och" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="ocks&#xE5;" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ven" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="samt||samt..1||samt..kn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8587" value="ta med v&#xE4;nner och bekanta samt mats&#xE4;ck" date="2011-03-03">
+      <translation value="bring along your friends and sth. to eat"/>
+    </example>
+    <definition id="14646" value="och" date="2011-03-03"/>
+  </word>
+  <word value="plus" lang="en" class="pp" id="323651" origin="lexin" date="2009-02-24">
+    <translation id="323651-1" value="samt" comment="informellt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="auctioneer" lang="en" class="kn" id="451041" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="451041-1" value="samt" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

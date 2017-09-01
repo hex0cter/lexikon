@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="29850" lang="sv" lexinid="2985" origin="lexin" value="debatt">
+    <translation date="2011-03-03" id="2945" value="debate"/>
+    <phonetic date="2011-03-03" soundFile="debatt.swf" value="debAt:"/>
+    <paradigm date="2011-03-03" id="2612" origin="lexin">
+      <inflection value="debatten"/>
+      <inflection value="debatter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="diskussion"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="debatt||debatt..1||debatt..nn.1"/>
+    <example date="2011-03-03" id="1697" value="den politiska debatten">
+      <translation value="the political debate"/>
+    </example>
+    <example date="2011-03-03" id="1698" value="livlig (el. intensiv) debatt">
+      <translation value="lively (or intense) debate"/>
+    </example>
+    <example date="2011-03-03" id="1699" value="v&#xE4;cka debatt">
+      <translation value="raise a debate"/>
+    </example>
+    <compound date="2011-03-03" id="1062" value="debatt|bok">
+      <translation value="controversial book"/>
+    </compound>
+    <compound date="2011-03-03" id="1063" inflection="debatt|inl&#xE4;gget" value="debatt|inl&#xE4;gg">
+      <translation value="contribution to a debate"/>
+    </compound>
+    <compound date="2011-03-03" id="1064" value="kulturdebatt">
+      <translation value="cultural debate"/>
+    </compound>
+    <definition date="2011-03-03" id="2887" value="meningsutbyte, diskussion">
+      <translation value="exchange of ideas; discussion"/>
+    </definition>
+  </word>
+  <word value="debate" lang="en" class="nn" id="119901" origin="lexin" date="2009-02-24">
+    <translation id="119901-1" value="debatt" origin="lexin" date="2009-02-24"/>
+    <translation id="119901-2" value="diskussion" origin="lexin" date="2009-02-24"/>
+    <translation id="119901-3" value="meningsutbyte" origin="lexin" date="2009-02-24"/>
+    <example id="119901-4" value="our last major debate on the environment took place on 12 July" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE5;r sista st&#xF6;rre milj&#xF6;debatt tilldrog sig den 12 juli" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="119901-5" value="there has been a great deal of debate about the collection and use of them" origin="lexin" date="2009-02-24">
+      <translation value="huruvida man ska samla p&#xE5; dem och anv&#xE4;nda dem har varit &#xE4;mne f&#xF6;r mycken debatt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="exchange of ideas; discussion" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="deliberation" lang="en" class="nn" id="123301" origin="lexin" date="2009-02-24">
+    <translation id="123301-1" value="&#xF6;verl&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <translation id="123301-2" value="r&#xE5;dpl&#xE4;gning" origin="lexin" date="2009-02-24"/>
+    <translation id="123301-3" value="debatt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="discussion" lang="en" class="nn" id="134361" origin="lexin" date="2009-02-24">
+    <translation id="134361-1" value="diskussion" origin="lexin" date="2009-02-24"/>
+    <translation id="134361-2" value="debatt" origin="lexin" date="2009-02-24"/>
+    <translation id="134361-3" value="&#xF6;verl&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <translation id="134361-4" value="samtal" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

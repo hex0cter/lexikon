@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="117690" lang="sv" lexinid="11770" origin="lexin" value="nio">
+    <translation date="2011-03-03" id="11558" value="nine"/>
+    <phonetic date="2011-03-03" soundFile="nio.swf" value="&#xB2;nI:o"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="nio||nio..1||nio..nl.1"/>
+    <derivation date="2011-03-03" id="546" value="nionde">
+      <translation value="ninth"/>
+    </derivation>
+    <definition date="2011-03-03" id="11339" value="9"/>
+  </word>
+  <word value="nine" lang="en" class="nn" id="286951" origin="lexin" date="2009-02-24">
+    <translation id="286951-1" value="nia" origin="lexin" date="2009-02-24"/>
+    <translation id="286951-2" value="nio" origin="lexin" date="2009-02-24"/>
+    <idiom id="286951-3" value="dressed (up) the nines" origin="lexin" date="2009-02-24">
+      <translation value="vara uppkl&#xE4;dd, vara uppsnofsad (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="nine" lang="en" class="pn" id="286961" origin="lexin" date="2009-02-24">
+    <translation id="286961-1" value="nio" origin="lexin" date="2009-02-24"/>
+    <example id="286961-2" value="ten people were supposed to attend the meeting, but only nine showed up" origin="lexin" date="2009-02-24">
+      <translation value="tio personer skulle vara med p&#xE5; m&#xF6;tet, men det var bara nio som d&#xF6;k upp" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="nine" lang="en" class="rg" id="286971" origin="lexin" date="2009-02-24">
+    <translation id="286971-1" value="nio" origin="lexin" date="2009-02-24"/>
+    <translation id="286971-2" value="siffran 9" origin="lexin" date="2009-02-24"/>
+    <idiom id="286971-3" value="nine times out of ten" origin="lexin" date="2009-02-24">
+      <translation value="i nio fall av tio, n&#xE4;stan alltid (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

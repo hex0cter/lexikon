@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="45740" lang="sv" lexinid="4574" origin="lexin" value="fler">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="flera"/>
+    <translation date="2011-03-03" id="4501" value="more"/>
+    <use date="2011-03-03" value="komparativ"/>
+    <phonetic date="2011-03-03" soundFile="fler.swf" value="fle:r"/>
+    <paradigm date="2011-03-03" id="3954" origin="lexin">
+      <inflection value="flest"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ytterligare"/>
+    <example date="2011-03-03" id="2648" value="&#xE4;nnu fler attentat v&#xE4;ntas">
+      <translation value="even more attacks are expected"/>
+    </example>
+    <compound date="2011-03-03" id="1581" value="fler|faldig">
+      <translation value="many, numerous"/>
+    </compound>
+    <definition date="2011-03-03" id="4406" value="st&#xF6;rre antal, ytterligare"/>
+  </word>
+  <word class="pn" date="2011-03-03" id="114810" lang="sv" lexinid="11481" origin="lexin" value="m&#xE5;nga">
+    <translation date="2011-03-03" id="11278" value="many"/>
+    <use date="2011-03-03" value="plural"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;nga.swf" value="&#xB2;m&#xC5;@:a"/>
+    <paradigm date="2011-03-03" id="9995" origin="lexin">
+      <inflection value="fler"/>
+      <inflection value="flest"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="flera"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="flertal"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="massa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="massor"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="otaliga"/>
+    <example date="2011-03-03" id="6238" value="dubbelt s&#xE5; m&#xE5;nga">
+      <translation value="twice as many"/>
+    </example>
+    <example date="2011-03-03" id="6239" value="p&#xE5; m&#xE5;nga h&#xE5;ll">
+      <translation value="in many places"/>
+    </example>
+    <example date="2011-03-03" id="6240" value="i m&#xE5;nga fall">
+      <translation value="in many cases"/>
+    </example>
+    <example date="2011-03-03" id="6241" value="m&#xE5;nga av mina v&#xE4;nner">
+      <translation value="many of my friends"/>
+    </example>
+    <example date="2011-03-03" id="6242" value="m&#xE5;nga g&#xE5;nger">
+      <translation value="many times"/>
+    </example>
+    <compound date="2011-03-03" id="4051" inflection="m&#xE5;ng|miljon&#xE4;ren" value="m&#xE5;ng|miljon&#xE4;r">
+      <translation value="multimillionaire"/>
+    </compound>
+    <compound date="2011-03-03" id="4052" inflection="m&#xE5;ng|&#xE5;rigt" value="m&#xE5;ng|&#xE5;rig">
+      <translation value="of many years"/>
+    </compound>
+    <compound date="2011-03-03" id="4053" value="m&#xE5;ng|sysslare">
+      <translation value="jack-of-all-trades"/>
+    </compound>
+    <definition date="2011-03-03" id="11069" value="ett stort antal"/>
+  </word>
+  <word value="more" lang="en" class="jj" id="278001" origin="lexin" date="2009-02-24">
+    <translation id="278001-1" value="fler" origin="lexin" date="2009-02-24"/>
+    <translation id="278001-2" value="flera" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="more" lang="en" class="pn" id="278011" origin="lexin" date="2009-02-24">
+    <translation id="278011-1" value="fler" origin="lexin" date="2009-02-24"/>
+    <translation id="278011-2" value="flera" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

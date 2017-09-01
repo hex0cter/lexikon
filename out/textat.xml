@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="texta" lang="sv" class="vb" id="186840" lexinid="18685" origin="lexin" date="2011-03-03">
+    <translation id="18353" value="print" date="2011-03-03"/>
+    <phonetic value="&#xB2;tEk:star" soundFile="textar.swf" date="2011-03-03"/>
+    <paradigm id="16335" origin="lexin" date="2011-03-03">
+      <inflection value="textade"/>
+      <inflection value="textat"/>
+      <inflection value="texta"/>
+      <inflection value="textar"/>
+    </paradigm>
+    <see value="texta||texta..1||texta..vb.1" type="saldo" origin="saldo" date="2015-03-07T03:03:44"/>
+    <example id="10503" value="ett textat meddelande" date="2011-03-03">
+      <translation value="a printed message"/>
+    </example>
+    <definition id="18073" value="skriva med bokst&#xE4;ver som liknar tryckta" date="2011-03-03">
+      <translation value="write in capital letters"/>
+    </definition>
+    <grammar value="A &amp; (x)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="186850" lang="sv" lexinid="18686" origin="lexin" value="texta">
+    <translation date="2011-03-03" id="18354" value="subtitle"/>
+    <phonetic date="2011-03-03" soundFile="textar.swf" value="&#xB2;tEk:star"/>
+    <paradigm date="2011-03-03" id="16336" origin="lexin">
+      <inflection value="textade"/>
+      <inflection value="textat"/>
+      <inflection value="texta"/>
+      <inflection value="textar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="texta||texta..1||texta..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="texta||texta..2||texta..vb.1"/>
+    <definition date="2011-03-03" id="18074" value="f&#xF6;rse film el. TV-program med text"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (x)"/>
+  </word>
+</definition>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="snabb" lang="sv" class="jj" id="166000" lexinid="16601" origin="lexin" date="2011-03-03">
+    <translation id="166000-16072" value="fast" origin="user" date="2012-04-14T00:52:27"/>
+    <translation id="166000-16073" value="speedy" origin="user" date="2012-04-14T00:52:27"/>
+    <translation id="166000-16074" value="prompt" origin="user" date="2012-04-14T00:52:27"/>
+    <translation id="166000-16075" value="rapid" origin="user" date="2012-04-14T00:52:27"/>
+    <translation id="166000-16076" value="quick" origin="user" date="2012-04-14T00:52:27"/>
+    <translation id="166000-16077" value="swift" origin="user" date="2012-04-14T00:52:27"/>
+    <phonetic value="snab:" soundFile="snabb.swf" date="2011-03-03"/>
+    <paradigm id="14480" origin="lexin" date="2011-03-03">
+      <inflection value="snabbt"/>
+      <inflection value="snabba"/>
+    </paradigm>
+    <synonym value="fort" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="hastig" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="kvick" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="kvickt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="omedelbar" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="rapp" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="rask" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="raskt" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="skyndsam" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="snabbg&#xE5;ende" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="snabb||snabb..1||snabb..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9396" value="i snabb takt" date="2011-03-03">
+      <translation value="at a rapid pace"/>
+    </example>
+    <example id="9397" value="en snabb utveckling" date="2011-03-03">
+      <translation value="rapid progress"/>
+    </example>
+    <example id="9398" value="snabba fartyg" date="2011-03-03">
+      <translation value="high-speed vessels"/>
+    </example>
+    <example id="9399" value="snabbast m&#xF6;jligt" date="2011-03-03">
+      <translation value="as quickly as possible"/>
+    </example>
+    <example id="9400" value="s&#xE5; snabbt som m&#xF6;jligt" date="2011-03-03">
+      <translation value="as soon as possible"/>
+    </example>
+    <compound id="5711" value="snabb|kaffe" date="2011-03-03">
+      <translation value="instant coffee"/>
+    </compound>
+    <compound id="5712" value="snabb|kurs" date="2011-03-03">
+      <translation value="intensive course"/>
+    </compound>
+    <derivation id="782" value="snabbhet" date="2011-03-03">
+      <translation value="swiftness"/>
+    </derivation>
+    <definition id="16071" value="som g&#xF6;r n&#xE5;got p&#xE5; kort tid, kvick" date="2011-03-03"/>
+    <grammar value="&amp; (att + INF)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="snabbt" lang="sv" id="230460" origin="user" date="2011-12-22T15:09:59">
+    <translation id="230460-1" value="speedy" origin="user" date="2011-12-22T15:09:59"/>
+  </word>
+  <word value="apace" lang="en" class="ab" id="15691" origin="lexin" date="2009-02-24">
+    <translation id="15691-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="15691-2" value="raskt" comment="litter&#xE4;rt eller gammaldags" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="chop-chop" lang="en" class="in" id="78151" origin="lexin" date="2009-02-24">
+    <translation id="78151-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="78151-2" value="fort" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="78151-3" value="chop-chop! we&amp;#39;re running late for the train" origin="lexin" date="2009-02-24">
+      <translation value="skynda p&#xE5; nu, annars missar vi t&#xE5;get!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="crash" lang="en" class="ab" id="108671" origin="lexin" date="2009-02-24">
+    <translation id="108671-1" value="med ett brak" origin="lexin" date="2009-02-24"/>
+    <translation id="108671-2" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="108671-3" value="intensivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="nimbly" lang="en" class="ab" id="286931" origin="lexin" date="2009-02-24">
+    <translation id="286931-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="286931-2" value="r&#xF6;rligt" origin="lexin" date="2009-02-24"/>
+    <translation id="286931-3" value="flinkt" origin="lexin" date="2009-02-24"/>
+    <translation id="286931-4" value="kvickt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="quick" lang="en" class="ab" id="343521" origin="lexin" date="2009-02-24">
+    <translation id="343521-1" value="kvickt" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="343521-2" value="fort" origin="lexin" date="2009-02-24"/>
+    <translation id="343521-3" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <example id="343521-4" value="come back quick - something terrible has happened!" origin="lexin" date="2009-02-24">
+      <translation value="kom fort tillbaka - n&#xE5;got fruktansv&#xE4;rt har h&#xE4;nt!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="rapidly" lang="en" class="ab" id="346051" origin="lexin" date="2009-02-24">
+    <translation id="346051-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="346051-2" value="hastigt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="soon" lang="en" class="ab" id="390191" origin="lexin" date="2009-02-24">
+    <translation id="390191-1" value="snabbt" origin="lexin" date="2009-02-24"/>
+    <translation id="390191-2" value="tidigt" origin="lexin" date="2009-02-24"/>
+    <idiom id="390191-3" value="as soon as" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; snart som" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390191-4" value="too soon" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r tidigt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="quickly" lang="en" id="468411" origin="user" date="2012-05-10T03:00:58">
+    <translation id="468411-1" value="snabbt" origin="user" date="2012-05-10T03:00:58"/>
+  </word>
+</definition>

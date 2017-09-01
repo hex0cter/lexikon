@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="sj&#xE4;lv" lang="sv" class="jj" id="155870" lexinid="15588" origin="lexin" date="2011-03-03">
+    <translation id="155870-15109" value="himself" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15110" value="ourselves" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15111" value="itself" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15112" value="herself" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15113" value="oneself" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15114" value="yourselves" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="155870-15115" value="themselves" origin="user" date="2012-01-14T23:15:29"/>
+    <phonetic value="$el:v" soundFile="sj&#xE4;lv.swf" date="2011-03-03"/>
+    <paradigm id="13589" origin="lexin" date="2011-03-03">
+      <inflection value="sj&#xE4;lvt"/>
+      <inflection value="sj&#xE4;lva"/>
+    </paradigm>
+    <synonym value="allena" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="jag" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="personligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="solo" level="4.5" origin="synlex" date="2011-03-03"/>
+    <example id="8820" value="hon bakar sj&#xE4;lv sitt br&#xF6;d" date="2011-03-03">
+      <translation value="she bakes her own bread"/>
+    </example>
+    <definition id="15108" value="utan hj&#xE4;lp" date="2011-03-03"/>
+  </word>
+  <word value="sj&#xE4;lv" lang="sv" class="jj" id="155880" lexinid="15589" origin="lexin" date="2011-03-03">
+    <translation id="155880-15110" value="ourselves" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15111" value="themselves" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15112" value="yourselves" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15113" value="itself" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15114" value="oneself" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15115" value="himself" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="155880-15116" value="herself" origin="user" date="2012-02-02T00:55:09"/>
+    <phonetic value="$el:v" soundFile="sj&#xE4;lv.swf" date="2011-03-03"/>
+    <paradigm id="13590" origin="lexin" date="2011-03-03">
+      <inflection value="sj&#xE4;lvt"/>
+      <inflection value="sj&#xE4;lva"/>
+    </paradigm>
+    <synonym value="allena" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="jag" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="personligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="solo" level="4.5" origin="synlex" date="2011-03-03"/>
+    <example id="8821" value="barnen leker f&#xF6;r sig sj&#xE4;lva" date="2011-03-03">
+      <translation value="the children are playing by themselves"/>
+    </example>
+    <example id="8822" value="sj&#xE4;lvaste kungen kom p&#xE5; bes&#xF6;k" date="2011-03-03">
+      <translation value="even the king called"/>
+    </example>
+    <example id="8823" value="han f&#xE5;r skylla sig sj&#xE4;lv" date="2011-03-03">
+      <translation value="he&amp;#39;s got himself to blame"/>
+    </example>
+    <compound id="5443" value="sj&#xE4;lv|portr&#xE4;tt" date="2011-03-03">
+      <translation value="self-portrait"/>
+    </compound>
+    <compound id="5444" value="sj&#xE4;lv|kritik" date="2011-03-03">
+      <translation value="self-criticism"/>
+    </compound>
+    <compound id="5445" value="sj&#xE4;lv|f&#xF6;rsvar" date="2011-03-03">
+      <translation value="self-defence"/>
+    </compound>
+    <idiom id="1334" value="av sig sj&#xE4;lv (&amp;quot;p&#xE5; eget initiativ&amp;quot;)" date="2011-03-03">
+      <translation value="by itself (&amp;quot;without outside intervention&amp;quot;)"/>
+    </idiom>
+    <idiom id="1335" value="i sj&#xE4;lva verket (&amp;quot;i verkligheten&amp;quot;)" date="2011-03-03">
+      <translation value="as a matter of fact (&amp;quot;in reality&amp;quot;)"/>
+    </idiom>
+    <definition id="15109" value="den egna personen" date="2011-03-03"/>
+  </word>
+  <word value="actual" lang="en" class="jj" id="4261" origin="lexin" date="2009-02-24">
+    <translation id="4261-1" value="faktisk" origin="lexin" date="2009-02-24"/>
+    <translation id="4261-2" value="egentlig" origin="lexin" date="2009-02-24"/>
+    <translation id="4261-3" value="verklig" origin="lexin" date="2009-02-24"/>
+    <translation id="4261-4" value="riktig" origin="lexin" date="2009-02-24"/>
+    <translation id="4261-5" value="sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    <translation id="4261-6" value="sj&#xE4;lva" origin="lexin" date="2009-02-24"/>
+    <idiom id="4261-7" value="in actual fact" origin="lexin" date="2009-02-24">
+      <translation value="i sj&#xE4;lva verket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="ourselves" lang="en" class="pn" id="297981" origin="lexin" date="2009-02-24">
+    <translation id="297981-1" value="sj&#xE4;lva" comment="anv&#xE4;nds f&#xF6;r att f&#xF6;rst&#xE4;rka we" origin="lexin" date="2009-02-24"/>
+    <example id="297981-2" value="we painted it ourselves" origin="lexin" date="2009-02-24">
+      <translation value="vi har m&#xE5;lat den/det sj&#xE4;lva" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ourselves" lang="en" class="pn" id="297991" origin="lexin" date="2009-02-24">
+    <translation id="297991-1" value="sj&#xE4;lva" origin="lexin" date="2009-02-24"/>
+    <example id="297991-5" value="vi came to ourselves" origin="lexin" date="2009-02-24">
+      <translation value="vi &#xE5;terfick medvetandet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="297991-2" value="(all) by ourselves" origin="lexin" date="2009-02-24">
+      <translation value="sj&#xE4;lva, utan hj&#xE4;lp" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="297991-3" value="(all) by ourselves" origin="lexin" date="2009-02-24">
+      <translation value="ensamma, utan s&#xE4;llskap" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="297991-4" value="to ourselves" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r privat bruk" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="themselves" lang="en" class="pn" id="429321" origin="lexin" date="2009-02-24">
+    <translation id="429321-1" value="sig sj&#xE4;lva" origin="lexin" date="2009-02-24"/>
+    <translation id="429321-2" value="sj&#xE4;lva" origin="lexin" date="2009-02-24"/>
+    <example id="429321-3" value="The boys can take care of themselves." origin="lexin" date="2009-02-24">
+      <translation value="Pojkarna kan ta hand om sig sj&#xE4;lva." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429321-4" value="Everybody but the hosts themselves was enjoying the party." origin="lexin" date="2009-02-24">
+      <translation value="Alla utom v&#xE4;rdarna sj&#xE4;lva trivdes p&#xE5; festen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="reflexivt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person plural" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

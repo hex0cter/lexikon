@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="116730" lang="sv" lexinid="11673" origin="lexin" value="naturligtvis">
+    <translation date="2011-03-03" id="11462" value="of course"/>
+    <phonetic date="2011-03-03" soundFile="naturligtvis.swf" value="natU:r+li(k)tvi:s"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="givetvis"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="sj&#xE4;lvfallet"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="sj&#xE4;lvklart"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="solklar"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="s&#xE5; klart"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="naturligtvis||naturligtvis..1||naturligtvis..ab.1"/>
+    <example date="2011-03-03" id="6372" value="du har naturligtvis r&#xE4;tt">
+      <translation value="you are right, of course"/>
+    </example>
+    <definition date="2011-03-03" id="11251" value="givetvis, sj&#xE4;lvfallet, f&#xF6;rst&#xE5;s">
+      <translation value="naturally, certainly"/>
+    </definition>
+  </word>
+  <word value="course" lang="en" class="nn" id="106581" origin="lexin" date="2009-02-24">
+    <translation id="106581-1" value="naturligtvis" origin="lexin" date="2009-02-24"/>
+    <translation id="106581-2" value="givetvis" origin="lexin" date="2009-02-24"/>
+    <translation id="106581-3" value="sj&#xE4;lvfallet" origin="lexin" date="2009-02-24"/>
+    <translation id="106581-4" value="f&#xF6;rst&#xE5;s" comment="endast i fast uttryck" origin="lexin" date="2009-02-24"/>
+    <example id="106581-5" value="you are right, of course" origin="lexin" date="2009-02-24">
+      <translation value="du har naturligtvis r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="naturally, certainly" origin="lexin" date="2009-02-24"/>
+    <grammar value="alltid med prepositionen of" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="naturally" lang="en" class="ab" id="283701" origin="lexin" date="2009-02-24">
+    <translation id="283701-1" value="sj&#xE4;lvfallet" origin="lexin" date="2009-02-24"/>
+    <translation id="283701-2" value="sj&#xE4;lvklart" origin="lexin" date="2009-02-24"/>
+    <translation id="283701-3" value="naturligtvis" origin="lexin" date="2009-02-24"/>
+    <example id="283701-4" value="naturally you will want to double-check this information" origin="lexin" date="2009-02-24">
+      <translation value="du/ni vill naturligtvis dubbelkolla de h&#xE4;r uppgifterna" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="obviously" lang="en" class="ab" id="291831" origin="lexin" date="2009-02-24">
+    <translation id="291831-1" value="sj&#xE4;lvfallet" origin="lexin" date="2009-02-24"/>
+    <translation id="291831-2" value="sj&#xE4;lvklart" origin="lexin" date="2009-02-24"/>
+    <translation id="291831-3" value="naturligtvis" origin="lexin" date="2009-02-24"/>
+    <example id="291831-4" value="obviously I don&amp;#39;t have to remind you how important this is" origin="lexin" date="2009-02-24">
+      <translation value="jag beh&#xF6;ver naturligtvis inte p&#xE5;minna er om hur viktigt det h&#xE4;r &#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="of course" lang="en" class="ab" id="292601" origin="lexin" date="2009-02-24">
+    <translation id="292601-1" value="naturligtvis" origin="lexin" date="2009-02-24"/>
+    <example id="292601-2" value="We have of course read your book." origin="lexin" date="2009-02-24">
+      <translation value="Vi har naturligtvis l&#xE4;st din bok." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Suggests that something is normal and obvious." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

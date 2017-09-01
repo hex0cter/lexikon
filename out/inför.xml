@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pp" date="2011-03-03" id="76330" lang="sv" lexinid="7633" origin="lexin" value="inf&#xF6;r">
+    <translation date="2011-03-03" id="7490" value="in front of, face to face (with), before"/>
+    <use date="2011-03-03" value="endast med abstrakt huvudord"/>
+    <phonetic date="2011-03-03" soundFile="inf246r.swf" value="In:f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="f&#xF6;re"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="inf&#xF6;r||inf&#xF6;r..1||inf&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="4512" value="k&#xE4;nna oro inf&#xF6;r framtiden">
+      <translation value="feel uncertain about one&amp;#39;s future"/>
+    </example>
+    <idiom date="2011-03-03" id="635" value="st&#xE4;llas inf&#xF6;r r&#xE4;tta (&amp;quot;anklagas vid domstol&amp;quot;)">
+      <translation value="be brought before the court (&amp;quot;be accused in a court of law&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="636" value="st&#xE5; inf&#xF6;r r&#xE4;tta (&amp;quot;st&#xE5; som anklagad vid domstolsf&#xF6;rhandling&amp;quot;)">
+      <translation value="stand trial (&amp;quot;stand accused in a court of law&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="7337" value="framf&#xF6;r, ansikte mot ansikte med"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="76340" lang="sv" lexinid="7634" origin="lexin" value="inf&#xF6;ra">
+    <translation date="2011-03-03" id="7491" value="introduce"/>
+    <phonetic date="2011-03-03" soundFile="inf&#xF6;r 050.swf" value="&#xB2;In:f&#xF6;:r"/>
+    <paradigm date="2011-03-03" id="6606" origin="lexin">
+      <inflection value="inf&#xF6;rde"/>
+      <inflection value="inf&#xF6;rt"/>
+      <inflection value="inf&#xF6;r"/>
+      <inflection value="inf&#xF6;ra"/>
+      <inflection value="inf&#xF6;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="implementera"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="instifta"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="introducera"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="uppr&#xE4;tta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="inf&#xF6;ra||inf&#xF6;ra..1||inf&#xF6;ra..vb.1"/>
+    <example date="2011-03-03" id="4513" value="inf&#xF6;ra m&#xE5;nadsl&#xF6;n">
+      <translation value="introduce monthly salaries"/>
+    </example>
+    <definition date="2011-03-03" id="7338" value="b&#xF6;rja anv&#xE4;nda el. till&#xE4;mpa"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word value="before" lang="en" class="pp" id="37541" origin="lexin" date="2009-02-24">
+    <translation id="37541-1" value="inf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="37541-2" value="framf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="37541-3" value="ansikte mot ansikte med" origin="lexin" date="2009-02-24"/>
+    <example id="37541-6" value="standing before his teacher, he all of a sudden felt ashamed of what he had done" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;r han stod ansikte mot ansikte med sin l&#xE4;rare sk&#xE4;mdes han pl&#xF6;tsligt f&#xF6;r vad han hade gjort" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="37541-4" value="be brought before the court" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;llas inf&#xF6;r r&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="37541-5" value="before long" origin="lexin" date="2009-02-24">
+      <translation value="inom kort" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

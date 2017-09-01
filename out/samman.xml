@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="150720" lang="sv" lexinid="15073" origin="lexin" value="samman">
+    <translation date="2011-03-03" id="14807" value="together"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="samman.swf" value="&#xB2;sAm:an"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="vid"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="samman||samman..1||samman..ab.1"/>
+    <example date="2011-03-03" id="8551" value="f&#xF6;retagen ska g&#xE5; samman">
+      <translation value="the companies are about to merge"/>
+    </example>
+    <example date="2011-03-03" id="8552" value="lagen drabbar samman i morgon">
+      <translation value="the teams clash tomorrow"/>
+    </example>
+    <example date="2011-03-03" id="8553" value="h&#xE5;lla samman familjen">
+      <translation value="keep the family together"/>
+    </example>
+    <definition date="2011-03-03" id="14599" value="till eller med varandra; tillsamman(s)"/>
+  </word>
+</definition>

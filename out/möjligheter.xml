@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="115640" lang="sv" lexinid="11564" origin="lexin" value="m&#xF6;jlighet">
+    <translation date="2011-03-03" id="11356" value="possibility"/>
+    <phonetic date="2011-03-03" soundFile="m&#xF6;jlighet.swf" value="&#xB2;m&#xD6;j:lighe:t"/>
+    <paradigm date="2011-03-03" id="10069" origin="lexin">
+      <inflection value="m&#xF6;jligheten"/>
+      <inflection value="m&#xF6;jligheter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="chans"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="g&#xE4;llande"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="opportunitet"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="potential"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="tillf&#xE4;lle"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="utsikt"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="&#xF6;ppning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xF6;jlighet||m&#xF6;jlighet..1||m&#xF6;jlighet..nn.1"/>
+    <example date="2011-03-03" id="6311" value="goda m&#xF6;jligheter till utbildning och befordran">
+      <translation value="satisfactory opportunities of education and advancement"/>
+    </example>
+    <example date="2011-03-03" id="6312" value="jag har ingen m&#xF6;jlighet att komma">
+      <translation value="there is no chance of my coming"/>
+    </example>
+    <compound date="2011-03-03" id="4091" value="valm&#xF6;jlighet">
+      <translation value="option"/>
+    </compound>
+    <derivation date="2011-03-03" id="536" value="om&#xF6;jlighet">
+      <translation value="impossibility"/>
+    </derivation>
+    <definition date="2011-03-03" id="11147" value="m&#xF6;jlig utv&#xE4;g, tillf&#xE4;lle"/>
+  </word>
+  <word value="ways and means" lang="en" class="nn" id="441441" origin="lexin" date="2009-02-24">
+    <translation id="441441-1" value="m&#xF6;jligheter" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-2" value="utv&#xE4;gar" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-3" value="resurser" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-4" value="medel" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-5" value="n&#xF6;dv&#xE4;ndiga medel" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-6" value="n&#xF6;dv&#xE4;ndiga tillg&#xE5;ngar" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-7" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-8" value="tillv&#xE4;gag&#xE5;ngss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="disunite" lang="en" id="485831" origin="user" date="2012-11-14T04:10:59">
+    <translation id="485831-1" value="m&#xF6;jligheter" origin="user" date="2012-11-14T04:10:59"/>
+    <translation id="485831-1" value="icke f&#xF6;rena" origin="user" date="2013-01-25T04:46:16"/>
+    <translation id="485831-2" value="splittra" origin="user" date="2015-10-17T04:25:49"/>
+  </word>
+</definition>

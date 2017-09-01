@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="dag" lang="sv" class="nn" id="28860" lexinid="2886" origin="lexin" date="2011-03-03">
+    <translation id="2849" value="day" date="2011-03-03"/>
+    <phonetic value="da:g" soundFile="dag.swf" date="2011-03-03"/>
+    <paradigm id="2532" origin="lexin" date="2011-03-03">
+      <inflection value="dagen"/>
+      <inflection value="dagar"/>
+    </paradigm>
+    <see value="dag||dag..1||dag..nn.1" type="saldo" origin="saldo" date="2014-08-29T00:43:48"/>
+    <example id="1661" value="natt och dag" date="2011-03-03">
+      <translation value="night and day"/>
+    </example>
+    <compound id="1012" value="sommardag" date="2011-03-03">
+      <translation value="summer day"/>
+    </compound>
+    <compound id="1013" value="temadag" date="2011-03-03">
+      <translation value="day (of study) based on a central theme"/>
+    </compound>
+    <compound id="1014" value="dags|tidning" date="2011-03-03">
+      <translation value="daily (newspaper)"/>
+    </compound>
+    <compound id="1015" value="dag|center" date="2011-03-03">
+      <translation value="dayroom; recreational centre"/>
+    </compound>
+    <idiom id="210" value="han &#xE4;r sin far upp i dagen (&amp;quot;han &#xE4;r mycket lik sin far&amp;quot;)" date="2011-03-03">
+      <translation value="he&amp;#39;s the spitting image of his father (&amp;quot;he is very like his father&amp;quot;)"/>
+    </idiom>
+    <idiom id="211" value="komma i dagen (&amp;quot;bli k&#xE4;nd&amp;quot;)" date="2011-03-03">
+      <translation value="be brought to light (&amp;quot;become public knowledge&amp;quot;)"/>
+    </idiom>
+    <idiom id="212" value="se dagens ljus (&amp;quot;f&#xF6;das&amp;quot;)" date="2011-03-03">
+      <translation value="see the light of day (&amp;quot;be born&amp;quot;)"/>
+    </idiom>
+    <idiom id="213" value="god dag!" date="2011-03-03">
+      <translation value="good day!"/>
+    </idiom>
+    <idiom id="214" value="en vacker dag (&amp;quot;n&#xE4;r man minst anar det&amp;quot;)" date="2011-03-03">
+      <translation value="some (fine) day (&amp;quot;when you would least expect it&amp;quot;)"/>
+    </idiom>
+    <definition id="2791" value="ljus del av ett dygn; dagsljus" date="2011-03-03">
+      <translation value="the light part of the 24-hour earthly rotation; daylight"/>
+    </definition>
+  </word>
+  <word value="dag" lang="sv" class="nn" id="28870" lexinid="2887" origin="lexin" date="2011-03-03">
+    <translation id="2850" value="day" date="2011-03-03"/>
+    <phonetic value="da:g" soundFile="dag.swf" date="2011-03-03"/>
+    <paradigm id="2533" origin="lexin" date="2011-03-03">
+      <inflection value="dagen"/>
+      <inflection value="dagar"/>
+    </paradigm>
+    <see value="dag||dag..2||dag..nn.1" type="saldo" origin="saldo" date="2014-09-03T01:06:11"/>
+    <example id="1662" value="dagens r&#xE4;tt" date="2011-03-03">
+      <translation value="daily special"/>
+    </example>
+    <example id="1663" value="h&#xE4;rom dagen (dan)" date="2011-03-03">
+      <translation value="the other day"/>
+    </example>
+    <example id="1664" value="f&#xF6;r n&#xE5;gra dagar (dar) sedan" date="2011-03-03">
+      <translation value="a few days ago"/>
+    </example>
+    <example id="1665" value="i dag (idag)" date="2011-03-03">
+      <translation value="today"/>
+    </example>
+    <compound id="1016" value="dags|aktuell" date="2011-03-03">
+      <translation value="current"/>
+    </compound>
+    <idiom id="215" value="inte p&#xE5; &#xE5;r och dag (&amp;quot;inte p&#xE5; l&#xE4;nge&amp;quot;)" date="2011-03-03">
+      <translation value="not for a year and a day (&amp;quot;not for a long time&amp;quot;)"/>
+    </idiom>
+    <definition id="2792" value="datum, veckodag; dygn" date="2011-03-03">
+      <translation value="date, weekday; 24-hour period"/>
+    </definition>
+    <url value="28/kalender.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="dag" lang="sv" class="nn" id="28880" lexinid="2888" origin="lexin" date="2011-03-03">
+    <translation id="2851" value="day" date="2011-03-03"/>
+    <use value="endast i fraser" date="2011-03-03"/>
+    <phonetic value="da:g" soundFile="dag.swf" date="2011-03-03"/>
+    <paradigm id="2534" origin="lexin" date="2011-03-03">
+      <inflection value="dagen"/>
+      <inflection value="dagar"/>
+    </paradigm>
+    <see value="dag||dag..1||dag..nn.1" type="saldo" origin="saldo" date="2014-11-16T01:34:52"/>
+    <idiom id="216" value="i v&#xE5;ra dar (&amp;quot;nuf&#xF6;rtiden&amp;quot;)" date="2011-03-03">
+      <translation value="in our day (&amp;quot;nowadays&amp;quot;)"/>
+    </idiom>
+    <idiom id="217" value="i dagarna (&amp;quot;n&#xE4;r som helst&amp;quot;)" date="2011-03-03">
+      <translation value="any day now (&amp;quot;at any time&amp;quot;)"/>
+    </idiom>
+    <idiom id="218" value="vad i allsin dar! (&amp;quot;vad i hela v&#xE4;rlden&amp;quot;)" date="2011-03-03">
+      <translation value="what on earth ...? (&amp;quot;what in the world?&amp;quot;)"/>
+    </idiom>
+    <idiom id="219" value="sluta sina dagar (&amp;quot;d&#xF6;&amp;quot;)" date="2011-03-03">
+      <translation value="end his/her days (&amp;quot;die&amp;quot;)"/>
+    </idiom>
+    <definition id="2793" value="tid, period" date="2011-03-03">
+      <translation value="time, period"/>
+    </definition>
+  </word>
+  <word value="today" lang="en" class="nn" id="421081" origin="lexin" date="2009-02-24">
+    <translation id="421081-1" value="denna dag" origin="lexin" date="2009-02-24"/>
+    <translation id="421081-2" value="dagen" comment="om nutid, innevarande tidsperiod" origin="lexin" date="2009-02-24"/>
+    <example id="421081-3" value="today&amp;#39;s cars are so fast" origin="lexin" date="2009-02-24">
+      <translation value="dagens bilar &#xE4;r s&#xE5; snabba" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="today" lang="en" class="nn" id="421091" origin="lexin" date="2009-02-24">
+    <translation id="421091-1" value="denna dag" origin="lexin" date="2009-02-24"/>
+    <translation id="421091-2" value="dagen" origin="lexin" date="2009-02-24"/>
+    <example id="421091-3" value="today is your birthday" origin="lexin" date="2009-02-24">
+      <translation value="idag &#xE4;r det din f&#xF6;delsedag, du fyller &#xE5;r i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

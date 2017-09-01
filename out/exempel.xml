@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="40830" lang="sv" lexinid="4083" origin="lexin" value="exempel">
+    <translation date="2011-03-03" id="4024" value="example"/>
+    <phonetic date="2011-03-03" soundFile="exempel.swf" value="eksEm:pel"/>
+    <paradigm date="2011-03-03" id="3527" origin="lexin">
+      <inflection value="exemplet"/>
+      <inflection value="exempel"/>
+      <inflection value="exemplen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;red&#xF6;me"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="prov"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="exempel||exempel..1||exempel..nn.1"/>
+    <example date="2011-03-03" id="2409" value="statuera ett exempel">
+      <translation value="to set an example (act as a warning) to others"/>
+    </example>
+    <derivation date="2011-03-03" id="226" value="exemplarisk">
+      <translation value="exemplary"/>
+    </derivation>
+    <definition date="2011-03-03" id="3925" value="f&#xF6;red&#xF6;me, m&#xF6;nster"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="40840" lang="sv" lexinid="4084" origin="lexin" value="exempel">
+    <translation date="2011-03-03" id="4025" value="example"/>
+    <phonetic date="2011-03-03" soundFile="exempel.swf" value="eksEm:pel"/>
+    <paradigm date="2011-03-03" id="3528" origin="lexin">
+      <inflection value="exemplet"/>
+      <inflection value="exempel"/>
+      <inflection value="exemplen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;red&#xF6;me"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="prov"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="exempel||exempel..1||exempel..nn.1"/>
+    <example date="2011-03-03" id="2410" value="till exempel">
+      <translation value="for example"/>
+    </example>
+    <example date="2011-03-03" id="2411" value="han &#xE4;r ett levande exempel p&#xE5; vad jag menar">
+      <translation value="he is living proof of what I mean"/>
+    </example>
+    <compound date="2011-03-03" id="1393" value="skr&#xE4;ckexempel">
+      <translation value="shocking example"/>
+    </compound>
+    <definition date="2011-03-03" id="3926" value="(typiskt) fall, bel&#xE4;gg"/>
+  </word>
+  <word value="example" lang="en" class="nn" id="162791" origin="lexin" date="2009-02-24">
+    <translation id="162791-1" value="exempel" origin="lexin" date="2009-02-24"/>
+    <translation id="162791-2" value="fall" origin="lexin" date="2009-02-24"/>
+    <translation id="162791-3" value="typiskt fall" origin="lexin" date="2009-02-24"/>
+    <translation id="162791-4" value="bel&#xE4;gg" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="example" lang="en" class="nn" id="162801" origin="lexin" date="2009-02-24">
+    <translation id="162801-1" value="exempel" origin="lexin" date="2009-02-24"/>
+    <translation id="162801-2" value="m&#xF6;nster" origin="lexin" date="2009-02-24"/>
+    <translation id="162801-3" value="f&#xF6;red&#xF6;me" origin="lexin" date="2009-02-24"/>
+    <translation id="162801-4" value="avskr&#xE4;ckande exempel" origin="lexin" date="2009-02-24"/>
+    <idiom id="162801-5" value="to set an example" origin="lexin" date="2009-02-24">
+      <translation value="statuera ett exempel" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="illustration" lang="en" class="nn" id="226581" origin="lexin" date="2009-02-24">
+    <translation id="226581-1" value="illustration" origin="lexin" date="2009-02-24"/>
+    <translation id="226581-2" value="belysning" origin="lexin" date="2009-02-24"/>
+    <translation id="226581-3" value="exempel" origin="lexin" date="2009-02-24"/>
+    <example id="226581-4" value="This was a good illustration of her generosity." origin="lexin" date="2009-02-24">
+      <translation value="Det var ett belysande exempel p&#xE5; hennes generositet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An example which shows something." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="instance" lang="en" class="nn" id="235171" origin="lexin" date="2009-02-24">
+    <translation id="235171-1" value="bel&#xE4;gg" origin="lexin" date="2009-02-24"/>
+    <translation id="235171-2" value="exempel" origin="lexin" date="2009-02-24"/>
+    <idiom id="235171-3" value="for instance" origin="lexin" date="2009-02-24">
+      <translation value="till exempel" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="235171-4" value="in this instance" origin="lexin" date="2009-02-24">
+      <translation value="i detta fall" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

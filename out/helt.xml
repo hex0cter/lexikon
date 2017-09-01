@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hel" lang="sv" class="jj" id="68060" lexinid="6806" origin="lexin" date="2011-03-03">
+    <translation id="68060-6551" value="full" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6552" value="whole" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6553" value="entire" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6554" value="complete" origin="user" date="2012-03-19T05:00:13"/>
+    <use value="endast attributivt" date="2011-03-03"/>
+    <phonetic value="he:l" soundFile="hel.swf" date="2011-03-03"/>
+    <paradigm id="5921" origin="lexin" date="2011-03-03">
+      <inflection value="helt"/>
+      <inflection value="hela"/>
+    </paradigm>
+    <synonym value="fullst&#xE4;ndig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullst&#xE4;ndigt" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="intakt" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="komplett" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="oskadad" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="total" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="hel||hel..1||hel..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="hel||hel..2||hel..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3986" value="hela det svenska samh&#xE4;llet" date="2011-03-03">
+      <translation value="Swedish society as a whole"/>
+    </example>
+    <example id="3987" value="en hel vecka" date="2011-03-03">
+      <translation value="an entire week"/>
+    </example>
+    <example id="3988" value="hela avtalsr&#xF6;relsen" date="2011-03-03">
+      <translation value="the entire structure of wage negotiations"/>
+    </example>
+    <compound id="2475" value="hel|tid" date="2011-03-03">
+      <translation value="full-time"/>
+    </compound>
+    <idiom id="506" value="en hel del (el. rad) (&amp;quot;mycket, m&#xE5;nga&amp;quot;)" date="2011-03-03">
+      <translation value="quite a few (&amp;quot;many, numerous&amp;quot;)"/>
+    </idiom>
+    <idiom id="507" value="p&#xE5; det hela taget (&amp;quot;i stort sett&amp;quot;)" date="2011-03-03">
+      <translation value="on the whole"/>
+    </idiom>
+    <definition id="6550" value="odelad, fullst&#xE4;ndig" date="2011-03-03">
+      <translation value="undivided, complete"/>
+    </definition>
+  </word>
+  <word value="hel" lang="sv" class="jj" id="68070" lexinid="6807" origin="lexin" date="2011-03-03">
+    <translation id="68070-6552" value="whole" origin="user" date="2012-01-14T23:15:26"/>
+    <translation id="68070-6553" value="entire" origin="user" date="2012-01-14T23:15:26"/>
+    <phonetic value="he:l" soundFile="hel.swf" date="2011-03-03"/>
+    <paradigm id="5922" origin="lexin" date="2011-03-03">
+      <inflection value="helt"/>
+      <inflection value="hela"/>
+    </paradigm>
+    <synonym value="fullst&#xE4;ndig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="intakt" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="inte trasig" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="oskadad" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;lbeh&#xE5;llen" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="hel||hel..2||hel..av.1" type="saldo" origin="saldo" date="2015-01-12T03:40:11"/>
+    <related value="trasig" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="s&#xF6;nder" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <idiom id="508" value="hela och rena kl&#xE4;der" date="2011-03-03">
+      <translation value="a clean, fresh set of clothes"/>
+    </idiom>
+    <definition id="6551" value="oskadad" date="2011-03-03">
+      <translation value="undamaged"/>
+    </definition>
+  </word>
+  <word value="helt" lang="sv" class="ab" id="68280" lexinid="6828" origin="lexin" date="2011-03-03">
+    <translation id="68280-6568" value="wholly" origin="user" date="2012-03-10T00:55:38"/>
+    <translation id="68280-6569" value="completely" origin="user" date="2012-03-10T00:55:38"/>
+    <translation id="68280-6570" value="entirely" origin="user" date="2012-03-10T00:55:38"/>
+    <phonetic value="he:lt" soundFile="helt.swf" date="2011-03-03"/>
+    <synonym value="absolut" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="alldeles" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullkomligt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullst&#xE4;ndig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullst&#xE4;ndigt" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullt" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="till fullo" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillfullo" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="total" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="totalt" level="4.5" origin="synlex" date="2011-03-03"/>
+    <example id="3998" value="en helt ny bil" date="2011-03-03">
+      <translation value="a brand new car"/>
+    </example>
+    <example id="3999" value="helt enkelt" date="2011-03-03">
+      <translation value="quite simply"/>
+    </example>
+    <example id="4000" value="helt och h&#xE5;llet (&amp;quot;fullst&#xE4;ndigt&amp;quot;)" date="2011-03-03">
+      <translation value="absolutely"/>
+    </example>
+    <definition id="6567" value="alldeles" date="2011-03-03"/>
+  </word>
+  <word value="absolutely" lang="en" class="ab" id="1551" lexinid="50" origin="lexin" date="2009-02-24">
+    <translation id="1551-1" value="absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="1551-2" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="1551-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="1551-4" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="1551-5" value="ovillkorligt" origin="lexin" date="2009-02-24"/>
+    <example id="1551-6" value="absolutely necessary" origin="lexin" date="2009-02-24">
+      <translation value="absolut n&#xF6;dv&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*completely, *unconditionally" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="altogether" lang="en" class="ab" id="11431" lexinid="207" origin="lexin" date="2009-02-24">
+    <translation id="11431-1" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="11431-2" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="11431-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <example id="11431-5" value="that is an altogether different matter" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r en helt annan fr&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="11431-4" value="in the altogether" origin="lexin" date="2009-02-24">
+      <translation value="spritt spr&#xE5;ngande naken (humoristiskt; informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clear" lang="en" class="ab" id="81821" origin="lexin" date="2009-02-24">
+    <translation id="81821-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="81821-2" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="81821-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <idiom id="81821-4" value="get clear over" origin="lexin" date="2009-02-24">
+      <translation value="komma &#xF6;ver helt, komma &#xF6;ver utan att fastna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="entirely" lang="en" class="ab" id="158241" origin="lexin" date="2009-02-24">
+    <translation id="158241-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="158241-2" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <example id="158241-3" value="I entirely agree with you" origin="lexin" date="2009-02-24">
+      <translation value="jag h&#xE5;ller med dig fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="fairly" lang="en" class="ab" id="168981" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="168981-1" value="formligen" origin="lexin" date="2009-02-24"/>
+    <translation id="168981-2" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="168981-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <example id="168981-4" value="I fairly gasped for air" origin="lexin" date="2009-02-24">
+      <translation value="jag kippade formligen efter andan" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="full" lang="en" class="ab" id="187911" origin="lexin" date="2009-02-24">
+    <translation id="187911-1" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="187911-2" value="helt" origin="lexin" date="2009-02-24"/>
+    <example id="187911-3" value="I know full well that he is arriving today" origin="lexin" date="2009-02-24">
+      <translation value="jag vet mycket v&#xE4;l att han kommer i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="just" lang="en" class="ab" id="244161" origin="lexin" date="2009-02-24">
+    <translation id="244161-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="244161-2" value="fullkomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="244161-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <idiom id="244161-4" value="not just yet" origin="lexin" date="2009-02-24">
+      <translation value="inte riktigt &#xE4;n" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="off" lang="en" class="ab" id="292751" origin="lexin" date="2009-02-24">
+    <translation id="292751-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="292751-2" value="till fullo" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="perfectly" lang="en" class="ab" id="312661" origin="lexin" date="2009-02-24">
+    <translation id="312661-1" value="helt" comment="i vissa uttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="312661-2" value="j&#xE4;ttebra" origin="lexin" date="2009-02-24"/>
+    <translation id="312661-3" value="helt acceptabel" origin="lexin" date="2009-02-24"/>
+    <translation id="312661-4" value="fullt fungerande" origin="lexin" date="2009-02-24"/>
+    <example id="312661-5" value="We have a perfectly good TV set, we don&amp;#39;t need a new one." origin="lexin" date="2009-02-24">
+      <translation value="Vi har en helt acceptabel TV, vi beh&#xF6;ver ingen ny." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="satisfyingly, acceptably" origin="lexin" date="2009-02-24"/>
+    <grammar value="betonar ett adjektiv eller adverb" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="physically" lang="en" class="ab" id="315821" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="315821-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="315821-2" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <example id="315821-3" value="it was physically impossible to finish on time" origin="lexin" date="2009-02-24">
+      <translation value="det var helt om&#xF6;jligt att bli klar i tid" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="quite" lang="en" class="ab" id="343701" lexinid="207" origin="lexin" date="2009-02-24">
+    <translation id="343701-1" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-2" value="fullkomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-4" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-5" value="absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-6" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-7" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-8" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-9" value="ganska" origin="lexin" date="2009-02-24"/>
+    <example id="343701-10" value="quite right!" origin="lexin" date="2009-02-24">
+      <translation value="alldeles riktigt!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="helt (och h&#xE5;llet), fullst&#xE4;ndigt, precis" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rotten" lang="en" class="ab" id="365181" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="365181-1" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="365181-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="365181-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <idiom id="365181-4" value="spoil somebody rotten" origin="lexin" date="2009-02-24">
+      <translation value="sk&#xE4;mma bort n&#xE5;gon totalt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

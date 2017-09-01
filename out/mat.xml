@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="mat" lang="sv" class="nn" id="107930" lexinid="10793" origin="lexin" comment="&#xE4;ven om m&#xE5;ltid" date="2011-03-03">
+    <translation id="10602" value="food" comment="also of meals" date="2011-03-03"/>
+    <phonetic value="ma:t" soundFile="mat.swf" date="2011-03-03"/>
+    <paradigm id="9409" origin="lexin" date="2011-03-03">
+      <inflection value="maten"/>
+    </paradigm>
+    <synonym value="f&#xF6;da" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;do&#xE4;mne" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="kost" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="krubb" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="k&#xE4;k" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="livsmedel" level="4.8" origin="synlex" date="2011-03-03"/>
+    <see value="mat||mat..1||mat..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="mat||mat..2||mat..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5809" value="f&#xF6;re maten" date="2011-03-03">
+      <translation value="before eating"/>
+    </example>
+    <example id="5810" value="mat och dryck" date="2011-03-03">
+      <translation value="food and drink"/>
+    </example>
+    <example id="5811" value="&#xE4;ta mat" date="2011-03-03">
+      <translation value="eat food"/>
+    </example>
+    <example id="5812" value="laga mat" date="2011-03-03">
+      <translation value="prepare food"/>
+    </example>
+    <compound id="3833" value="mat|bord" date="2011-03-03">
+      <translation value="dining table"/>
+    </compound>
+    <definition id="10406" value="n&#xE4;rings&#xE4;mne som man &#xE4;ter" date="2011-03-03"/>
+  </word>
+  <word value="cuisine" lang="en" class="nn" id="113881" origin="lexin" date="2009-02-24">
+    <translation id="113881-1" value="k&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="113881-2" value="kokkonst" origin="lexin" date="2009-02-24"/>
+    <translation id="113881-3" value="mat" origin="lexin" date="2009-02-24"/>
+    <example id="113881-4" value="Italian cuisine" origin="lexin" date="2009-02-24">
+      <translation value="det italienska k&#xF6;ket" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="feeding" lang="en" class="nn" id="172051" origin="lexin" date="2009-02-24">
+    <translation id="172051-1" value="foder" origin="lexin" date="2009-02-24"/>
+    <translation id="172051-2" value="mat" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="food" lang="en" class="nn" id="181361" origin="lexin" date="2009-02-24">
+    <translation id="181361-1" value="mat" origin="lexin" date="2009-02-24"/>
+    <translation id="181361-2" value="f&#xF6;da" origin="lexin" date="2009-02-24"/>
+    <translation id="181361-3" value="kost" origin="lexin" date="2009-02-24"/>
+    <translation id="181361-4" value="livsmedel" origin="lexin" date="2009-02-24"/>
+    <translation id="181361-5" value="f&#xF6;do&#xE4;mne" origin="lexin" date="2009-02-24"/>
+    <translation id="181361-6" value="n&#xE4;ring" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="foods" lang="en" id="477821" origin="user" date="2012-09-17T04:07:08">
+    <translation id="477821-1" value="mat" origin="user" date="2012-09-17T04:07:09"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="197550" lang="sv" lexinid="19756" origin="lexin" value="underl&#xE4;gg">
+    <translation date="2011-03-03" id="19402" value="mat"/>
+    <phonetic date="2011-03-03" soundFile="underl&#xE4;gg.swf" value="&#xB2;Un:der+leg:"/>
+    <paradigm date="2011-03-03" id="17269" origin="lexin">
+      <inflection value="underl&#xE4;gget"/>
+      <inflection value="underl&#xE4;gg"/>
+      <inflection value="underl&#xE4;ggen"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="underl&#xE4;gg||underl&#xE4;gg..1||underl&#xE4;gg..nn.1"/>
+    <definition date="2011-03-03" id="19106" value="n&#xE5;got som l&#xE4;ggs under n&#xE5;got annat som skydd">
+      <translation value="something placed under something else as protection (e.g. beer mat, coaster)"/>
+    </definition>
+    <url date="2011-03-03" origin="lexin" type="any" value="7/matlagning.swf"/>
+  </word>
+  <word value="mat" lang="en" class="nn" id="269101" origin="lexin" date="2009-02-24">
+    <translation id="269101-1" value="liten matta" comment="vanligen gjord av bast eller liknande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mat" lang="en" class="jj" id="269111" origin="lexin" date="2009-02-24">
+    <variant value="matt" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="269111-1" value="matt" comment="om lyster" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mat" lang="en" class="nn" id="269121" origin="lexin" date="2009-02-24">
+    <translation id="269121-1" value="underl&#xE4;gg" origin="lexin" date="2009-02-24"/>
+    <explanation value="something placed under something else as protection (e.g. beer mat, coaster)" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

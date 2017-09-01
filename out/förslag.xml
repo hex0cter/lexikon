@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;rslag" lang="sv" class="nn" id="56710" lexinid="5671" origin="lexin" date="2011-03-03">
+    <translation id="5581" value="proposal" date="2011-03-03"/>
+    <phonetic value="f&#xF6;r+slA:g" soundFile="f&#xF6;rslag.swf" date="2011-03-03"/>
+    <paradigm id="4915" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rslaget"/>
+      <inflection value="f&#xF6;rslag"/>
+      <inflection value="f&#xF6;rslagen"/>
+    </paradigm>
+    <synonym value="erbjudande" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="suggestion" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="utkast" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rslag||f&#xF6;rslag..1||f&#xF6;rslag_2..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;rslag||f&#xF6;rslag..2||f&#xF6;rslag_1..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3321" value="ett f&#xF6;rslag fr&#xE5;n regeringen" date="2011-03-03">
+      <translation value="a government proposal"/>
+    </example>
+    <example id="3322" value="ett f&#xF6;rslag om kvotering" date="2011-03-03">
+      <translation value="a proposal about quotas"/>
+    </example>
+    <example id="3323" value="utarbeta ett f&#xF6;rslag" date="2011-03-03">
+      <translation value="produce a proposal"/>
+    </example>
+    <definition id="5462" value="id&#xE9;, plan" date="2011-03-03"/>
+  </word>
+  <word value="advance" lang="en" class="nn" id="6421" origin="lexin" date="2009-02-24">
+    <translation id="6421-1" value="tillm&#xF6;tesg&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="6421-2" value="n&#xE4;rmande" origin="lexin" date="2009-02-24"/>
+    <translation id="6421-3" value="erbjudande" origin="lexin" date="2009-02-24"/>
+    <translation id="6421-4" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <translation id="6421-5" value="anbud" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="motion" lang="en" class="nn" id="278861" origin="lexin" date="2009-02-24">
+    <translation id="278861-1" value="motion" origin="lexin" date="2009-02-24"/>
+    <translation id="278861-2" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <translation id="278861-3" value="omr&#xF6;stningsf&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <example id="278861-4" value="my motion wasn&amp;#39;t passed" origin="lexin" date="2009-02-24">
+      <translation value="mitt f&#xF6;rslag gick inte igenom" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="overtures" lang="en" class="nn" id="301101" origin="lexin" date="2009-02-24">
+    <translation id="301101-1" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <translation id="301101-2" value="trevare" origin="lexin" date="2009-02-24"/>
+    <translation id="301101-3" value="n&#xE4;rmande" origin="lexin" date="2009-02-24"/>
+    <example id="301101-4" value="overtures for/of peace" origin="lexin" date="2009-02-24">
+      <translation value="fredsf&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="alltid i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="proposal" lang="en" class="nn" id="336751" origin="lexin" date="2009-02-24">
+    <translation id="336751-1" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="proposal" lang="en" class="nn" id="336761" origin="lexin" date="2009-02-24">
+    <translation id="336761-1" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <explanation value="A formal suggestion." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="scheme" lang="en" class="nn" id="371301" origin="lexin" date="2009-02-24">
+    <translation id="371301-1" value="projekt" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="371301-2" value="plan" origin="lexin" date="2009-02-24"/>
+    <translation id="371301-3" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suggestion" lang="en" class="nn" id="406131" origin="lexin" date="2009-02-24">
+    <translation id="406131-1" value="f&#xF6;rslag" origin="lexin" date="2009-02-24"/>
+    <translation id="406131-2" value="r&#xE5;d" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="proposition" lang="en" class="nn" id="459081" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="459081-1" value="f&#xF6;rslag" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+  <word value="intensive care" lang="en" id="488311" origin="user" date="2012-12-04T02:28:45">
+    <translation id="488311-1" value="intensivv&#xE5;rd" origin="user" date="2012-12-04T02:28:45"/>
+    <translation id="488311-2" value="intenssivv&#xE5;rd" origin="user" date="2012-12-04T02:28:47"/>
+    <translation id="488311-3" value="f&#xF6;rslag" origin="user" date="2014-11-25T05:00:14"/>
+  </word>
+</definition>

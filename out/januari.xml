@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="79940" lang="sv" lexinid="7994" origin="lexin" value="januari">
+    <translation date="2011-03-03" id="7846" value="January"/>
+    <phonetic date="2011-03-03" soundFile="januari.swf" value="januA:ri"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="januari||januari..1||januari..nn.1"/>
+    <definition date="2011-03-03" id="7684" value="&#xE5;rets f&#xF6;rsta m&#xE5;nad"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/kalender.swf"/>
+  </word>
+  <word value="January" lang="en" class="nn" id="241131" origin="lexin" date="2009-02-24">
+    <translation id="241131-1" value="januari" origin="lexin" date="2009-02-24"/>
+    <explanation value="&#xE5;rets f&#xF6;rsta m&#xE5;nad" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="103990" lang="sv" lexinid="10399" origin="lexin" value="l&#xE4;gga">
+    <translation date="2011-03-03" id="10212" value="put"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE4;gger.swf" value="lEg:er"/>
+    <paradigm date="2011-03-03" id="9058" origin="lexin">
+      <inflection value="lade"/>
+      <inflection value="lagt"/>
+      <inflection value="l&#xE4;gg"/>
+      <inflection value="l&#xE4;gga"/>
+      <inflection value="l&#xE4;gger"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="placera"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE4;gga||l&#xE4;gga..1||l&#xE4;gga..vb.1"/>
+    <example date="2011-03-03" id="5644" value="l&#xE4;gg boken p&#xE5; bordet!">
+      <translation value="put the book on the table!"/>
+    </example>
+    <definition date="2011-03-03" id="10024" value="f&#xE5; att ligga (mot underlaget)"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x + PLATS"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="104000" lang="sv" lexinid="10400" origin="lexin" value="l&#xE4;gga">
+    <translation date="2011-03-03" id="10213" value="place"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE4;gger.swf" value="lEg:er"/>
+    <paradigm date="2011-03-03" id="9059" origin="lexin">
+      <inflection value="lade"/>
+      <inflection value="lagt"/>
+      <inflection value="l&#xE4;gg"/>
+      <inflection value="l&#xE4;gga"/>
+      <inflection value="l&#xE4;gger"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="placera"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE4;gga||l&#xE4;gga..1||l&#xE4;gga..vb.1"/>
+    <example date="2011-03-03" id="5645" value="l&#xE4;gga ett brev p&#xE5; brevl&#xE5;dan">
+      <translation value="drop a letter into the mailbox"/>
+    </example>
+    <idiom date="2011-03-03" id="909" value="l&#xE4;gga p&#xE5; luren (&amp;quot;avsluta ett telefonsamtal&amp;quot;)">
+      <translation value="hang up (&amp;quot;end a telephone conversation&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="910" value="l&#xE4;gga m&#xE4;rke till (&amp;quot;uppm&#xE4;rksamma&amp;quot;)">
+      <translation value="pay attention to (&amp;quot;notice&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="10025" value="placera p&#xE5; avsedd plats"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x + PLATS"/>
+  </word>
+  <word value="l&#xE4;gga" lang="sv" class="vb" id="104010" lexinid="10401" origin="lexin" date="2011-03-03">
+    <translation id="104010-10027" value="set" origin="user" date="2012-01-22T00:11:34"/>
+    <translation id="104010-10028" value="lay" origin="user" date="2012-01-22T00:11:34"/>
+    <phonetic value="lEg:er" soundFile="l&#xE4;gger.swf" date="2011-03-03"/>
+    <paradigm id="9060" origin="lexin" date="2011-03-03">
+      <inflection value="lade"/>
+      <inflection value="lagt"/>
+      <inflection value="l&#xE4;gg"/>
+      <inflection value="l&#xE4;gga"/>
+      <inflection value="l&#xE4;gger"/>
+    </paradigm>
+    <synonym value="placera" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="l&#xE4;gga||l&#xE4;gga..1||l&#xE4;gga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5646" value="l&#xE4;gga pussel" date="2011-03-03">
+      <translation value="do a jigsaw puzzle"/>
+    </example>
+    <definition id="10026" value="s&#xE4;tta samman" date="2011-03-03"/>
+  </word>
+</definition>

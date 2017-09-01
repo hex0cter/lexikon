@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="198210" lang="sv" lexinid="19822" origin="lexin" value="ungef&#xE4;r">
+    <translation date="2011-03-03" id="19468" value="about"/>
+    <phonetic date="2011-03-03" soundFile="ungef&#xE4;r.swf" value="unjef&#xC4;:r"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="approximativt"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="ca"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="cirka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="drygt"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="ganska"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="i princip"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="n&#xE4;stan"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="omkring"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="sis&#xE5;d&#xE4;r"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="typ"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="uppskattning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ungef&#xE4;r||ungef&#xE4;r..1||ungef&#xE4;r..ab.1"/>
+    <definition date="2011-03-03" id="19168" value="omkring, cirka">
+      <translation value="approximately, roughly, more or less"/>
+    </definition>
+  </word>
+  <word value="about" lang="en" class="ab" id="1211" origin="lexin" date="2009-02-24">
+    <translation id="1211-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="1211-2" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <example id="1211-3" value="that&amp;#39;s about right!" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) s&#xE5; &#xE4;r det, ungef&#xE4;r!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="1211-4" value="be about to (+infinitiv)" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE5; i begrepp att" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="approx." lang="en" class="abbrev" id="17461" origin="lexin" date="2009-02-24">
+    <translation id="17461-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-2" value="ungef&#xE4;rligen" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-3" value="cirka" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-5" value="i runda tal" origin="lexin" date="2009-02-24"/>
+    <translation id="17461-6" value="i stora drag" origin="lexin" date="2009-02-24"/>
+    <explanation value="approximately" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="approximately" lang="en" class="ab" id="17521" origin="lexin" date="2009-02-24">
+    <translation id="17521-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-2" value="ungef&#xE4;rligen" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-3" value="cirka" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-5" value="i runda tal" origin="lexin" date="2009-02-24"/>
+    <translation id="17521-6" value="i stora drag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="nearly" lang="en" class="ab" id="284111" origin="lexin" date="2009-02-24">
+    <translation id="284111-1" value="bort&#xE5;t" comment="i synnerhet brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-2" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-3" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-4" value="n&#xE4;rmare" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-5" value="n&#xE4;ra p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="some" lang="en" class="ab" id="389981" origin="lexin" date="2009-02-24">
+    <translation id="389981-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="389981-2" value="omkring" origin="lexin" date="2009-02-24"/>
+    <example id="389981-3" value="There were some 50 people present." origin="lexin" date="2009-02-24">
+      <translation value="Det var ungef&#xE4;r 50 personer n&#xE4;rvarande." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="about" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thereabout" lang="en" class="ab" id="417201" origin="lexin" date="2009-02-24">
+    <translation id="417201-1" value="d&#xE4;romkring" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="417201-2" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thereabouts" lang="en" class="ab" id="417211" origin="lexin" date="2009-02-24">
+    <translation id="417211-1" value="d&#xE4;romkring" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="417211-2" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <idiom id="417211-3" value="there and therabouts" origin="lexin" date="2009-02-24">
+      <translation value="(bildligt) ungef&#xE4;r omkring" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="198120" lang="sv" lexinid="19813" origin="lexin" value="ung">
+    <translation date="2011-03-03" id="19459" value="young"/>
+    <phonetic date="2011-03-03" soundFile="ung.swf" value="u@:"/>
+    <paradigm date="2011-03-03" id="17318" origin="lexin">
+      <inflection value="ungt"/>
+      <inflection value="unga"/>
+      <inflection value="yngre"/>
+      <inflection value="yngst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="juvenil"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ung||ung..1||ung..av.1"/>
+    <example date="2011-03-03" id="11083" value="en ung flicka">
+      <translation value="a young girl"/>
+    </example>
+    <example date="2011-03-03" id="11084" value="ett ungt par">
+      <translation value="a young couple"/>
+    </example>
+    <example date="2011-03-03" id="11085" value="en ung nation">
+      <translation value="a young nation"/>
+    </example>
+    <related origin="lexin" type="antonym" value="gammal">
+      <translation date="2011-03-03" origin="lexin" value="old"/>
+    </related>
+    <idiom date="2011-03-03" id="1713" value="i unga &#xE5;r (&amp;quot;under ungdoms&#xE5;ren&amp;quot;)">
+      <translation value="when you are young (&amp;quot;in your youth&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="19162" value="som har l&#xE5;g &#xE5;lder"/>
+  </word>
+  <word value="young" lang="en" class="jj" id="449731" origin="lexin" date="2009-02-24">
+    <translation id="449731-1" value="ung" origin="lexin" date="2009-02-24"/>
+    <translation id="449731-2" value="unga" origin="lexin" date="2009-02-24"/>
+    <example id="449731-3" value="He said he was eighteen but looked very young for his age." origin="lexin" date="2009-02-24">
+      <translation value="Han sade att han var arton men s&#xE5;g v&#xE4;ldigt ung ut f&#xF6;r sin &#xE5;lder." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="not fully mature or adult" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="56910" lang="sv" lexinid="5691" origin="lexin" value="f&#xF6;rst">
+    <translation date="2011-03-03" id="5599" value="first"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;rst.swf" value="f&#xF6;r+s:t"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="fr&#xE4;mst"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;rst||f&#xF6;rst..1||f&#xF6;rst..ab.1"/>
+    <example date="2011-03-03" id="3337" value="komma f&#xF6;rst i en t&#xE4;vling">
+      <translation value="come first in a competition"/>
+    </example>
+    <definition date="2011-03-03" id="5481" value="fr&#xE4;mst, l&#xE4;ngst fram"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="56920" lang="sv" lexinid="5692" origin="lexin" value="f&#xF6;rst">
+    <translation date="2011-03-03" id="5600" value="at first"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;rst.swf" value="f&#xF6;r+s:t"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="fr&#xE4;mst"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;rst||f&#xF6;rst..1||f&#xF6;rst..ab.1"/>
+    <example date="2011-03-03" id="3338" value="f&#xF6;rst trodde vi att hon skojade">
+      <translation value="at first we thought she was joking"/>
+    </example>
+    <example date="2011-03-03" id="3339" value="f&#xF6;rst n&#xE4;sta &#xE5;r blir resultatet klart">
+      <translation value="the result will not be produced until next year"/>
+    </example>
+    <idiom date="2011-03-03" id="410" value="f&#xF6;rst och fr&#xE4;mst (&amp;quot;i f&#xF6;rsta hand, framf&#xF6;r allt&amp;quot;)">
+      <translation value="first and foremost"/>
+    </idiom>
+    <definition date="2011-03-03" id="5482" value="i b&#xF6;rjan; tidigast"/>
+  </word>
+  <word value="first" lang="en" class="ro" id="176431" origin="lexin" date="2009-02-24">
+    <translation id="176431-1" value="f&#xF6;rst" origin="lexin" date="2009-02-24"/>
+    <translation id="176431-2" value="f&#xF6;rsta" origin="lexin" date="2009-02-24"/>
+    <example id="176431-4" value="January is the first month of the year." origin="lexin" date="2009-02-24">
+      <translation value="Januari &#xE4;r &#xE5;rets f&#xF6;rsta m&#xE5;nad." origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="176431-3" value="First come first served" origin="lexin" date="2009-02-24">
+      <translation value="F&#xF6;rst till kvarn f&#xE5;r f&#xF6;rst mala." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="The one that comes before the others, that is counted as number 1." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="only" lang="en" class="ab" id="294701" origin="lexin" date="2009-02-24">
+    <translation id="294701-1" value="f&#xF6;rst" origin="lexin" date="2009-02-24"/>
+    <translation id="294701-2" value="inte f&#xF6;rr&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <idiom id="294701-3" value="only just" origin="lexin" date="2009-02-24">
+      <translation value="alldeles nyss, precis, just nu" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="294701-4" value="only now" origin="lexin" date="2009-02-24">
+      <translation value="inte f&#xF6;rr&#xE4;n nu, f&#xF6;rst nu" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

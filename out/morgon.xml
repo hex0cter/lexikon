@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="112420" lang="sv" lexinid="11242" origin="lexin" value="morgon">
+    <phonetic date="2011-03-03" soundFile="morgon.swf" value="&#xB2;m&#xC5;r:(g)&#xE5;n"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="gryning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="morgon||morgon..1||morgon..nn.1"/>
+    <idiom date="2011-03-03" id="992" value="i morgon (&amp;quot;dagen efter denna&amp;quot;)">
+      <translation value="tomorrow (&amp;quot;the day after this one&amp;quot;)"/>
+    </idiom>
+  </word>
+  <word class="nn" date="2011-03-03" id="112430" lang="sv" lexinid="11243" origin="lexin" value="morgon">
+    <translation date="2011-03-03" id="11044" value="morning"/>
+    <phonetic date="2011-03-03" soundFile="morgon.swf" value="&#xB2;m&#xC5;r:(g)&#xE5;n"/>
+    <paradigm date="2011-03-03" id="9787" origin="lexin">
+      <inflection value="morgonen"/>
+      <inflection value="morgnar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="gryning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="morgon||morgon..1||morgon..nn.1"/>
+    <example date="2011-03-03" id="6110" value="fr&#xE5;n morgon till kv&#xE4;ll">
+      <translation value="from morning until evening"/>
+    </example>
+    <compound date="2011-03-03" id="3978" inflection="morgon|tidningen" value="morgon|tidning">
+      <translation value="morning paper"/>
+    </compound>
+    <compound date="2011-03-03" id="3979" value="m&#xE5;ndagsmorgon">
+      <translation value="Monday morning"/>
+    </compound>
+    <compound date="2011-03-03" id="3980" value="morgon|rock">
+      <translation value="dressing gown"/>
+    </compound>
+    <idiom date="2011-03-03" id="993" value="god morgon!">
+      <translation value="good morning!"/>
+    </idiom>
+    <definition date="2011-03-03" id="10841" value="de f&#xF6;rsta timmarna p&#xE5; dagen"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/kalender.swf"/>
+  </word>
+  <word value="morn" lang="en" class="nn" id="278091" origin="lexin" date="2009-02-24">
+    <translation id="278091-1" value="morgon" comment="poetiskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="morning" lang="en" class="nn" id="278101" origin="lexin" date="2009-02-24">
+    <translation id="278101-1" value="morgon" origin="lexin" date="2009-02-24"/>
+    <explanation value="The early part of the day, after midnight and before midday." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

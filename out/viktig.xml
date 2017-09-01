@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="viktig" lang="sv" class="jj" id="208200" lexinid="20821" origin="lexin" date="2011-03-03">
+    <translation id="20453" value="important" date="2011-03-03"/>
+    <phonetic value="&#xB2;vIk:tig" soundFile="viktig.swf" date="2011-03-03"/>
+    <paradigm id="18153" origin="lexin" date="2011-03-03">
+      <inflection value="viktigt"/>
+      <inflection value="viktiga"/>
+    </paradigm>
+    <synonym value="angel&#xE4;gen" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydande" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydelsefull" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentligt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="viktig||viktig..1||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viktig||viktig..2||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11714" value="spela en viktig roll" date="2011-03-03">
+      <translation value="play an important part"/>
+    </example>
+    <example id="11715" value="en viktig fr&#xE5;ga" date="2011-03-03">
+      <translation value="an important matter"/>
+    </example>
+    <definition id="20112" value="betydelsefull, angel&#xE4;gen" date="2011-03-03">
+      <translation value="significant"/>
+    </definition>
+  </word>
+  <word value="viktig" lang="sv" class="jj" id="208210" lexinid="20822" origin="lexin" date="2011-03-03">
+    <translation id="20454" value="stuck-up" date="2011-03-03"/>
+    <phonetic value="&#xB2;vIk:tig" soundFile="viktig.swf" date="2011-03-03"/>
+    <paradigm id="18154" origin="lexin" date="2011-03-03">
+      <inflection value="viktigt"/>
+      <inflection value="viktiga"/>
+    </paradigm>
+    <synonym value="betydande" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="viktig||viktig..1||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viktig||viktig..2||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11716" value="g&#xF6;ra sig viktig" date="2011-03-03">
+      <translation value="put on airs"/>
+    </example>
+    <compound id="6810" value="viktig|petter" date="2011-03-03">
+      <translation value="pompous ass"/>
+    </compound>
+    <definition id="20113" value="&#xF6;verl&#xE4;gsen, snorkig" date="2011-03-03"/>
+  </word>
+  <word value="central" lang="en" class="jj" id="71711" origin="lexin" date="2009-02-24">
+    <translation id="71711-1" value="central" origin="lexin" date="2009-02-24"/>
+    <translation id="71711-2" value="huvud-" origin="lexin" date="2009-02-24"/>
+    <translation id="71711-3" value="ledande" origin="lexin" date="2009-02-24"/>
+    <translation id="71711-4" value="vital" origin="lexin" date="2009-02-24"/>
+    <translation id="71711-5" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="71711-6" value="dominerande" origin="lexin" date="2009-02-24"/>
+    <explanation value="important, main, critical, key" origin="lexin" date="2009-02-24">
+      <translation value="viktig, ledande, huvud-" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="consequential" lang="en" class="jj" id="97911" origin="lexin" date="2009-02-24">
+    <translation id="97911-1" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+    <translation id="97911-2" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="97911-3" value="betydande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="grave" lang="en" class="jj" id="204161" origin="lexin" date="2009-02-24">
+    <translation id="204161-1" value="allvarlig" comment="om sak" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-2" value="grav" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-3" value="allvarsam" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-4" value="sv&#xE5;r" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-5" value="bet&#xE4;nklig" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-6" value="sorglig" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-7" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="204161-8" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="great" lang="en" class="jj" id="204571" origin="lexin" date="2009-02-24">
+    <translation id="204571-1" value="stor" origin="lexin" date="2009-02-24"/>
+    <translation id="204571-2" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="204571-3" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+    <translation id="204571-4" value="framst&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="204571-5" value="betydande" origin="lexin" date="2009-02-24"/>
+    <example id="204571-6" value="he is a great composer" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r en stor komposit&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="204571-7" value="he&amp;#39;s great at tennis!" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r mycket bra p&#xE5; tennis!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="important" lang="en" class="jj" id="227921" lexinid="403" origin="lexin" date="2009-02-24">
+    <translation id="227921-1" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="227921-2" value="v&#xE4;sentlig" origin="lexin" date="2009-02-24"/>
+    <translation id="227921-3" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+    <translation id="227921-4" value="angel&#xE4;gen" origin="lexin" date="2009-02-24"/>
+    <translation id="227921-5" value="betydande" origin="lexin" date="2009-02-24"/>
+    <translation id="227921-6" value="anspr&#xE5;ksfull" origin="lexin" date="2009-02-24"/>
+    <example id="227921-7" value="it is important that this conflict be resolved" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r angel&#xE4;get att l&#xF6;sa konflikten" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="meaningful" lang="en" class="jj" id="270061" origin="lexin" date="2009-02-24">
+    <translation id="270061-1" value="meningsfull" origin="lexin" date="2009-02-24"/>
+    <translation id="270061-2" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+    <translation id="270061-3" value="viktig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="serious" lang="en" class="jj" id="376541" origin="lexin" date="2009-02-24">
+    <translation id="376541-1" value="viktig" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="376541-2" value="betydande" origin="lexin" date="2009-02-24"/>
+    <translation id="376541-3" value="riktig" origin="lexin" date="2009-02-24"/>
+    <translation id="376541-4" value="verklig" origin="lexin" date="2009-02-24"/>
+    <translation id="376541-5" value="ivrig" origin="lexin" date="2009-02-24"/>
+    <translation id="376541-6" value="bet&#xE4;nklig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="significant" lang="en" class="jj" id="382571" origin="lexin" date="2009-02-24">
+    <translation id="382571-1" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="382571-2" value="betydelsefull" origin="lexin" date="2009-02-24"/>
+    <translation id="382571-3" value="betydande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="urgent" lang="en" class="jj" id="434341" origin="lexin" date="2009-02-24">
+    <translation id="434341-1" value="angel&#xE4;gen" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-2" value="br&#xE5;dskande" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-3" value="&#xF6;verh&#xE4;ngande" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-4" value="tr&#xE4;ngande" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-5" value="viktig" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-6" value="allvarlig" origin="lexin" date="2009-02-24"/>
+    <translation id="434341-7" value="av behovet p&#xE5;kallad" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

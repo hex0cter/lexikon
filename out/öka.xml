@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="&#xF6;ka" lang="sv" class="vb" id="217600" lexinid="21761" origin="lexin" date="2011-03-03">
+    <translation id="217600-21020" value="increase" comment="American English" origin="user" date="2013-04-18T04:46:00"/>
+    <translation id="217600-21021" value="gain" origin="user" date="2012-01-14T23:15:23"/>
+    <translation id="217600-21022" value="grow" origin="user" date="2012-01-14T23:15:23"/>
+    <phonetic value="&#xB2;&#xD6;:kar" soundFile="&#xF6;kar.swf" date="2011-03-03"/>
+    <paradigm id="18951" origin="lexin" date="2011-03-03">
+      <inflection value="&#xF6;kade"/>
+      <inflection value="&#xF6;kat"/>
+      <inflection value="&#xF6;ka"/>
+      <inflection value="&#xF6;kar"/>
+    </paradigm>
+    <synonym value="accelerera" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rstora" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;ja" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;jning" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="intensifiera" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="stegra" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="stegring" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="stiga" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillta" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tilltagande" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="utbreda" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="utvidga" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;xa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..1||&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..2||&#xF6;ka..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="12328" value="en snabbt &#xF6;kande brist p&#xE5; bost&#xE4;der" date="2011-03-03">
+      <translation value="a rapidly-growing shortage of housing"/>
+    </example>
+    <example id="12329" value="kostnaderna har &#xF6;kat med hundra procent" date="2011-03-03">
+      <translation value="costs have increased by one hundred per cent"/>
+    </example>
+    <definition id="21019" value="bli st&#xF6;rre, v&#xE4;xa, tillta" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="&#xF6;ka" lang="sv" class="vb" id="217610" lexinid="21762" origin="lexin" date="2011-03-03">
+    <translation id="21368" value="increase" date="2011-03-03"/>
+    <phonetic value="&#xB2;&#xD6;:kar" soundFile="&#xF6;kar.swf" date="2011-03-03"/>
+    <paradigm id="18952" origin="lexin" date="2011-03-03">
+      <inflection value="&#xF6;kade"/>
+      <inflection value="&#xF6;kat"/>
+      <inflection value="&#xF6;ka"/>
+      <inflection value="&#xF6;kar"/>
+    </paradigm>
+    <synonym value="eskalera" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rh&#xF6;ja" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;ja" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillta" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tilltagande" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="utvidga" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="vidga" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;xa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..1||&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..2||&#xF6;ka..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="12330" value="&#xF6;ka produktionen" date="2011-03-03">
+      <translation value="increase production"/>
+    </example>
+    <example id="12331" value="han &#xF6;kade farten" date="2011-03-03">
+      <translation value="he increased speed"/>
+    </example>
+    <example id="12332" value="&#xF6;kade kunskaper" date="2011-03-03">
+      <translation value="increased knowledge, a higher level of knowledge"/>
+    </example>
+    <definition id="21020" value="g&#xF6;ra st&#xF6;rre, h&#xF6;ja" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="accrue" lang="en" class="vb" id="3291" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="3291-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <example id="3291-2" value="accrued interest on a bank account" origin="lexin" date="2009-02-24">
+      <translation value="upplupen r&#xE4;nta p&#xE5; ett bankkonto" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="add" lang="en" class="vb" id="4621" origin="lexin" date="2009-02-24">
+    <translation id="4621-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <example id="4621-4" value="add up" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;mma (om siffror)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="4621-2" value="it all adds up to&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="summan av kardemumman &#xE4;r&#xE4;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="4621-3" value="it doesn&amp;#39;t add up" origin="lexin" date="2009-02-24">
+      <translation value="det st&#xE4;mmer inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="augment" lang="en" class="vb" id="24811" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="24811-1" value="utvidga" origin="lexin" date="2009-02-24"/>
+    <translation id="24811-2" value="f&#xF6;rstora" origin="lexin" date="2009-02-24"/>
+    <translation id="24811-3" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="24811-4" value="f&#xF6;rst&#xE4;rka" origin="lexin" date="2009-02-24"/>
+    <example id="24811-5" value="I need to find a way to augment my income" origin="lexin" date="2009-02-24">
+      <translation value="jag m&#xE5;ste hitta ett s&#xE4;tt att &#xF6;ka min inkomst p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="balloon" lang="en" class="vb" id="30261" origin="lexin" date="2009-02-24">
+    <translation id="30261-1" value="stiga i h&#xF6;jden" origin="lexin" date="2009-02-24"/>
+    <translation id="30261-2" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="boost" lang="en" class="vb" id="50161" origin="lexin" date="2009-02-24">
+    <translation id="50161-1" value="h&#xF6;ja" origin="lexin" date="2009-02-24"/>
+    <translation id="50161-2" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <example id="50161-4" value="we&amp;#39;re hoping that these changes will boost production" origin="lexin" date="2009-02-24">
+      <translation value="vi hoppas att dessa f&#xF6;r&#xE4;ndringar ska &#xF6;ka produktionen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="50161-3" value="boost morale" origin="lexin" date="2009-02-24">
+      <translation value="h&#xF6;ja moralen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="edge" lang="en" class="vb" id="150851" origin="lexin" date="2009-02-24">
+    <translation id="150851-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="150851-2" value="stiga" origin="lexin" date="2009-02-24"/>
+    <translation id="150851-3" value="utvecklas" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gain" lang="en" class="vb" id="189701" origin="lexin" date="2009-02-24">
+    <translation id="189701-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <example id="189701-3" value="we&amp;#39;re gaining speed" origin="lexin" date="2009-02-24">
+      <translation value="vi &#xF6;kar farten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="189701-2" value="gain weight" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; upp i vikt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get up" lang="en" class="vb" id="194741" origin="lexin" date="2009-02-24">
+    <translation id="194741-1" value="tillta" origin="lexin" date="2009-02-24"/>
+    <translation id="194741-2" value="&#xF6;ka" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194741-4" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194741-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194741-3" value="the fire is getting up" origin="lexin" date="2009-02-24">
+      <translation value="elden tilltar i styrka" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go up" lang="en" class="vb" id="199431" origin="lexin" date="2009-02-24">
+    <translation id="199431-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="199431-3" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="199431-2" value="prices have gone up terribly recently" origin="lexin" date="2009-02-24">
+      <translation value="priserna har stigit n&#xE5;got f&#xF6;rf&#xE4;rligt p&#xE5; sistone" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="increase" lang="en" class="vb" id="230011" origin="lexin" date="2009-02-24">
+    <translation id="230011-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="230011-2" value="&#xF6;kas" origin="lexin" date="2009-02-24"/>
+    <translation id="230011-3" value="stiga" origin="lexin" date="2009-02-24"/>
+    <translation id="230011-4" value="v&#xE4;xa" origin="lexin" date="2009-02-24"/>
+    <translation id="230011-5" value="tillta" origin="lexin" date="2009-02-24"/>
+    <translation id="230011-6" value="f&#xF6;r&#xF6;ka sig" origin="lexin" date="2009-02-24"/>
+    <related value="minska" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="decrease" origin="lexin" date="2009-02-24"/>
+    </related>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="jack up" lang="en" class="vb" id="240641" origin="lexin" date="2009-02-24">
+    <translation id="240641-1" value="h&#xF6;ja" origin="lexin" date="2009-02-24"/>
+    <translation id="240641-2" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mount up" lang="en" class="vb" id="279211" origin="lexin" date="2009-02-24">
+    <translation id="279211-1" value="stiga" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="279211-2" value="v&#xE4;xa" origin="lexin" date="2009-02-24"/>
+    <translation id="279211-3" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mount" lang="en" class="vb" id="279231" origin="lexin" date="2009-02-24">
+    <translation id="279231-1" value="stiga" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="279231-2" value="v&#xE4;xa" origin="lexin" date="2009-02-24"/>
+    <translation id="279231-3" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pick up" lang="en" class="vb" id="316211" origin="lexin" date="2009-02-24">
+    <translation id="316211-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <example id="316211-2" value="pick up speed" origin="lexin" date="2009-02-24">
+      <translation value="&#xF6;ka farten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rise" lang="en" class="vb" id="362911" origin="lexin" date="2009-02-24">
+    <translation id="362911-1" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="362911-2" value="tillta" comment="om vind eller storm" origin="lexin" date="2009-02-24"/>
+    <paradigm id="362911-3" origin="lexin" date="2009-02-24">
+      <inflection value="rose" origin="lexin" date="2009-02-24"/>
+      <inflection value="risen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="step up" lang="en" class="vb" id="398361" origin="lexin" date="2009-02-24">
+    <translation id="398361-1" value="driva upp" origin="lexin" date="2009-02-24"/>
+    <translation id="398361-2" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="398361-3" value="intensifiera" origin="lexin" date="2009-02-24"/>
+    <explanation value="increase, raise" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="supplement" lang="en" class="vb" id="407281" origin="lexin" date="2009-02-24">
+    <translation id="407281-1" value="g&#xF6;ra till&#xE4;gg till" origin="lexin" date="2009-02-24"/>
+    <translation id="407281-2" value="fylla ut" origin="lexin" date="2009-02-24"/>
+    <translation id="407281-3" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="407281-4" value="komplettera" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="up" lang="en" class="vb" id="433801" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="433801-1" value="h&#xF6;ja" origin="lexin" date="2009-02-24"/>
+    <translation id="433801-2" value="&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="433801-3" origin="lexin" date="2009-02-24">
+      <inflection value="upped" origin="lexin" date="2009-02-24"/>
+      <inflection value="upped" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to increase" lang="en" id="469531" origin="user" date="2012-05-28T01:01:37">
+    <translation id="469531-1" value="&#xF6;ka" origin="user" date="2012-05-28T01:01:37"/>
+  </word>
+  <word value="speeding-up" lang="en" id="531701" origin="user" date="2014-03-31T02:07:12">
+    <translation id="531701-1" value="snabba p&#xE5;" origin="user" date="2014-03-31T02:07:12"/>
+    <translation id="531701-2" value="&#xF6;ka" origin="user" date="2014-03-31T02:07:12"/>
+  </word>
+</definition>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="97040" lang="sv" lexinid="9704" origin="lexin" value="k&#xF6;r">
+    <phonetic date="2011-03-03" soundFile="k&#xF6;r.swf" value="c&#xF6;:r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="k&#xF6;r||k&#xF6;r..1||k&#xF6;r..nn.1"/>
+    <idiom date="2011-03-03" id="815" value="i ett k&#xF6;r (&amp;quot;oavbrutet&amp;quot;)">
+      <translation value="continuously (&amp;quot;without interruption&amp;quot;)"/>
+    </idiom>
+  </word>
+  <word class="nn" date="2011-03-03" id="97050" lang="sv" lexinid="9705" origin="lexin" value="k&#xF6;r">
+    <translation date="2011-03-03" id="9533" value="chorus"/>
+    <phonetic date="2011-03-03" soundFile="k&#xF6;r.swf" value="k&#xF6;:r"/>
+    <paradigm date="2011-03-03" id="8437" origin="lexin">
+      <inflection value="k&#xF6;ren"/>
+      <inflection value="k&#xF6;rer"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="k&#xF6;r||k&#xF6;r..1||k&#xF6;r..nn.1"/>
+    <compound date="2011-03-03" id="3464" inflection="k&#xF6;r|s&#xE5;ngen" value="k&#xF6;r|s&#xE5;ng">
+      <translation value="choral singing"/>
+    </compound>
+    <compound date="2011-03-03" id="3465" value="mansk&#xF6;r">
+      <translation value="male choir"/>
+    </compound>
+    <definition date="2011-03-03" id="9352" value="grupp personer som regelbundet sjunger tillsammans"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="18/musik.swf"/>
+  </word>
+  <word value="k&#xF6;ra" lang="sv" class="vb" id="97060" lexinid="9706" origin="lexin" comment="&#xE4;ven &amp;quot;transportera&amp;quot;" date="2011-03-03">
+    <translation id="9534" value="drive" comment="also &amp;quot;transport&amp;quot;" date="2011-03-03"/>
+    <phonetic value="c&#xF6;:r" soundFile="k&#xF6;r.swf" date="2011-03-03"/>
+    <paradigm id="8438" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xF6;rde"/>
+      <inflection value="k&#xF6;rt"/>
+      <inflection value="k&#xF6;r"/>
+      <inflection value="k&#xF6;ra"/>
+      <inflection value="k&#xF6;r"/>
+    </paradigm>
+    <synonym value="ratta" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="k&#xF6;ra||k&#xF6;ra..1||k&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xF6;ra||k&#xF6;ra..2||k&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xF6;ra||k&#xF6;ra..3||k&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kor_av.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="kor_in_i_garaget.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="kor_om.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="kor_over.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="kor_pa.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <see value="kor_rakt_fram.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="5331" value="vill du k&#xF6;ra mig till stationen?" date="2011-03-03">
+      <translation value="would you drive me to the station?"/>
+    </example>
+    <example id="5332" value="k&#xF6;ra bil" date="2011-03-03">
+      <translation value="drive a car"/>
+    </example>
+    <derivation id="457" value="k&#xF6;rning" date="2011-03-03">
+      <translation value="run"/>
+    </derivation>
+    <idiom id="816" value="k&#xF6;ra med (&amp;quot;st&#xE4;ndigt upprepa, g&#xE5; h&#xE5;rt fram med&amp;quot;)" date="2011-03-03">
+      <translation value="go on (about) (&amp;quot;continuously repeat, push&amp;quot;)"/>
+    </idiom>
+    <idiom id="817" value="k&#xF6;ra om (&amp;quot;k&#xF6;ra f&#xF6;rbi&amp;quot;)" date="2011-03-03">
+      <translation value="overtake (&amp;quot;drive by&amp;quot;)"/>
+    </idiom>
+    <idiom id="818" value="k&#xF6;ra upp (&amp;quot;avl&#xE4;gga k&#xF6;rkortsprov&amp;quot;)" date="2011-03-03">
+      <translation value="take a driving test"/>
+    </idiom>
+    <definition id="9353" value="framf&#xF6;ra (ett fordon)" date="2011-03-03"/>
+    <grammar value="A &amp; (x)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="k&#xF6;ra" lang="sv" class="vb" id="97070" lexinid="9707" origin="lexin" date="2011-03-03">
+    <translation id="9535" value="drive (away)" date="2011-03-03"/>
+    <use value="vanl. med partikel" date="2011-03-03"/>
+    <phonetic value="c&#xF6;:r" soundFile="k&#xF6;r.swf" date="2011-03-03"/>
+    <paradigm id="8439" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xF6;rde"/>
+      <inflection value="k&#xF6;rt"/>
+      <inflection value="k&#xF6;r"/>
+      <inflection value="k&#xF6;ra"/>
+      <inflection value="k&#xF6;r"/>
+    </paradigm>
+    <see value="k&#xF6;ra||k&#xF6;ra..2||k&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2015-03-18T01:44:54"/>
+    <example id="5333" value="han k&#xF6;rde bort &#xE5;sk&#xE5;darna som samlats" date="2011-03-03">
+      <translation value="he drove off the onlookers who had gathered"/>
+    </example>
+    <definition id="9354" value="tvinga (bort)" date="2011-03-03"/>
+    <grammar value="A &amp; B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="chorus" lang="en" class="nn" id="78321" origin="lexin" date="2009-02-24">
+    <translation id="78321-1" value="k&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="78321-2" value="k&#xF6;rs&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="78321-3" value="kor" origin="lexin" date="2009-02-24"/>
+    <translation id="78321-4" value="korus" origin="lexin" date="2009-02-24"/>
+    <translation id="78321-5" value="grupp personer som regelbundet sjunger tillsammans" origin="lexin" date="2009-02-24"/>
+    <idiom id="78321-6" value="in chorus" origin="lexin" date="2009-02-24">
+      <translation value="i k&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="concert" lang="en" class="nn" id="94661" origin="lexin" date="2009-02-24">
+    <translation id="94661-1" value="k&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="94661-2" value="korus" origin="lexin" date="2009-02-24"/>
+    <translation id="94661-3" value="samklang" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="singing group" lang="en" id="533281" origin="user" date="2014-06-14T08:03:02">
+    <translation id="533281-1" value="k&#xF6;r" origin="user" date="2014-06-14T08:03:02"/>
+    <translation id="533281-2" value="s&#xE5;nggrupp" origin="user" date="2014-06-14T08:03:03"/>
+    <translation id="533281-3" value="sjungande grupp" origin="user" date="2014-06-14T08:03:03"/>
+    <translation id="533281-4" value="s&#xE5;ngk&#xF6;r" origin="user" date="2014-06-14T08:03:07"/>
+  </word>
+</definition>

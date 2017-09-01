@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="114740" lang="sv" lexinid="11474" origin="lexin" value="m&#xE5;nad">
+    <translation date="2011-03-03" id="11271" value="month"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;nad.swf" value="&#xB2;m&#xC5;:nad"/>
+    <paradigm date="2011-03-03" id="9989" origin="lexin">
+      <inflection value="m&#xE5;naden"/>
+      <inflection value="m&#xE5;nader"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;nad||m&#xE5;nad..1||m&#xE5;nad..nn.1"/>
+    <example date="2011-03-03" id="6234" value="tre m&#xE5;naders tj&#xE4;nstledighet">
+      <translation value="three months&amp;#39; leave"/>
+    </example>
+    <example date="2011-03-03" id="6235" value="i juli m&#xE5;nad">
+      <translation value="in the month of July"/>
+    </example>
+    <example date="2011-03-03" id="6236" value="en g&#xE5;ng i m&#xE5;naden">
+      <translation value="once a month"/>
+    </example>
+    <compound date="2011-03-03" id="4046" inflection="m&#xE5;nads|kortet" value="m&#xE5;nads|kort">
+      <translation value="monthly season ticket, monthly pass"/>
+    </compound>
+    <compound date="2011-03-03" id="4047" value="m&#xE5;nads|skifte">
+      <translation value="turn of the month"/>
+    </compound>
+    <compound date="2011-03-03" id="4048" value="vinterm&#xE5;nad">
+      <translation value="winter month"/>
+    </compound>
+    <definition date="2011-03-03" id="11062" value="tolftedel av ett &#xE5;r"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/kalender.swf"/>
+  </word>
+</definition>

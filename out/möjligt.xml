@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="115610" lang="sv" lexinid="11561" origin="lexin" value="m&#xF6;jlig">
+    <translation date="2011-03-03" id="11353" value="possible"/>
+    <phonetic date="2011-03-03" soundFile="m&#xF6;jlig.swf" value="&#xB2;m&#xD6;j:lig"/>
+    <paradigm date="2011-03-03" id="10067" origin="lexin">
+      <inflection value="m&#xF6;jligt"/>
+      <inflection value="m&#xF6;jliga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="eventuell"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="framkomlig"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="g&#xE5;ngbar"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="potentiell"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="t&#xE4;nkbar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="uppt&#xE4;nklig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xF6;jlig||m&#xF6;jlig..1||m&#xF6;jlig..av.1"/>
+    <example date="2011-03-03" id="6303" value="det &#xE4;r m&#xF6;jligt att vi f&#xE5;r importera kol">
+      <translation value="it is possible that we may have to import coal"/>
+    </example>
+    <example date="2011-03-03" id="6304" value="han pratade om allt m&#xF6;jligt">
+      <translation value="he talked about every conceivable thing"/>
+    </example>
+    <example date="2011-03-03" id="6305" value="han anv&#xE4;nde alla m&#xF6;jliga knep">
+      <translation value="he used every conceivable trick"/>
+    </example>
+    <example date="2011-03-03" id="6306" value="s&#xE5; fort som m&#xF6;jligt">
+      <translation value="as quickly as possible"/>
+    </example>
+    <example date="2011-03-03" id="6307" value="pengarna g&#xF6;r det m&#xF6;jligt f&#xF6;r oss att ta semester">
+      <translation value="the money will enable us to take a holiday"/>
+    </example>
+    <example date="2011-03-03" id="6308" value="i st&#xF6;rsta m&#xF6;jliga utstr&#xE4;ckning">
+      <translation value="to the greatest extent possible"/>
+    </example>
+    <definition date="2011-03-03" id="11144" value="t&#xE4;nkbar, rimlig"/>
+  </word>
+  <word value="m&#xF6;jligt" lang="sv" id="273030" origin="user" date="2012-08-20T02:01:55">
+    <translation id="273030-1" value="possible" origin="user" date="2012-08-20T02:01:55"/>
+  </word>
+</definition>

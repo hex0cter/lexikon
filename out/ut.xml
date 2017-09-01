@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" date="2011-03-03" id="201370" lang="sv" lexinid="20138" origin="lexin" value="UT">
+    <translation date="2011-03-03" id="19781" value="residence permit"/>
+    <phonetic date="2011-03-03" soundFile="UT.swf" value="&#xB2;U:tE:"/>
+    <explanation date="2011-03-03" id="19470" value="Ett tillst&#xE5;nd som utomnordiska medborgare m&#xE5;ste ha om de vill stanna mer &#xE4;n tre m&#xE5;nader i Sverige. UT beviljas f&#xF6;r viss tid eller som permanent uppeh&#xE5;llstillst&#xE5;nd (se PUT).">
+      <translation value="&amp;quot;A permit that non-Nordic citizens must have to stay in Sweden for longer than three months. Residence permits are issued either for a limited period or as a permanent. residence permit (see PUT).&amp;quot;"/>
+    </explanation>
+    <definition date="2011-03-03" id="19471" value="uppeh&#xE5;llstillst&#xE5;nd"/>
+  </word>
+  <word value="ut" lang="sv" class="ab" id="201380" lexinid="20139" origin="lexin" date="2011-03-03">
+    <translation id="19782" value="out" date="2011-03-03"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="u:t" soundFile="ut 050.swf" date="2011-03-03"/>
+    <see value="ut||ut..1||ut..ab.1" type="saldo" origin="saldo" date="2015-01-10T00:38:26"/>
+    <see value="gar_ut.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="11283" value="rusa ut p&#xE5; gatan" date="2011-03-03">
+      <translation value="dash out into the street"/>
+    </example>
+    <example id="11284" value="se ut genom f&#xF6;nstret" date="2011-03-03">
+      <translation value="look out through the window"/>
+    </example>
+    <definition id="19472" value="i riktning fr&#xE5;n insidan (av ett hus el. annat utrymme)" date="2011-03-03"/>
+  </word>
+  <word value="ut" lang="sv" class="ab" id="201390" lexinid="20140" origin="lexin" date="2011-03-03">
+    <translation id="19783" value="out" date="2011-03-03"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="u:t" soundFile="ut 050.swf" date="2011-03-03"/>
+    <see value="ut||ut..1||ut..ab.1" type="saldo" origin="saldo" date="2015-02-21T04:40:58"/>
+    <example id="11285" value="skicka ut brev" date="2011-03-03">
+      <translation value="send out letters"/>
+    </example>
+    <example id="11286" value="ge ut pengar" date="2011-03-03">
+      <translation value="spend money"/>
+    </example>
+    <example id="11287" value="l&#xE5;na ut" date="2011-03-03">
+      <translation value="lend"/>
+    </example>
+    <definition id="19473" value="i riktning fr&#xE5;n en plats, bort, iv&#xE4;g" date="2011-03-03"/>
+  </word>
+  <word value="ut" lang="sv" class="ab" id="201400" lexinid="20141" origin="lexin" date="2011-03-03">
+    <translation id="201400-19475" value="out" origin="user" date="2012-04-07T04:39:59"/>
+    <translation id="201400-19476" value="all over" origin="user" date="2012-04-07T04:39:59"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="u:t" soundFile="ut 050.swf" date="2011-03-03"/>
+    <see value="ut||rensa_ut..2||ut..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ut||ut..1||ut..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11288" value="tj&#xE4;na ut" date="2011-03-03">
+      <translation value="see good service, see better days"/>
+    </example>
+    <example id="11289" value="reda ut" date="2011-03-03">
+      <translation value="sort out, straighten out"/>
+    </example>
+    <definition id="19474" value="fullst&#xE4;ndigt, f&#xE4;rdigt, till slut" date="2011-03-03"/>
+  </word>
+  <word value="abroad" lang="en" class="ab" id="1361" origin="lexin" date="2009-02-24">
+    <translation id="1361-1" value="ut" origin="lexin" date="2009-02-24"/>
+    <translation id="1361-2" value="ute" origin="lexin" date="2009-02-24"/>
+    <translation id="1361-3" value="utomhus" origin="lexin" date="2009-02-24"/>
+    <translation id="1361-4" value="bortrest" origin="lexin" date="2009-02-24"/>
+    <example id="1361-5" value="be all abroad" origin="lexin" date="2009-02-24">
+      <translation value="(&#xE5;lderdomligt) vara bortkommen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="down" lang="en" class="ab, jj" id="142601" origin="lexin" date="2009-02-24">
+    <translation id="142601-1" value="ner" origin="lexin" date="2009-02-24"/>
+    <translation id="142601-2" value="upp" origin="lexin" date="2009-02-24"/>
+    <translation id="142601-3" value="ut" comment="s&#xF6;derut eller i f&#xF6;rh&#xE5;llande till storstad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="forth" lang="en" class="ab" id="183261" origin="lexin" date="2009-02-24">
+    <translation id="183261-1" value="fram&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-2" value="vidare" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-3" value="fram" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-4" value="ut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out" lang="en" class="ab" id="298261" origin="lexin" date="2009-02-24">
+    <translation id="298261-1" value="ut" origin="lexin" date="2009-02-24"/>
+    <translation id="298261-2" value="i riktning fr&#xE5;n insidan" comment="av ett hus eller annat utrymme" origin="lexin" date="2009-02-24"/>
+    <example id="298261-3" value="dash out into the street" origin="lexin" date="2009-02-24">
+      <translation value="rusa ut p&#xE5; gatan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="298261-4" value="look out through the window" origin="lexin" date="2009-02-24">
+      <translation value="se ut genom f&#xF6;nstret" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="outward" lang="en" class="ab" id="299561" origin="lexin" date="2009-02-24">
+    <variant value="outwards" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="299561-1" value="ut" origin="lexin" date="2009-02-24"/>
+    <translation id="299561-2" value="ut&#xE5;t" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <related value="in, in&#xE5;t " type="antonym" comment="amerikansk engelska" origin="lexin" date="2009-02-24">
+      <translation value="inward" origin="lexin" date="2009-02-24"/>
+    </related>
+  </word>
+  <word value="outwards" lang="en" class="ab" id="299611" origin="lexin" date="2009-02-24">
+    <variant value="outward" comment="amerikansk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="299611-1" value="ut" origin="lexin" date="2009-02-24"/>
+    <translation id="299611-2" value="ut&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <related value="in, in&#xE5;t" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="inwards" origin="lexin" date="2009-02-24"/>
+    </related>
+  </word>
+  <word value="residence permit" lang="en" class="abbrev" id="357431" origin="lexin" date="2009-02-24">
+    <translation id="357431-1" value="UT" origin="lexin" date="2009-02-24"/>
+    <explanation value="uppeh&#xE5;llstillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

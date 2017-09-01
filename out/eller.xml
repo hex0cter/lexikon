@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="kn" comment="anger alternativ" date="2011-03-03" id="38570" lang="sv" lexinid="3857" origin="lexin" value="eller">
+    <translation comment="indicates alternatives" date="2011-03-03" id="3802" value="or"/>
+    <phonetic date="2011-03-03" soundFile="eller.swf" value="El:er"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="alternativt"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="eller||eller..1||eller..kn.1"/>
+    <example date="2011-03-03" id="2282" value="en mer eller mindre spelar ingen roll">
+      <translation value="one more or less doesn&amp;#39;t matter"/>
+    </example>
+    <example date="2011-03-03" id="2283" value="jag har r&#xE4;tt, eller hur?">
+      <translation value="I am right, aren&amp;#39;t I?"/>
+    </example>
+    <example date="2011-03-03" id="2284" value="det &#xE4;r varken dyrt eller billigt">
+      <translation value="it is neither expensive nor cheap"/>
+    </example>
+    <example date="2011-03-03" id="2285" value="vill du ha te eller kaffe?">
+      <translation value="would you like tea or coffee?"/>
+    </example>
+    <example date="2011-03-03" id="2286" value="du eller jag m&#xE5;ste g&#xE5;">
+      <translation value="either you or I must go"/>
+    </example>
+  </word>
+  <word value="nor" lang="en" class="kn" id="288041" origin="lexin" date="2009-02-24">
+    <translation id="288041-1" value="eller" origin="lexin" date="2009-02-24"/>
+    <example id="288041-2" value="Neither the black horse nor the bay one interested her." origin="lexin" date="2009-02-24">
+      <translation value="Varken den svarta h&#xE4;sten eller den bruna intresserade henne." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="In a negative statement, nor is used after neither to introduce the alternative." origin="lexin" date="2009-02-24"/>
+    <grammar value="i uttryck av typen Neither X nor Y... Varken X eller Y." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="or" lang="en" class="kn" id="296381" origin="lexin" date="2009-02-24">
+    <translation id="296381-1" value="eller" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-2" value="annars" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-3" value="eller ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="296381-4" value="eljest" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

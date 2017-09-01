@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="utveckling" lang="sv" class="nn" id="203840" lexinid="20385" origin="lexin" date="2011-03-03">
+    <translation id="20027" value="development" date="2011-03-03"/>
+    <translation id="203840-19713" value="trend" origin="user" date="2012-10-09T03:42:47"/>
+    <phonetic value="&#xB2;U:tvek:li@" soundFile="utveckling.swf" date="2011-03-03"/>
+    <paradigm id="17801" origin="lexin" date="2011-03-03">
+      <inflection value="utvecklingen"/>
+      <inflection value="utvecklingar"/>
+    </paradigm>
+    <synonym value="evolution" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="fortskridande" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="framsteg" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="framtagning" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="fram&#xE5;tskridande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="progress" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="progression" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="utveckling||utveckling..1||utveckling..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11434" value="den tekniska utvecklingen" date="2011-03-03">
+      <translation value="technical development (change, advance)"/>
+    </example>
+    <compound id="6680" value="utvecklings|arbete" date="2011-03-03">
+      <translation value="development work"/>
+    </compound>
+    <compound id="6681" value="personalutveckling" date="2011-03-03">
+      <translation value="human resource development"/>
+    </compound>
+    <compound id="6682" value="samh&#xE4;llsutveckling" date="2011-03-03">
+      <translation value="social change"/>
+    </compound>
+    <definition id="19712" value="det att utveckla(s), tillv&#xE4;xt" date="2011-03-03"/>
+  </word>
+</definition>

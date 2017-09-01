@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ekonomi" lang="sv" class="nn" id="38020" lexinid="3802" origin="lexin" date="2011-03-03">
+    <translation id="38020-3657" value="finances" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="38020-3658" value="economy" origin="user" date="2012-01-28T23:48:23"/>
+    <phonetic value="ekonomI:" soundFile="ekonomi.swf" date="2011-03-03"/>
+    <paradigm id="3288" origin="lexin" date="2011-03-03">
+      <inflection value="ekonomien"/>
+    </paradigm>
+    <synonym value="hush&#xE5;llning" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="ekonomi||ekonomi..1||ekonomi..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2248" value="kommunernas ekonomi har f&#xF6;rs&#xE4;mrats under &#xE5;ret" date="2011-03-03">
+      <translation value="the local authorities&amp;#39; finances have worsened during the year"/>
+    </example>
+    <compound id="1322" value="nationalekonomi" date="2011-03-03">
+      <translation value="economics"/>
+    </compound>
+    <compound id="1323" value="f&#xF6;retagsekonomi" date="2011-03-03">
+      <translation value="business economics"/>
+    </compound>
+    <compound id="1324" value="ekonomi|minister" date="2011-03-03">
+      <translation value="Minister of Economics"/>
+    </compound>
+    <definition id="3656" value="s&#xE4;tt att anv&#xE4;nda pengar; finanser" date="2011-03-03"/>
+  </word>
+  <word value="ekonomi" lang="sv" class="nn" id="38030" lexinid="3803" origin="lexin" date="2011-03-03">
+    <translation id="38030-3658" value="savings" origin="user" date="2011-12-29T00:40:13"/>
+    <translation id="38030-3659" value="housekeeping" origin="user" date="2011-12-29T00:40:13"/>
+    <translation id="38030-3660" value="economizing" origin="user" date="2011-12-29T00:40:13"/>
+    <phonetic value="ekonomI:" soundFile="ekonomi.swf" date="2011-03-03"/>
+    <paradigm id="3289" origin="lexin" date="2011-03-03">
+      <inflection value="ekonomien"/>
+    </paradigm>
+    <synonym value="hush&#xE5;llning" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="ekonomi||ekonomi..1||ekonomi..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="1325" value="v&#xE4;rmeekonomi" date="2011-03-03">
+      <translation value="savings on heating"/>
+    </compound>
+    <definition id="3657" value="sparsamhet, hush&#xE5;llning" date="2011-03-03"/>
+  </word>
+  <word value="economics" lang="en" class="nn" id="150491" origin="lexin" comment="utbildning" date="2009-02-24">
+    <translation id="150491-1" value="ekonomi" origin="lexin" date="2009-02-24"/>
+    <explanation value="A programme offered at Swedish upper-secondary schools that focuses on economics." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="economising" lang="en" class="nn" id="150561" origin="lexin" date="2009-02-24">
+    <translation id="150561-1" value="hush&#xE5;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="150561-2" value="sparsamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="150561-3" value="ekonomi" comment="brittisk engelska, i amerikansk engelska economizing" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="economizing" lang="en" class="nn" id="150601" origin="lexin" date="2009-02-24">
+    <translation id="150601-1" value="hush&#xE5;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="150601-2" value="sparsamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="150601-3" value="ekonomi" comment="amerikansk engelska, i brittisk engelska &#xE4;ven ecnomising" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="economy" lang="en" class="nn" id="150621" origin="lexin" date="2009-02-24">
+    <translation id="150621-1" value="ekonomi" origin="lexin" date="2009-02-24"/>
+    <translation id="150621-2" value="ekonomisk f&#xF6;rvaltning" origin="lexin" date="2009-02-24"/>
+    <translation id="150621-3" value="ekonomiskt system" origin="lexin" date="2009-02-24"/>
+    <translation id="150621-4" value="n&#xE4;ringsliv" origin="lexin" date="2009-02-24"/>
+    <explanation value="s&#xE4;tt att anv&#xE4;nda pengar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="economy" lang="en" class="nn" id="150631" origin="lexin" date="2009-02-24">
+    <translation id="150631-1" value="hush&#xE5;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="150631-2" value="hush&#xE5;llande" origin="lexin" date="2009-02-24"/>
+    <translation id="150631-3" value="sparsamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="150631-4" value="ekonomi" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="finances" lang="en" class="nn" id="175271" origin="lexin" date="2009-02-24">
+    <translation id="175271-1" value="ekonomi" origin="lexin" date="2009-02-24"/>
+    <translation id="175271-2" value="ekonomisk st&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="175271-3" value="finanser" origin="lexin" date="2009-02-24"/>
+    <translation id="175271-4" value="tillg&#xE5;ngar" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

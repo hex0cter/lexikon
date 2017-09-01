@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="210170" lang="sv" lexinid="21018" origin="lexin" value="vore">
+    <translation date="2011-03-03" id="20644" value="were"/>
+    <phonetic date="2011-03-03" soundFile="vore.swf" value="&#xB2;vO:re"/>
+    <see date="2011-03-03" id="205550,216950,216960" origin="lexin" value="vara"/>
+  </word>
+</definition>

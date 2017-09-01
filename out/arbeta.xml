@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="arbeta" lang="sv" class="vb" id="6360" lexinid="636" origin="lexin" date="2011-03-03">
+    <translation id="6360-632" value="work" origin="user" date="2012-03-08T04:03:13"/>
+    <translation id="6360-633" value="labour" origin="user" date="2012-03-08T04:03:13"/>
+    <translation id="6360-634" value="(labor [US])" origin="user" date="2012-03-08T04:03:13"/>
+    <phonetic value="&#xB2;Ar:be:tar" soundFile="arbetar.swf" date="2011-03-03"/>
+    <paradigm id="513" origin="lexin" date="2011-03-03">
+      <inflection value="arbetade"/>
+      <inflection value="arbetat"/>
+      <inflection value="arbeta"/>
+      <inflection value="arbetar"/>
+    </paradigm>
+    <synonym value="gno" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="jobba" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="knega" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tj&#xE4;nstg&#xF6;ra" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="verka" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="arbeta||arbeta..1||arbeta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="457" value="arbeta f&#xF6;r j&#xE4;mlikhet" date="2011-03-03">
+      <translation value="work (strive) for equality"/>
+    </example>
+    <example id="458" value="hon arbetade vidare efter pensionen" date="2011-03-03">
+      <translation value="she stayed on at her job after retiring"/>
+    </example>
+    <example id="459" value="arbeta som fotograf" date="2011-03-03">
+      <translation value="work as a photographer"/>
+    </example>
+    <example id="460" value="arbeta p&#xE5; ackord" date="2011-03-03">
+      <translation value="do (be on) piecework"/>
+    </example>
+    <example id="461" value="arbeta p&#xE5; fabrik" date="2011-03-03">
+      <translation value="work in a factory"/>
+    </example>
+    <example id="462" value="vi arbetar med fackliga fr&#xE5;gor" date="2011-03-03">
+      <translation value="we deal with trade union issues"/>
+    </example>
+    <example id="463" value="han arbetar i hemmet" date="2011-03-03">
+      <translation value="he works at home"/>
+    </example>
+    <example id="464" value="arbeta fram ett f&#xF6;rslag" date="2011-03-03">
+      <translation value="hammer out a suggestion"/>
+    </example>
+    <definition id="631" value="utf&#xF6;ra ett arbete, vara verksam, jobba" date="2011-03-03">
+      <translation value="do work, be employed"/>
+    </definition>
+    <grammar value="A &amp; med (f&#xF6;r/p&#xE5;) x; A &amp; som+PRED" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="job" lang="en" class="vb" id="242381" origin="lexin" date="2009-02-24">
+    <translation id="242381-1" value="jobba" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="242381-2" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="keep at" lang="en" class="vb" id="244521" origin="lexin" date="2009-02-24">
+    <translation id="244521-1" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="244521-2" value="arbeta h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="244521-3" value="ligga i" origin="lexin" date="2009-02-24"/>
+    <paradigm id="244521-4" origin="lexin" date="2009-02-24">
+      <inflection value="kept" origin="lexin" date="2009-02-24"/>
+      <inflection value="kept" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="labour" lang="en" class="vb" id="248031" origin="lexin" date="2009-02-24">
+    <translation id="248031-1" value="arbeta" comment="brittisk engelska, i amerikansk engelska labor" origin="lexin" date="2009-02-24"/>
+    <translation id="248031-2" value="arbeta h&#xE5;rt" comment="brittisk engelska, i amerikansk engelska labor" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="operate" lang="en" class="vb" id="295341" origin="lexin" date="2009-02-24">
+    <translation id="295341-1" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="295341-2" value="fungera" origin="lexin" date="2009-02-24"/>
+    <translation id="295341-3" value="verka" origin="lexin" date="2009-02-24"/>
+    <translation id="295341-4" value="vara ig&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="vb" id="447101" origin="lexin" date="2009-02-24">
+    <translation id="447101-1" value="f&#xE5; att j&#xE4;sa" comment="om v&#xE4;tskor" origin="lexin" date="2009-02-24"/>
+    <translation id="447101-2" value="virvla omkring" comment="om tankar och dylikt" origin="lexin" date="2009-02-24"/>
+    <translation id="447101-3" value="mala" origin="lexin" date="2009-02-24"/>
+    <translation id="447101-4" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="447101-5" origin="lexin" date="2009-02-24">
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="vb" id="447121" origin="lexin" date="2009-02-24">
+    <translation id="447121-1" value="arbeta" comment="i tr&#xE4;, silver och dylikt" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-2" value="bearbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-3" value="f&#xF6;rarbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-4" value="f&#xF6;r&#xE4;dla" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-5" value="bereda" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-6" value="behandla" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-7" value="kn&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="447121-8" value="forma" origin="lexin" date="2009-02-24"/>
+    <paradigm id="447121-9" origin="lexin" date="2009-02-24">
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="vb" id="447131" origin="lexin" date="2009-02-24">
+    <translation id="447131-1" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="447131-2" value="jobba" origin="lexin" date="2009-02-24"/>
+    <translation id="447131-3" value="ha arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447131-4" value="utf&#xF6;ra ett arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447131-5" value="verka" origin="lexin" date="2009-02-24"/>
+    <translation id="447131-6" value="vara verksam" origin="lexin" date="2009-02-24"/>
+    <paradigm id="447131-10" origin="lexin" date="2009-02-24">
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="447131-7" value="he works at home" origin="lexin" date="2009-02-24">
+      <translation value="han arbetar i hemmet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="447131-8" value="work as a photographer" origin="lexin" date="2009-02-24">
+      <translation value="arbeta som fotograf" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="447131-9" value="work (strive) for equality" origin="lexin" date="2009-02-24">
+      <translation value="arbeta f&#xF6;r j&#xE4;mlikhet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="utf&#xF6;ra ett arbete, vara verksam, jobba" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="vb" id="447191" origin="lexin" date="2009-02-24">
+    <translation id="447191-1" value="fungera" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-2" value="funka" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-3" value="g&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-4" value="arbeta" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-5" value="vara i funktion" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-6" value="vara i drift" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-7" value="drivas" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-8" value="rotera" comment="om hjul" origin="lexin" date="2009-02-24"/>
+    <translation id="447191-9" value="sv&#xE4;nga" origin="lexin" date="2009-02-24"/>
+    <paradigm id="447191-10" origin="lexin" date="2009-02-24">
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+      <inflection value="worked" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="familj" lang="sv" class="nn" id="42100" lexinid="4210" origin="lexin" date="2011-03-03">
+    <translation id="4150" value="family" date="2011-03-03"/>
+    <phonetic value="famIl:j" soundFile="familj.swf" date="2011-03-03"/>
+    <paradigm id="3634" origin="lexin" date="2011-03-03">
+      <inflection value="familjen"/>
+      <inflection value="familjer"/>
+    </paradigm>
+    <see value="familj||familj..1||familj..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="familj||familj..2||familj..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="1440" value="familje|medlem" date="2011-03-03">
+      <translation value="member of the family"/>
+    </compound>
+    <compound id="1441" value="trebarnsfamilj" date="2011-03-03">
+      <translation value="family with three children"/>
+    </compound>
+    <compound id="1442" value="familje|terapi" date="2011-03-03">
+      <translation value="family therapy"/>
+    </compound>
+    <compound id="1443" value="familje|bil" date="2011-03-03">
+      <translation value="family car"/>
+    </compound>
+    <definition id="4050" value="f&#xF6;r&#xE4;ldrar och barn; hush&#xE5;ll" date="2011-03-03"/>
+    <url value="1/familj.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="familj" lang="sv" class="nn" id="42110" lexinid="4211" origin="lexin" date="2011-03-03">
+    <translation id="4151" value="family" date="2011-03-03"/>
+    <phonetic value="famIl:j" soundFile="familj.swf" date="2011-03-03"/>
+    <paradigm id="3635" origin="lexin" date="2011-03-03">
+      <inflection value="familjen"/>
+      <inflection value="familjer"/>
+    </paradigm>
+    <see value="familj||familj..1||familj..nn.1" type="saldo" origin="saldo" date="2015-02-09T01:19:40"/>
+    <compound id="1444" value="familje|band" date="2011-03-03">
+      <translation value="family ties"/>
+    </compound>
+    <definition id="4051" value="sl&#xE4;kt" date="2011-03-03"/>
+    <url value="1/familj.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="family" lang="en" class="nn" id="169751" origin="lexin" date="2009-02-24">
+    <translation id="169751-1" value="ras" comment="tekniskt" origin="lexin" date="2009-02-24"/>
+    <translation id="169751-2" value="stam" origin="lexin" date="2009-02-24"/>
+    <translation id="169751-3" value="familj" comment="om djur, v&#xE4;xter, spr&#xE5;k med mera" origin="lexin" date="2009-02-24"/>
+    <paradigm id="169751-4" origin="lexin" date="2009-02-24">
+      <inflection value="families" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="family" lang="en" class="nn" id="169771" origin="lexin" date="2009-02-24">
+    <translation id="169771-1" value="familj" origin="lexin" date="2009-02-24"/>
+    <paradigm id="169771-3" origin="lexin" date="2009-02-24">
+      <inflection value="families" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="169771-2" value="I&amp;#39;m the youngest in my family" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r yngst i familjen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="kin" lang="en" class="nn" id="245841" origin="lexin" date="2009-02-24">
+    <translation id="245841-1" value="sl&#xE4;kting" origin="lexin" date="2009-02-24"/>
+    <translation id="245841-2" value="sl&#xE4;ktingar" origin="lexin" date="2009-02-24"/>
+    <translation id="245841-3" value="sl&#xE4;ktskap" origin="lexin" date="2009-02-24"/>
+    <translation id="245841-4" value="familj" origin="lexin" date="2009-02-24"/>
+    <translation id="245841-5" value="&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stock" lang="en" class="nn" id="399571" origin="lexin" date="2009-02-24">
+    <translation id="399571-1" value="h&#xE4;rstamning" origin="lexin" date="2009-02-24"/>
+    <translation id="399571-2" value="familj" origin="lexin" date="2009-02-24"/>
+    <translation id="399571-3" value="sl&#xE4;kt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="strain" lang="en" class="nn" id="400821" origin="lexin" date="2009-02-24">
+    <translation id="400821-1" value="&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="400821-2" value="familj" origin="lexin" date="2009-02-24"/>
+    <translation id="400821-3" value="p&#xE5;br&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="400821-4" value="h&#xE4;rkomst" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

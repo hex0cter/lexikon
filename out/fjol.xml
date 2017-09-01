@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="fjol" lang="sv" class="nn" id="45180" lexinid="4518" origin="lexin" date="2011-03-03">
+    <variant value="fjor" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="45180-1567" value="last year" origin="user" date="2012-10-04T03:49:50"/>
+    <phonetic value="fjo:l" soundFile="fjol.swf" date="2011-03-03"/>
+    <compound id="1566" value="fjol|&#xE5;r" date="2011-03-03">
+      <translation value="last year"/>
+    </compound>
+    <idiom id="331" value="i fjol (&amp;quot;f&#xF6;rra &#xE5;ret&amp;quot;)" date="2011-03-03">
+      <translation value="last year"/>
+    </idiom>
+  </word>
+</definition>

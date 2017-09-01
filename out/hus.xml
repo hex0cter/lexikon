@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hus" lang="sv" class="nn" id="70770" lexinid="7077" origin="lexin" date="2011-03-03">
+    <translation id="70770-6810" value="building" origin="user" date="2012-01-14T23:15:26"/>
+    <translation id="70770-6811" value="house" origin="user" date="2012-01-14T23:15:26"/>
+    <phonetic value="hu:s" soundFile="hus.swf" date="2011-03-03"/>
+    <paradigm id="6145" origin="lexin" date="2011-03-03">
+      <inflection value="huset"/>
+      <inflection value="hus"/>
+      <inflection value="husen"/>
+    </paradigm>
+    <synonym value="boning" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="byggnad" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="d&#xE4;r man bor" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="hydda" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="k&#xE5;k" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="lya" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="residens" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="villa" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="hus||hus..1||hus..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="2614" value="sjukhus" date="2011-03-03">
+      <translation value="hospital"/>
+    </compound>
+    <compound id="2615" value="radhus" date="2011-03-03">
+      <translation value="terrace house"/>
+    </compound>
+    <compound id="2616" value="stenhus" date="2011-03-03">
+      <translation value="stone (brick) house"/>
+    </compound>
+    <compound id="2617" value="fritidshus" date="2011-03-03">
+      <translation value="weekend cottage"/>
+    </compound>
+    <compound id="2618" value="v&#xE4;xthus" date="2011-03-03">
+      <translation value="greenhouse"/>
+    </compound>
+    <compound id="2619" value="varuhus" date="2011-03-03">
+      <translation value="department store"/>
+    </compound>
+    <idiom id="547" value="Folkets hus (&amp;quot;byggnad med allm&#xE4;nna samlingslokaler&amp;quot;)" date="2011-03-03">
+      <translation value="People&amp;#39;s Hall (&amp;quot;building housing public meeting halls, etc.&amp;quot;)"/>
+    </idiom>
+    <idiom id="548" value="h&#xE5;lla hus (&amp;quot;befinna sig&amp;quot;)" date="2011-03-03">
+      <translation value="be (&amp;quot;where&amp;#39;ve you been hiding?&amp;quot;)"/>
+    </idiom>
+    <definition id="6809" value="utrymme d&#xE4;r m&#xE4;nniskor, bor, vistas el. f&#xF6;rvarar saker" date="2011-03-03">
+      <translation value="a building in which people live or store things"/>
+    </definition>
+    <url value="9/hus.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="building" lang="en" class="nn" id="58961" origin="lexin" date="2009-02-24">
+    <translation id="58961-1" value="byggnation" origin="lexin" date="2009-02-24"/>
+    <translation id="58961-2" value="byggnad" origin="lexin" date="2009-02-24"/>
+    <translation id="58961-3" value="hus" origin="lexin" date="2009-02-24"/>
+    <translation id="58961-4" value="anl&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <translation id="58961-5" value="byggnadsverksamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="58961-6" value="byggande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="case" lang="en" class="nn" id="68661" origin="lexin" date="2009-02-24">
+    <translation id="68661-1" value="h&#xF6;lje" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-2" value="hylsa" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-3" value="kapsel" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-4" value="slida" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-5" value="huv" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-6" value="mantel" origin="lexin" date="2009-02-24"/>
+    <translation id="68661-7" value="hus" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="home" lang="en" class="nn" id="220671" origin="lexin" date="2009-02-24">
+    <translation id="220671-1" value="hem" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-2" value="hemvist" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-3" value="bostad" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-4" value="hemort" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-5" value="hembygd" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-6" value="hemland" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-7" value="villa" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-8" value="hus" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="house" lang="en" class="nn" id="223091" origin="lexin" date="2009-02-24">
+    <translation id="223091-1" value="elevhem" origin="lexin" date="2009-02-24"/>
+    <translation id="223091-2" value="hus" comment="p&#xE5; internatskola" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="house" lang="en" class="nn" id="223111" origin="lexin" date="2009-02-24">
+    <translation id="223111-1" value="hus" comment="astrologiskt" origin="lexin" date="2009-02-24"/>
+    <example id="223111-2" value="the House of the Lion" origin="lexin" date="2009-02-24">
+      <translation value="Lejonet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="House i namn" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="house" lang="en" class="nn" id="223121" origin="lexin" date="2009-02-24">
+    <translation id="223121-1" value="hus" comment="om de personer som bor i ett hus" origin="lexin" date="2009-02-24"/>
+    <example id="223121-2" value="you woke up the whole house last night" origin="lexin" date="2009-02-24">
+      <translation value="du/ni v&#xE4;ckte hela huset i natt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="house" lang="en" class="nn" id="223131" origin="lexin" date="2009-02-24">
+    <translation id="223131-1" value="hus" origin="lexin" date="2009-02-24"/>
+    <example id="223131-7" value="my husband and I just bought a house" origin="lexin" date="2009-02-24">
+      <translation value="min man och jag har precis k&#xF6;pt hus" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="223131-2" value="bring the house down" origin="lexin" date="2009-02-24">
+      <translation value="riva ned stormande appl&#xE5;der" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223131-3" value="get on like a house on fire" origin="lexin" date="2009-02-24">
+      <translation value="snabbt bli goda v&#xE4;nner/finna varandra direkt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223131-4" value="keep house" origin="lexin" date="2009-02-24">
+      <translation value="sk&#xF6;ta ett hush&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223131-5" value="move house" origin="lexin" date="2009-02-24">
+      <translation value="flytta till ett annat hus (s&#xE4;rskilt brittisk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223131-6" value="my house is my castle" origin="lexin" date="2009-02-24">
+      <translation value="mitt hem &#xE4;r min borg" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="housing" lang="en" class="nn" id="223351" origin="lexin" date="2009-02-24">
+    <translation id="223351-1" value="hus" comment="teknik" origin="lexin" date="2009-02-24"/>
+    <translation id="223351-2" value="insk&#xE4;rning" origin="lexin" date="2009-02-24"/>
+    <translation id="223351-3" value="urtagning" origin="lexin" date="2009-02-24"/>
+    <translation id="223351-4" value="intappning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="housing" lang="en" class="nn" id="223371" origin="lexin" date="2009-02-24">
+    <translation id="223371-1" value="bost&#xE4;der" origin="lexin" date="2009-02-24"/>
+    <translation id="223371-2" value="byggnader" origin="lexin" date="2009-02-24"/>
+    <translation id="223371-3" value="hus" origin="lexin" date="2009-02-24"/>
+    <translation id="223371-4" value="bostadsf&#xF6;rh&#xE5;llanden" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="place" lang="en" class="nn" id="319881" origin="lexin" date="2009-02-24">
+    <translation id="319881-1" value="hus" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-2" value="bostad" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-3" value="st&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-4" value="hem" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="shell" lang="en" class="nn" id="379351" origin="lexin" date="2009-02-24">
+    <translation id="379351-1" value="skal" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-2" value="musselskal" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-3" value="sn&#xE4;ckskal" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-4" value="sn&#xE4;cka" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-5" value="mussla" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-6" value="hus" origin="lexin" date="2009-02-24"/>
+    <translation id="379351-7" value="snigelhus" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="houses" lang="en" id="465881" origin="user" date="2012-03-07T01:31:12">
+    <translation id="465881-1" value="hus" origin="user" date="2012-03-07T01:31:12"/>
+  </word>
+</definition>

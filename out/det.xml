@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="article" date="2011-03-03" id="30740" lang="sv" lexinid="3074" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3034" value="the, that"/>
+    <use date="2011-03-03" value="vid adjektiv (+ substantiv)"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2691" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..1||den..al.1"/>
+    <example date="2011-03-03" id="1746" value="den r&#xF6;da bilen">
+      <translation value="the red automobile"/>
+    </example>
+    <example date="2011-03-03" id="1747" value="de sm&#xE5; barnen">
+      <translation value="the little children"/>
+    </example>
+    <example date="2011-03-03" id="1748" value="det b&#xE4;sta jag vet">
+      <translation value="the nicest thing I know"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30750" lang="sv" lexinid="3075" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3035" value="it, he, she"/>
+    <use date="2011-03-03" value="anger n&#xE5;got tidigare omtalat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2692" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1749" value="Var &#xE4;r boken? -- Den &#xE4;r h&#xE4;r">
+      <translation value="Where is the book? It is here"/>
+    </example>
+    <example date="2011-03-03" id="1750" value="de klarade sig">
+      <translation value="they made it"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30760" lang="sv" lexinid="3076" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3036" value="that"/>
+    <use date="2011-03-03" value="utpekande och ibland betonat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2693" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1751" value="den boken har jag inte l&#xE4;st">
+      <translation value="I have not read that book"/>
+    </example>
+    <idiom date="2011-03-03" id="236" value="de d&#xE4;r (skorna)">
+      <translation value="those (shoes)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="237" value="den h&#xE4;r (boken)">
+      <translation value="this (book)"/>
+    </idiom>
+  </word>
+  <word class="" date="2011-03-03" id="31130" lang="sv" lexinid="3113" origin="lexin" value="det">
+    <translation date="2011-03-03" id="3072" value="that"/>
+    <phonetic date="2011-03-03" soundFile="det.swf" value="de:t (el. de:)"/>
+    <see date="2011-03-03" id="30750,30760" origin="lexin" value="den"/>
+  </word>
+  <word class="pn" date="2011-03-03" id="31140" lang="sv" lexinid="3114" origin="lexin" value="det">
+    <translation date="2011-03-03" id="3073" value="it"/>
+    <use date="2011-03-03" value="opersonligt subjekt"/>
+    <phonetic date="2011-03-03" soundFile="det.swf" value="de:t (el. de:)"/>
+    <example date="2011-03-03" id="1777" value="det var jag som gjorde det">
+      <translation value="it was I who did it"/>
+    </example>
+    <example date="2011-03-03" id="1778" value="det regnar">
+      <translation value="it is raining"/>
+    </example>
+  </word>
+  <word class="nn" date="2011-03-03" id="58300" lang="sv" lexinid="5830" origin="lexin" value="f&#xF6;rvalt v&#xE4;rde">
+    <phonetic date="2011-03-03" soundFile="f&#xF6;rvalt v&#xE4;rde.swf" value="&#xB2;f&#xD6;:rva:lt 2v&#xE4;:r+de"/>
+    <paradigm date="2011-03-03" id="5052" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="f&#xF6;rvalda"/>
+      <inflection value="v&#xE4;rdet"/>
+      <inflection value="f&#xF6;rvalda"/>
+      <inflection value="v&#xE4;rden"/>
+    </paradigm>
+    <explanation date="2011-03-03" id="5615" value="Ibland kan &amp;quot;f&#xF6;rval&amp;quot; el. &amp;quot;f&#xF6;rinst&#xE4;llt v&#xE4;rde&amp;quot; anv&#xE4;ndas."/>
+    <definition date="2011-03-03" id="5616" value="v&#xE4;rde som datorn anv&#xE4;nder om anv&#xE4;ndaren inte v&#xE4;ljer annat v&#xE4;rde"/>
+  </word>
+  <word value="her" lang="en" class="pn" id="217171" origin="lexin" date="2009-02-24">
+    <translation id="217171-1" value="henne" origin="lexin" date="2009-02-24"/>
+    <translation id="217171-2" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="217171-3" value="det" comment="om land, b&#xE5;t, bil etcetera" origin="lexin" date="2009-02-24"/>
+    <example id="217171-4" value="I saw her yesterday" origin="lexin" date="2009-02-24">
+      <translation value="jag tr&#xE4;ffade henne i g&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="it" lang="en" class="pn" id="240231" origin="lexin" date="2009-02-24">
+    <translation id="240231-1" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="240231-2" value="det" origin="lexin" date="2009-02-24"/>
+    <explanation value="Refers to an object, animal or other thing that has already been mentioned." origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person singular, subjekt och objekt." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="so" lang="en" class="ab" id="388931" origin="lexin" date="2009-02-24">
+    <translation id="388931-1" value="det" origin="lexin" date="2009-02-24"/>
+    <example id="388931-2" value="&amp;quot;It&amp;#39;s raining.&amp;quot; &amp;quot;So it is!&amp;quot;" origin="lexin" date="2009-02-24">
+      <translation value="&amp;quot;Det regnar.&amp;quot; &amp;quot;Ja just det, det g&#xF6;r det.&amp;quot;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="(ja just det) det" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="so" lang="en" class="ab" id="388941" origin="lexin" date="2009-02-24">
+    <translation id="388941-1" value="det" origin="lexin" date="2009-02-24"/>
+    <translation id="388941-2" value="det ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="388941-3" value="She is hungry and so am I." origin="lexin" date="2009-02-24">
+      <translation value="Hon &#xE4;r hungrig och det &#xE4;r jag ocks&#xE5;." origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="so" lang="en" class="ab" id="388951" origin="lexin" date="2009-02-24">
+    <translation id="388951-1" value="det" origin="lexin" date="2009-02-24"/>
+    <paradigm id="388951-4" origin="lexin" date="2009-02-24">
+      <inflection value="pronominell funktion" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="388951-2" value="I think so." origin="lexin" date="2009-02-24">
+      <translation value="Jag tror det." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="388951-3" value="If you&amp;#39;re taking a shower you&amp;#39;d better do so quickly." origin="lexin" date="2009-02-24">
+      <translation value="Om du t&#xE4;nker duscha &#xE4;r det b&#xE4;st att du g&#xF6;r det snabbt." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers back to something known." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416531" origin="lexin" date="2009-02-24">
+    <translation id="416531-1" value="den d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-2" value="det d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-3" value="denne" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-4" value="denna" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-5" value="detta" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-6" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-7" value="det" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-8" value="de d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-9" value="de d&#xE4;r" comment="plural" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-10" value="dessa" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-11" value="de" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-12" value="detta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416531-13" origin="lexin" date="2009-02-24">
+      <inflection value="those" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="demonstrativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416541" origin="lexin" date="2009-02-24">
+    <translation id="416541-1" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-2" value="det" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-3" value="de" comment="plural" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-4" value="dem" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416541-5" origin="lexin" date="2009-02-24">
+      <inflection value="those" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="there" lang="en" class="ab, pn" id="417151" origin="lexin" date="2009-02-24">
+    <translation id="417151-1" value="det" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="this" lang="en" class="pn" id="417851" origin="lexin" date="2009-02-24">
+    <translation id="417851-1" value="den h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="417851-2" value="denne" origin="lexin" date="2009-02-24"/>
+    <translation id="417851-3" value="denna" origin="lexin" date="2009-02-24"/>
+    <translation id="417851-4" value="detta" origin="lexin" date="2009-02-24"/>
+    <translation id="417851-5" value="det" origin="lexin" date="2009-02-24"/>
+    <paradigm id="417851-12" origin="lexin" date="2009-02-24">
+      <inflection value="these" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <idiom id="417851-6" value="for this once" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r denna (enda) g&#xE5;ng, f&#xF6;r en g&#xE5;ngs skull" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417851-7" value="this and that" origin="lexin" date="2009-02-24">
+      <translation value="det ena och det andra, &#xE4;n det ena &#xE4;n det andra, ditt och datt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417851-8" value="this is where..." origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r h&#xE4;r..., h&#xE4;r..." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417851-9" value="this, that and the other" origin="lexin" date="2009-02-24">
+      <translation value="en hel del, en massa saker, det ena med det andra" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417851-10" value="to this day" origin="lexin" date="2009-02-24">
+      <translation value="hittills, fram till denna dag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417851-11" value="what&amp;#39;s all this?" origin="lexin" date="2009-02-24">
+      <translation value="vad ska detta betyda?/vad menas med detta?" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="the one here" origin="lexin" date="2009-02-24"/>
+    <grammar value="demonstrativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

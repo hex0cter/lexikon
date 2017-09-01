@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="stad" lang="sv" class="nn" id="171770" lexinid="17178" origin="lexin" date="2011-03-03">
+    <translation id="171770-16623" value="city" origin="user" date="2012-01-09T23:36:38"/>
+    <translation id="171770-16624" value="town" origin="user" date="2012-01-09T23:36:38"/>
+    <phonetic value="sta:d" soundFile="stad.swf" date="2011-03-03"/>
+    <paradigm id="14999" origin="lexin" date="2011-03-03">
+      <inflection value="staden"/>
+      <inflection value="st&#xE4;der"/>
+    </paradigm>
+    <synonym value="city" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="stan" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="stad||stad..1||stad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9710" value="staden G&#xF6;teborg" date="2011-03-03">
+      <translation value="the city of G&#xF6;teborg"/>
+    </example>
+    <compound id="5872" value="stads|milj&#xF6;" date="2011-03-03">
+      <translation value="urban environment"/>
+    </compound>
+    <compound id="5873" value="storstad" date="2011-03-03">
+      <translation value="metropolis, big city"/>
+    </compound>
+    <compound id="5874" value="stadsbebyggelse" date="2011-03-03">
+      <translation value="built-up area"/>
+    </compound>
+    <definition id="16622" value="t&#xE4;tort med stor, samlad bebyggelse" date="2011-03-03"/>
+    <url value="16/stad1.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <url value="16/stad2.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

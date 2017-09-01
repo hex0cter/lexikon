@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="151260" lang="sv" lexinid="15127" origin="lexin" value="samtliga">
+    <translation date="2011-03-03" id="14860" value="all"/>
+    <use date="2011-03-03" value="plural"/>
+    <phonetic date="2011-03-03" soundFile="samtliga.swf" value="&#xB2;sAm:tliga"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="alla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="varenda"/>
+    <example date="2011-03-03" id="8593" value="i samtliga fall">
+      <translation value="in every case"/>
+    </example>
+    <definition date="2011-03-03" id="14653" value="allesammans, alla"/>
+  </word>
+</definition>

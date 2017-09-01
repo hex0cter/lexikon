@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="88840" lang="sv" lexinid="8884" origin="lexin" value="kommun">
+    <translation date="2011-03-03" id="8728" value="municipality"/>
+    <phonetic date="2011-03-03" soundFile="kommun.swf" value="k&#xE5;mU:n"/>
+    <paradigm date="2011-03-03" id="7685" origin="lexin">
+      <inflection value="kommunen"/>
+      <inflection value="kommuner"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kommun||kommun..1||kommun..nn.1"/>
+    <explanation date="2011-03-03" id="8538" value="Varje l&#xE4;n &#xE4;r indelat i ett antal kommuner (ofta en stad med omnejd); kommunen svarar f&#xF6;r skolor, socialv&#xE5;rd, vatten och avlopp, renh&#xE5;llning osv.">
+      <translation value="&amp;quot;Each county is divided into a number of municipalities (often consisting of a town and its surroundings); the municipality is responsible for schools, social services, water and sewage, waste management, etc.&amp;quot;"/>
+    </explanation>
+    <definition date="2011-03-03" id="8539" value="geografiskt avgr&#xE4;nsad f&#xF6;rvaltningsenhet eller region (under l&#xE4;nsniv&#xE5;) med egen (politiskt vald) styrelse"/>
+  </word>
+  <word value="municipality" lang="en" class="nn" id="280961" origin="lexin" date="2009-02-24">
+    <variant value="local authority" origin="lexin" date="2009-02-24"/>
+    <translation id="280961-1" value="kommun" origin="lexin" date="2009-02-24"/>
+    <explanation value="A town, district or city with its own local government." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="municipality" lang="en" class="nn" id="280971" origin="lexin" date="2009-02-24">
+    <translation id="280971-1" value="kommun" origin="lexin" date="2009-02-24"/>
+    <translation id="280971-2" value="kommunstyrelse" origin="lexin" date="2009-02-24"/>
+    <explanation value="geografiskt avgr&#xE4;nsad f&#xF6;rvaltningsenhet eller region (underl&#xE4;nsniv&#xE5;) med egen (politiskt vald) styrelse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="township" lang="en" id="540701" origin="user" date="2015-05-27T02:29:29">
+    <translation id="540701-1" value="kommun" origin="user" date="2015-05-27T02:29:29"/>
+    <translation id="540701-2" value="stadsdel" origin="user" date="2015-05-27T02:29:33"/>
+  </word>
+</definition>

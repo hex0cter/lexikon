@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="s&#xE4;rskilt &amp;quot;ny information&amp;quot;" date="2011-03-03" id="118980" lang="sv" lexinid="11899" origin="lexin" value="nyhet">
+    <translation comment="particularly &amp;quot;new information&amp;quot;" date="2011-03-03" id="11685" value="news"/>
+    <phonetic date="2011-03-03" soundFile="nyhet.swf" value="&#xB2;nY:he:t"/>
+    <paradigm date="2011-03-03" id="10332" origin="lexin">
+      <inflection value="nyheten"/>
+      <inflection value="nyheter"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="nyhet||nyhet..1||nyhet..nn.1"/>
+    <example date="2011-03-03" id="6513" value="Dagens Nyheter">
+      <translation value="the Daily News"/>
+    </example>
+    <example date="2011-03-03" id="6514" value="nyhetens behag">
+      <translation value="the charm of novelty"/>
+    </example>
+    <example date="2011-03-03" id="6515" value="en gl&#xE4;djande nyhet">
+      <translation value="good news"/>
+    </example>
+    <example date="2011-03-03" id="6516" value="lyssna p&#xE5; nyheterna i radio">
+      <translation value="listen to the news on the radio"/>
+    </example>
+    <compound date="2011-03-03" id="4215" inflection="nyhets|programmet" value="nyhets|program">
+      <translation value="news programme"/>
+    </compound>
+    <compound date="2011-03-03" id="4216" value="nyhets|bevakning">
+      <translation value="news coverage"/>
+    </compound>
+    <compound date="2011-03-03" id="4217" value="sportnyhet">
+      <translation value="sports news"/>
+    </compound>
+    <definition date="2011-03-03" id="11464" value="n&#xE5;got som &#xE4;r nytt"/>
+  </word>
+  <word value="news" lang="en" class="nn" id="286311" lexinid="162" origin="lexin" date="2009-02-24">
+    <translation id="286311-1" value="nyheter" origin="lexin" date="2009-02-24"/>
+    <translation id="286311-2" value="nyhet" origin="lexin" date="2009-02-24"/>
+    <translation id="286311-3" value="uderr&#xE4;ttelse" origin="lexin" date="2009-02-24"/>
+    <translation id="286311-4" value="underr&#xE4;ttelser" origin="lexin" date="2009-02-24"/>
+    <grammar value="b&#xF6;js som singular" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

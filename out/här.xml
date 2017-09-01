@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="73110" lang="sv" lexinid="7311" origin="lexin" value="h&#xE4;r">
+    <translation date="2011-03-03" id="7175" value="here"/>
+    <phonetic date="2011-03-03" soundFile="h&#xE4;r.swf" value="h&#xE4;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="arm&#xE9;"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="n&#xE4;rvarande"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="h&#xE4;r||h&#xE4;r..1||h&#xE4;r..ab.1"/>
+    <example date="2011-03-03" id="4308" value="vad &#xE4;r det h&#xE4;r?">
+      <translation value="what&amp;#39;s this?"/>
+    </example>
+    <example date="2011-03-03" id="4309" value="stanna h&#xE4;r!">
+      <translation value="stop here!"/>
+    </example>
+    <example date="2011-03-03" id="4310" value="den h&#xE4;r boken">
+      <translation value="this book"/>
+    </example>
+    <example date="2011-03-03" id="4311" value="s&#xE5; h&#xE4;r kan du g&#xF6;ra">
+      <translation value="this is what you can do"/>
+    </example>
+    <idiom date="2011-03-03" id="582" value="h&#xE4;r och var (&amp;quot;utspritt p&#xE5; olika platser&amp;quot;)">
+      <translation value="here and there (&amp;quot;at various places&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="7035" value="p&#xE5; denna plats, hos mig">
+      <translation value="at this point, with me"/>
+    </definition>
+  </word>
+  <word value="h&#xE4;r" lang="sv" class="nn" id="73120" lexinid="7312" origin="lexin" comment="mest om &#xE4;ldre f&#xF6;rh&#xE5;llanden" date="2011-03-03">
+    <translation id="73120-7037" value="army" origin="user" date="2012-01-18T00:49:51"/>
+    <translation id="73120-7038" value="host" origin="user" date="2012-01-18T00:49:51"/>
+    <phonetic value="h&#xE4;:r" soundFile="h&#xE4;r.swf" date="2011-03-03"/>
+    <paradigm id="6359" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE4;ren"/>
+      <inflection value="h&#xE4;rar"/>
+    </paradigm>
+    <synonym value="arm&#xE9;" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="n&#xE4;rvarande" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE4;r||h&#xE4;r..2||h&#xE4;r..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="2716" value="krigsh&#xE4;r" date="2011-03-03">
+      <translation value="army"/>
+    </compound>
+    <definition id="7036" value="arm&#xE9;" date="2011-03-03"/>
+  </word>
+  <word value="army" lang="en" class="nn" id="19331" lexinid="716" origin="lexin" date="2009-02-24">
+    <translation id="19331-1" value="arm&#xE9;" comment="milit&#xE4;rterm" origin="lexin" date="2009-02-24"/>
+    <translation id="19331-2" value="krigsmakt" origin="lexin" date="2009-02-24"/>
+    <translation id="19331-3" value="markstridskrafter" origin="lexin" date="2009-02-24"/>
+    <translation id="19331-4" value="h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <example id="19331-5" value="the army, air force and navy" origin="lexin" date="2009-02-24">
+      <translation value="arm&#xE9;n, marinen och flygvapnet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*armed *forces, *ground forces" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="here" lang="en" class="ab" id="217361" origin="lexin" date="2009-02-24">
+    <translation id="217361-1" value="h&#xE4;r" comment="anv&#xE4;nds f&#xF6;r att dra uppm&#xE4;rksamheten till n&#xE5;gon eller n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    <example id="217361-3" value="here she comes now" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;r kommer hon nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="217361-2" value="here it is!" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;r &#xE4;r det!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="here" lang="en" class="ab" id="217371" origin="lexin" date="2009-02-24">
+    <translation id="217371-1" value="h&#xE4;r" comment="anv&#xE4;nds n&#xE4;r man ger n&#xE5;gonting till n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <example id="217371-3" value="here&amp;#39;s the book you lent me a week ago" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;r &#xE4;r boken som du l&#xE5;nade ut till mig f&#xF6;r en vecka sedan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="217371-2" value="here you are" origin="lexin" date="2009-02-24">
+      <translation value="vars&#xE5;god" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="here" lang="en" class="ab" id="217391" origin="lexin" date="2009-02-24">
+    <translation id="217391-1" value="h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="217391-2" value="hit" origin="lexin" date="2009-02-24"/>
+    <example id="217391-6" value="here it is" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;r &#xE4;r den" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="217391-7" value="I came here two weeks ago" origin="lexin" date="2009-02-24">
+      <translation value="jag kom hit f&#xF6;r tv&#xE5; veckor sedan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="217391-3" value="be here to stay" origin="lexin" date="2009-02-24">
+      <translation value="vara h&#xE4;r f&#xF6;r att stanna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="217391-4" value="here&amp;#39;s to..." origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;t oss sk&#xE5;la f&#xF6;r.../jag vill utbringa en sk&#xE5;l f&#xF6;r..." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="217391-5" value="that&amp;#39;s neither here nor there" origin="lexin" date="2009-02-24">
+      <translation value="det g&#xF6;r varken till eller fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="round" lang="en" class="ab" id="365591" origin="lexin" date="2009-02-24">
+    <translation id="365591-1" value="h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="365591-2" value="hit" origin="lexin" date="2009-02-24"/>
+    <translation id="365591-3" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

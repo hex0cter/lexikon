@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="i plural &amp;quot;ett par, vissa, somliga&amp;quot;" date="2011-03-03" id="119340" lang="sv" lexinid="11935" origin="lexin" value="n&#xE5;gon">
+    <translation comment="in the plural &amp;quot;a couple, some/any&amp;quot;" date="2011-03-03" id="11720" value="one"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;gon.swf" value="&#xB2;n&#xC5;:g&#xE5;n"/>
+    <paradigm date="2011-03-03" id="10363" origin="lexin">
+      <inflection value="n&#xE5;got"/>
+      <inflection value="n&#xE5;gra"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="en"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE5;gon||n&#xE5;gon..1||n&#xE5;gon..pn.1"/>
+    <example date="2011-03-03" id="6537" value="om n&#xE5;gra dagar">
+      <translation value="in a few days"/>
+    </example>
+    <example date="2011-03-03" id="6538" value="har du inte f&#xE5;tt n&#xE5;got jobb?">
+      <translation value="haven&amp;#39;t you got a job?"/>
+    </example>
+    <example date="2011-03-03" id="6539" value="n&#xE5;gon av pojkarna">
+      <translation value="one of the boys"/>
+    </example>
+    <example date="2011-03-03" id="6540" value="utan n&#xE5;gra som helst sk&#xE4;l">
+      <translation value="without any reason at all"/>
+    </example>
+    <example date="2011-03-03" id="6541" value="det kostade n&#xE5;gra kronor">
+      <translation value="it cost a few kronor"/>
+    </example>
+    <example date="2011-03-03" id="6542" value="har du n&#xE5;gon g&#xE5;ng varit i Afrika?">
+      <translation value="have you ever been to Africa"/>
+    </example>
+    <idiom date="2011-03-03" id="1060" value="av n&#xE5;gon (&amp;quot;en ok&#xE4;nd&amp;quot;) anledning"/>
+    <idiom date="2011-03-03" id="1061" value="i n&#xE5;gon m&#xE5;n (&amp;quot;till en viss del&amp;quot;)"/>
+    <definition date="2011-03-03" id="11499" value="en"/>
+  </word>
+  <word value="a" lang="en" class="article" id="181" origin="lexin" date="2009-02-24">
+    <translation id="181-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="181-2" value="n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <example id="181-3" value="I am not a servant" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r inte n&#xE5;gon uppassare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="anv&#xE4;nds f&#xF6;re konsonantljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars an" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="an" lang="en" class="article" id="12901" origin="lexin" date="2009-02-24">
+    <translation id="12901-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="12901-2" value="n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <example id="12901-3" value="do you have an idea as to how we are going to solve this problem?" origin="lexin" date="2009-02-24">
+      <translation value="har du n&#xE5;gon id&#xE9; om hur vi ska l&#xF6;sa det h&#xE4;r problemet?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="anv&#xE4;nds f&#xF6;re vokalljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars a" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="any" lang="en" class="pn" id="15521" origin="lexin" date="2009-02-24">
+    <translation id="15521-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="15521-2" value="n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <translation id="15521-3" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <example id="15521-4" value="do you have any money?" origin="lexin" date="2009-02-24">
+      <translation value="har du n&#xE5;gra pengar?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="f&#xF6;renat" origin="lexin" date="2009-02-24"/>
+    <grammar value="indefinit pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="anybody" lang="en" class="pn" id="15541" origin="lexin" comment="anv&#xE4;nds som anyone" date="2009-02-24">
+    <translation id="15541-1" value="n&#xE5;gon" comment="i negativa satser och fr&#xE5;gesatser" origin="lexin" date="2009-02-24"/>
+    <example id="15541-2" value="Don&amp;#39;t tell anybody you saw us." origin="lexin" date="2009-02-24">
+      <translation value="Tala inte om f&#xF6;r n&#xE5;gon att du s&#xE5;g oss." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="15541-3" value="Is anybody there?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r det n&#xE5;gon d&#xE4;r?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="indefinit pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="anyone" lang="en" class="pn" id="15591" origin="lexin" comment="anv&#xE4;nds som anybody" date="2009-02-24">
+    <translation id="15591-1" value="n&#xE5;gon" comment="i negativa satser och fr&#xE5;gesatser" origin="lexin" date="2009-02-24"/>
+    <example id="15591-2" value="Don&amp;#39;t tell anyone you saw us." origin="lexin" date="2009-02-24">
+      <translation value="Tala inte om f&#xF6;r n&#xE5;gon att du s&#xE5;g oss." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="15591-3" value="Is anyone there?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r det n&#xE5;gon d&#xE4;r?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="indefinit pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="either" lang="en" class="pn" id="152211" origin="lexin" date="2009-02-24">
+    <translation id="152211-1" value="endera" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-2" value="vilken som helst" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-3" value="ena" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-4" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-5" value="n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-6" value="n&#xE5;gondera" origin="lexin" date="2009-02-24"/>
+    <translation id="152211-7" value="n&#xE5;gotdera" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="somebody" lang="en" class="pn" id="390011" origin="lexin" comment="anv&#xE4;nds som someone" date="2009-02-24">
+    <translation id="390011-1" value="n&#xE5;gon" comment="en betydelsefull person" origin="lexin" date="2009-02-24"/>
+    <example id="390011-2" value="She&amp;#39;s had her picture in the paper and now she thinks she is somebody." origin="lexin" date="2009-02-24">
+      <translation value="Hon har synts i tidningen och nu tror hon att hon &#xE4;r n&#xE5;gon." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A person who is well known and has a high position" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="somebody" lang="en" class="pn" id="390021" origin="lexin" comment="anv&#xE4;nds som someone" date="2009-02-24">
+    <translation id="390021-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="390021-2" value="i positiva satser" origin="lexin" date="2009-02-24"/>
+    <paradigm id="390021-4" origin="lexin" date="2009-02-24">
+      <inflection value="indefinit" origin="lexin" date="2009-02-24"/>
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="390021-3" value="Somebody must have eaten the cake." origin="lexin" date="2009-02-24">
+      <translation value="N&#xE5;gon m&#xE5;ste ha &#xE4;tit upp t&#xE5;rtan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="refers to a non-specified person" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="someone" lang="en" class="pn" id="390031" origin="lexin" comment="anv&#xE4;nds som somebody" date="2009-02-24">
+    <translation id="390031-1" value="n&#xE5;gon" comment="en betydelsefull person" origin="lexin" date="2009-02-24"/>
+    <example id="390031-2" value="She&amp;#39;s had her picture in the paper and now she thinks she is someone." origin="lexin" date="2009-02-24">
+      <translation value="Hon har synts i tidningen och nu tror hon att hon &#xE4;r n&#xE5;gon." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A person who is well known and has a high position" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="someone" lang="en" class="pn" id="390041" origin="lexin" comment="anv&#xE4;nds som somebody" date="2009-02-24">
+    <translation id="390041-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <paradigm id="390041-3" origin="lexin" date="2009-02-24">
+      <inflection value="indefinit" origin="lexin" date="2009-02-24"/>
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="390041-2" value="Someone must have eaten the cake." origin="lexin" date="2009-02-24">
+      <translation value="N&#xE5;gon m&#xE5;ste ha &#xE4;tit upp t&#xE5;rtan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="refers to a non-specified person" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

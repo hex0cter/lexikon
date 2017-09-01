@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="128250" lang="sv" lexinid="12826" origin="lexin" value="par">
+    <translation date="2011-03-03" id="12591" value="pair"/>
+    <phonetic date="2011-03-03" soundFile="par.swf" value="pa:r"/>
+    <paradigm date="2011-03-03" id="11106" origin="lexin">
+      <inflection value="paret"/>
+      <inflection value="par"/>
+      <inflection value="paren"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="tandem"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="tv&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="par||par..1||par..nn.1"/>
+    <example date="2011-03-03" id="7165" value="ett par skor">
+      <translation value="a pair of shoes"/>
+    </example>
+    <example date="2011-03-03" id="7166" value="ett &#xE4;kta par">
+      <translation value="a married couple"/>
+    </example>
+    <compound date="2011-03-03" id="4427" value="brudpar">
+      <translation value="bridal couple, bride and groom"/>
+    </compound>
+    <compound date="2011-03-03" id="4428" inflection="par|dansen" value="par|dans">
+      <translation value="dancing with a partner"/>
+    </compound>
+    <idiom date="2011-03-03" id="1145" value="ett par dar (&amp;quot;n&#xE5;gra dar, tv&#xE5; eller tre dar&amp;quot;)">
+      <translation value="a couple of days (&amp;quot;a few days, two or three days&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="12348" value="tv&#xE5; som h&#xF6;r ihop"/>
+  </word>
+  <word value="brace" lang="en" class="nn" id="52561" origin="lexin" date="2009-02-24">
+    <translation id="52561-1" value="par" origin="lexin" date="2009-02-24"/>
+    <translation id="52561-2" value="tv&#xE5; exakt lika" origin="lexin" date="2009-02-24"/>
+    <paradigm id="52561-4" origin="lexin" date="2009-02-24">
+      <inflection value="brace" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="52561-3" value="a brace of pheasants" origin="lexin" date="2009-02-24">
+      <translation value="ett par fasaner" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="couple" lang="en" class="nn" id="106251" origin="lexin" date="2009-02-24">
+    <translation id="106251-1" value="par" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="duo" lang="en" class="nn" id="148281" origin="lexin" date="2009-02-24">
+    <translation id="148281-1" value="duo" origin="lexin" date="2009-02-24"/>
+    <translation id="148281-2" value="par" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pair" lang="en" class="nn" id="303061" origin="lexin" date="2009-02-24">
+    <translation id="303061-1" value="par" comment="om m&#xE4;nniskor" origin="lexin" date="2009-02-24"/>
+    <paradigm id="303061-3" origin="lexin" date="2009-02-24">
+      <inflection value="pairs" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="303061-4" origin="lexin" date="2009-02-24">
+      <inflection value="pair" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <idiom id="303061-2" value="in pairs" origin="lexin" date="2009-02-24">
+      <translation value="par om par" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="pair" lang="en" class="nn" id="303071" origin="lexin" date="2009-02-24">
+    <translation id="303071-1" value="par" comment="om n&#xE5;gonting som &#xE4;r sammansatt och best&#xE5;r av tv&#xE5; identiskt lika delar" origin="lexin" date="2009-02-24"/>
+    <paradigm id="303071-3" origin="lexin" date="2009-02-24">
+      <inflection value="pairs" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="303071-4" origin="lexin" date="2009-02-24">
+      <inflection value="pair" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="303071-2" value="I bought two pairs of jeans" origin="lexin" date="2009-02-24">
+      <translation value="jag k&#xF6;pte tv&#xE5; par jeans" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pair" lang="en" class="nn" id="303081" origin="lexin" date="2009-02-24">
+    <translation id="303081-1" value="par" comment="tv&#xE5; saker som ser likadana ut och vanligen anv&#xE4;nds tillsammans" origin="lexin" date="2009-02-24"/>
+    <paradigm id="303081-3" origin="lexin" date="2009-02-24">
+      <inflection value="pairs" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="303081-4" origin="lexin" date="2009-02-24">
+      <inflection value="pair" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="303081-2" value="how many pairs of shoes did you bring?" origin="lexin" date="2009-02-24">
+      <translation value="hur m&#xE5;nga par skor tog du med dig?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="team" lang="en" class="nn" id="414531" origin="lexin" date="2009-02-24">
+    <translation id="414531-1" value="spann" origin="lexin" date="2009-02-24"/>
+    <translation id="414531-2" value="par" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

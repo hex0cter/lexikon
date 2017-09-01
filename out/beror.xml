@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="15820" lang="sv" lexinid="1582" origin="lexin" value="bero">
+    <translation date="2011-03-03" id="1565" value="depend on"/>
+    <phonetic date="2011-03-03" soundFile="beror.swf" value="berO:r"/>
+    <paradigm date="2011-03-03" id="1358" origin="lexin">
+      <inflection value="berodde"/>
+      <inflection value="berott"/>
+      <inflection value="bero"/>
+      <inflection value="beror"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="orsakas"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="bero||bero..1||bero..vb.1"/>
+    <example date="2011-03-03" id="1004" value="det beror p&#xE5; ett missf&#xF6;rst&#xE5;nd">
+      <translation value="it arises from a misunderstanding"/>
+    </example>
+    <example date="2011-03-03" id="1005" value="olyckan berodde p&#xE5; att bilf&#xF6;raren somnade">
+      <translation value="the accident was caused by the driver falling asleep at the wheel"/>
+    </example>
+    <definition date="2011-03-03" id="1539" value="ha till orsak">
+      <translation value="have as a cause or origin"/>
+    </definition>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp; y/ att + S"/>
+  </word>
+</definition>

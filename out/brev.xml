@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="23320" lang="sv" lexinid="2332" origin="lexin" value="brev">
+    <translation date="2011-03-03" id="2299" value="letter"/>
+    <phonetic date="2011-03-03" soundFile="brev.swf" value="bre:v"/>
+    <paradigm date="2011-03-03" id="2033" origin="lexin">
+      <inflection value="brevet"/>
+      <inflection value="brev"/>
+      <inflection value="breven"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;rs&#xE4;ndelse"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="meddelande"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="post"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="skrivelse"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="snigelpost"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="brev||brev..1||brev..nn.1"/>
+    <example date="2011-03-03" id="1427" value="alla brev besvaras!">
+      <translation value="all letters will be answered!"/>
+    </example>
+    <example date="2011-03-03" id="1428" value="jag fick ett brev fr&#xE5;n utlandet">
+      <translation value="I received a letter from abroad"/>
+    </example>
+    <example date="2011-03-03" id="1429" value="ett &#xF6;ppet brev till regeringen">
+      <translation value="an open letter to the government"/>
+    </example>
+    <compound date="2011-03-03" id="754" inflection="brev|b&#xE4;raren" value="brev|b&#xE4;rare">
+      <translation value="postman, (mailman [US]), mailperson"/>
+    </compound>
+    <compound date="2011-03-03" id="755" value="brev|v&#xE4;n">
+      <translation value="pen friend, (pen pal [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="756" value="brev|press">
+      <translation value="paper-weight"/>
+    </compound>
+    <compound date="2011-03-03" id="757" value="brev|hemlighet">
+      <translation value="privacy of correspondence"/>
+    </compound>
+    <definition date="2011-03-03" id="2261" value="ett l&#xE4;ngre, skrivet meddelande, post">
+      <translation value="(long) written communication, mail"/>
+    </definition>
+    <url date="2011-03-03" origin="lexin" type="any" value="15/post.swf"/>
+  </word>
+  <word value="epistle" lang="en" class="nn" id="159181" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="159181-1" value="epistel" origin="lexin" date="2009-02-24"/>
+    <translation id="159181-2" value="brev" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="letter" lang="en" class="nn" id="254591" origin="lexin" date="2009-02-24">
+    <translation id="254591-1" value="brev" origin="lexin" date="2009-02-24"/>
+    <translation id="254591-2" value="skrivelse" origin="lexin" date="2009-02-24"/>
+    <idiom id="254591-3" value="by letter" origin="lexin" date="2009-02-24">
+      <translation value="brevledes, per brev, skriftligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="mails" lang="en" id="477201" origin="user" date="2012-09-12T02:08:02">
+    <translation id="477201-1" value="brev" origin="user" date="2012-09-12T02:08:08"/>
+  </word>
+</definition>

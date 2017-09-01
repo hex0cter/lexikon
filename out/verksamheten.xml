@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="&#xE4;ven mer allm&#xE4;nt &amp;quot;funktion&amp;quot;" date="2011-03-03" id="207160" lang="sv" lexinid="20717" origin="lexin" value="verksamhet">
+    <translation comment="also commonly &amp;quot;function, operation&amp;quot;" date="2011-03-03" id="20355" value="activity"/>
+    <phonetic date="2011-03-03" soundFile="verksamhet.swf" value="&#xB2;v&#xC4;r:ksamhe:t"/>
+    <paradigm date="2011-03-03" id="18066" origin="lexin">
+      <inflection value="verksamheten"/>
+      <inflection value="verksamheter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="aktivitet"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="business"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="r&#xF6;relse"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="syssla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="v&#xE4;rv"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="verksamhet||verksamhet..1||verksamhet..nn.1"/>
+    <example date="2011-03-03" id="11637" value="vara i full verksamhet">
+      <translation value="be in full swing"/>
+    </example>
+    <example date="2011-03-03" id="11638" value="olaglig verksamhet">
+      <translation value="illegal activity (operation)"/>
+    </example>
+    <example date="2011-03-03" id="11639" value="politisk verksamhet">
+      <translation value="political activity"/>
+    </example>
+    <compound date="2011-03-03" id="6782" value="studieverksamhet">
+      <translation value="educational programme"/>
+    </compound>
+    <compound date="2011-03-03" id="6783" value="hj&#xE4;rtverksamhet">
+      <translation value="cardiac activity"/>
+    </compound>
+    <compound date="2011-03-03" id="6784" value="f&#xF6;rs&#xF6;ksverksamhet">
+      <translation value="experimental work, research"/>
+    </compound>
+    <compound date="2011-03-03" id="6785" value="verksamhets|&#xE5;r">
+      <translation value="financial year"/>
+    </compound>
+    <compound date="2011-03-03" id="6786" inflection="verksamhets|ber&#xE4;ttelsen" value="verksamhets|ber&#xE4;ttelse">
+      <translation value="annual report"/>
+    </compound>
+    <definition date="2011-03-03" id="20015" value="fortl&#xF6;pande syssels&#xE4;ttning, arbete"/>
+  </word>
+</definition>

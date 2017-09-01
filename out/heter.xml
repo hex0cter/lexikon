@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="ha som motsvarighet (p&#xE5; annat spr&#xE5;k)" date="2011-03-03" id="68980" lang="sv" lexinid="6898" origin="lexin" value="heta">
+    <translation comment="have as an equivalent (in another language)" date="2011-03-03" id="6776" value="be called (named)"/>
+    <phonetic date="2011-03-03" soundFile="heter.swf" value="hE:ter"/>
+    <paradigm date="2011-03-03" id="5994" origin="lexin">
+      <inflection value="hette"/>
+      <inflection value="hetat"/>
+      <inflection value="heta"/>
+      <inflection value="heter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="kallas"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="heta||heta..1||heta..vb.1"/>
+    <example date="2011-03-03" id="4040" value="vad heter det p&#xE5; engelska?">
+      <translation value="what&amp;#39;s it called in English?"/>
+    </example>
+    <example date="2011-03-03" id="4041" value="... heter det i rapporten">
+      <translation value="... says the report"/>
+    </example>
+    <example date="2011-03-03" id="4042" value="jag heter Kerstin">
+      <translation value="my name&amp;#39;s Kerstin"/>
+    </example>
+    <definition date="2011-03-03" id="6638" value="ha som namn, kallas">
+      <translation value="have as one&amp;#39;s name"/>
+    </definition>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp; + PRED"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="68990" lang="sv" lexinid="6899" origin="lexin" value="heta">
+    <translation date="2011-03-03" id="6777" value="be said to be"/>
+    <phonetic date="2011-03-03" soundFile="heter.swf" value="hE:ter"/>
+    <paradigm date="2011-03-03" id="5995" origin="lexin">
+      <inflection value="hette"/>
+      <inflection value="hetat"/>
+      <inflection value="heta"/>
+      <inflection value="heter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="kallas"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="heta||heta..1||heta..vb.1"/>
+    <example date="2011-03-03" id="4043" value="det hette om henne att hon hatade karlar">
+      <translation value="she was reputed to have hated men"/>
+    </example>
+    <definition date="2011-03-03" id="6639" value="p&#xE5;st&#xE5;s">
+      <translation value="alleged"/>
+    </definition>
+  </word>
+  <word value="k&#xF6;ksd&#xF6;rr" lang="sv" class="nn" id="345780" origin="user" date="2013-10-24T01:00:18">
+    <translation id="345780-1" value="kitchen door" origin="user" date="2013-10-24T01:00:18"/>
+    <translation id="345780-1" value="heter" origin="user" date="2014-06-14T08:03:05"/>
+  </word>
+</definition>

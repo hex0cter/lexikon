@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="bild" lang="sv" class="nn" id="18650" lexinid="1866" origin="lexin" comment="bildligt &amp;quot;skildring&amp;quot;" date="2011-03-03">
+    <translation id="18650-1815" value="image" origin="user" date="2011-12-07T22:20:37"/>
+    <translation id="18650-1816" value="picture" origin="user" date="2011-12-07T22:20:37"/>
+    <phonetic value="bil:d" soundFile="bild.swf" date="2011-03-03"/>
+    <paradigm id="1611" origin="lexin" date="2011-03-03">
+      <inflection value="bilden"/>
+      <inflection value="bilder"/>
+    </paradigm>
+    <synonym value="foto" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="fotografi" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ikon" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="illustration" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="image" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="m&#xE5;lning" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="skildring" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="teckning" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="bild||bild..1||bild..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1210" value="ta bilder" date="2011-03-03">
+      <translation value="take pictures"/>
+    </example>
+    <example id="1211" value="ge en bild av sin situation" date="2011-03-03">
+      <translation value="describe one&amp;#39;s situation"/>
+    </example>
+    <compound id="570" value="bild|m&#xE4;ssig" date="2011-03-03">
+      <translation value="visual, pictorial"/>
+    </compound>
+    <compound id="571" value="bild|konstn&#xE4;r" date="2011-03-03">
+      <translation value="painter"/>
+    </compound>
+    <compound id="572" value="bild|material" date="2011-03-03">
+      <translation value="illustrations, pictures"/>
+    </compound>
+    <compound id="573" value="n&#xE4;rbild" date="2011-03-03">
+      <translation value="close-up"/>
+    </compound>
+    <compound id="574" value="bild|huggare" date="2011-03-03">
+      <translation value="sculptor"/>
+    </compound>
+    <compound id="575" value="gatubild" date="2011-03-03">
+      <translation value="street scene"/>
+    </compound>
+    <compound id="576" value="minnesbild" date="2011-03-03">
+      <translation value="recollection, visual picture"/>
+    </compound>
+    <compound id="577" value="bild|konst" date="2011-03-03">
+      <translation value="visual arts"/>
+    </compound>
+    <definition id="1814" value="&#xE5;tergivning (av n&#xE5;got) genom teckning, foto etc" date="2011-03-03">
+      <translation value="representation (of sth.) by a drawing, photograph, etc."/>
+    </definition>
+    <url value="19/massmedia1.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="art education" lang="en" class="nn" id="19871" origin="lexin" comment="utbildning" date="2009-02-24">
+    <translation id="19871-1" value="bild" comment="skol&#xE4;mnet" origin="lexin" date="2009-02-24"/>
+    <explanation value="Formal instruction in drawing, painting and sculpture." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="aspect" lang="en" class="nn" id="21101" origin="lexin" date="2009-02-24">
+    <translation id="21101-1" value="utseende" origin="lexin" date="2009-02-24"/>
+    <translation id="21101-2" value="min" origin="lexin" date="2009-02-24"/>
+    <translation id="21101-3" value="uppsyn" origin="lexin" date="2009-02-24"/>
+    <translation id="21101-4" value="ansikte" origin="lexin" date="2009-02-24"/>
+    <translation id="21101-5" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="21101-6" value="anblick" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="depiction" lang="en" class="nn" id="125591" origin="lexin" date="2009-02-24">
+    <translation id="125591-1" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="125591-2" value="teckning" origin="lexin" date="2009-02-24"/>
+    <translation id="125591-3" value="skildring" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="image" lang="en" class="nn" id="226611" origin="lexin" date="2009-02-24">
+    <translation id="226611-1" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="226611-2" value="sinnebild" origin="lexin" date="2009-02-24"/>
+    <translation id="226611-3" value="f&#xF6;rest&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="226611-4" value="id&#xE9;" origin="lexin" date="2009-02-24"/>
+    <translation id="226611-5" value="symbol" origin="lexin" date="2009-02-24"/>
+    <translation id="226611-6" value="efterbild" comment="psykologi" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="image" lang="en" class="nn" id="226621" origin="lexin" date="2009-02-24">
+    <translation id="226621-1" value="metafor" comment="spr&#xE5;kvetenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="226621-2" value="liknelse" origin="lexin" date="2009-02-24"/>
+    <translation id="226621-3" value="bild" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="image" lang="en" class="nn" id="226661" lexinid="880" origin="lexin" date="2009-02-24">
+    <translation id="226661-1" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-2" value="avbild" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-3" value="avbildning" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-4" value="bildstod" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-5" value="spegelbild" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-6" value="kopia" comment="i Bibeln" origin="lexin" date="2009-02-24"/>
+    <translation id="226661-7" value="motstycke" origin="lexin" date="2009-02-24"/>
+    <example id="226661-8" value="she is the very image of her mother" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r en avbild av sin mor" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="226661-9" value="God made man in His image" origin="lexin" date="2009-02-24">
+      <translation value="Gud skapade m&#xE4;nniskan till sin avbild" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="metaphor" lang="en" class="nn" id="271981" origin="lexin" date="2009-02-24">
+    <translation id="271981-1" value="metafor" origin="lexin" date="2009-02-24"/>
+    <translation id="271981-2" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="271981-3" value="bildligt uttryck" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="painting" lang="en" class="nn" id="303001" origin="lexin" date="2009-02-24">
+    <translation id="303001-1" value="tavla" origin="lexin" date="2009-02-24"/>
+    <translation id="303001-2" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="303001-3" value="m&#xE5;lning" origin="lexin" date="2009-02-24"/>
+    <example id="303001-4" value="hang a painting on the wall" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;nga upp en tavla p&#xE5; v&#xE4;ggen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="photo" lang="en" class="nn" id="315561" origin="lexin" date="2009-02-24">
+    <translation id="315561-1" value="foto" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="315561-2" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="315561-3" value="bild" origin="lexin" date="2009-02-24"/>
+    <example id="315561-4" value="take a photo" origin="lexin" date="2009-02-24">
+      <translation value="ta kort" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="picture" lang="en" class="nn" id="316721" origin="lexin" date="2009-02-24">
+    <translation id="316721-1" value="bild" comment="TV" origin="lexin" date="2009-02-24"/>
+    <translation id="316721-2" value="bildruta" origin="lexin" date="2009-02-24"/>
+    <translation id="316721-3" value="bildsk&#xE4;rm" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="picture" lang="en" class="nn" id="316751" origin="lexin" date="2009-02-24">
+    <translation id="316751-1" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-2" value="tavla" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-3" value="m&#xE5;lning" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-4" value="portr&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-5" value="illustration" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-6" value="foto" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-7" value="fotografi" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-8" value="kort" origin="lexin" date="2009-02-24"/>
+    <idiom id="316751-9" value="look (be) a picture" origin="lexin" date="2009-02-24">
+      <translation value="vara vacker som en tavla, vara sk&#xF6;nheten sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="representation (of sth.) by a drawing, photograph, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="picture" lang="en" class="nn" id="316791" origin="lexin" date="2009-02-24">
+    <translation id="316791-1" value="situation" origin="lexin" date="2009-02-24"/>
+    <translation id="316791-2" value="l&#xE4;ge" origin="lexin" date="2009-02-24"/>
+    <translation id="316791-3" value="bild" origin="lexin" date="2009-02-24"/>
+    <idiom id="316791-4" value="be out of the picture" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) vara ute ur bilden" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="316791-5" value="the big picture" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) helheten" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="316791-6" value="get the picture" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) f&#xF6;rst&#xE5;, fatta (situationen), ha bilden klar f&#xF6;r sig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="316791-7" value="put somebody in the picture" origin="lexin" date="2009-02-24">
+      <translation value="informera n&#xE5;gon om l&#xE4;get, s&#xE4;tta in n&#xE5;gon i situationen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="portrait" lang="en" class="nn" id="326441" origin="lexin" date="2009-02-24">
+    <translation id="326441-1" value="bild" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="326441-2" value="avbild" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="representation" lang="en" class="nn" id="356111" origin="lexin" date="2009-02-24">
+    <translation id="356111-1" value="framst&#xE4;llande" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-2" value="&#xE5;tergivande" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-3" value="skildring" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-4" value="framst&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-5" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-6" value="avbild" origin="lexin" date="2009-02-24"/>
+    <translation id="356111-7" value="symbol" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="scene" lang="en" class="nn" id="371071" origin="lexin" date="2009-02-24">
+    <translation id="371071-1" value="plats" comment="som ser ut som en tavla" origin="lexin" date="2009-02-24"/>
+    <translation id="371071-2" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="371071-3" value="scen" origin="lexin" date="2009-02-24"/>
+    <translation id="371071-4" value="syn" origin="lexin" date="2009-02-24"/>
+    <example id="371071-5" value="what a picturesque scene" origin="lexin" date="2009-02-24">
+      <translation value="en s&#xE5;dan pittoresk syn" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="view" lang="en" class="nn" id="437111" origin="lexin" date="2009-02-24">
+    <translation id="437111-1" value="fotografi" origin="lexin" date="2009-02-24"/>
+    <translation id="437111-2" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="437111-3" value="kort" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

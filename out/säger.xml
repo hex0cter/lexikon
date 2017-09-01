@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="s&#xE4;ga" lang="sv" class="vb" id="182370" lexinid="18238" origin="lexin" date="2011-03-03">
+    <variant value="s&#xE4;jer" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="17911" value="say" date="2011-03-03"/>
+    <phonetic value="sEj:er" soundFile="s&#xE4;ger.swf" date="2011-03-03"/>
+    <paradigm id="15930" origin="lexin" date="2011-03-03">
+      <inflection value="sade"/>
+      <inflection value="sagt"/>
+      <inflection value="s&#xE4;g"/>
+      <inflection value="s&#xE4;ga"/>
+      <inflection value="s&#xE4;ger"/>
+    </paradigm>
+    <synonym value="prata" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppge" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="uttala" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;ga||s&#xE4;ga..1||s&#xE4;ga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;ga||s&#xE4;ga..2||s&#xE4;ga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10285" value="s&#xE4;ga nej till k&#xE4;rnkraft" date="2011-03-03">
+      <translation value="say no to nuclear power"/>
+    </example>
+    <example id="10286" value="problemet f&#xE5;r s&#xE4;gas vara unikt" date="2011-03-03">
+      <translation value="the problem may be said to be unique"/>
+    </example>
+    <example id="10287" value="resultatet var inte bra, sa l&#xE4;raren" date="2011-03-03">
+      <translation value="the results were not good, said the teacher"/>
+    </example>
+    <idiom id="1560" value="det vill s&#xE4;ga (&amp;quot;betyder&amp;quot;)" date="2011-03-03">
+      <translation value="that is to say (&amp;quot;means&amp;quot;)"/>
+    </idiom>
+    <idiom id="1561" value="det s&#xE4;ger sig sj&#xE4;lvt (&amp;quot;&#xE4;r sj&#xE4;lvklart&amp;quot;)" date="2011-03-03">
+      <translation value="it speaks for itself (&amp;quot;is self-evident, obvious&amp;quot;)"/>
+    </idiom>
+    <idiom id="1562" value="s&#xE5; att s&#xE4;ga (&amp;quot;uttryckt p&#xE5; det s&#xE4;ttet&amp;quot;)" date="2011-03-03">
+      <translation value="so to speak (&amp;quot;put that way&amp;quot;)"/>
+    </idiom>
+    <definition id="17630" value="meddela i ord, uttala" date="2011-03-03"/>
+    <grammar value="A &amp; att+SATS" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

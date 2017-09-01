@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="borta" lang="sv" class="ab" id="22280" lexinid="2228" origin="lexin" comment="bildligt &amp;quot;medvetsl&#xF6;s, virrig&amp;quot;" date="2011-03-03">
+    <translation id="22280-2157" value="away" origin="user" date="2011-11-12T00:14:38"/>
+    <translation id="22280-2158" value="out" origin="user" date="2011-11-12T00:14:38"/>
+    <translation id="22280-2159" value="gone" origin="user" date="2011-11-12T00:14:38"/>
+    <phonetic value="&#xB2;b&#xC5;r+t:a" soundFile="borta.swf" date="2011-03-03"/>
+    <synonym value="fr&#xE5;nvarande" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rlorad" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rsvunnen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="inte hemma" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="inte h&#xE4;r" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="virrig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;ck" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="borta||borta..1||borta..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1373" value="hon var alldeles borta" date="2011-03-03">
+      <translation value="she was totally perplexed"/>
+    </example>
+    <example id="1374" value="borta bra men hemma b&#xE4;st" date="2011-03-03">
+      <translation value="there&amp;#39;s no place like home"/>
+    </example>
+    <compound id="716" value="borta|plan" date="2011-03-03">
+      <translation value="away ground, away from home"/>
+    </compound>
+    <compound id="717" value="borta|lag" date="2011-03-03">
+      <translation value="away team"/>
+    </compound>
+    <compound id="718" value="borta|match" date="2011-03-03">
+      <translation value="away match"/>
+    </compound>
+    <definition id="2156" value="p&#xE5; annat st&#xE4;lle, inte hemma" date="2011-03-03">
+      <translation value="in another place, not at home"/>
+    </definition>
+  </word>
+  <word value="away" lang="en" class="jj" id="26161" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="26161-1" value="borta" origin="lexin" date="2009-02-24"/>
+    <example id="26161-2" value="the&amp;#39;re playing away next month" origin="lexin" date="2009-02-24">
+      <translation value="de spelar p&#xE5; bortaplan n&#xE4;sta m&#xE5;nad; de har en bortamatch n&#xE4;sta m&#xE5;nad" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="away" lang="en" class="jj" id="26171" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="26171-1" value="borta" origin="lexin" date="2009-02-24"/>
+    <idiom id="26171-2" value="an away match" origin="lexin" date="2009-02-24">
+      <translation value="en bortamatch" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="down" lang="en" class="ab, jj" id="142491" origin="lexin" date="2009-02-24">
+    <translation id="142491-1" value="bort" comment="studentjargong" origin="lexin" date="2009-02-24"/>
+    <translation id="142491-2" value="borta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gone" lang="en" class="jj" id="200691" origin="lexin" date="2009-02-24">
+    <translation id="200691-1" value="borta" origin="lexin" date="2009-02-24"/>
+    <translation id="200691-2" value="f&#xF6;rsvunnen" origin="lexin" date="2009-02-24"/>
+    <example id="200691-3" value="her joy is all gone" origin="lexin" date="2009-02-24">
+      <translation value="hennes gl&#xE4;dje &#xE4;r helt f&#xF6;rsvunnen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="gone" lang="en" class="jj" id="200701" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="200701-1" value="f&#xF6;rlorad" origin="lexin" date="2009-02-24"/>
+    <translation id="200701-2" value="borta" comment="om person som &#xE4;r sv&#xE5;rt sjuk, drog- eller alkoholp&#xE5;verkad" origin="lexin" date="2009-02-24"/>
+    <example id="200701-3" value="my son was too far gone to understand what I was saying to him" origin="lexin" date="2009-02-24">
+      <translation value="min son var alltf&#xF6;r borta f&#xF6;r att f&#xF6;rst&#xE5; vad jag sade till honom" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="off" lang="en" class="ab" id="292731" origin="lexin" date="2009-02-24">
+    <translation id="292731-1" value="bort" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-2" value="iv&#xE4;g" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-3" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-4" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-5" value="borta" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-6" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Gone away" lang="en" id="533501" origin="user" date="2014-06-14T08:03:03">
+    <translation id="533501-1" value="borta" origin="user" date="2014-06-14T08:03:03"/>
+    <translation id="533501-2" value="g&#xE5;tt sin v&#xE4;g" origin="user" date="2014-06-14T08:03:03"/>
+    <translation id="533501-3" value="&#xE5;kt bort" origin="user" date="2014-06-14T08:03:03"/>
+    <translation id="533501-4" value="f&#xF6;rsvunnen" origin="user" date="2015-03-19T05:21:06"/>
+    <translation id="533501-5" value="f&#xF6;rsvunnit" origin="user" date="2016-10-19T02:06:49"/>
+  </word>
+  <word value="imaginatively" lang="en" id="535051" origin="user" date="2014-06-17T00:35:57">
+    <translation id="535051-1" value="borta" origin="user" date="2014-06-17T00:35:57"/>
+  </word>
+  <word value="spaced" lang="en" id="543491" origin="user" date="2015-10-29T04:01:20">
+    <translation id="543491-1" value="stenad" origin="user" date="2015-10-29T04:01:20"/>
+    <translation id="543491-2" value="borta" origin="user" date="2016-07-06T04:53:40"/>
+    <translation id="543491-3" value="utflippad" origin="user" date="2016-09-25T05:04:36"/>
+  </word>
+</definition>

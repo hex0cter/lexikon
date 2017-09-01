@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ekonomisk" lang="sv" class="jj" id="38060" lexinid="3806" origin="lexin" date="2011-03-03">
+    <translation id="38060-3661" value="financial" origin="user" date="2012-02-25T16:22:23"/>
+    <translation id="38060-3662" value="economic" origin="user" date="2012-02-25T16:22:23"/>
+    <phonetic value="ekon&#xC5;:misk" soundFile="ekonomisk.swf" date="2011-03-03"/>
+    <paradigm id="3292" origin="lexin" date="2011-03-03">
+      <inflection value="ekonomiskt"/>
+      <inflection value="ekonomiska"/>
+    </paradigm>
+    <see value="ekonomisk||ekonomisk..1||ekonomisk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ekonomisk||ekonomisk..2||ekonomisk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2249" value="en ekonomisk f&#xF6;rlust" date="2011-03-03">
+      <translation value="a financial loss"/>
+    </example>
+    <example id="2250" value="ekonomiskt brott" date="2011-03-03">
+      <translation value="economic crime"/>
+    </example>
+    <definition id="3660" value="som r&#xF6;r ekonomi, finansiell" date="2011-03-03"/>
+  </word>
+  <word value="ekonomisk" lang="sv" class="jj" id="38070" lexinid="3807" origin="lexin" date="2011-03-03">
+    <translation id="38070-3662" value="economical" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="38070-3663" value="thrifty" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="38070-3664" value="careful [with money]" origin="user" date="2012-01-28T23:48:23"/>
+    <phonetic value="ekon&#xC5;:misk" soundFile="ekonomisk.swf" date="2011-03-03"/>
+    <paradigm id="3293" origin="lexin" date="2011-03-03">
+      <inflection value="ekonomiskt"/>
+      <inflection value="ekonomiska"/>
+    </paradigm>
+    <see value="ekonomisk||ekonomisk..1||ekonomisk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ekonomisk||ekonomisk..2||ekonomisk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2251" value="jag &#xE4;r inte s&#xE5; ekonomisk som min bror" date="2011-03-03">
+      <translation value="I am not as careful with money as my brother"/>
+    </example>
+    <definition id="3661" value="sparsam" date="2011-03-03">
+      <translation value="thrifty, careful with money"/>
+    </definition>
+  </word>
+</definition>

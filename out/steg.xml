@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="172810" lang="sv" lexinid="17282" origin="lexin" value="steg">
+    <translation date="2011-03-03" id="16977" value="rose"/>
+    <phonetic date="2011-03-03" soundFile="steg.swf" value="ste:g"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="kliv"/>
+    <see date="2011-03-03" origin="lexin" value="stiga"/>
+  </word>
+  <word class="nn" comment="ofta bildligt" date="2011-03-03" id="172820" lang="sv" lexinid="17283" origin="lexin" value="steg">
+    <translation comment="often used figuratively" date="2011-03-03" id="16978" value="step"/>
+    <phonetic date="2011-03-03" soundFile="steg.swf" value="ste:g"/>
+    <paradigm date="2011-03-03" id="15093" origin="lexin">
+      <inflection value="steget"/>
+      <inflection value="steg"/>
+      <inflection value="stegen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="kliv"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="steg||steg..1||steg..nn.1"/>
+    <example date="2011-03-03" id="9762" value="bygga upp verksamheten steg f&#xF6;r steg">
+      <translation value="build up the operation step by step"/>
+    </example>
+    <example date="2011-03-03" id="9763" value="g&#xE5; med l&#xE4;tta steg">
+      <translation value="walk with a light step"/>
+    </example>
+    <example date="2011-03-03" id="9764" value="ett stort steg i utvecklingen">
+      <translation value="a great step (stride) forwards"/>
+    </example>
+    <compound date="2011-03-03" id="5919" value="danssteg">
+      <translation value="dance step"/>
+    </compound>
+    <derivation date="2011-03-03" id="814" value="stegvis">
+      <translation value="step by step, gradually, in stages"/>
+    </derivation>
+    <definition date="2011-03-03" id="16721" value="f&#xF6;rflyttning av foten"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="172830" lang="sv" lexinid="17284" origin="lexin" value="steg">
+    <translation date="2011-03-03" id="16979" value="step"/>
+    <phonetic date="2011-03-03" soundFile="steg.swf" value="ste:g"/>
+    <paradigm date="2011-03-03" id="15094" origin="lexin">
+      <inflection value="steget"/>
+      <inflection value="steg"/>
+      <inflection value="stegen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="kliv"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="steg||steg..1||steg..nn.1"/>
+    <compound date="2011-03-03" id="5920" value="trappsteg">
+      <translation value="step"/>
+    </compound>
+    <definition date="2011-03-03" id="16722" value="plan som man stiger p&#xE5;"/>
+  </word>
+  <word value="stiga" lang="sv" class="vb" id="173390" lexinid="17340" origin="lexin" date="2011-03-03">
+    <translation id="173390-16777" value="walk" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="173390-16778" value="step" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="173390-16779" value="tread" origin="user" date="2012-02-08T23:49:44"/>
+    <phonetic value="stI:ger" soundFile="stiger.swf" date="2011-03-03"/>
+    <paradigm id="15145" origin="lexin" date="2011-03-03">
+      <inflection value="steg"/>
+      <inflection value="stigit"/>
+      <inflection value="stig"/>
+      <inflection value="stiga"/>
+      <inflection value="stiger"/>
+    </paradigm>
+    <see value="stiga||stiga..1||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stiga||stiga..2||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stiga||stiga..3||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9793" value="pojken steg fram till biljettluckan" date="2011-03-03">
+      <translation value="the boy stepped up to the ticket window"/>
+    </example>
+    <example id="9794" value="hon steg ur bilen" date="2011-03-03">
+      <translation value="she stepped out of the car"/>
+    </example>
+    <definition id="16776" value="f&#xF6;rflytta sig (med l&#xE5;nga steg)" date="2011-03-03"/>
+    <grammar value="A &amp; i/ur x; A &amp; fram/in etc" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="stiga" lang="sv" class="vb" id="173400" lexinid="17341" origin="lexin" date="2011-03-03">
+    <translation id="17035" value="rise" date="2011-03-03"/>
+    <phonetic value="stI:ger" soundFile="stiger.swf" date="2011-03-03"/>
+    <paradigm id="15146" origin="lexin" date="2011-03-03">
+      <inflection value="steg"/>
+      <inflection value="stigit"/>
+      <inflection value="stig"/>
+      <inflection value="stiga"/>
+      <inflection value="stiger"/>
+    </paradigm>
+    <synonym value="h&#xF6;ja" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillta" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="stiga||stiga..1||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stiga||stiga..2||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stiga||stiga..3||stiga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9795" value="temperaturen steg till rekordniv&#xE5;" date="2011-03-03">
+      <translation value="the temperature rose to a record level"/>
+    </example>
+    <example id="9796" value="priserna stiger" date="2011-03-03">
+      <translation value="prices are rising"/>
+    </example>
+    <example id="9797" value="hon lyssnade med stigande irritation" date="2011-03-03">
+      <translation value="she listened with growing irritation"/>
+    </example>
+    <derivation id="820" value="stigning" date="2011-03-03">
+      <translation value="rise, ascent"/>
+    </derivation>
+    <definition id="16777" value="&#xF6;ka, h&#xF6;ja sig" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="grade" lang="en" class="nn" id="202481" origin="lexin" date="2009-02-24">
+    <translation id="202481-1" value="grad" origin="lexin" date="2009-02-24"/>
+    <translation id="202481-2" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="202481-3" value="rang" origin="lexin" date="2009-02-24"/>
+    <translation id="202481-4" value="stadium" origin="lexin" date="2009-02-24"/>
+    <translation id="202481-5" value="niv&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="move" lang="en" class="nn" id="279771" origin="lexin" date="2009-02-24">
+    <translation id="279771-1" value="flyttning" origin="lexin" date="2009-02-24"/>
+    <translation id="279771-2" value="drag" origin="lexin" date="2009-02-24"/>
+    <translation id="279771-3" value="utspel" origin="lexin" date="2009-02-24"/>
+    <translation id="279771-4" value="&#xE5;tg&#xE4;rd" origin="lexin" date="2009-02-24"/>
+    <translation id="279771-5" value="steg" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="notch" lang="en" class="nn" id="288821" origin="lexin" date="2009-02-24">
+    <translation id="288821-1" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="288821-2" value="grad" origin="lexin" date="2009-02-24"/>
+    <translation id="288821-3" value="pinnh&#xE5;l" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <example id="288821-4" value="this is a notch better than the last one" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r &#xE4;r ett pinnh&#xE5;l b&#xE4;ttre &#xE4;n den f&#xF6;rra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pace" lang="en" class="nn" id="301721" origin="lexin" date="2009-02-24">
+    <translation id="301721-1" value="steg" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="remove" lang="en" class="nn" id="354541" origin="lexin" date="2009-02-24">
+    <translation id="354541-1" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="354541-2" value="grad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="step" lang="en" class="nn" id="398381" origin="lexin" date="2009-02-24">
+    <translation id="398381-1" value="grad" origin="lexin" date="2009-02-24"/>
+    <translation id="398381-2" value="pinnh&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="398381-3" value="steg" origin="lexin" date="2009-02-24"/>
+    <idiom id="398381-4" value="one step ahead" origin="lexin" date="2009-02-24">
+      <translation value="steget f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="step" lang="en" class="nn" id="398411" origin="lexin" date="2009-02-24">
+    <translation id="398411-1" value="steg" comment="det avst&#xE5;nd som t&#xE4;cks av ett steg" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="step" lang="en" class="nn" id="398421" origin="lexin" date="2009-02-24">
+    <translation id="398421-1" value="steg" origin="lexin" date="2009-02-24"/>
+    <example id="398421-4" value="in step/out of step" origin="lexin" date="2009-02-24">
+      <translation value="i takt/otakt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="398421-2" value="direct/bend one&amp;#39;s steps towards" origin="lexin" date="2009-02-24">
+      <translation value="styra sina steg mot" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="398421-3" value="step by step" origin="lexin" date="2009-02-24">
+      <translation value="steg f&#xF6;r steg, gradvis" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="step" lang="en" class="nn" id="398431" origin="lexin" date="2009-02-24">
+    <translation id="398431-1" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="398431-2" value="tonsteg" comment="musikaliskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stride" lang="en" class="nn" id="401591" origin="lexin" date="2009-02-24">
+    <translation id="401591-1" value="kliv" origin="lexin" date="2009-02-24"/>
+    <translation id="401591-2" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="401591-3" value="g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <example id="401591-5" value="make great strides" origin="lexin" date="2009-02-24">
+      <translation value="(bildligt) g&#xF6;ra stora framsteg" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="401591-4" value="they take life in their stride" origin="lexin" date="2009-02-24">
+      <translation value="de tar livet som det kommer" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="stroke" lang="en" class="nn" id="402491" origin="lexin" date="2009-02-24">
+    <translation id="402491-1" value="drag" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="402491-2" value="schackdrag" origin="lexin" date="2009-02-24"/>
+    <translation id="402491-3" value="grepp" origin="lexin" date="2009-02-24"/>
+    <translation id="402491-4" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="402491-5" value="handling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tread" lang="en" class="nn" id="425031" origin="lexin" date="2009-02-24">
+    <translation id="425031-1" value="steg" origin="lexin" date="2009-02-24"/>
+    <translation id="425031-2" value="tramp" origin="lexin" date="2009-02-24"/>
+    <translation id="425031-3" value="g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stages" lang="en" id="520641" origin="user" date="2013-11-08T01:20:03">
+    <translation id="520641-1" value="stadier" origin="user" date="2013-11-08T01:20:03"/>
+    <translation id="520641-2" value="scener (t.ex. " origin="user" date="2013-11-08T01:20:04"/>
+    <translation id="520641-1" value="niv&#xE5;er, scener" origin="user" date="2014-03-31T02:07:14"/>
+    <translation id="520641-3" value="b&#xE4;ttre" origin="user" date="2015-08-25T01:20:01"/>
+    <translation id="520641-4" value="steg, scener" origin="user" date="2016-01-30T03:47:53"/>
+    <translation id="520641-5" value="steg" origin="user" date="2016-06-08T04:14:36"/>
+  </word>
+  <word value="steg" lang="en" class="nn" id="398251" origin="lexin" date="2009-02-24">
+    <translation id="398251-1" value="kort avst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <example id="398251-2" value="my house is just a step away" origin="lexin" date="2009-02-24">
+      <translation value="mitt hus ligger bara ett stenkast h&#xE4;rifr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

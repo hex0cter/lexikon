@@ -1,0 +1,535 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xE5;" lang="sv" class="jj" id="51540" lexinid="5154" origin="lexin" date="2011-03-03">
+    <translation id="5072" value="few" date="2011-03-03"/>
+    <use value="plural; superlativ saknas" date="2011-03-03"/>
+    <phonetic value="f&#xE5;:" soundFile="f&#xE5;.swf" date="2011-03-03"/>
+    <paradigm id="4459" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xE4;rre"/>
+    </paradigm>
+    <synonym value="erh&#xE5;lla" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="lite" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ringa" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;tnjuta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <example id="2926" value="n&#xE5;gra f&#xE5; platser" date="2011-03-03">
+      <translation value="a few seats"/>
+    </example>
+    <example id="2927" value="f&#xE5; av oss" date="2011-03-03">
+      <translation value="few of us"/>
+    </example>
+    <definition id="4973" value="inte m&#xE5;nga" date="2011-03-03"/>
+  </word>
+  <word value="f&#xE5;" lang="sv" class="vb" id="51710" lexinid="5171" origin="lexin" date="2011-03-03">
+    <translation id="51710-4990" value="receive" origin="user" date="2012-02-25T16:22:17"/>
+    <translation id="51710-4991" value="get" origin="user" date="2012-02-25T16:22:17"/>
+    <phonetic value="f&#xE5;:r" soundFile="f&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="4475" origin="lexin" date="2011-03-03">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym value="erh&#xE5;lla" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="lite" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ringa" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;tnjuta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2936" value="f&#xE5; en helt annan uppfattning" date="2011-03-03">
+      <translation value="get a completely different impression"/>
+    </example>
+    <example id="2937" value="f&#xE5; arbete" date="2011-03-03">
+      <translation value="get work"/>
+    </example>
+    <example id="2938" value="f&#xE5; bort (en fl&#xE4;ck)" date="2011-03-03">
+      <translation value="remove, get rid of (a stain)"/>
+    </example>
+    <example id="2939" value="f&#xE5; en present" date="2011-03-03">
+      <translation value="get a present"/>
+    </example>
+    <example id="2940" value="f&#xE5; fram (fakta)" date="2011-03-03">
+      <translation value="produce, elicit (facts)"/>
+    </example>
+    <example id="2941" value="jag fick se en bil" date="2011-03-03">
+      <translation value="I got to see a car"/>
+    </example>
+    <idiom id="375" value="f&#xE5; syn p&#xE5; (&amp;quot;pl&#xF6;tsligt se&amp;quot;)" date="2011-03-03">
+      <translation value="catch sight of"/>
+    </idiom>
+    <idiom id="376" value="f&#xE5; lov att (&amp;quot;vara tvungen att&amp;quot;)" date="2011-03-03">
+      <translation value="have to, be forced to"/>
+    </idiom>
+    <idiom id="377" value="f&#xE5; tillf&#xE4;lle att (&amp;quot;kunna g&#xF6;ra (n&#xE5;got) vid l&#xE4;mpligt tillf&#xE4;lle&amp;quot;)" date="2011-03-03">
+      <translation value="get the chance to, have the opportunity to"/>
+    </idiom>
+    <idiom id="378" value="f&#xE5; (&amp;quot;ta&amp;quot;) med sig (tandborsten)" date="2011-03-03">
+      <translation value="have (&amp;quot;take&amp;quot;) (your toothbrush) with you"/>
+    </idiom>
+    <idiom id="379" value="f&#xE5; med (&amp;quot;publicera&amp;quot;) en artikel i en tidning" date="2011-03-03">
+      <translation value="get (&amp;quot;publish&amp;quot;) an article in a paper"/>
+    </idiom>
+    <idiom id="380" value="f&#xE5; bukt med (&amp;quot;lyckas klara av&amp;quot;)" date="2011-03-03">
+      <translation value="get the better of, manage"/>
+    </idiom>
+    <idiom id="381" value="f&#xE5; tag p&#xE5; (&amp;quot;lyckas skaffa eller hitta&amp;quot;)" date="2011-03-03">
+      <translation value="get hold of (&amp;quot;manage to obtain or find&amp;quot;)"/>
+    </idiom>
+    <idiom id="382" value="f&#xE5; tag i (&amp;quot;lyckas h&#xE5;lla fast, f&#xE5;nga&amp;quot;)" date="2011-03-03">
+      <translation value="get hold of"/>
+    </idiom>
+    <idiom id="383" value="f&#xE5; p&#xE5; k&#xF6;pet (&amp;quot;f&#xE5; n&#xE5;got gratis n&#xE4;r man k&#xF6;per en annan vara&amp;quot;)" date="2011-03-03">
+      <translation value="get into the bargain (&amp;quot;get something free when buying another item&amp;quot;)"/>
+    </idiom>
+    <definition id="4989" value="ta emot, erh&#xE5;lla" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="51720" lang="sv" lexinid="5172" origin="lexin" value="f&#xE5;">
+    <translation date="2011-03-03" id="5090" value="may"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;r.swf" value="f&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="4476" origin="lexin">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="erh&#xE5;lla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lite"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xE5;tnjuta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="2942" value="f&#xE5;r jag stiga in?">
+      <translation value="may I come in?"/>
+    </example>
+    <definition date="2011-03-03" id="4990" value="ha till&#xE5;telse att"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="51730" lang="sv" lexinid="5173" origin="lexin" value="f&#xE5;">
+    <translation date="2011-03-03" id="5091" value="have"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;r.swf" value="f&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="4477" origin="lexin">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="erh&#xE5;lla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lite"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xE5;tnjuta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="2943" value="nu f&#xE5;r du g&#xF6;ra som jag s&#xE4;ger!">
+      <translation value="now you have to (must) do as I say!"/>
+    </example>
+    <definition date="2011-03-03" id="4991" value="vara tvungen"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word value="bring" lang="en" class="vb" id="55791" origin="lexin" date="2009-02-24">
+    <translation id="55791-1" value="frambringa" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-2" value="framkalla" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-3" value="medf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-4" value="f&#xF6;rorsaka" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-5" value="orsaka" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-6" value="f&#xF6;rm&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-7" value="bringa" origin="lexin" date="2009-02-24"/>
+    <translation id="55791-8" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="55791-9" origin="lexin" date="2009-02-24">
+      <inflection value="brought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="55791-10" origin="lexin" date="2009-02-24">
+      <inflection value="brought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="catch" lang="en" class="vb" id="69901" origin="lexin" date="2009-02-24">
+    <translation id="69901-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="69901-2" value="&#xE5;dra sig" origin="lexin" date="2009-02-24"/>
+    <translation id="69901-3" value="smittas" origin="lexin" date="2009-02-24"/>
+    <paradigm id="69901-4" origin="lexin" date="2009-02-24">
+      <inflection value="caught" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="69901-5" origin="lexin" date="2009-02-24">
+      <inflection value="caught" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="come by" lang="en" class="vb" id="88871" origin="lexin" date="2009-02-24">
+    <translation id="88871-1" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="88871-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="88871-3" value="f&#xE5; tag p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="88871-5" value="jobs like these are hard to come by" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r sv&#xE5;rt att f&#xE5; tag i s&#xE5;dana h&#xE4;r arbeten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="88871-4" value="easy to come by" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;tt att f&#xE5; tag i" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="contract" lang="en" class="vb" id="100571" origin="lexin" date="2009-02-24">
+    <translation id="100571-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="100571-2" value="&#xE5;dra sig" origin="lexin" date="2009-02-24"/>
+    <translation id="100571-3" value="&#xE5;samka sig" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="derive from" lang="en" class="vb" id="126531" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="126531-1" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="126531-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="126531-3" value="I derive such pleasure from my two dogs" origin="lexin" date="2009-02-24">
+      <translation value="mina tv&#xE5; hundar bereder mig s&#xE5;dan gl&#xE4;dje" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="develop" lang="en" class="vb" id="128691" origin="lexin" date="2009-02-24">
+    <translation id="128691-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144151" origin="lexin" date="2009-02-24">
+    <translation id="144151-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-2" value="dra lott" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-3" value="utse genom lottdragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-4" value="f&#xF6;rr&#xE4;tta dragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-5" value="v&#xE4;lja ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-6" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-7" value="r&#xE5;ka f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-8" value="vinna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144151-9" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144151-10" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144211" origin="lexin" date="2009-02-24">
+    <translation id="144211-1" value="f&#xF6;rtj&#xE4;na" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-2" value="uppb&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-3" value="ha" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-4" value="lyfta" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-5" value="ta ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-6" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-7" value="f&#xE5; ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144211-8" value="inkassera" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144211-9" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144211-10" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144351" origin="lexin" date="2009-02-24">
+    <translation id="144351-1" value="ta" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-3" value="l&#xE5;na" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-4" value="h&#xE4;mta" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-5" value="h&#xE4;rleda" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-6" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-7" value="dra ut" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144351-8" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144351-9" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="few" lang="en" class="pn" id="173441" origin="lexin" date="2009-02-24">
+    <translation id="173441-1" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <translation id="173441-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="173441-8" value="only a few of us could make it to practice today" origin="lexin" date="2009-02-24">
+      <translation value="det var bara n&#xE5;gra f&#xE5; av oss som kunde komma till tr&#xE4;ningen i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="173441-9" value="she&amp;#39;s among the few who really understand me" origin="lexin" date="2009-02-24">
+      <translation value="hon tillh&#xF6;r det lilla f&#xE5;tal som verkligen f&#xF6;rst&#xE5;r mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="173441-3" value="a chosen few" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;gra f&#xE5; utvalda" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-4" value="a good few" origin="lexin" date="2009-02-24">
+      <translation value="ganska m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-5" value="few and far between" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;llsynta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-6" value="many are called but few are chosen" origin="lexin" date="2009-02-24">
+      <translation value="m&#xE5;nga &#xE4;r kallade men f&#xE5; &#xE4;r utvalda" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-7" value="quite a few" origin="lexin" date="2009-02-24">
+      <translation value="ganska m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="few" lang="en" class="jj" id="173451" origin="lexin" date="2009-02-24">
+    <translation id="173451-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="173451-2" value="inte s&#xE4;rskilt m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    <example id="173451-3" value="he seems to have few friends" origin="lexin" date="2009-02-24">
+      <translation value="han verkar inte ha s&#xE5; m&#xE5;nga v&#xE4;nner" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="173451-4" value="I see my brother every few weeks" origin="lexin" date="2009-02-24">
+      <translation value="jag tr&#xE4;ffar min bror var tredje vecka (ungef&#xE4;r)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="173451-5" value="very few people came to the party" origin="lexin" date="2009-02-24">
+      <translation value="det kom inte s&#xE4;rskilt m&#xE5;nga p&#xE5; festen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="find" lang="en" class="vb" id="175361" origin="lexin" date="2009-02-24">
+    <translation id="175361-1" value="finna" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-2" value="hitta" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-3" value="p&#xE5;tr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-4" value="antr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-5" value="tr&#xE4;ffa p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-6" value="f&#xE5; tag i" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-7" value="m&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-8" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-9" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="175361-10" origin="lexin" date="2009-02-24">
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gather" lang="en" class="vb" id="191861" origin="lexin" date="2009-02-24">
+    <translation id="191861-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="191861-2" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="191861-3" value="skaffa sig" origin="lexin" date="2009-02-24"/>
+    <example id="191861-4" value="gather information" origin="lexin" date="2009-02-24">
+      <translation value="skaffa sig information" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get" lang="en" class="vb" id="194791" origin="lexin" date="2009-02-24">
+    <translation id="194791-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194791-2" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194791-6" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194791-7" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194791-5" value="where did you get that blouse?" origin="lexin" date="2009-02-24">
+      <translation value="var har du k&#xF6;pt den d&#xE4;r blusen?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="194791-3" value="get permission" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; tillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="194791-4" value="get hold of" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; tag i; hitta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get" lang="en" class="vb" id="194801" origin="lexin" date="2009-02-24">
+    <translation id="194801-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194801-2" value="ges m&#xF6;jlighet att" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194801-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194801-6" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194801-3" value="I never get to see you any more" origin="lexin" date="2009-02-24">
+      <translation value="jag f&#xE5;r aldrig tr&#xE4;ffa dig nuf&#xF6;rtiden" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="194801-4" value="if I&amp;#39;m lucky I&amp;#39;ll even get to go sailing one afternoon" origin="lexin" date="2009-02-24">
+      <translation value="om jag har tur kanske jag till och med f&#xE5;r m&#xF6;jlighet att segla n&#xE5;gon eftermiddag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get" lang="en" class="vb" id="194811" origin="lexin" date="2009-02-24">
+    <translation id="194811-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194811-2" value="r&#xE5;ka ut f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194811-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194811-6" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194811-3" value="get pneumonia" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; lunginflammation" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="194811-4" value="I always get a headache when I feel stressed" origin="lexin" date="2009-02-24">
+      <translation value="jag f&#xE5;r alltid huvudv&#xE4;rk n&#xE4;r jag k&#xE4;nner mig stressad" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get" lang="en" class="vb" id="194821" origin="lexin" date="2009-02-24">
+    <translation id="194821-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194821-2" value="se till att f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194821-3" value="orsaka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194821-6" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194821-7" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194821-4" value="do you think you could get him to change his mind?" origin="lexin" date="2009-02-24">
+      <translation value="tror du att du kan f&#xE5; honom att &#xE4;ndra sig?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="194821-5" value="I can&amp;#39;t seem to get the car to start" origin="lexin" date="2009-02-24">
+      <translation value="det verkar inte som om jag f&#xE5;r ig&#xE5;ng bilen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get" lang="en" class="vb" id="194831" origin="lexin" date="2009-02-24">
+    <translation id="194831-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194831-2" value="ta emot" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194831-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194831-6" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194831-4" value="did you get my message yesterday?" origin="lexin" date="2009-02-24">
+      <translation value="fick du mitt meddelande i g&#xE5;r?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="194831-3" value="get the sack" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; sparken" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="have" lang="en" class="vb" id="213761" origin="lexin" date="2009-02-24">
+    <translation id="213761-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="213761-2" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <paradigm id="213761-4" origin="lexin" date="2009-02-24">
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="213761-3" value="I&amp;#39;ve had some really good news today" origin="lexin" date="2009-02-24">
+      <translation value="jag fick h&#xF6;ra en riktigt glad nyhet i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="have" lang="en" class="vb" id="213771" origin="lexin" date="2009-02-24">
+    <translation id="213771-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="213771-2" value="f&#xF6;da" origin="lexin" date="2009-02-24"/>
+    <paradigm id="213771-4" origin="lexin" date="2009-02-24">
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="213771-3" value="my sister had a baby boy last night" origin="lexin" date="2009-02-24">
+      <translation value="min syster f&#xF6;dde en liten pojke i g&#xE5;r kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="induce" lang="en" class="vb" id="231491" origin="lexin" date="2009-02-24">
+    <translation id="231491-1" value="f&#xF6;rm&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="231491-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="like" lang="en" class="vb" id="257151" origin="lexin" date="2009-02-24">
+    <translation id="257151-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="257151-2" value="ha" comment="uttrycker regelbundenhet" origin="lexin" date="2009-02-24"/>
+    <example id="257151-4" value="I like my coffee white" origin="lexin" date="2009-02-24">
+      <translation value="jag vill ha mj&#xF6;lk i kaffet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="257151-3" value="how do you like your coffee/tea?" origin="lexin" date="2009-02-24">
+      <translation value="hur vill du/ni ha kaffet/teet?" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="make" lang="en" class="vb" id="265231" origin="lexin" date="2009-02-24">
+    <translation id="265231-1" value="g&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="265231-2" value="orsaka" origin="lexin" date="2009-02-24"/>
+    <translation id="265231-3" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="265231-4" value="f&#xE5; n&#xE5;gon att" origin="lexin" date="2009-02-24"/>
+    <translation id="265231-5" value="tvinga" origin="lexin" date="2009-02-24"/>
+    <paradigm id="265231-9" origin="lexin" date="2009-02-24">
+      <inflection value="made" origin="lexin" date="2009-02-24"/>
+      <inflection value="made" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="265231-7" value="you can&amp;#39;t make me do it!" origin="lexin" date="2009-02-24">
+      <translation value="du kan inte tvinga mig att g&#xF6;ra det!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="265231-8" value="they made me wait for two hours" origin="lexin" date="2009-02-24">
+      <translation value="jag blev tvungen att v&#xE4;nta i tv&#xE5; timmar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="265231-6" value="make somebody cry/laugh/smile" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; n&#xE5;gon att gr&#xE5;ta/skratta/le" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="make" lang="en" class="vb" id="265281" origin="lexin" date="2009-02-24">
+    <translation id="265281-1" value="tj&#xE4;na" origin="lexin" date="2009-02-24"/>
+    <translation id="265281-2" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="265281-3" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="265281-7" origin="lexin" date="2009-02-24">
+      <inflection value="made" origin="lexin" date="2009-02-24"/>
+      <inflection value="made" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="265281-5" value="how much do you make annually?" origin="lexin" date="2009-02-24">
+      <translation value="hur mycket tj&#xE4;nar du om &#xE5;ret?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="265281-6" value="I&amp;#39;ve made a new friend" origin="lexin" date="2009-02-24">
+      <translation value="jag har f&#xE5;tt en ny v&#xE4;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="265281-4" value="make a living" origin="lexin" date="2009-02-24">
+      <translation value="tj&#xE4;na sitt uppeh&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="may" lang="en" class="hj&#xE4;lpverb" id="269701" origin="lexin" date="2009-02-24">
+    <translation id="269701-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="269701-2" value="f&#xE5; lov" origin="lexin" date="2009-02-24"/>
+    <example id="269701-3" value="May I leave the table?" origin="lexin" date="2009-02-24">
+      <translation value="F&#xE5;r jag g&#xE5; fr&#xE5;n bordet?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The majority" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="move" lang="en" class="vb" id="279811" origin="lexin" date="2009-02-24">
+    <translation id="279811-1" value="p&#xE5;verka" origin="lexin" date="2009-02-24"/>
+    <translation id="279811-2" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="279811-3" value="f&#xF6;rm&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="279811-4" value="f&#xF6;ranleda" origin="lexin" date="2009-02-24"/>
+    <translation id="279811-5" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="poll" lang="en" class="vb" id="325091" origin="lexin" date="2009-02-24">
+    <translation id="325091-1" value="f&#xE5;" comment="om r&#xF6;ster" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="receive" lang="en" class="vb" id="348551" origin="lexin" date="2009-02-24">
+    <translation id="348551-1" value="ta emot" origin="lexin" date="2009-02-24"/>
+    <translation id="348551-2" value="mottaga" origin="lexin" date="2009-02-24"/>
+    <translation id="348551-3" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="348551-4" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sack" lang="en" class="vb" id="368671" origin="lexin" date="2009-02-24">
+    <translation id="368671-1" value="h&#xE5;va in" origin="lexin" date="2009-02-24"/>
+    <translation id="368671-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="368671-3" value="vinna" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="take" lang="en" class="vb" id="412081" origin="lexin" date="2009-02-24">
+    <translation id="412081-1" value="ha" origin="lexin" date="2009-02-24"/>
+    <translation id="412081-2" value="erfara" origin="lexin" date="2009-02-24"/>
+    <translation id="412081-3" value="fatta" origin="lexin" date="2009-02-24"/>
+    <translation id="412081-4" value="f&#xE5;" comment="i vissa fasta uttryck" origin="lexin" date="2009-02-24"/>
+    <paradigm id="412081-8" origin="lexin" date="2009-02-24">
+      <inflection value="took" origin="lexin" date="2009-02-24"/>
+      <inflection value="taken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="412081-6" value="she took offence when I said it" origin="lexin" date="2009-02-24">
+      <translation value="hon blev f&#xF6;rn&#xE4;rmad n&#xE4;r jag sade det" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="412081-7" value="what view do you take?" origin="lexin" date="2009-02-24">
+      <translation value="vad tycker du?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="412081-5" value="take pity on somebody" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rbarma sig &#xF6;ver n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="will" lang="en" class="vb" id="444451" origin="lexin" date="2009-02-24">
+    <translation id="444451-1" value="f&#xF6;rm&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="444451-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="444451-3" value="f&#xE5; genom en viljeanstr&#xE4;ngning" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

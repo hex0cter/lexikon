@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="45790" lang="sv" lexinid="4579" origin="lexin" value="flest(a)">
+    <translation date="2011-03-03" id="4506" value="most"/>
+    <phonetic date="2011-03-03" soundFile="flest.swf" value="&#xB2;flEs:t(a)"/>
+    <see date="2011-03-03" id="45740" origin="lexin" value="fler"/>
+    <see date="2011-03-03" origin="lexin" type="phonetic" value="flesta.swf"/>
+  </word>
+  <word value="flesta" lang="sv" id="354180" origin="user" date="2014-01-14T01:55:01">
+    <translation id="354180-1" value="most" origin="user" date="2014-01-14T01:55:03"/>
+  </word>
+  <word value="most" lang="en" class="pn" id="278521" origin="lexin" date="2009-02-24">
+    <translation id="278521-1" value="mesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278521-2" value="det mesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278521-3" value="flesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278521-4" value="de flesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278521-5" value="flertalet" origin="lexin" date="2009-02-24"/>
+    <example id="278521-8" value="the most I can do is offer you my room" origin="lexin" date="2009-02-24">
+      <translation value="jag kan inte g&#xF6;ra mera &#xE4;n erbjuda dig/er mitt rum" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="278521-6" value="at (the) most" origin="lexin" date="2009-02-24">
+      <translation value="som mest" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="278521-7" value="make the most of" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra det mesta m&#xF6;jliga av" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="superlativ av many och much" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="most" lang="en" class="jj" id="278561" origin="lexin" date="2009-02-24">
+    <translation id="278561-1" value="mesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278561-2" value="det mesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278561-3" value="flesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278561-4" value="de flesta" origin="lexin" date="2009-02-24"/>
+    <translation id="278561-5" value="flertalet" origin="lexin" date="2009-02-24"/>
+    <example id="278561-7" value="she spends most of her free time knitting" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;gnar den mesta av sin lediga tid &#xE5;t att sticka" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="278561-6" value="for the most part" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r det mesta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="superlativ av many och much" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hand" lang="sv" class="nn" id="66890" lexinid="6689" origin="lexin" date="2011-03-03">
+    <translation id="6573" value="hand" date="2011-03-03"/>
+    <phonetic value="han:d" soundFile="hand.swf" date="2011-03-03"/>
+    <paradigm id="5818" origin="lexin" date="2011-03-03">
+      <inflection value="handen"/>
+      <inflection value="h&#xE4;nder"/>
+    </paradigm>
+    <synonym value="labb" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="hand||hand..1||hand..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="hand||hand..2||hand..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3913" value="sy f&#xF6;r hand" date="2011-03-03">
+      <translation value="sew by hand"/>
+    </example>
+    <example id="3914" value="g&#xE5; hand i hand" date="2011-03-03">
+      <translation value="walk hand in hand"/>
+    </example>
+    <example id="3915" value="tv&#xE4;tta h&#xE4;nderna" date="2011-03-03">
+      <translation value="wash one&amp;#39;s hands"/>
+    </example>
+    <compound id="2414" value="hand|bagage" date="2011-03-03">
+      <translation value="hand luggage"/>
+    </compound>
+    <idiom id="491" value="p&#xE5; egen hand (&amp;quot;sj&#xE4;lv&amp;quot;)" date="2011-03-03">
+      <translation value="by oneself"/>
+    </idiom>
+    <idiom id="492" value="efter hand (&amp;quot;fortl&#xF6;pande&amp;quot;)" date="2011-03-03">
+      <translation value="gradually, by degrees (&amp;quot;continuously&amp;quot;)"/>
+    </idiom>
+    <idiom id="493" value="ha till hands (&amp;quot;ha klart till anv&#xE4;ndning&amp;quot;)" date="2011-03-03">
+      <translation value="have at hand (&amp;quot;have available and ready for use&amp;quot;)"/>
+    </idiom>
+    <idiom id="494" value="i f&#xF6;rsta hand (&amp;quot;viktigast, fr&#xE4;mst&amp;quot;)" date="2011-03-03">
+      <translation value="in the first place, preferably"/>
+    </idiom>
+    <idiom id="495" value="ta hand om (&amp;quot;v&#xE5;rda o dyl&amp;quot;)" date="2011-03-03">
+      <translation value="take care of (&amp;quot;look after, etc.&amp;quot;)"/>
+    </idiom>
+    <definition id="6442" value="yttersta delen av en m&#xE4;nniskas arm" date="2011-03-03">
+      <translation value="the terminal part of the upper limb of humans and other primates"/>
+    </definition>
+    <url value="2/hand.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="agency" lang="en" class="nn" id="8461" origin="lexin" date="2009-02-24">
+    <translation id="8461-1" value="inverkan" origin="lexin" date="2009-02-24"/>
+    <translation id="8461-2" value="verkande kraft" origin="lexin" date="2009-02-24"/>
+    <translation id="8461-3" value="makt" origin="lexin" date="2009-02-24"/>
+    <translation id="8461-4" value="hand" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211351" origin="lexin" date="2009-02-24">
+    <translation id="211351-1" value="hand" comment="i kortspel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211361" origin="lexin" date="2009-02-24">
+    <translation id="211361-1" value="hand" origin="lexin" date="2009-02-24"/>
+    <example id="211361-8" value="hands up!" origin="lexin" date="2009-02-24">
+      <translation value="upp med h&#xE4;nderna!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="211361-9" value="your sister has such beautiful hands" origin="lexin" date="2009-02-24">
+      <translation value="din syster har s&#xE5; vackra h&#xE4;nder" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="211361-10" value="she has got her hands full" origin="lexin" date="2009-02-24">
+      <translation value="hon har fullt upp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="211361-11" value="they entered the church hand in hand" origin="lexin" date="2009-02-24">
+      <translation value="de gick in i kyrkan hand i hand" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="211361-12" value="this whole situation is really getting out of hand" origin="lexin" date="2009-02-24">
+      <translation value="hela den h&#xE4;r situationen h&#xE5;ller verkligen p&#xE5; att sp&#xE5;ra ur" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="211361-2" value="be good with one&amp;#39;s hands" origin="lexin" date="2009-02-24">
+      <translation value="vara h&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="211361-3" value="be hand in glove with" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE5; p&#xE5; f&#xF6;rtrolig fot med (bildligt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="211361-4" value="be off one&amp;#39;s hands" origin="lexin" date="2009-02-24">
+      <translation value="inte l&#xE4;ngre vara ens ansvar (bildligt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="211361-5" value="get one&amp;#39;s hands on somebody" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; tag i n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="211361-6" value="have a hand in something" origin="lexin" date="2009-02-24">
+      <translation value="ha ett finger med i spelet (bildligt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="211361-7" value="shake hands" origin="lexin" date="2009-02-24">
+      <translation value="skaka hand" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="mitt" lang="en" class="nn" id="275311" origin="lexin" date="2009-02-24">
+    <translation id="275311-1" value="karda" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-2" value="labb" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-3" value="n&#xE4;ve" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-4" value="hand" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="touch" lang="en" class="nn" id="422431" origin="lexin" date="2009-02-24">
+    <translation id="422431-1" value="grepp" origin="lexin" date="2009-02-24"/>
+    <translation id="422431-2" value="hand" origin="lexin" date="2009-02-24"/>
+    <translation id="422431-3" value="handlag" origin="lexin" date="2009-02-24"/>
+    <translation id="422431-4" value="man&#xE9;r" origin="lexin" date="2009-02-24"/>
+    <translation id="422431-5" value="stil" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word class="nn" comment="vardagligt" date="2011-03-03" id="67360" lang="sv" lexinid="6736" origin="lexin" value="hand|tag">
+    <translation comment="informal" date="2011-03-03" id="6618" value="hand"/>
+    <phonetic date="2011-03-03" soundFile="handtag.swf" value="&#xB2;hAn:ta:g"/>
+    <paradigm date="2011-03-03" id="5862" origin="lexin">
+      <inflection value="handtaget"/>
+      <inflection value="handtag"/>
+      <inflection value="handtagen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="d&#xF6;rrvred"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="hj&#xE4;lp"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="spak"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="vred"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="handtag||handtag..1||handtag..nn.1"/>
+    <example date="2011-03-03" id="3943" value="ge mig ett handtag!">
+      <translation value="give me a hand!"/>
+    </example>
+    <definition date="2011-03-03" id="6488" value="hj&#xE4;lp">
+      <translation value="help"/>
+    </definition>
+  </word>
+  <word value="l&#xE4;mna" lang="sv" class="vb" id="104300" lexinid="10430" origin="lexin" date="2011-03-03">
+    <translation id="104300-10058" value="give" origin="user" date="2012-02-23T00:13:54"/>
+    <translation id="104300-10059" value="hand" origin="user" date="2012-02-23T00:13:54"/>
+    <phonetic value="&#xB2;lEm:nar" soundFile="l&#xE4;mnar.swf" date="2011-03-03"/>
+    <paradigm id="9087" origin="lexin" date="2011-03-03">
+      <inflection value="l&#xE4;mnade"/>
+      <inflection value="l&#xE4;mnat"/>
+      <inflection value="l&#xE4;mna"/>
+      <inflection value="l&#xE4;mnar"/>
+    </paradigm>
+    <synonym value="ge" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xF6;verge" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="l&#xE4;mna||l&#xE4;mna..1||l&#xE4;mna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="l&#xE4;mna||l&#xE4;mna..2||l&#xE4;mna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5663" value="l&#xE4;mna biljetten till kondukt&#xF6;ren" date="2011-03-03">
+      <translation value="give the ticket to the conductor"/>
+    </example>
+    <example id="5664" value="l&#xE4;mna f&#xF6;retr&#xE4;de (i trafiken)" date="2011-03-03">
+      <translation value="yield (in traffic)"/>
+    </example>
+    <example id="5665" value="l&#xE4;mna in en ans&#xF6;kan" date="2011-03-03">
+      <translation value="submit an application"/>
+    </example>
+    <example id="5666" value="l&#xE4;mna ifr&#xE5;n sig v&#xE4;skan" date="2011-03-03">
+      <translation value="hand over one&amp;#39;s bag"/>
+    </example>
+    <definition id="10057" value="r&#xE4;cka, ge" date="2011-03-03"/>
+    <grammar value="A &amp; x till B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="nn" comment="vardagligt" date="2011-03-03" id="119120" lang="sv" lexinid="11913" origin="lexin" value="nypa">
+    <translation comment="informal" date="2011-03-03" id="11699" value="paw (hand)"/>
+    <use date="2011-03-03" value="mest i plural"/>
+    <phonetic date="2011-03-03" soundFile="nypa.swf" value="&#xB2;nY:pa"/>
+    <paradigm date="2011-03-03" id="10345" origin="lexin">
+      <inflection value="nypan"/>
+      <inflection value="nypor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="gnutta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="kl&#xE4;mma"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="nypa||nypa..2||nypa..nn.1"/>
+    <idiom date="2011-03-03" id="1055" value="h&#xE5;rd i nyporna (&amp;quot;h&#xE5;rdh&#xE4;nt&amp;quot;)"/>
+    <definition date="2011-03-03" id="11479" value="hand"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="209400" lang="sv" lexinid="20941" origin="lexin" value="visare">
+    <translation date="2011-03-03" id="20570" value="hand"/>
+    <phonetic date="2011-03-03" soundFile="visare.swf" value="&#xB2;vI:sare"/>
+    <paradigm date="2011-03-03" id="18258" origin="lexin">
+      <inflection value="visaren"/>
+      <inflection value="visare"/>
+      <inflection value="visarna"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="klokare"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="visare||visare..1||visare..nn.1"/>
+    <compound date="2011-03-03" id="6852" value="minutvisare">
+      <translation value="minute hand"/>
+    </compound>
+    <definition date="2011-03-03" id="20227" value="arm p&#xE5; klocka el. annan m&#xE4;tare"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211321" origin="lexin" date="2009-02-24">
+    <translation id="211321-1" value="arbetare" origin="lexin" date="2009-02-24"/>
+    <example id="211321-2" value="a hired hand" origin="lexin" date="2009-02-24">
+      <translation value="en inhyrd arbetare (amerikansk engelska)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211331" origin="lexin" date="2009-02-24">
+    <translation id="211331-1" value="bes&#xE4;ttningsman" origin="lexin" date="2009-02-24"/>
+    <translation id="211331-2" value="sj&#xF6;man" origin="lexin" date="2009-02-24"/>
+    <example id="211331-3" value="all hands on deck!" origin="lexin" date="2009-02-24">
+      <translation value="alle man till d&#xE4;ck!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="hand" lang="en" class="vb" id="211341" origin="lexin" date="2009-02-24">
+    <translation id="211341-1" value="ge" origin="lexin" date="2009-02-24"/>
+    <translation id="211341-2" value="l&#xE4;mna" origin="lexin" date="2009-02-24"/>
+    <translation id="211341-3" value="r&#xE4;cka" origin="lexin" date="2009-02-24"/>
+    <example id="211341-4" value="I&amp;#39;ve got to hand it to you: you did really well tonight" origin="lexin" date="2009-02-24">
+      <translation value="jag m&#xE5;ste erk&#xE4;nna att du gjorde mycket bra ifr&#xE5;n dig i kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="211341-5" value="would you hand me that bag, please?" origin="lexin" date="2009-02-24">
+      <translation value="vill du vara sn&#xE4;ll och r&#xE4;cka mig den d&#xE4;r v&#xE4;skan?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211371" origin="lexin" date="2009-02-24">
+    <translation id="211371-1" value="handstil" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <example id="211371-2" value="she writes in a beautiful hand" origin="lexin" date="2009-02-24">
+      <translation value="hon har vacker handstil" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211381" origin="lexin" date="2009-02-24">
+    <translation id="211381-1" value="hj&#xE4;lp" origin="lexin" date="2009-02-24"/>
+    <idiom id="211381-2" value="give/lend somebody a hand with something" origin="lexin" date="2009-02-24">
+      <translation value="hj&#xE4;lpa n&#xE5;gon med n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211391" origin="lexin" date="2009-02-24">
+    <translation id="211391-1" value="kvarter" comment="m&#xE5;tt f&#xF6;r h&#xE4;star" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211401" origin="lexin" date="2009-02-24">
+    <translation id="211401-1" value="n&#xE5;gon med kunskap" origin="lexin" date="2009-02-24"/>
+    <translation id="211401-2" value="erfarenhet" origin="lexin" date="2009-02-24"/>
+    <example id="211401-4" value="he&amp;#39;s an old hand at this" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r gammal i gamet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="211401-3" value="be a dab hand at something" origin="lexin" date="2009-02-24">
+      <translation value="vara en baddare p&#xE5; n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211411" origin="lexin" date="2009-02-24">
+    <translation id="211411-1" value="parti" comment="i kortspel" origin="lexin" date="2009-02-24"/>
+    <example id="211411-2" value="he played a good hand last night" origin="lexin" date="2009-02-24">
+      <translation value="han spelade bra i g&#xE5;r kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211421" origin="lexin" date="2009-02-24">
+    <translation id="211421-1" value="visare" origin="lexin" date="2009-02-24"/>
+    <explanation value="arm p&#xE5; klocka eller annan m&#xE4;tare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hand" lang="en" class="nn" id="211431" origin="lexin" date="2009-02-24">
+    <translation id="211431-1" value="appl&#xE5;d" origin="lexin" date="2009-02-24"/>
+    <example id="211431-2" value="let&amp;#39;s give him a hand" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker att vi ger honom en appl&#xE5;d" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

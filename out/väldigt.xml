@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="211720" lang="sv" lexinid="21173" origin="lexin" value="v&#xE4;ldig">
+    <translation date="2011-03-03" id="20793" value="huge"/>
+    <phonetic date="2011-03-03" soundFile="v&#xE4;ldig.swf" value="&#xB2;vEl:dig"/>
+    <paradigm date="2011-03-03" id="18459" origin="lexin">
+      <inflection value="v&#xE4;ldigt"/>
+      <inflection value="v&#xE4;ldiga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="diger"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="enorm"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="gigantisk"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="h&#xF6;grest"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="h&#xF6;gv&#xE4;xt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="j&#xE4;tte"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="j&#xE4;ttelik"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="j&#xE4;ttestor"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="kolossal"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="massiv"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="oerh&#xF6;rd"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ofantlig"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="stor"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="v&#xE4;ldig||v&#xE4;ldig..1||v&#xE4;ldig..av.1"/>
+    <example date="2011-03-03" id="11931" value="en v&#xE4;ldig p&#xE5;frestning">
+      <translation value="a terrific strain"/>
+    </example>
+    <example date="2011-03-03" id="11932" value="ett v&#xE4;ldigt fartyg">
+      <translation value="a huge ship"/>
+    </example>
+    <definition date="2011-03-03" id="20448" value="mycket stor, enorm">
+      <translation value="immense, powerful, awful, tremendous"/>
+    </definition>
+  </word>
+  <word value="v&#xE4;ldigt" lang="sv" class="ab" id="211730" lexinid="21174" origin="lexin" comment="allm&#xE4;nt f&#xF6;rst&#xE4;rkande" date="2011-03-03">
+    <translation id="20794" value="enormously" comment="commonly used as an intensifier" date="2011-03-03"/>
+    <translation id="211730-20795" value="very" origin="user" date="2017-05-06T05:13:31"/>
+    <phonetic value="&#xB2;vEl:di(k)t" soundFile="v&#xE4;ldigt.swf" date="2011-03-03"/>
+    <synonym value="enormt" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="grymt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="hejdl&#xF6;st" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="himla" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="j&#xE4;tte" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="mycket" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="oerh&#xF6;rt" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="otroligt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="stort" level="3.0" origin="synlex" date="2011-03-03"/>
+    <example id="11933" value="v&#xE4;ldigt sv&#xE5;rt" date="2011-03-03">
+      <translation value="enormously difficult"/>
+    </example>
+    <example id="11934" value="v&#xE4;ldigt glad" date="2011-03-03">
+      <translation value="awfully happy"/>
+    </example>
+    <definition id="20449" value="mycket" date="2011-03-03"/>
+  </word>
+  <word value="awfully" lang="en" class="ab" id="26461" origin="lexin" date="2009-02-24">
+    <translation id="26461-1" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="26461-2" value="v&#xE4;ldigt" origin="lexin" date="2009-02-24"/>
+    <translation id="26461-3" value="hemskt" origin="lexin" date="2009-02-24"/>
+    <example id="26461-4" value="he was awfully angry with us" origin="lexin" date="2009-02-24">
+      <translation value="han var hemskt arg p&#xE5; oss" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="26461-5" value="it&amp;#39;s awfully good of you to help me" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r v&#xE4;ldigt hyggligt av dig att hj&#xE4;lpa mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="anv&#xE4;nds som f&#xF6;rst&#xE4;rkning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mighty" lang="en" class="ab" id="272531" origin="lexin" date="2009-02-24">
+    <translation id="272531-1" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="272531-2" value="v&#xE4;ldigt" comment="gammaldags, informellt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thumping" lang="en" class="ab" id="418631" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="418631-1" value="kolossalt" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="418631-2" value="enormt" origin="lexin" date="2009-02-24"/>
+    <translation id="418631-3" value="v&#xE4;ldigt" origin="lexin" date="2009-02-24"/>
+    <translation id="418631-4" value="j&#xE4;tte-" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

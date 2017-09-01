@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="riks|dag" lang="sv" class="nn" id="144090" lexinid="14410" origin="lexin" date="2011-03-03">
+    <translation id="144090-13954" value="Riksdag" origin="user" date="2012-01-24T00:40:55"/>
+    <translation id="144090-13955" value="Parliament" origin="user" date="2012-01-24T00:40:55"/>
+    <phonetic value="rIk:sda(:g)" soundFile="riksdag.swf" date="2011-03-03"/>
+    <paradigm id="12556" origin="lexin" date="2011-03-03">
+      <inflection value="riksdagen"/>
+      <inflection value="riksdagar"/>
+    </paradigm>
+    <synonym value="parlament" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="riksdag||riksdag..1||riksdag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8133" value="majoritet i riksdagen" date="2011-03-03">
+      <translation value="majority in the Riksdag (Parliament)"/>
+    </example>
+    <example id="8134" value="regering och riksdag" date="2011-03-03">
+      <translation value="the government and parliament"/>
+    </example>
+    <compound id="5048" value="riksdags|ledamot" date="2011-03-03">
+      <translation value="Member of Parliament, MP"/>
+    </compound>
+    <compound id="5049" value="riksdags|beslut" date="2011-03-03">
+      <translation value="parliamentary decision"/>
+    </compound>
+    <compound id="5050" value="elevriksdag" date="2011-03-03">
+      <translation value="student parliament"/>
+    </compound>
+    <compound id="5051" value="tv&#xE5;kammarriksdag" date="2011-03-03">
+      <translation value="bi-cameral parliament"/>
+    </compound>
+    <explanation id="13952" value="Sveriges riksdag har 349 ledam&#xF6;ter. Riksdagen stiftar lagar, beslutar om skatt till staten och best&#xE4;mmer hur statens pengar skall anv&#xE4;ndas." date="2011-03-03">
+      <translation value="&amp;quot;Sweden&amp;#39;s Riksdag has 349 members. The Riksdag passes laws, establishes the taxes payable to the government, and decides how government funds are to be used.&amp;quot;"/>
+    </explanation>
+    <definition id="13953" value="namn p&#xE5; folkrepresentationen i Sverige (och Finland)" date="2011-03-03"/>
+  </word>
+  <word value="Parliament" lang="en" class="nn" id="305561" origin="lexin" comment="in UK" date="2009-02-24">
+    <translation id="305561-1" value="Riksdagen" comment="i Sverige" origin="lexin" date="2009-02-24"/>
+    <explanation value="An elected legislative assembly." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

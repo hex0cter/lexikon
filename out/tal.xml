@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="tal" lang="sv" class="nn" id="184290" lexinid="18430" origin="lexin" date="2011-03-03">
+    <translation id="18100" value="speech" date="2011-03-03"/>
+    <phonetic value="ta:l" soundFile="tal.swf" date="2011-03-03"/>
+    <paradigm id="16092" origin="lexin" date="2011-03-03">
+      <inflection value="talet"/>
+      <inflection value="tal"/>
+      <inflection value="talen"/>
+    </paradigm>
+    <see value="tal||tal..1||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..2||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..3||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10391" value="man m&#xE5;ste beh&#xE4;rska spr&#xE5;ket i tal och skrift" date="2011-03-03">
+      <translation value="you must master the spoken and written language"/>
+    </example>
+    <idiom id="1579" value="komma till tals (&amp;quot;f&#xE5; m&#xF6;jlighet till ett samtal&amp;quot;) med n&#xE5;gon" date="2011-03-03">
+      <translation value="get hold of (&amp;quot;have an opportunity to speak with&amp;quot;) sby"/>
+    </idiom>
+    <idiom id="1580" value="f&#xF6;ra n&#xE5;got p&#xE5; tal (&amp;quot;b&#xF6;rja prata om n&#xE5;got&amp;quot;)" date="2011-03-03">
+      <translation value="bring sth. up (&amp;quot;start talking about sth.&amp;quot;)"/>
+    </idiom>
+    <idiom id="1581" value="p&#xE5; tal om (&amp;quot;aprop&#xE5;&amp;quot;) n&#xE5;got" date="2011-03-03">
+      <translation value="speaking of (&amp;quot;by the way&amp;quot;) sth."/>
+    </idiom>
+    <definition id="17817" value="det att tala, f&#xF6;rm&#xE5;ga att tala" date="2011-03-03"/>
+  </word>
+  <word value="tal" lang="sv" class="nn" id="184300" lexinid="18431" origin="lexin" date="2011-03-03">
+    <translation id="18101" value="speech" date="2011-03-03"/>
+    <phonetic value="ta:l" soundFile="tal.swf" date="2011-03-03"/>
+    <paradigm id="16093" origin="lexin" date="2011-03-03">
+      <inflection value="talet"/>
+      <inflection value="tal"/>
+      <inflection value="talen"/>
+    </paradigm>
+    <see value="tal||tal..1||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..2||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..3||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10392" value="h&#xE5;lla tal" date="2011-03-03">
+      <translation value="hold a speech"/>
+    </example>
+    <compound id="6259" value="tacktal" date="2011-03-03">
+      <translation value="speech of gratitude; acceptance speech"/>
+    </compound>
+    <definition id="17818" value="muntligt framtr&#xE4;dande inf&#xF6;r publik" date="2011-03-03"/>
+  </word>
+  <word value="tal" lang="sv" class="nn" id="184310" lexinid="18432" origin="lexin" date="2011-03-03">
+    <translation id="18102" value="number" date="2011-03-03"/>
+    <phonetic value="ta:l" soundFile="tal.swf" date="2011-03-03"/>
+    <paradigm id="16094" origin="lexin" date="2011-03-03">
+      <inflection value="talet"/>
+      <inflection value="tal"/>
+      <inflection value="talen"/>
+    </paradigm>
+    <synonym value="prat" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym id="184310-18103" value="siffra" origin="user" date="2015-07-11T02:18:58"/>
+    <see value="tal||tal..1||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..2||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..3||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10393" value="udda och j&#xE4;mna tal" date="2011-03-03">
+      <translation value="odd and even numbers"/>
+    </example>
+    <compound id="6260" value="1900-tal" date="2011-03-03">
+      <translation value="1900s (20th century)"/>
+    </compound>
+    <derivation id="884" value="tusentals" date="2011-03-03">
+      <translation value="thousands"/>
+    </derivation>
+    <idiom id="1582" value="i runda tal (&amp;quot;cirka&amp;quot;)" date="2011-03-03">
+      <translation value="in round figures (&amp;quot;approximately&amp;quot;)"/>
+    </idiom>
+    <definition id="17819" value="matematiskt begrepp, antal" date="2011-03-03"/>
+  </word>
+  <word value="tal" lang="sv" class="nn" id="184320" lexinid="18433" origin="lexin" date="2011-03-03">
+    <translation id="18103" value="sum" date="2011-03-03"/>
+    <phonetic value="ta:l" soundFile="tal.swf" date="2011-03-03"/>
+    <paradigm id="16095" origin="lexin" date="2011-03-03">
+      <inflection value="talet"/>
+      <inflection value="tal"/>
+      <inflection value="talen"/>
+    </paradigm>
+    <see value="tal||tal..1||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..2||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tal||tal..3||tal..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10394" value="jag klarade bara ett tal p&#xE5; skrivningen" date="2011-03-03">
+      <translation value="in the exam, I could only do one sum"/>
+    </example>
+    <definition id="17820" value="r&#xE4;kneexempel, r&#xE4;kneuppgift" date="2011-03-03"/>
+  </word>
+  <word value="address" lang="en" class="nn" id="4881" origin="lexin" date="2009-02-24">
+    <translation id="4881-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="4881-2" value="anf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="apostrophe" lang="en" class="nn" id="16011" origin="lexin" date="2009-02-24">
+    <translation id="16011-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="16011-2" value="tilltal" origin="lexin" date="2009-02-24"/>
+    <translation id="16011-3" value="h&#xE4;nv&#xE4;ndelse" origin="lexin" date="2009-02-24"/>
+    <translation id="16011-4" value="apostrofering" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="discourse" lang="en" class="nn" id="134081" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="134081-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="134081-2" value="f&#xF6;redrag" origin="lexin" date="2009-02-24"/>
+    <translation id="134081-3" value="predikan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rate" lang="en" class="nn" id="346401" origin="lexin" date="2009-02-24">
+    <translation id="346401-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="346401-2" value="frekvens" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speech" lang="en" class="nn" id="392041" origin="lexin" date="2009-02-24">
+    <translation id="392041-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="392041-2" value="anf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="392041-3" value="yttrande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speech" lang="en" class="nn" id="392051" lexinid="396" origin="lexin" date="2009-02-24">
+    <translation id="392051-1" value="tal" origin="lexin" date="2009-02-24"/>
+    <translation id="392051-2" value="talande" origin="lexin" date="2009-02-24"/>
+    <translation id="392051-3" value="muntlig framst&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="392051-4" value="talf&#xF6;rm&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    <translation id="392051-5" value="talarkonst" origin="lexin" date="2009-02-24"/>
+    <example id="392051-6" value="make a speech" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE5;lla ett anf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="speeches" lang="en" id="509641" origin="user" date="2013-07-12T02:28:56">
+    <translation id="509641-1" value="tal" origin="user" date="2013-07-12T02:28:56"/>
+  </word>
+</definition>

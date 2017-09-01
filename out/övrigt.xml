@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="&#xF6;vrig" lang="sv" class="jj" id="220120" lexinid="22013" origin="lexin" date="2011-03-03">
+    <translation id="220120-21257" value="other" origin="user" date="2011-11-12T00:14:31"/>
+    <translation id="220120-21258" value="remaining" origin="user" date="2011-11-12T00:14:31"/>
+    <phonetic value="&#xB2;&#xD6;:vrig" soundFile="&#xF6;vrig.swf" date="2011-03-03"/>
+    <paradigm id="19148" origin="lexin" date="2011-03-03">
+      <inflection value="&#xF6;vrigt"/>
+      <inflection value="&#xF6;vriga"/>
+    </paradigm>
+    <synonym value="&#xE5;terst&#xE5;ende" level="5.0" origin="synlex" date="2011-03-03"/>
+    <example id="12519" value="&#xF6;vrig personal" date="2011-03-03">
+      <translation value="other members of the staff"/>
+    </example>
+    <example id="12520" value="Sverige och de &#xF6;vriga nordiska l&#xE4;nderna" date="2011-03-03">
+      <translation value="Sweden and the other Nordic countries"/>
+    </example>
+    <idiom id="1933" value="f&#xF6;r &#xF6;vrigt (&amp;quot;i andra avseenden&amp;quot;)" date="2011-03-03">
+      <translation value="besides (&amp;quot;in other respects&amp;quot;)"/>
+    </idiom>
+    <definition id="21256" value="som &#xE4;r kvar, &#xE5;terst&#xE5;ende" date="2011-03-03"/>
+  </word>
+  <word value="corrosive" lang="en" id="524001" origin="user" date="2013-12-12T01:53:33">
+    <translation id="524001-1" value="&#xF6;vrigt" origin="user" date="2013-12-12T01:53:33"/>
+    <translation id="524001-2" value="fr&#xE4;tande" origin="user" date="2013-12-12T01:53:35"/>
+  </word>
+</definition>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hittills" lang="sv" class="ab" id="69480" lexinid="6948" origin="lexin" date="2011-03-03">
+    <translation id="69480-6687" value="so far" origin="user" date="2012-03-24T03:38:56"/>
+    <translation id="69480-6688" value="hitherto" origin="user" date="2012-03-24T03:38:56"/>
+    <translation id="69480-6689" value="up to now" origin="user" date="2012-03-24T03:38:56"/>
+    <translation id="69480-6690" value="until now" origin="user" date="2012-03-24T03:38:56"/>
+    <phonetic value="hI:tils" soundFile="hittills.swf" date="2011-03-03"/>
+    <see value="hittills||hittills..1||hittills..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4080" value="hittills har vi inte lyckats avskaffa kriget" date="2011-03-03">
+      <translation value="so far, we have not succeeded in eradicating war"/>
+    </example>
+    <definition id="6686" value="fram till denna tidpunkt, tills nu" date="2011-03-03">
+      <translation value="until the present"/>
+    </definition>
+  </word>
+  <word value="hitherto" lang="en" class="ab" id="454861" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="454861-1" value="hittills" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

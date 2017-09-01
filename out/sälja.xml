@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="182620" lang="sv" lexinid="18263" origin="lexin" value="s&#xE4;lja">
+    <translation date="2011-03-03" id="17936" value="sell"/>
+    <phonetic date="2011-03-03" soundFile="s&#xE4;ljer.swf" value="sEl:jer"/>
+    <paradigm date="2011-03-03" id="15952" origin="lexin">
+      <inflection value="s&#xE5;lde"/>
+      <inflection value="s&#xE5;lt"/>
+      <inflection value="s&#xE4;lj"/>
+      <inflection value="s&#xE4;lja"/>
+      <inflection value="s&#xE4;ljer"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="avyttra"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="kr&#xE4;nga"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="saluf&#xF6;ra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="s&#xE4;lja||s&#xE4;lja..1||s&#xE4;lja..vb.1"/>
+    <example date="2011-03-03" id="10303" value="tavlorna &#xE4;r s&#xE5;lda">
+      <translation value="the pictures are sold"/>
+    </example>
+    <example date="2011-03-03" id="10304" value="s&#xE4;lja blommor">
+      <translation value="sell flowers"/>
+    </example>
+    <related origin="lexin" type="antonym" value="k&#xF6;per">
+      <translation date="2011-03-03" origin="lexin" value="buy"/>
+    </related>
+    <derivation date="2011-03-03" id="869" inflection="s&#xE4;ljaren" value="s&#xE4;ljare">
+      <translation value="seller, vendor"/>
+    </derivation>
+    <definition date="2011-03-03" id="17655" value="&#xF6;verl&#xE4;mna mot betalning"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (x) (till B)"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="182630" lang="sv" lexinid="18264" origin="lexin" value="s&#xE4;lja">
+    <translation date="2011-03-03" id="17937" value="sell"/>
+    <phonetic date="2011-03-03" soundFile="s&#xE4;ljer.swf" value="sEl:jer"/>
+    <paradigm date="2011-03-03" id="15953" origin="lexin">
+      <inflection value="s&#xE5;lde"/>
+      <inflection value="s&#xE5;lt"/>
+      <inflection value="s&#xE4;lj"/>
+      <inflection value="s&#xE4;lja"/>
+      <inflection value="s&#xE4;ljer"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="avyttra"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="kr&#xE4;nga"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="saluf&#xF6;ra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="s&#xE4;lja||s&#xE4;lja..1||s&#xE4;lja..vb.1"/>
+    <example date="2011-03-03" id="10305" value="boken s&#xE4;ljer bra">
+      <translation value="the book is selling well"/>
+    </example>
+    <definition date="2011-03-03" id="17656" value="bli k&#xF6;pt (av m&#xE5;nga)"/>
+  </word>
+  <word value="dispose of" lang="en" class="vb" id="136121" origin="lexin" date="2009-02-24">
+    <translation id="136121-1" value="avyttra" origin="lexin" date="2009-02-24"/>
+    <translation id="136121-2" value="g&#xF6;ra sig av med" origin="lexin" date="2009-02-24"/>
+    <translation id="136121-3" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <translation id="136121-4" value="f&#xF6;rs&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <translation id="136121-5" value="&#xF6;verl&#xE5;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="136121-6" value="finna avs&#xE4;ttning f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="136121-7" value="the property may not be disposed of yet" origin="lexin" date="2009-02-24">
+      <translation value="egendomen f&#xE5;r inte avyttras &#xE4;nnu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="knock down" lang="en" class="vb" id="246821" origin="lexin" date="2009-02-24">
+    <translation id="246821-1" value="s&#xE4;lja" comment="auktion" origin="lexin" date="2009-02-24"/>
+    <translation id="246821-2" value="klubba" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="negotiate" lang="en" class="vb" id="285051" origin="lexin" date="2009-02-24">
+    <translation id="285051-1" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <translation id="285051-2" value="&#xF6;verl&#xE5;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="285051-3" value="negociera" comment="handel" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375541" origin="lexin" date="2009-02-24">
+    <translation id="375541-1" value="s&#xE4;lja" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="375541-2" value="g&#xF6;ra tilltalande" origin="lexin" date="2009-02-24"/>
+    <translation id="375541-3" value="skapa intesse f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="375541-4" value="pracka p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375541-5" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375581" origin="lexin" date="2009-02-24">
+    <translation id="375581-1" value="s&#xE4;lja" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="375581-2" value="s&#xE4;lja in" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="375581-3" value="popularisera" origin="lexin" date="2009-02-24"/>
+    <translation id="375581-4" value="skapa intresse f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375581-5" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375601" origin="lexin" date="2009-02-24">
+    <translation id="375601-1" value="handla med" origin="lexin" date="2009-02-24"/>
+    <translation id="375601-2" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375601-3" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375611" origin="lexin" date="2009-02-24">
+    <translation id="375611-1" value="leda till f&#xF6;rs&#xE4;ljning av" origin="lexin" date="2009-02-24"/>
+    <translation id="375611-2" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375611-3" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375621" origin="lexin" date="2009-02-24">
+    <translation id="375621-1" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <translation id="375621-2" value="avyttra" origin="lexin" date="2009-02-24"/>
+    <translation id="375621-3" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="375621-4" value="ha" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375621-5" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375631" origin="lexin" date="2009-02-24">
+    <translation id="375631-1" value="s&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <translation id="375631-2" value="s&#xE4;ljas" origin="lexin" date="2009-02-24"/>
+    <translation id="375631-3" value="g&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375631-4" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sell" lang="en" class="vb" id="375641" origin="lexin" date="2009-02-24">
+    <translation id="375641-1" value="f&#xF6;rr&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="375641-2" value="s&#xE4;lja" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375641-3" origin="lexin" date="2009-02-24">
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+      <inflection value="sold" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

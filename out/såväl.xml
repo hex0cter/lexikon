@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="kn" date="2011-03-03" id="182280" lang="sv" lexinid="18229" origin="lexin" value="s&#xE5;v&#xE4;l">
+    <translation date="2011-03-03" id="17902" value="as well"/>
+    <phonetic date="2011-03-03" soundFile="s&#xE5;v&#xE4;l.swf" value="s&#xE5;:v&#xC4;:l"/>
+    <idiom date="2011-03-03" id="1559" value="s&#xE5;v&#xE4;l ... som (&amp;quot;b&#xE5;de ... och&amp;quot;)">
+      <translation value="...as well as... (&amp;quot;both ... and ...&amp;quot;)"/>
+    </idiom>
+  </word>
+</definition>

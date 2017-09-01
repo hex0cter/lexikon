@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="103450" lang="sv" lexinid="10345" origin="lexin" value="l&#xE5;ng">
+    <translation date="2011-03-03" id="10158" value="long"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;ng.swf" value="l&#xE5;@:"/>
+    <paradigm date="2011-03-03" id="9010" origin="lexin">
+      <inflection value="l&#xE5;ngt"/>
+      <inflection value="l&#xE5;nga"/>
+      <inflection value="l&#xE4;ngre"/>
+      <inflection value="l&#xE4;ngst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="reslig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE5;ng||l&#xE5;ng..1||l&#xE5;ng..av.1"/>
+    <example date="2011-03-03" id="5613" value="tv&#xE5; meter l&#xE5;ng">
+      <translation value="two metres long"/>
+    </example>
+    <compound date="2011-03-03" id="3668" value="l&#xE5;ng|film">
+      <translation value="long (feature) film (movie)"/>
+    </compound>
+    <compound date="2011-03-03" id="3669" value="l&#xE5;ng|h&#xE5;rig">
+      <translation value="long-haired"/>
+    </compound>
+    <compound date="2011-03-03" id="3670" value="l&#xE5;ng|livad">
+      <translation value="long-lived"/>
+    </compound>
+    <definition date="2011-03-03" id="9970" value="som har en viss l&#xE4;ngd"/>
+  </word>
+  <word value="l&#xE5;ng" lang="sv" class="jj" id="103460" lexinid="10346" origin="lexin" date="2011-03-03">
+    <translation id="103460-9972" value="long" origin="user" date="2012-02-08T23:49:35"/>
+    <translation id="103460-9973" value="tall" origin="user" date="2012-02-08T23:49:35"/>
+    <phonetic value="l&#xE5;@:" soundFile="l&#xE5;ng.swf" date="2011-03-03"/>
+    <paradigm id="9011" origin="lexin" date="2011-03-03">
+      <inflection value="l&#xE5;ngt"/>
+      <inflection value="l&#xE5;nga"/>
+      <inflection value="l&#xE4;ngre"/>
+      <inflection value="l&#xE4;ngst"/>
+    </paradigm>
+    <synonym value="reslig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="l&#xE5;ng||l&#xE5;ng..1||l&#xE5;ng..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5614" value="en l&#xE5;ng rad fr&#xE5;gor" date="2011-03-03">
+      <translation value="a long list of questions"/>
+    </example>
+    <example id="5615" value="p&#xE5; l&#xE5;ng sikt" date="2011-03-03">
+      <translation value="in the long term"/>
+    </example>
+    <example id="5616" value="en l&#xE5;ng pojke" date="2011-03-03">
+      <translation value="a tall boy"/>
+    </example>
+    <example id="5617" value="en l&#xE5;ng stund" date="2011-03-03">
+      <translation value="a long time (while)"/>
+    </example>
+    <definition id="9971" value="som har stor l&#xE4;ngd i tid och rum" date="2011-03-03"/>
+  </word>
+  <word class="ab" comment="i tid och rum" date="2011-03-03" id="103620" lang="sv" lexinid="10362" origin="lexin" value="l&#xE5;ngt">
+    <translation comment="temporal and adverb of place" date="2011-03-03" id="10175" value="far"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;ngt.swf" value="l&#xE5;@:t"/>
+    <paradigm date="2011-03-03" id="9027" origin="lexin">
+      <inflection value="l&#xE4;ngre"/>
+      <inflection value="l&#xE4;ngst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="fj&#xE4;rran"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="vidstr&#xE4;ckt"/>
+    <example date="2011-03-03" id="5621" value="l&#xE5;ngt framskridna planer">
+      <translation value="well- (far-) advanced plans"/>
+    </example>
+    <example date="2011-03-03" id="5622" value="sitta l&#xE5;ngt bak">
+      <translation value="sit far back"/>
+    </example>
+    <idiom date="2011-03-03" id="902" value="inte p&#xE5; l&#xE5;ngt n&#xE4;r (&amp;quot;l&#xE5;ngt ifr&#xE5;n&amp;quot;)">
+      <translation value="nowhere near (&amp;quot;far from&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="903" value="l&#xE5;ngt om l&#xE4;nge (&amp;quot;till slut&amp;quot;)">
+      <translation value="at long last (&amp;quot;finally&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="9988" value="p&#xE5; stort avst&#xE5;nd"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="103630" lang="sv" lexinid="10363" origin="lexin" value="l&#xE5;ngt">
+    <translation date="2011-03-03" id="10176" value="far"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;ngt.swf" value="l&#xE5;@:t"/>
+    <paradigm date="2011-03-03" id="9028" origin="lexin">
+      <inflection value="l&#xE4;ngre"/>
+      <inflection value="l&#xE4;ngst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="fj&#xE4;rran"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="vidstr&#xE4;ckt"/>
+    <example date="2011-03-03" id="5623" value="l&#xE5;ngt b&#xE4;ttre">
+      <translation value="far better"/>
+    </example>
+    <definition date="2011-03-03" id="9989" value="mycket"/>
+  </word>
+  <word value="deep" lang="en" class="ab" id="121841" origin="lexin" date="2009-02-24">
+    <translation id="121841-1" value="djupt" origin="lexin" date="2009-02-24"/>
+    <translation id="121841-2" value="l&#xE5;ngt" origin="lexin" date="2009-02-24"/>
+    <idiom id="121841-3" value="deep down" origin="lexin" date="2009-02-24">
+      <translation value="innerst inne, i grund och botten" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="far" lang="en" class="ab" id="170121" origin="lexin" date="2009-02-24">
+    <translation id="170121-1" value="l&#xE5;ngt" origin="lexin" date="2009-02-24"/>
+    <translation id="170121-2" value="l&#xE5;ngt borta" origin="lexin" date="2009-02-24"/>
+    <translation id="170121-3" value="fj&#xE4;rran" origin="lexin" date="2009-02-24"/>
+    <translation id="170121-4" value="vida" origin="lexin" date="2009-02-24"/>
+    <translation id="170121-5" value="mycket" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="antifascistisk" lang="sv" class="jj" id="235690" origin="user" date="2012-01-28T23:48:13">
+    <translation id="235690-1" value="anti-fascist" origin="user" date="2012-01-28T23:48:13"/>
+    <translation id="235690-1" value="l&#xE5;ngt" origin="user" date="2012-05-30T01:37:51"/>
+  </word>
+</definition>

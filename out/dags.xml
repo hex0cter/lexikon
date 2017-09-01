@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="dags" lang="sv" class="nn" id="29090" lexinid="2909" origin="lexin" date="2011-03-03">
+    <translation id="2872" value="time  " origin="user" date="2017-06-24T05:13:16"/>
+    <phonetic value="dak:s" soundFile="dags.swf" date="2011-03-03"/>
+    <example id="1669" value="hur dags?" date="2011-03-03">
+      <translation value="what time?"/>
+    </example>
+    <example id="1670" value="det &#xE4;r dags att g&#xE5; hem" date="2011-03-03">
+      <translation value="it&amp;#39;s time to go home"/>
+    </example>
+    <compound id="1026" value="matdags" date="2011-03-03">
+      <translation value="time to eat"/>
+    </compound>
+    <compound id="1027" value="l&#xE4;ggdags" date="2011-03-03">
+      <translation value="bedtime"/>
+    </compound>
+    <definition id="2817" value="tid (p&#xE5; dagen)" date="2011-03-03">
+      <translation value="time (of day)"/>
+    </definition>
+  </word>
+</definition>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="teater" lang="sv" class="nn" id="185650" lexinid="18566" origin="lexin" comment="&#xE4;ven om hus d&#xE4;r man uppf&#xF6;r sk&#xE5;despel" date="2011-03-03">
+    <translation id="185650-17956" value="theatre" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="185650-17957" value="(theater [US])" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="teA:ter" soundFile="teater.swf" date="2011-03-03"/>
+    <paradigm id="16221" origin="lexin" date="2011-03-03">
+      <inflection value="teatern"/>
+      <inflection value="teatrar"/>
+    </paradigm>
+    <synonym value="pj&#xE4;s" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="sk&#xE5;despel" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="teater||teater..1||teater..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10458" value="g&#xE5; p&#xE5; teatern" date="2011-03-03">
+      <translation value="go to the theatre"/>
+    </example>
+    <compound id="6288" value="teater|scen" date="2011-03-03">
+      <translation value="stage"/>
+    </compound>
+    <compound id="6289" value="stadsteater" date="2011-03-03">
+      <translation value="municipal theatre"/>
+    </compound>
+    <compound id="6290" value="teater|kikare" date="2011-03-03">
+      <translation value="opera glasses"/>
+    </compound>
+    <idiom id="1599" value="spela teater (&amp;quot;f&#xF6;rst&#xE4;lla sig&amp;quot;)" date="2011-03-03">
+      <translation value="put on an act (&amp;quot;dissemble, feign&amp;quot;)"/>
+    </idiom>
+    <definition id="17955" value="uppf&#xF6;rande av sk&#xE5;despel" date="2011-03-03"/>
+    <url value="16/stad1.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="playhouse" lang="en" class="nn" id="321831" origin="lexin" date="2009-02-24">
+    <variant value="Playhouse" comment="som del av namn" alt="often" origin="lexin" date="2009-02-24"/>
+    <translation id="321831-1" value="teater" origin="lexin" date="2009-02-24"/>
+    <translation id="321831-2" value="teaterbyggnad" origin="lexin" date="2009-02-24"/>
+    <paradigm id="321831-3" origin="lexin" date="2009-02-24">
+      <inflection value="playhouses" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="theatre" lang="en" class="nn" id="429271" origin="lexin" comment="brittisk engelska" date="2009-02-24">
+    <variant value="theater" comment="i amerikansk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="429271-1" value="teaterbyggnad" origin="lexin" date="2009-02-24"/>
+    <translation id="429271-2" value="teater" origin="lexin" date="2009-02-24"/>
+    <example id="429271-3" value="The play was performed at the Royal Theatre." origin="lexin" date="2009-02-24">
+      <translation value="Pj&#xE4;sen gavs p&#xE5; Kungliga teatern." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429271-4" value="Do you enjoy the theatre?" origin="lexin" date="2009-02-24">
+      <translation value="Tycker du om teater?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The performance of plays and the building where this happens." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="theater" lang="en" id="464731" origin="user" date="2012-01-18T00:49:36">
+    <translation id="464731-1" value="teater" origin="user" date="2012-01-18T00:49:36"/>
+  </word>
+</definition>

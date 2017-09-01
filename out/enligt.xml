@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pp" date="2011-03-03" id="39430" lang="sv" lexinid="3943" origin="lexin" value="enligt">
+    <translation date="2011-03-03" id="3885" value="according to"/>
+    <phonetic date="2011-03-03" soundFile="enligt.swf" value="&#xB2;E:nli(g)t"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="enligt||enligt..1||enligt..pp.1"/>
+    <example date="2011-03-03" id="2326" value="enligt alla ber&#xE4;kningar">
+      <translation value="according to all estimates"/>
+    </example>
+    <definition date="2011-03-03" id="3794" value="i &#xF6;verensst&#xE4;mmelse med, efter, p&#xE5; grund av"/>
+  </word>
+  <word value="&#xE0; la" lang="en" class="pp" id="11" origin="lexin" date="2009-02-24">
+    <translation id="11-1" value="&#xE0; la" origin="lexin" date="2009-02-24"/>
+    <translation id="11-2" value="p&#xE5; samma s&#xE4;tt som" origin="lexin" date="2009-02-24"/>
+    <translation id="11-3" value="likt" origin="lexin" date="2009-02-24"/>
+    <translation id="11-4" value="enligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="according to" lang="en" class="pp" id="3021" origin="lexin" date="2009-02-24">
+    <translation id="3021-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-2" value="i enlighet med" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-3" value="alltefter" origin="lexin" date="2009-02-24"/>
+    <translation id="3021-4" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="by" lang="en" class="pp" id="62541" origin="lexin" date="2009-02-24">
+    <translation id="62541-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <example id="62541-4" value="let&amp;#39;s do it by your standards for a change" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;t oss g&#xF6;ra det enligt dina principer f&#xF6;r omv&#xE4;xlings skull" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="62541-2" value="by law" origin="lexin" date="2009-02-24">
+      <translation value="enligt lag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="62541-3" value="by the book" origin="lexin" date="2009-02-24">
+      <translation value="enligt reglerna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="on" lang="en" class="pp" id="294221" origin="lexin" date="2009-02-24">
+    <translation id="294221-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="294221-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <example id="294221-3" value="on this principle" origin="lexin" date="2009-02-24">
+      <translation value="enligt den h&#xE4;r principen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="per" lang="en" class="pp" id="312171" origin="lexin" date="2009-02-24">
+    <translation id="312171-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="312171-2" value="i enlighet med" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <idiom id="312171-3" value="as per" origin="lexin" date="2009-02-24">
+      <translation value="enligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312171-4" value="as per usual" origin="lexin" date="2009-02-24">
+      <translation value="som vanligt (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="pursuant" lang="en" class="jj" id="341071" origin="lexin" date="2009-02-24">
+    <translation id="341071-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <idiom id="341071-2" value="pursuant to" origin="lexin" date="2009-02-24">
+      <translation value="i enlighet med" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="to" lang="en" class="pp" id="420781" origin="lexin" date="2009-02-24">
+    <translation id="420781-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="420781-2" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

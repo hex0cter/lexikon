@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="vardagligt" date="2011-03-03" id="129570" lang="sv" lexinid="12958" origin="lexin" value="peng">
+    <translation comment="informal" date="2011-03-03" id="12723" value="coin"/>
+    <phonetic date="2011-03-03" soundFile="peng.swf" value="pe@:"/>
+    <paradigm date="2011-03-03" id="11230" origin="lexin">
+      <inflection value="pengen"/>
+      <inflection value="pengar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="mynt"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="slant"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="peng||peng..1||peng..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="peng||pengar..1||peng..nn.1"/>
+    <definition date="2011-03-03" id="12484" value="mynt, slant"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="129580" lang="sv" lexinid="12959" origin="lexin" value="pengar">
+    <translation date="2011-03-03" id="12724" value="money"/>
+    <use date="2011-03-03" value="plural; massord"/>
+    <phonetic date="2011-03-03" soundFile="pengar.swf" value="pE@:ar"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="deg"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="kapital"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="kl&#xF6;ver"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="kosing"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="mynt"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="pluring"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="slantar"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="st&#xE5;lar"/>
+    <example date="2011-03-03" id="7234" value="ha pengar till mat">
+      <translation value="have (enough) money for food"/>
+    </example>
+    <example date="2011-03-03" id="7235" value="satsa pengar p&#xE5; ett projekt">
+      <translation value="invest money in a project"/>
+    </example>
+    <example date="2011-03-03" id="7236" value="stora pengar i omlopp">
+      <translation value="large sums of money in circulation"/>
+    </example>
+    <example date="2011-03-03" id="7237" value="tj&#xE4;na mycket pengar">
+      <translation value="earn a lot of money"/>
+    </example>
+    <compound date="2011-03-03" id="4500" value="guldpengar">
+      <translation value="gold coins"/>
+    </compound>
+    <compound date="2011-03-03" id="4501" value="drickspengar">
+      <translation value="gratuity, tip"/>
+    </compound>
+    <compound date="2011-03-03" id="4502" value="fickpengar">
+      <translation value="pocket money"/>
+    </compound>
+    <definition date="2011-03-03" id="12485" value="kontanter, betalningsmedel"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="15/pengar.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="tar_ut_pengar.swf"/>
+  </word>
+  <word value="buck" lang="en" class="nn" id="57981" origin="lexin" date="2009-02-24">
+    <translation id="57981-1" value="dollar" comment="amerikansk engelska; slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="57981-2" value="pengar" origin="lexin" date="2009-02-24"/>
+    <idiom id="57981-3" value="look a million bucks" origin="lexin" date="2009-02-24">
+      <translation value="vara j&#xE4;ttesnygg, vara l&#xE4;cker" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="57981-4" value="make a fast buck" origin="lexin" date="2009-02-24">
+      <translation value="tj&#xE4;na snabba st&#xE5;lar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="57981-5" value="pass the buck" origin="lexin" date="2009-02-24">
+      <translation value="skylla p&#xE5; n&#xE5;gon, v&#xE4;ltra &#xF6;ver ansvaret p&#xE5; n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="57981-6" value="the bucks stops here" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r mitt/v&#xE5;rt ansvar, jag/vi b&#xE4;r ansvaret" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="cash" lang="en" class="nn" id="68941" origin="lexin" date="2009-02-24">
+    <translation id="68941-1" value="kontanter" origin="lexin" date="2009-02-24"/>
+    <translation id="68941-2" value="pengar" origin="lexin" date="2009-02-24"/>
+    <translation id="68941-3" value="likvida medel" origin="lexin" date="2009-02-24"/>
+    <translation id="68941-4" value="mynt och sedlar" origin="lexin" date="2009-02-24"/>
+    <translation id="68941-5" value="cash" origin="lexin" date="2009-02-24"/>
+    <idiom id="68941-6" value="pay in cash" origin="lexin" date="2009-02-24">
+      <translation value="betala kontant (med reda pengar)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="68941-7" value="pay cash" origin="lexin" date="2009-02-24">
+      <translation value="betala kontant (med check eller reda pengar)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="circulation" lang="en" class="nn" id="79521" origin="lexin" date="2009-02-24">
+    <translation id="79521-1" value="betalningsmedel" origin="lexin" date="2009-02-24"/>
+    <translation id="79521-2" value="pengar" origin="lexin" date="2009-02-24"/>
+    <translation id="79521-3" value="pengar i omlopp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lucre" lang="en" class="nn" id="263101" origin="lexin" date="2009-02-24">
+    <translation id="263101-1" value="pengar" origin="lexin" date="2009-02-24"/>
+    <translation id="263101-2" value="vinst" comment="neds&#xE4;ttande eller humoristiskt" origin="lexin" date="2009-02-24"/>
+    <idiom id="263101-3" value="filthy lucre" origin="lexin" date="2009-02-24">
+      <translation value="den sn&#xF6;de mammon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="263101-4" value="for filthy lucre" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r sn&#xF6;d vinnings skull" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="money" lang="en" class="nn" id="277071" origin="lexin" date="2009-02-24">
+    <translation id="277071-1" value="pengar" origin="lexin" date="2009-02-24"/>
+    <translation id="277071-2" value="kontanter" origin="lexin" date="2009-02-24"/>
+    <translation id="277071-3" value="betalningsmedel" origin="lexin" date="2009-02-24"/>
+    <example id="277071-14" value="earn a lot of money" origin="lexin" date="2009-02-24">
+      <translation value="tj&#xE4;na mycket pengar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="277071-15" value="have (enough) money for food" origin="lexin" date="2009-02-24">
+      <translation value="ha pengar till mat" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="277071-16" value="invest money in a project" origin="lexin" date="2009-02-24">
+      <translation value="satsa pengar p&#xE5; ett projekt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="277071-17" value="large sums of money in circulation" origin="lexin" date="2009-02-24">
+      <translation value="stora pengar i omlopp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="277071-4" value="pay good money" origin="lexin" date="2009-02-24">
+      <translation value="betala ordentligt med pengar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-5" value="a (good) run for one&amp;#39;s money" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; valuta f&#xF6;r, ha gl&#xE4;dje av (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-6" value="a (good) run for one&amp;#39;s money" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; h&#xE5;rd konkurrens (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-7" value="be rolling in money" origin="lexin" date="2009-02-24">
+      <translation value="ha mycket gott om pengar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-8" value="have money to burn" origin="lexin" date="2009-02-24">
+      <translation value="ha pengar som gr&#xE4;s" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-9" value="money for jam/for old rope" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;ttf&#xF6;rtj&#xE4;nta pengar (informellt; s&#xE4;rskilt brittisk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-10" value="pay good money" origin="lexin" date="2009-02-24">
+      <translation value="betala ordentligt med pengar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-11" value="put one&amp;#39;s money where one&amp;#39;s mouth is" origin="lexin" date="2009-02-24">
+      <translation value="bevisa n&#xE5;gonting (informellt; ofta humoristiskt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-12" value="put (some) money into something" origin="lexin" date="2009-02-24">
+      <translation value="investera pengar i n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="277071-13" value="raise money for something" origin="lexin" date="2009-02-24">
+      <translation value="samla ihop p" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="endast i singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="purse" lang="en" class="nn" id="341021" origin="lexin" date="2009-02-24">
+    <translation id="341021-1" value="pengar" origin="lexin" date="2009-02-24"/>
+    <translation id="341021-2" value="kassa" origin="lexin" date="2009-02-24"/>
+    <example id="341021-3" value="that&amp;#39;s really beyond my purse" origin="lexin" date="2009-02-24">
+      <translation value="det har jag verkligen inte r&#xE5;d med" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="shekels" lang="en" class="nn" id="379211" origin="lexin" date="2009-02-24">
+    <translation id="379211-1" value="schaber" origin="lexin" date="2009-02-24"/>
+    <translation id="379211-2" value="pengar" comment="humoristiskt" origin="lexin" date="2009-02-24"/>
+    <grammar value="alltid i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stiff" lang="en" class="nn" id="398961" origin="lexin" date="2009-02-24">
+    <translation id="398961-1" value="pengar" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="398961-2" value="papperspengar" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="398961-3" value="falsk check" origin="lexin" date="2009-02-24"/>
+    <translation id="398961-4" value="v&#xE4;rdepapper" origin="lexin" date="2009-02-24"/>
+    <translation id="398961-5" value="hemligt meddelande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="securities" lang="en" id="505311" origin="user" date="2013-05-16T04:04:25">
+    <translation id="505311-1" value="s&#xE4;kerheter" origin="user" date="2013-05-16T04:04:25"/>
+    <translation id="505311-2" value="pengar" origin="user" date="2014-11-18T04:25:44"/>
+  </word>
+</definition>

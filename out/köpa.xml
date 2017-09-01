@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="k&#xF6;pa" lang="sv" class="vb" id="96980" lexinid="9698" origin="lexin" date="2011-03-03">
+    <translation id="96980-9346" value="purchase" origin="user" date="2012-02-28T01:34:18"/>
+    <translation id="96980-9347" value="buy" origin="user" date="2012-02-28T01:34:18"/>
+    <phonetic value="c&#xD6;:per" soundFile="k&#xF6;per.swf" date="2011-03-03"/>
+    <paradigm id="8431" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xF6;pte"/>
+      <inflection value="k&#xF6;pt"/>
+      <inflection value="k&#xF6;p"/>
+      <inflection value="k&#xF6;pa"/>
+      <inflection value="k&#xF6;per"/>
+    </paradigm>
+    <synonym value="anskaffa" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rv&#xE4;rva" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;ra aff&#xE4;r" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="handla" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="inf&#xF6;rskaffa" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="inhandla" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="konsumera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE4;gga pengar p&#xE5;" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="shoppa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tjacka" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="upphandla" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="k&#xF6;pa||k&#xF6;pa..1||k&#xF6;pa..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="koper_biljett.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="5328" value="k&#xF6;pa mat" date="2011-03-03">
+      <translation value="buy food"/>
+    </example>
+    <example id="5329" value="k&#xF6;pa hus" date="2011-03-03">
+      <translation value="buy a house"/>
+    </example>
+    <example id="5330" value="k&#xF6;pa p&#xE5; avbetalning" date="2011-03-03">
+      <translation value="buy on hire purchase"/>
+    </example>
+    <idiom id="814" value="k&#xF6;pa ut (&amp;quot;k&#xF6;pa n&#xE5;got p&#xE5; Systembolaget&amp;quot;)" date="2011-03-03">
+      <translation value="buy for sby else (&amp;quot;buy sth. at the government liquor store&amp;quot;)"/>
+    </idiom>
+    <definition id="9345" value="skaffa sig n&#xE5;got genom att betala f&#xF6;r det, handla" date="2011-03-03"/>
+    <grammar value="A &amp; (in/upp) x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="buy" lang="en" class="vb" id="62281" origin="lexin" date="2009-02-24">
+    <translation id="62281-1" value="tro p&#xE5;" comment="amerikansk engelska vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="62281-2" value="acceptera" origin="lexin" date="2009-02-24"/>
+    <translation id="62281-3" value="k&#xF6;pa" comment="i bildlig mening" origin="lexin" date="2009-02-24"/>
+    <paradigm id="62281-4" origin="lexin" date="2009-02-24">
+      <inflection value="bought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="62281-5" origin="lexin" date="2009-02-24">
+      <inflection value="bought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="buy" lang="en" class="vb" id="62301" origin="lexin" date="2009-02-24">
+    <translation id="62301-1" value="k&#xF6;pa" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="buy" lang="en" class="vb" id="62311" origin="lexin" date="2009-02-24">
+    <translation id="62311-1" value="k&#xF6;pa" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="62311-2" origin="lexin" date="2009-02-24">
+      <inflection value="bought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="62311-3" origin="lexin" date="2009-02-24">
+      <inflection value="bought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="invest in" lang="en" class="vb" id="238621" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="238621-1" value="k&#xF6;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="238621-2" value="investera i" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pick up" lang="en" class="vb" id="316111" origin="lexin" date="2009-02-24">
+    <translation id="316111-1" value="k&#xF6;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="316111-2" value="handla" origin="lexin" date="2009-02-24"/>
+    <translation id="316111-3" value="till&#xE4;gna sig" origin="lexin" date="2009-02-24"/>
+    <translation id="316111-4" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <example id="316111-6" value="remind me to pick up some bread today" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5;minn mig om att jag m&#xE5;ste handla br&#xF6;d i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="316111-5" value="pick up a habit" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;gga sig till med en vana" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="purchase" lang="en" class="vb" id="340471" origin="lexin" date="2009-02-24">
+    <translation id="340471-1" value="k&#xF6;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="340471-2" value="f&#xF6;rv&#xE4;rva" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

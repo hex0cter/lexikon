@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="trots" lang="sv" class="pp" id="192810" lexinid="19282" origin="lexin" date="2011-03-03">
+    <translation id="18935" value="despite" date="2011-03-03"/>
+    <translation id="192810-18649" value="in spite of" origin="user" date="2012-07-28T01:45:08"/>
+    <phonetic value="tr&#xE5;t:s" date="2011-03-03"/>
+    <synonym value="fast&#xE4;n" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ven fast" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="trots||trots..1||trots..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10804" value="jag &#xE4;r trots allt r&#xE4;tt n&#xF6;jd" date="2011-03-03">
+      <translation value="despite everything, I&amp;#39;m quite satisfied"/>
+    </example>
+    <example id="10805" value="hon kom trots att det regnade" date="2011-03-03">
+      <translation value="she came despite the rain"/>
+    </example>
+    <definition id="18648" value="utan h&#xE4;nsyn till" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="192820" lang="sv" lexinid="19283" origin="lexin" value="trots">
+    <translation date="2011-03-03" id="18936" value="defiance"/>
+    <phonetic date="2011-03-03" value="tr&#xE5;t:s"/>
+    <paradigm date="2011-03-03" id="16853" origin="lexin">
+      <inflection value="trotset"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="fast&#xE4;n"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="&#xE4;ven fast"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="trots||trots..2||trots..nn.1"/>
+    <compound date="2011-03-03" id="6463" value="trots|&#xE5;lder">
+      <translation value="obstinate age"/>
+    </compound>
+    <definition date="2011-03-03" id="18649" value="&#xF6;ppet motst&#xE5;nd, olydnad"/>
+  </word>
+  <word value="after" lang="en" class="pp" id="8071" origin="lexin" date="2009-02-24">
+    <translation id="8071-1" value="trots" origin="lexin" date="2009-02-24"/>
+    <example id="8071-3" value="after all my preparations, the meeting still didn&amp;#39;t go well" origin="lexin" date="2009-02-24">
+      <translation value="trots alla mina f&#xF6;rberedelser gick inte m&#xF6;tet bra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="8071-2" value="after all" origin="lexin" date="2009-02-24">
+      <translation value="trots allt, n&#xE4;r allt kommer omkring, i alla fall" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="defiance" lang="en" class="nn" id="122301" origin="lexin" date="2009-02-24">
+    <translation id="122301-1" value="utmaning" origin="lexin" date="2009-02-24"/>
+    <translation id="122301-2" value="trots" origin="lexin" date="2009-02-24"/>
+    <example id="122301-3" value="in defiance of" origin="lexin" date="2009-02-24">
+      <translation value="i trots av, trots" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="&#xF6;ppet motst&#xE5;nd, olydnad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="despite" lang="en" class="pp" id="127541" origin="lexin" date="2009-02-24">
+    <translation id="127541-1" value="trots" origin="lexin" date="2009-02-24"/>
+    <translation id="127541-2" value="oaktat" origin="lexin" date="2009-02-24"/>
+    <example id="127541-3" value="she came despite the rain" origin="lexin" date="2009-02-24">
+      <translation value="hon kom trots att det regnade" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="127541-4" value="despite everything, I&amp;#39;m quite satisfied" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r trots allt r&#xE4;tt n&#xF6;jd" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="utan h&#xE4;nsyn till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="for" lang="en" class="pp" id="181791" origin="lexin" date="2009-02-24">
+    <translation id="181791-1" value="trots" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="inspite" lang="en" class="nn" id="455531" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="455531-1" value="trots" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+  <word value="trots" lang="en" class="nn" id="426551" origin="lexin" date="2009-02-24">
+    <translation id="426551-1" value="se trot" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person singular presens indikativ av trot" origin="lexin" date="2009-02-24"/>
+    <grammar value="plural av trot" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="samarbete" lang="sv" class="nn" id="150420" lexinid="15043" origin="lexin" date="2011-03-03">
+    <translation id="150420-14570" value="cooperation" origin="user" date="2012-02-14T22:56:57"/>
+    <translation id="150420-14571" value="collaboration" origin="user" date="2012-02-14T22:56:57"/>
+    <phonetic value="&#xB2;sAm:arbe:te" soundFile="samarbete.swf" date="2011-03-03"/>
+    <paradigm id="13127" origin="lexin" date="2015-12-16T03:46:15">
+      <inflection value="samarbetet" origin="user" date="2015-12-16T03:46:15"/>
+      <inflection value="samarbeten" origin="user" date="2015-12-16T03:46:15"/>
+      <inflection value="samarbetena" origin="user" date="2015-12-16T03:46:15"/>
+    </paradigm>
+    <synonym value="kooperation" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="partnerskap" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="samverkan" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="teamwork" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="samarbete||samarbete..1||samarbete..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8528" value="etablera ett samarbete" date="2011-03-03">
+      <translation value="start cooperating"/>
+    </example>
+    <example id="8529" value="ett m&#xE5;ng&#xE5;rigt samarbete mellan staten och f&#xF6;retagen" date="2011-03-03">
+      <translation value="a cooperative scheme of many years&amp;#39; standing between government and business"/>
+    </example>
+    <compound id="5258" value="samarbets|vilja" date="2011-03-03">
+      <translation value="cooperativeness"/>
+    </compound>
+    <compound id="5259" value="samarbets|n&#xE4;mnd" date="2011-03-03">
+      <translation value="joint council"/>
+    </compound>
+    <definition id="14569" value="gemensamt arbete, samverkan" date="2011-03-03"/>
+  </word>
+  <word value="collaboration" lang="en" class="nn" id="87141" origin="lexin" date="2009-02-24">
+    <translation id="87141-1" value="samarbete" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="cooperation" lang="en" class="nn" id="102721" origin="lexin" date="2009-02-24">
+    <translation id="102721-1" value="kooperation" origin="lexin" date="2009-02-24"/>
+    <translation id="102721-2" value="samarbete" origin="lexin" date="2009-02-24"/>
+    <translation id="102721-3" value="ekonomisk samverkan" origin="lexin" date="2009-02-24"/>
+    <example id="102721-4" value="a lack of cooperation between police and fire services" origin="lexin" date="2009-02-24">
+      <translation value="en brist p&#xE5; samarbete mellan polis och brandk&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="co-operation" lang="en" class="nn" id="102731" origin="lexin" date="2009-02-24">
+    <variant value="interaction" origin="lexin" date="2009-02-24"/>
+    <translation id="102731-1" value="samarbete" origin="lexin" date="2009-02-24"/>
+    <translation id="102731-2" value="deltagande" origin="lexin" date="2009-02-24"/>
+    <explanation value="The process of taking part in activities, for example, at work or in school, with other people." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

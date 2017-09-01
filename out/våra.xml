@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="210960" lang="sv" lexinid="21097" origin="lexin" value="v&#xE5;r">
+    <translation date="2011-03-03" id="20721" value="our"/>
+    <use date="2011-03-03" value="possessiv form av &amp;quot;vi&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="v&#xE5;r.swf" value="v&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="18397" origin="lexin">
+      <inflection value="v&#xE5;rt"/>
+      <inflection value="v&#xE5;ra"/>
+    </paradigm>
+    <example date="2011-03-03" id="11888" value="v&#xE5;rt eget modersm&#xE5;l">
+      <translation value="our own mother tongue"/>
+    </example>
+    <definition date="2011-03-03" id="20374" value="som tillh&#xF6;r oss"/>
+  </word>
+</definition>

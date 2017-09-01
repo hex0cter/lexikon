@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="omr&#xE5;de" lang="sv" class="nn" id="124010" lexinid="12402" origin="lexin" comment="bildligt &#xE4;ven om n&#xE5;got abstrakt" date="2011-03-03">
+    <translation id="12180" value="area" comment="figuratively also of abstract things" date="2011-03-03"/>
+    <phonetic value="&#xB2;&#xC5;m:r&#xE5;:de" soundFile="omr&#xE5;de.swf" date="2011-03-03"/>
+    <paradigm id="10728" origin="lexin" date="2011-03-03">
+      <inflection value="omr&#xE5;det"/>
+      <inflection value="omr&#xE5;den"/>
+      <inflection value="omr&#xE5;dena"/>
+    </paradigm>
+    <synonym value="area" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dom&#xE4;n" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="gebit" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="plats" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="revir" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="sektion" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="territorium" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="yta" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="zon" level="4.8" origin="synlex" date="2011-03-03"/>
+    <see value="omr&#xE5;de||omr&#xE5;de..1||omr&#xE5;de..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="omr&#xE5;de||omr&#xE5;de..2||omr&#xE5;de..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6925" value="p&#xE5; (el. inom) det ekonomiska omr&#xE5;det" date="2011-03-03">
+      <translation value="in (or within) the economic sphere (area)"/>
+    </example>
+    <example id="6926" value="privat omr&#xE5;de" date="2011-03-03">
+      <translation value="private area"/>
+    </example>
+    <example id="6927" value="omr&#xE5;det runt M&#xE4;laren" date="2011-03-03">
+      <translation value="the area round Lake M&#xE4;laren"/>
+    </example>
+    <compound id="4304" value="regnomr&#xE5;de" date="2011-03-03">
+      <translation value="area (belt) of rain"/>
+    </compound>
+    <compound id="4305" value="spr&#xE5;komr&#xE5;de" date="2011-03-03">
+      <translation value="language area"/>
+    </compound>
+    <compound id="4306" value="&#xE4;mnesomr&#xE5;de" date="2011-03-03">
+      <translation value="subject area"/>
+    </compound>
+    <compound id="4307" value="fritidsomr&#xE5;de" date="2011-03-03">
+      <translation value="(outdoor) recreation area"/>
+    </compound>
+    <compound id="4308" value="bostadsomr&#xE5;de" date="2011-03-03">
+      <translation value="housing area (estate)"/>
+    </compound>
+    <definition id="11944" value="avgr&#xE4;nsad yta" date="2011-03-03"/>
+  </word>
+</definition>

@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="till" lang="sv" class="ab" id="187330" lexinid="18734" origin="lexin" date="2011-03-03">
+    <translation id="187330-18124" value="another" origin="user" date="2012-01-21T00:38:52"/>
+    <translation id="187330-18125" value="more" origin="user" date="2012-01-21T00:38:52"/>
+    <phonetic value="til:" soundFile="till.swf" date="2011-03-03"/>
+    <see value="till||finnas_till..1||till..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="till||till..2||till..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="till||till..3||till..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10524" value="ta en kaka till!" date="2011-03-03">
+      <translation value="have another biscuit!"/>
+    </example>
+    <definition id="18123" value="ytterligare" date="2011-03-03"/>
+  </word>
+  <word class="ab" comment="verbpartikel som anger intr&#xE4;dande handling" date="2011-03-03" id="187340" lang="sv" lexinid="18735" origin="lexin" value="till">
+    <phonetic date="2011-03-03" soundFile="till.swf" value="til:"/>
+    <synonym date="2011-03-03" id="12" value="used with verbs to indicate initiation of action"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="mot"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="&#xE5;t"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="till||finnas_till..1||till..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="till||till..2||till..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="till||till..3||till..ab.1"/>
+    <example date="2011-03-03" id="10525" value="skratta till">
+      <translation value="give a laugh"/>
+    </example>
+    <example date="2011-03-03" id="10526" value="sl&#xE5; till">
+      <translation value="give sth. a go"/>
+    </example>
+  </word>
+  <word value="till" lang="sv" class="pp" id="187350" lexinid="18736" origin="lexin" date="2011-03-03">
+    <translation id="187350-18125" value="into" origin="user" date="2012-01-24T00:40:51"/>
+    <translation id="187350-18126" value="until" origin="user" date="2012-01-24T00:40:51"/>
+    <translation id="187350-18127" value="to" origin="user" date="2012-01-24T00:40:51"/>
+    <phonetic value="til:" soundFile="till.swf" date="2011-03-03"/>
+    <synonym value="mot" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;t" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="till||till..1||till..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10527" value="&#xF6;vers&#xE4;tta till svenska" date="2011-03-03">
+      <translation value="translate into Swedish"/>
+    </example>
+    <example id="10528" value="till dess" date="2011-03-03">
+      <translation value="until then"/>
+    </example>
+    <example id="10529" value="resa till landet" date="2011-03-03">
+      <translation value="travel to the country"/>
+    </example>
+    <idiom id="1610" value="till och med (&amp;quot;&#xE4;ven, ocks&#xE5;&amp;quot;)" date="2011-03-03">
+      <translation value="up to and including (&amp;quot;even, also&amp;quot;)"/>
+    </idiom>
+    <definition id="18124" value="i riktning mot, fram till" date="2011-03-03"/>
+  </word>
+  <word value="till" lang="sv" class="pp" id="187360" lexinid="18737" origin="lexin" date="2011-03-03">
+    <translation id="187360-18126" value="of" origin="user" date="2012-02-18T01:14:56"/>
+    <translation id="187360-18127" value="for" origin="user" date="2012-02-18T01:14:56"/>
+    <translation id="187360-18128" value="as" origin="user" date="2012-02-18T01:14:56"/>
+    <phonetic value="til:" soundFile="till.swf" date="2011-03-03"/>
+    <synonym value="mot" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;t" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="till||till..1||till..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10530" value="till exempel" date="2011-03-03">
+      <translation value="for example"/>
+    </example>
+    <idiom id="1611" value="till godo (&amp;quot;till f&#xF6;rdel, att fordra&amp;quot;)" date="2011-03-03">
+      <translation value="of benefit (&amp;quot;advantageous, to claim&amp;quot;)"/>
+    </idiom>
+    <definition id="18125" value="som, f&#xF6;r" date="2011-03-03"/>
+  </word>
+  <word value="till" lang="sv" class="pp" id="187370" lexinid="18738" origin="lexin" date="2011-03-03">
+    <translation id="187370-18127" value="of" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="187370-18128" value="to" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="til:" soundFile="till.swf" date="2011-03-03"/>
+    <synonym value="mot" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;t" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="till||till..1||till..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10531" value="hon &#xE4;r mor till fyra barn" date="2011-03-03">
+      <translation value="she is the mother of four"/>
+    </example>
+    <definition id="18126" value="sammanh&#xE4;ngande med, &#xE5;t" date="2011-03-03"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23151" origin="lexin" date="2009-02-24">
+    <translation id="23151-1" value="p&#xE5;" comment="som uttrycker befintlighet, plats" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-2" value="vid" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-3" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-4" value="hos" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-5" value="genom" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-6" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23171" origin="lexin" date="2009-02-24">
+    <translation id="23171-1" value="i" comment="som uttrycker syssels&#xE4;ttning, s&#xE4;tt, tillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <translation id="23171-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="23171-3" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="23171-4" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23201" origin="lexin" date="2009-02-24">
+    <translation id="23201-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-2" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-3" value="till ett pris av" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-4" value="&#xE0;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="by" lang="en" class="pp" id="62531" origin="lexin" date="2009-02-24">
+    <translation id="62531-1" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="62531-2" value="till" comment="f&#xF6;r att beskriva s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="62531-4" value="he is a lawyer by training, but he works as a management consultant" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r utbildad jurist (till professionen), men han arbetar som managementkonsult" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="62531-5" value="she is kind by nature" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r v&#xE4;nlig till sin natur" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="62531-3" value="know somebody by sight" origin="lexin" date="2009-02-24">
+      <translation value="k&#xE4;nna n&#xE5;gon till utseendet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="for" lang="en" class="pp" id="181761" origin="lexin" date="2009-02-24">
+    <translation id="181761-1" value="s&#xE5;som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-3" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-4" value="till" origin="lexin" date="2009-02-24"/>
+    <example id="181761-5" value="for one thing" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r det f&#xF6;rsta" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181771" origin="lexin" date="2009-02-24">
+    <translation id="181771-1" value="till" origin="lexin" date="2009-02-24"/>
+    <example id="181771-2" value="the train for Boston" origin="lexin" date="2009-02-24">
+      <translation value="t&#xE5;get till Boston" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181781" origin="lexin" date="2009-02-24">
+    <translation id="181781-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-2" value="&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="181781-4" value="I&amp;#39;m doing this for you" origin="lexin" date="2009-02-24">
+      <translation value="jag g&#xF6;r det h&#xE4;r f&#xF6;r dig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="into" lang="en" class="pp" id="237921" origin="lexin" date="2009-02-24">
+    <translation id="237921-1" value="till" comment="som uttrycker f&#xF6;r&#xE4;ndring till n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    <example id="237921-2" value="I&amp;#39;ll translate it into Swedish" origin="lexin" date="2009-02-24">
+      <translation value="jag ska &#xF6;vers&#xE4;tta det till svenska" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="237921-3" value="she has turned into a lovely young lady" origin="lexin" date="2009-02-24">
+      <translation value="hon har blivit en f&#xF6;rtjusande ung dam" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="more" lang="en" class="pn" id="278041" origin="lexin" date="2009-02-24">
+    <translation id="278041-1" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292641" origin="lexin" date="2009-02-24">
+    <translation id="292641-1" value="av" comment="i uttryck med partitiv genitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="292641-2" value="bland" origin="lexin" date="2009-02-24"/>
+    <translation id="292641-3" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292651" origin="lexin" date="2009-02-24">
+    <translation id="292651-1" value="i" comment="i uttryck som betecknar f&#xF6;rbindelse, &#xE4;gande" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-3" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-4" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-5" value="vid" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-6" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-7" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-8" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-9" value="som tillh&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="on" lang="en" class="pp" id="294161" origin="lexin" date="2009-02-24">
+    <translation id="294161-1" value="till" comment="i rumsuttryck och friare" origin="lexin" date="2009-02-24"/>
+    <example id="294161-2" value="on land and sea" origin="lexin" date="2009-02-24">
+      <translation value="till lands och sj&#xF6;ss" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="294161-3" value="on foot" origin="lexin" date="2009-02-24">
+      <translation value="till fots" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="ab, jj" id="294291" origin="lexin" date="2009-02-24">
+    <translation id="294291-1" value="p&#xE5;" comment="p&#xE5;kopplad och dylikt p&#xE5; instrumenttavla och dylikt" origin="lexin" date="2009-02-24"/>
+    <translation id="294291-2" value="till" origin="lexin" date="2009-02-24"/>
+    <example id="294291-3" value="the light is on" origin="lexin" date="2009-02-24">
+      <translation value="ljuset &#xE4;r t&#xE4;nt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="294291-4" value="the radio is on" origin="lexin" date="2009-02-24">
+      <translation value="radion &#xE4;r p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="294291-5" value="be on" origin="lexin" date="2009-02-24">
+      <translation value="vara ig&#xE5;ng, spelas, uppf&#xF6;ras, ges" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="294291-6" value="I&amp;#39;m on!" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) jag &#xE4;r med (p&#xE5; det)!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="294291-7" value="it&amp;#39;s just not on!" origin="lexin" date="2009-02-24">
+      <translation value="det g&#xE5;r bara inte!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="predikativt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="till" lang="en" class="pp" id="419851" origin="lexin" date="2009-02-24">
+    <translation id="419851-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="419851-2" value="&#xE4;nda till" origin="lexin" date="2009-02-24"/>
+    <translation id="419851-3" value="tills" origin="lexin" date="2009-02-24"/>
+    <translation id="419851-4" value="&#xE4;nda tills" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="till" lang="en" class="kn" id="419861" origin="lexin" date="2009-02-24">
+    <translation id="419861-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="419861-2" value="&#xE4;nda till" origin="lexin" date="2009-02-24"/>
+    <translation id="419861-3" value="tills" origin="lexin" date="2009-02-24"/>
+    <translation id="419861-4" value="&#xE4;nda tills" origin="lexin" date="2009-02-24"/>
+    <translation id="419861-5" value="till dess att" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to" lang="en" class="ab" id="420831" origin="lexin" date="2009-02-24">
+    <translation id="420831-1" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="420831-2" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to" lang="en" class="pp" id="420891" origin="lexin" date="2009-02-24">
+    <translation id="420891-1" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to" lang="en" class="pp" id="420901" origin="lexin" date="2009-02-24">
+    <translation id="420901-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="420901-2" value="&#xE5;t" comment="uttrycker dativf&#xF6;rh&#xE5;llande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="toward" lang="en" class="pp" id="422861" origin="lexin" date="2009-02-24">
+    <translation id="422861-1" value="mot" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="422861-2" value="i riktning mot" origin="lexin" date="2009-02-24"/>
+    <translation id="422861-3" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="towards" lang="en" class="pp" id="422891" origin="lexin" date="2009-02-24">
+    <translation id="422891-1" value="mot" comment="i synnerhet brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="422891-2" value="i riktning mot" origin="lexin" date="2009-02-24"/>
+    <translation id="422891-3" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="until" lang="en" class="pp, kn" id="433571" origin="lexin" date="2009-02-24">
+    <translation id="433571-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="433571-2" value="till dess att" origin="lexin" date="2009-02-24"/>
+    <translation id="433571-3" value="&#xE4;nda tills" origin="lexin" date="2009-02-24"/>
+    <example id="433571-4" value="It is dark until six thirty." origin="lexin" date="2009-02-24">
+      <translation value="Det &#xE4;r m&#xF6;rkt till halv sju." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="433571-5" value="Wait inside until I call your name." origin="lexin" date="2009-02-24">
+      <translation value="Stanna inomhus &#xE4;nda tills jag ropar p&#xE5; dig." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="up to the time that, all the way to" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bruka" lang="sv" class="vb" id="23970" lexinid="2397" origin="lexin" date="2011-03-03">
+    <translation id="23970-2327" value="cultivate" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="23970-2328" value="till" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="23970-2329" value="farm" origin="user" date="2012-03-14T01:25:35"/>
+    <phonetic value="&#xB2;brU:kar" soundFile="brukar.swf" date="2011-03-03"/>
+    <paradigm id="2093" origin="lexin" date="2011-03-03">
+      <inflection value="brukade"/>
+      <inflection value="brukat"/>
+      <inflection value="bruka"/>
+      <inflection value="brukar"/>
+    </paradigm>
+    <synonym value="hantera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="nyttja" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="odla" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bruka||bruka..1||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..2||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..3||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1461" value="han brukade f&#xE4;derneg&#xE5;rden i m&#xE5;nga &#xE5;r" date="2011-03-03">
+      <translation value="he kept the family farm going for many years"/>
+    </example>
+    <definition id="2326" value="anv&#xE4;nda, odla" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="till" lang="en" class="nn" id="419871" origin="lexin" date="2009-02-24">
+    <translation id="419871-1" value="kassal&#xE5;da" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="419871-2" value="kassa" origin="lexin" date="2009-02-24"/>
+    <translation id="419871-3" value="kassaapparat" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="till" lang="en" class="vb" id="419881" origin="lexin" date="2009-02-24">
+    <translation id="419881-1" value="bruka" origin="lexin" date="2009-02-24"/>
+    <translation id="419881-2" value="odla" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

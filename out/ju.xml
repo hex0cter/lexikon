@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ju" lang="sv" class="ab" id="80520" lexinid="8052" origin="lexin" comment="betecknar n&#xE5;got som bekant el. sj&#xE4;lvklart" date="2011-03-03">
+    <translation id="80520-7739" value="of course" origin="user" date="2012-01-14T23:15:23"/>
+    <translation id="80520-7740" value="why" origin="user" date="2012-01-14T23:15:23"/>
+    <phonetic value="ju:" soundFile="ju.swf" date="2011-03-03"/>
+    <see value="ju||ju..1||ju..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ju||ju_dess..1||ju..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ju||ju_desto..1||ju..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ju||ju_ju..1||ju..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4751" value="det &#xE4;r ju i morgon vi ska &#xE5;ka" date="2011-03-03">
+      <translation value="why, we&amp;#39;re going tomorrow"/>
+    </example>
+    <example id="4752" value="det var ju roligt att h&#xF6;ra" date="2011-03-03">
+      <translation value="that was good news"/>
+    </example>
+    <definition id="7738" value="inte sant, eller hur, som du vet" date="2011-03-03"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="80530" lang="sv" lexinid="8053" origin="lexin" value="ju">
+    <translation date="2011-03-03" id="7905" value="the...the"/>
+    <use date="2011-03-03" value="f&#xF6;re komparativ"/>
+    <phonetic date="2011-03-03" soundFile="ju.swf" value="ju:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ju||ju..1||ju..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ju||ju_dess..1||ju..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ju||ju_desto..1||ju..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ju||ju_ju..1||ju..ab.1"/>
+    <example date="2011-03-03" id="4753" value="ju roligare jobb man har desto mer s&#xE4;llan sjukskriver man sig">
+      <translation value="the more fun your work is, the less often you report sick"/>
+    </example>
+    <example date="2011-03-03" id="4754" value="han blev alltmer h&#xF6;gr&#xF6;stad ju l&#xE4;ngre kv&#xE4;llen led">
+      <translation value="he became louder the longer the evening dragged on"/>
+    </example>
+    <definition date="2011-03-03" id="7739" value="i samma m&#xE5;n som"/>
+  </word>
+  <word value="always" lang="en" class="ab" id="11521" origin="lexin" date="2009-02-24">
+    <translation id="11521-1" value="alltid" origin="lexin" date="2009-02-24"/>
+    <translation id="11521-2" value="f&#xF6;rst&#xE5;s" origin="lexin" date="2009-02-24"/>
+    <translation id="11521-3" value="ju" comment="uttrycker en m&#xF6;jlig v&#xE4;g att g&#xE5; eller agera p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="11521-4" value="you can always go by train" origin="lexin" date="2009-02-24">
+      <translation value="du kan ju alltid ta t&#xE5;get" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ofta tillsammans med can eller could" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

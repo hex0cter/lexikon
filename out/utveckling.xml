@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="utveckling" lang="sv" class="nn" id="203840" lexinid="20385" origin="lexin" date="2011-03-03">
+    <translation id="20027" value="development" date="2011-03-03"/>
+    <translation id="203840-19713" value="trend" origin="user" date="2012-10-09T03:42:47"/>
+    <phonetic value="&#xB2;U:tvek:li@" soundFile="utveckling.swf" date="2011-03-03"/>
+    <paradigm id="17801" origin="lexin" date="2011-03-03">
+      <inflection value="utvecklingen"/>
+      <inflection value="utvecklingar"/>
+    </paradigm>
+    <synonym value="evolution" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="fortskridande" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="framsteg" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="framtagning" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="fram&#xE5;tskridande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="progress" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="progression" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="utveckling||utveckling..1||utveckling..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11434" value="den tekniska utvecklingen" date="2011-03-03">
+      <translation value="technical development (change, advance)"/>
+    </example>
+    <compound id="6680" value="utvecklings|arbete" date="2011-03-03">
+      <translation value="development work"/>
+    </compound>
+    <compound id="6681" value="personalutveckling" date="2011-03-03">
+      <translation value="human resource development"/>
+    </compound>
+    <compound id="6682" value="samh&#xE4;llsutveckling" date="2011-03-03">
+      <translation value="social change"/>
+    </compound>
+    <definition id="19712" value="det att utveckla(s), tillv&#xE4;xt" date="2011-03-03"/>
+  </word>
+  <word value="career" lang="en" class="nn" id="67361" origin="lexin" date="2009-02-24">
+    <translation id="67361-1" value="karri&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="67361-2" value="bana" origin="lexin" date="2009-02-24"/>
+    <translation id="67361-3" value="yrke" origin="lexin" date="2009-02-24"/>
+    <translation id="67361-4" value="utveckling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="development" lang="en" class="nn" id="128841" origin="lexin" date="2009-02-24">
+    <translation id="128841-1" value="utveckling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="evolution" lang="en" class="nn" id="162471" origin="lexin" date="2009-02-24">
+    <translation id="162471-1" value="evolution" origin="lexin" date="2009-02-24"/>
+    <translation id="162471-2" value="f&#xF6;r&#xE4;ndring" origin="lexin" date="2009-02-24"/>
+    <translation id="162471-3" value="l&#xE5;ngsam f&#xF6;r&#xE4;ndring" origin="lexin" date="2009-02-24"/>
+    <translation id="162471-4" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <translation id="162471-5" value="framv&#xE4;xande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="evolvement" lang="en" class="nn" id="162491" origin="lexin" date="2009-02-24">
+    <translation id="162491-1" value="utveckling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="expansion" lang="en" class="nn" id="164901" origin="lexin" date="2009-02-24">
+    <translation id="164901-1" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <translation id="164901-2" value="vidareutveckling" origin="lexin" date="2009-02-24"/>
+    <translation id="164901-3" value="behandling" origin="lexin" date="2009-02-24"/>
+    <translation id="164901-4" value="bearbetning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="growth" lang="en" class="nn" id="207091" origin="lexin" date="2009-02-24">
+    <translation id="207091-1" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <example id="207091-2" value="the growth of your company in the past year is impressive" origin="lexin" date="2009-02-24">
+      <translation value="det s&#xE4;tt p&#xE5; vilket ditt f&#xF6;retag har utvecklats under det g&#xE5;ngna &#xE5;ret &#xE4;r imponerande" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="march" lang="en" class="nn" id="267111" origin="lexin" date="2009-02-24">
+    <translation id="267111-1" value="fram&#xE5;tskridande" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="267111-2" value="g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="267111-3" value="fortg&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="267111-4" value="framsteg" origin="lexin" date="2009-02-24"/>
+    <translation id="267111-5" value="utveckling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="movement" lang="en" class="nn" id="279921" origin="lexin" date="2009-02-24">
+    <translation id="279921-1" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <translation id="279921-2" value="tendens" origin="lexin" date="2009-02-24"/>
+    <translation id="279921-3" value="riktning" origin="lexin" date="2009-02-24"/>
+    <example id="279921-4" value="there&amp;#39;s a growing movement towards more gender equality" origin="lexin" date="2009-02-24">
+      <translation value="utvecklingen g&#xE5;r i riktning mot st&#xF6;rre j&#xE4;mlikhet mellan k&#xF6;nen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="progress" lang="en" class="nn" id="335081" origin="lexin" date="2009-02-24">
+    <translation id="335081-1" value="framsteg" origin="lexin" date="2009-02-24"/>
+    <translation id="335081-2" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <example id="335081-3" value="Great progress was made in medical research." origin="lexin" date="2009-02-24">
+      <translation value="Stora framsteg gjordes inom den medicinska forskningen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The process of improvement or achievement." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tendency" lang="en" class="nn" id="415591" origin="lexin" date="2009-02-24">
+    <translation id="415591-1" value="tendens" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-2" value="ben&#xE4;genhet" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-3" value="anlag" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-4" value="b&#xF6;jelse" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-5" value="riktning" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-6" value="utveckling" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-7" value="str&#xE4;van" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-8" value="syfte" origin="lexin" date="2009-02-24"/>
+    <translation id="415591-9" value="tendens" origin="lexin" date="2009-02-24"/>
+    <example id="415591-10" value="tendency to put on weight" origin="lexin" date="2009-02-24">
+      <translation value="anlag f&#xF6;r fetma" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="self-improvement" lang="en" id="527721" origin="user" date="2014-01-27T05:25:33">
+    <translation id="527721-1" value="utveckling" origin="user" date="2014-01-27T05:25:33"/>
+    <translation id="527721-2" value="sj&#xE4;lvf&#xF6;rb&#xE4;ttrande" origin="user" date="2014-01-27T05:25:41"/>
+    <translation id="527721-3" value="sj&#xE4;lvf&#xF6;rb&#xE4;ttring" origin="user" date="2014-01-27T05:25:45"/>
+    <translation id="527721-4" value="slj&#xE4;vf&#xF6;rb&#xE4;ttrande" origin="user" date="2015-04-13T03:48:46"/>
+    <translation id="527721-5" value="tvivelaktig" origin="user" date="2015-10-25T02:18:47"/>
+    <translation id="527721-6" value="f&#xF6;rkovran" origin="user" date="2016-01-04T02:24:02"/>
+    <translation id="527721-7" value="sj&#xE4;lv-f&#xF6;rb&#xE4;ttring" origin="user" date="2017-02-02T00:31:08"/>
+  </word>
+</definition>

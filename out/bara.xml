@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="bar" lang="sv" class="jj" id="12410" lexinid="1241" origin="lexin" date="2011-03-03">
+    <translation id="12410-1206" value="naked" origin="user" date="2012-01-26T00:06:52"/>
+    <translation id="12410-1207" value="bare" origin="user" date="2012-01-26T00:06:52"/>
+    <phonetic value="ba:r" soundFile="bar.swf" date="2011-03-03"/>
+    <paradigm id="1046" origin="lexin" date="2011-03-03">
+      <inflection value="bart"/>
+      <inflection value="bara"/>
+    </paradigm>
+    <synonym value="bardisk" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="kal" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="naken" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="n&#xE4;ck" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="pub" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="skallig" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="bar||bar..1||bar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="783" value="sova under bar himmel" date="2011-03-03">
+      <translation value="sleep under the open sky"/>
+    </example>
+    <compound id="410" value="bar|bent" date="2011-03-03">
+      <translation value="bare-legged"/>
+    </compound>
+    <compound id="411" value="bar|mark" date="2011-03-03">
+      <translation value="bare ground (&amp;quot;ground not covered in snow&amp;quot;)"/>
+    </compound>
+    <idiom id="99" value="(gripen) p&#xE5; bar g&#xE4;rning (&amp;quot;just n&#xE4;r brottet begicks&amp;quot;)" date="2011-03-03">
+      <translation value="(caught) red-handed (&amp;quot;in the act&amp;quot;)"/>
+    </idiom>
+    <definition id="1205" value="&#xF6;ppen, naken" date="2011-03-03"/>
+  </word>
+  <word value="bara" lang="sv" class="ab" id="12430" lexinid="1243" origin="lexin" date="2011-03-03">
+    <translation id="12430-1208" value="merely" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="12430-1209" value="only" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="12430-1210" value="just" origin="user" date="2012-02-02T00:55:08"/>
+    <phonetic value="&#xB2;bA:ra" soundFile="bara.swf" date="2011-03-03"/>
+    <synonym value="blott" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="enbart" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="endast" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="enkom" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="nakna" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bara||bara..1||bara..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="784" value="det &#xE4;r bara att kliva p&#xE5;" date="2011-03-03">
+      <translation value="just walk in"/>
+    </example>
+    <example id="785" value="jag har bara en krona kvar" date="2011-03-03">
+      <translation value="I&amp;#39;ve only got one krona left"/>
+    </example>
+    <example id="786" value="av bara farten" date="2011-03-03">
+      <translation value="automatically, unintentionally"/>
+    </example>
+    <definition id="1207" value="endast" date="2011-03-03"/>
+  </word>
+  <word class="kn" date="2011-03-03" id="12440" lang="sv" lexinid="1244" origin="lexin" value="bara">
+    <translation date="2011-03-03" id="1228" value="if"/>
+    <phonetic date="2011-03-03" soundFile="bara.swf" value="&#xB2;bA:ra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="blott"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="enbart"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="endast"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="enkom"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="nakna"/>
+    <example date="2011-03-03" id="787" value="du kan g&#xE5; nu, bara du &#xE4;r tillbaka f&#xF6;re tolv">
+      <translation value="you can go now, provided you&amp;#39;re back by twelve"/>
+    </example>
+    <definition date="2011-03-03" id="1208" value="om"/>
+  </word>
+  <word value="all" lang="en" class="ab" id="10261" origin="lexin" date="2009-02-24">
+    <translation id="10261-1" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="10261-2" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="10261-3" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="10261-4" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="10261-5" value="idel" origin="lexin" date="2009-02-24"/>
+    <example id="10261-13" value="he sat all alone" origin="lexin" date="2009-02-24">
+      <translation value="han satt alldeles ensam" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="10261-6" value="all along" origin="lexin" date="2009-02-24">
+      <translation value="hela tiden (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-7" value="all at once" origin="lexin" date="2009-02-24">
+      <translation value="pl&#xF6;tsligt och ov&#xE4;ntat" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-8" value="all in favour of (something)" origin="lexin" date="2009-02-24">
+      <translation value="vara helt f&#xF6;r (n&#xE5;gonting)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-9" value="all over" origin="lexin" date="2009-02-24">
+      <translation value="&#xF6;ver hela" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-10" value="all the same" origin="lexin" date="2009-02-24">
+      <translation value="trots; &#xE4;nd&#xE5; (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-11" value="all the same to" origin="lexin" date="2009-02-24">
+      <translation value="det spelar ingen roll (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10261-12" value="not all that" origin="lexin" date="2009-02-24">
+      <translation value="inte s&#xE5;, inte s&#xE4;rskilt (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="alone" lang="en" class="ab" id="10991" origin="lexin" date="2009-02-24">
+    <translation id="10991-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-3" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-4" value="uteslutande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="but" lang="en" class="kn" id="61861" lexinid="36" origin="lexin" date="2009-02-24">
+    <translation id="61861-1" value="men" origin="lexin" date="2009-02-24"/>
+    <translation id="61861-2" value="utan" origin="lexin" date="2009-02-24"/>
+    <translation id="61861-3" value="utom" origin="lexin" date="2009-02-24"/>
+    <translation id="61861-4" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="61861-5" value="&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <explanation value="(unexpected) *drawback" origin="lexin" date="2009-02-24">
+      <translation value="(ov&#xE4;ntat) hinder" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="but" lang="en" class="ab" id="61871" lexinid="37" origin="lexin" date="2009-02-24">
+    <translation id="61871-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-4" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="entirely" lang="en" class="ab" id="158231" origin="lexin" date="2009-02-24">
+    <translation id="158231-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="158231-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <example id="158231-3" value="you&amp;#39;re to blame entirely" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r enbart ditt fel" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="if" lang="en" class="kn" id="226011" origin="lexin" date="2009-02-24">
+    <translation id="226011-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-2" value="ifall" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-3" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-4" value="s&#xE5;vida" origin="lexin" date="2009-02-24"/>
+    <idiom id="226011-5" value="if I were you" origin="lexin" date="2009-02-24">
+      <translation value="om jag vore som du, om jag vore i dina kl&#xE4;der" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-6" value="if anything" origin="lexin" date="2009-02-24">
+      <translation value="om m&#xF6;jlig, n&#xE4;rmast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-7" value="as if" origin="lexin" date="2009-02-24">
+      <translation value="som om, liksom om" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-8" value="even if" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;ven om, fast&#xE4;n, om (ock)s&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-9" value="if not" origin="lexin" date="2009-02-24">
+      <translation value="om inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-10" value="if not" origin="lexin" date="2009-02-24">
+      <translation value="annars, i annat fall" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-11" value="if only" origin="lexin" date="2009-02-24">
+      <translation value="om bara" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-12" value="if only because" origin="lexin" date="2009-02-24">
+      <translation value="om inte f&#xF6;r annat s&#xE5; f&#xF6;r att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-13" value="if only to" origin="lexin" date="2009-02-24">
+      <translation value="om inte annat s&#xE5; f&#xF6;r att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244141" origin="lexin" date="2009-02-24">
+    <translation id="244141-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="244141-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <idiom id="244141-3" value="just a minute/moment/second!" origin="lexin" date="2009-02-24">
+      <translation value="ett &#xF6;gonblick!/v&#xE4;nta lite!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="244141-4" value="just like that" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; d&#xE4;r utan vidare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mere" lang="en" class="jj" id="271521" origin="lexin" date="2009-02-24">
+    <translation id="271521-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-3" value="ren" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-4" value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="merely" lang="en" class="ab" id="271531" origin="lexin" date="2009-02-24">
+    <translation id="271531-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-4" value="r&#xE4;tt och sl&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-5" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <explanation value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="only" lang="en" class="ab" id="294721" origin="lexin" date="2009-02-24">
+    <translation id="294721-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="294721-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="294721-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <idiom id="294721-4" value="if only&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="om bara&#xE4;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="294721-5" value="only too" origin="lexin" date="2009-02-24">
+      <translation value="alltf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="294721-6" value="only too" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE4;ldigt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

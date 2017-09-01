@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="40860" lang="sv" lexinid="4086" origin="lexin" value="exempelvis">
+    <translation date="2011-03-03" id="4027" value="for example"/>
+    <phonetic date="2011-03-03" soundFile="exempelvis.swf" value="&#xB2;eksEm:pelvi:s"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="till exempel"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="exempelvis||exempelvis..1||exempelvis..ab.1"/>
+    <definition date="2011-03-03" id="3928" value="till exempel"/>
+  </word>
+</definition>

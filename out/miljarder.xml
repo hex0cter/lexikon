@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="miljard" lang="sv" class="nn" id="110310" lexinid="11031" origin="lexin" date="2011-03-03">
+    <translation id="110310-10635" value="(billion [US])" origin="user" date="2012-03-16T04:41:27"/>
+    <translation id="110310-10636" value="milliard" origin="user" date="2012-03-16T04:41:27"/>
+    <phonetic value="miljA:r+d" soundFile="miljard.swf" date="2011-03-03"/>
+    <paradigm id="9604" origin="lexin" date="2011-03-03">
+      <inflection value="miljarden"/>
+      <inflection value="miljarder"/>
+    </paradigm>
+    <synonym value="giga" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="miljard||miljard..1||miljard..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="10634" value="tusen miljoner" date="2011-03-03"/>
+  </word>
+  <word value="miljarder" lang="sv" class="nn" id="225800" origin="user" date="2011-12-07T22:20:23">
+    <translation id="225800-1" value="billion" origin="user" date="2011-12-07T22:20:23"/>
+    <translation id="225800-1" value="billions" origin="user" date="2012-09-20T01:56:07"/>
+    <translation id="225800-1" value="milliard,billion" origin="user" date="2014-02-18T01:00:05"/>
+  </word>
+</definition>

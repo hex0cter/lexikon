@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="&#xE4;ven &amp;quot;n&#xE5;got man g&#xE4;rna sysslar med&amp;quot;; i plural ofta &amp;quot;engagemang&amp;quot;, n&#xE5;got som man kan ha f&#xF6;rdel av" date="2011-03-03" id="78750" lang="sv" lexinid="7875" origin="lexin" value="intresse">
+    <translation comment="also, &amp;quot;sth. one enjoys doing&amp;quot;; in the plural, often &amp;quot;commitment,&amp;quot; sth. of benefit to oneself" date="2011-03-03" id="7730" value="interest"/>
+    <phonetic date="2011-03-03" soundFile="intresse.swf" value="&#xB2;intrEs:e"/>
+    <paradigm date="2011-03-03" id="6795" origin="lexin">
+      <inflection value="intresset"/>
+      <inflection value="intressen"/>
+      <inflection value="intressena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="engagemang"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="entusiasm"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="hobby"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="h&#xE5;g"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="intresse||intresse..1||intresse..nn.1"/>
+    <example date="2011-03-03" id="4656" value="tillvarata de anst&#xE4;lldas intressen">
+      <translation value="look after the interests of the employees"/>
+    </example>
+    <example date="2011-03-03" id="4657" value="ett brinnande intresse f&#xF6;r studier">
+      <translation value="a burning interest in studying"/>
+    </example>
+    <example date="2011-03-03" id="4658" value="byggnaden &#xE4;r av stort intresse">
+      <translation value="the building is of great interest"/>
+    </example>
+    <compound date="2011-03-03" id="2880" inflection="intresse|organisationen" value="intresse|organisation">
+      <translation value="special interest organisation"/>
+    </compound>
+    <compound date="2011-03-03" id="2881" value="fritidsintresse">
+      <translation value="recreational pursuits"/>
+    </compound>
+    <compound date="2011-03-03" id="2882" value="musikintresse">
+      <translation value="interest in music"/>
+    </compound>
+    <compound date="2011-03-03" id="2883" value="samh&#xE4;llsintresse">
+      <translation value="public interest"/>
+    </compound>
+    <definition date="2011-03-03" id="7567" value="lust att &#xE4;gna n&#xE5;got sin uppm&#xE4;rksamhet"/>
+  </word>
+  <word value="concern" lang="en" class="nn" id="94541" lexinid="404" origin="lexin" date="2009-02-24">
+    <translation id="94541-1" value="angel&#xE4;genhet" origin="lexin" date="2009-02-24"/>
+    <translation id="94541-2" value="aff&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="94541-3" value="&#xE4;rende" origin="lexin" date="2009-02-24"/>
+    <translation id="94541-4" value="sak" origin="lexin" date="2009-02-24"/>
+    <translation id="94541-5" value="intresse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="interest" lang="en" class="nn" id="236641" origin="lexin" date="2009-02-24">
+    <translation id="236641-1" value="b&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    <translation id="236641-2" value="egen f&#xF6;rdel" origin="lexin" date="2009-02-24"/>
+    <translation id="236641-3" value="intresse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="interest" lang="en" class="nn" id="236651" origin="lexin" date="2009-02-24">
+    <translation id="236651-1" value="engagemang" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-2" value="intresse" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-3" value="andel" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-4" value="instats" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-5" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-6" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="interest" lang="en" class="nn" id="236671" origin="lexin" date="2009-02-24">
+    <translation id="236671-1" value="intresse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="involvement" lang="en" class="nn" id="239001" origin="lexin" date="2009-02-24">
+    <translation id="239001-1" value="engagemang" origin="lexin" date="2009-02-24"/>
+    <translation id="239001-2" value="inlevelse" origin="lexin" date="2009-02-24"/>
+    <translation id="239001-3" value="intresse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="savor" lang="en" class="nn" id="370241" origin="lexin" date="2009-02-24">
+    <translation id="370241-1" value="intresse" comment="amerikansk engelska, i brittisk engelska savour" origin="lexin" date="2009-02-24"/>
+    <translation id="370241-2" value="f&#xF6;rm&#xE5;ga att intressera" comment="ganska formellt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="savour" lang="en" class="nn" id="370281" origin="lexin" date="2009-02-24">
+    <translation id="370281-1" value="intresse" comment="brittisk engelska, i amerikansk engelska savor" origin="lexin" date="2009-02-24"/>
+    <translation id="370281-2" value="f&#xF6;rm&#xE5;ga att intressera" comment="ganska formellt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="lik" lang="sv" class="jj" id="99870" lexinid="9987" origin="lexin" date="2011-03-03">
+    <translation id="9811" value="like, alike" date="2011-03-03"/>
+    <phonetic value="li:k" soundFile="lik.swf" date="2011-03-03"/>
+    <paradigm id="8693" origin="lexin" date="2011-03-03">
+      <inflection value="likt"/>
+      <inflection value="lika"/>
+    </paradigm>
+    <synonym value="likt" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="lik||lik..1||lik..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5440" value="hemma &#xE4;r allt sig likt" date="2011-03-03">
+      <translation value="home is the same as ever"/>
+    </example>
+    <example id="5441" value="du &#xE4;r lik din far" date="2011-03-03">
+      <translation value="you look like your father"/>
+    </example>
+    <idiom id="852" value="likt (&amp;quot;som&amp;quot;)" date="2011-03-03">
+      <translation value="like (&amp;quot;as&amp;quot;)"/>
+    </idiom>
+    <definition id="9621" value="som har samma utseende som el. p&#xE5;minner om n&#xE5;got" date="2011-03-03"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="99890" lang="sv" lexinid="9989" origin="lexin" value="lika">
+    <translation date="2011-03-03" id="9813" value="equal"/>
+    <phonetic date="2011-03-03" soundFile="lika.swf" value="&#xB2;lI:ka"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="detsamma"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="identisk"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="identiska"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="j&#xE4;mb&#xF6;rdig"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="j&#xE4;mst&#xE4;lld"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="likadan"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="likadant"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="of&#xF6;r&#xE4;ndrad"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="samma"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="synonym"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="lika||lika..1||lika..ab.1"/>
+    <example date="2011-03-03" id="5442" value="lika l&#xF6;n f&#xF6;r lika arbete">
+      <translation value="equal pay for equal work"/>
+    </example>
+    <example date="2011-03-03" id="5443" value="hans chanser &#xE4;r lika med noll">
+      <translation value="his chances are practically zero"/>
+    </example>
+    <example date="2011-03-03" id="5444" value="du kan lika g&#xE4;rna g&#xE5;">
+      <translation value="you may as well go"/>
+    </example>
+    <example date="2011-03-03" id="5445" value="han &#xE4;r lika gammal som jag">
+      <translation value="he is just as old as I am"/>
+    </example>
+    <compound date="2011-03-03" id="3558" value="lika|sinnad">
+      <translation value="like-minded"/>
+    </compound>
+    <definition date="2011-03-03" id="9623" value="av samma grad el. m&#xE5;tt el. storlek etc"/>
+  </word>
+  <word value="equal" lang="en" class="jj" id="159331" origin="lexin" date="2009-02-24">
+    <translation id="159331-1" value="lika" origin="lexin" date="2009-02-24"/>
+    <example id="159331-3" value="equal pay for equal work" origin="lexin" date="2009-02-24">
+      <translation value="lika l&#xF6;n f&#xF6;r lika arbete" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="159331-2" value="on equal terms" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; lika villkor" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="equally" lang="en" class="ab" id="159451" origin="lexin" date="2009-02-24">
+    <translation id="159451-1" value="lika" origin="lexin" date="2009-02-24"/>
+    <example id="159451-2" value="we were equally brave" origin="lexin" date="2009-02-24">
+      <translation value="vi var lika modiga" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="silver-grey" lang="en" id="500641" origin="user" date="2013-03-25T04:56:02">
+    <translation id="500641-1" value="Silvergr&#xE5;" origin="user" date="2013-03-25T04:56:04"/>
+    <translation id="500641-1" value="rauting" origin="user" date="2013-06-13T05:15:59"/>
+    <translation id="500641-2" value="lika " origin="user" date="2014-08-15T03:28:01"/>
+    <translation id="500641-3" value="lantligt" origin="user" date="2016-09-05T04:58:01"/>
+  </word>
+  <word value="species" lang="en" class="nn" id="391701" lexinid="739" origin="lexin" date="2009-02-24">
+    <translation id="391701-1" value="art" comment="biologi" origin="lexin" date="2009-02-24"/>
+    <paradigm id="391701-2" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <explanation value="sort, slag, typ" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416521" origin="lexin" date="2009-02-24">
+    <translation id="416521-1" value="som...i" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="416521-2" value="som...med" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416521-3" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416551" origin="lexin" date="2009-02-24">
+    <translation id="416551-1" value="d&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416551-2" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416601" origin="lexin" date="2009-02-24">
+    <translation id="416601-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-2" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-3" value="vilket" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-4" value="vilka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416601-5" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416631" origin="lexin" date="2009-02-24">
+    <translation id="416631-1" value="s&#xE5;vitt" origin="lexin" date="2009-02-24"/>
+    <translation id="416631-2" value="vad" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416631-3" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

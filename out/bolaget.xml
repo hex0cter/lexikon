@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="21610" lang="sv" lexinid="2161" origin="lexin" value="bolag">
+    <translation date="2011-03-03" id="2134" value="company, (corporation [US])"/>
+    <phonetic date="2011-03-03" soundFile="bolag.swf" value="&#xB2;bO:la:g"/>
+    <paradigm date="2011-03-03" id="1885" origin="lexin">
+      <inflection value="bolaget"/>
+      <inflection value="bolag"/>
+      <inflection value="bolagen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="f&#xF6;retag"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="bolag||bolag..1||bolag..nn.1"/>
+    <example date="2011-03-03" id="1337" value="privata bolag">
+      <translation value="private companies"/>
+    </example>
+    <compound date="2011-03-03" id="685" inflection="bolags|st&#xE4;mman" value="bolags|st&#xE4;mma">
+      <translation value="shareholders&amp;#39; meeting"/>
+    </compound>
+    <compound date="2011-03-03" id="686" inflection="bolags|styrelsen" value="bolags|styrelse">
+      <translation value="board of directors"/>
+    </compound>
+    <compound date="2011-03-03" id="687" value="aktiebolag">
+      <translation value="limited company, joint-stock (corporation [US])"/>
+    </compound>
+    <definition date="2011-03-03" id="2092" value="ekonomisk sammanslutning; f&#xF6;retag">
+      <translation value="association for carrying on a business; enterprise"/>
+    </definition>
+  </word>
+</definition>

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="208950" lang="sv" lexinid="20896" origin="lexin" value="vinna">
+    <translation date="2011-03-03" id="20527" value="win"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18218" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11770" value="vi vann &#xF6;ver norrm&#xE4;nnen">
+      <translation value="we beat the Norwegians"/>
+    </example>
+    <example date="2011-03-03" id="11771" value="vinna en match">
+      <translation value="win a match"/>
+    </example>
+    <example date="2011-03-03" id="11772" value="vinna ett val">
+      <translation value="win an election"/>
+    </example>
+    <definition date="2011-03-03" id="20184" value="bli b&#xE4;st (i en t&#xE4;vling etc), segra"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="vinner.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; ((i) x); A &amp; &#xF6;ver B"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="208960" lang="sv" lexinid="20897" origin="lexin" value="vinna">
+    <translation date="2011-03-03" id="20528" value="win"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18219" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11773" value="vad skulle Sverige vinna p&#xE5; att g&#xE5; med i EG?">
+      <translation value="what would Sweden gain by joining the EU?"/>
+    </example>
+    <example date="2011-03-03" id="11774" value="vinna 100 000 p&#xE5; lotteri">
+      <translation value="win a 100 000 kronor prize in the lottery"/>
+    </example>
+    <definition date="2011-03-03" id="20185" value="f&#xE5; (som) vinst; f&#xE5; f&#xF6;rdel, tj&#xE4;na"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x; A &amp; p&#xE5; att+SATS/att+INF"/>
+  </word>
+  <word class="vb" comment="mest i fraser" date="2011-03-03" id="208970" lang="sv" lexinid="20898" origin="lexin" value="vinna">
+    <translation comment="most in phrases" date="2011-03-03" id="20529" value="gain"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18220" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11775" value="vinna tid">
+      <translation value="gain time"/>
+    </example>
+    <example date="2011-03-03" id="11776" value="vinna geh&#xF6;r">
+      <translation value="gain a hearing"/>
+    </example>
+    <definition date="2011-03-03" id="20186" value="skaffa sig"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word value="achieve" lang="en" class="vb" id="3591" origin="lexin" date="2009-02-24">
+    <translation id="3591-1" value="uppn&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-2" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-3" value="f&#xF6;rv&#xE4;rva" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-4" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-5" value="ern&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="carry" lang="en" class="vb" id="68061" origin="lexin" date="2009-02-24">
+    <translation id="68061-1" value="er&#xF6;vra" origin="lexin" date="2009-02-24"/>
+    <translation id="68061-2" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="68061-3" value="hemf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="68061-4" value="intaga" origin="lexin" date="2009-02-24"/>
+    <translation id="68061-5" value="segra i" origin="lexin" date="2009-02-24"/>
+    <translation id="68061-6" value="vinna" comment="val" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conquer" lang="en" class="vb" id="97531" origin="lexin" date="2009-02-24">
+    <translation id="97531-1" value="er&#xF6;vra" origin="lexin" date="2009-02-24"/>
+    <translation id="97531-2" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="97531-3" value="tillk&#xE4;mpa sig" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144151" origin="lexin" date="2009-02-24">
+    <translation id="144151-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-2" value="dra lott" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-3" value="utse genom lottdragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-4" value="f&#xF6;rr&#xE4;tta dragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-5" value="v&#xE4;lja ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-6" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-7" value="r&#xE5;ka f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-8" value="vinna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144151-9" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144151-10" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="earn" lang="en" class="vb" id="149441" origin="lexin" date="2009-02-24">
+    <translation id="149441-1" value="f&#xF6;rtj&#xE4;na" origin="lexin" date="2009-02-24"/>
+    <translation id="149441-2" value="tj&#xE4;na" origin="lexin" date="2009-02-24"/>
+    <translation id="149441-3" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="149441-4" value="sk&#xF6;rda" origin="lexin" date="2009-02-24"/>
+    <translation id="149441-5" value="f&#xF6;rv&#xE4;rva" origin="lexin" date="2009-02-24"/>
+    <example id="149441-6" value="she earns 37 kronor an hour" origin="lexin" date="2009-02-24">
+      <translation value="hon tj&#xE4;nar 37 kronor i timmen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fetch" lang="en" class="vb" id="173271" origin="lexin" date="2009-02-24">
+    <translation id="173271-1" value="imponera p&#xE5;" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-2" value="g&#xF6;ra intryck p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-3" value="g&#xF6;ra h&#xE4;pen" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-4" value="f&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-5" value="attrahera" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-6" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="173271-7" value="knipa" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gain" lang="en" class="vb" id="189671" origin="lexin" date="2009-02-24">
+    <translation id="189671-1" value="vinna" comment="ganska formellt" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gain" lang="en" class="vb" id="189681" origin="lexin" date="2009-02-24">
+    <translation id="189681-1" value="vinna" comment="ganska formellt" origin="lexin" date="2009-02-24"/>
+    <idiom id="189681-2" value="gain entry" origin="lexin" date="2009-02-24">
+      <translation value="ta sig in" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="189681-3" value="gain ground" origin="lexin" date="2009-02-24">
+      <translation value="vinna terr&#xE4;ng, rycka fram" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gather" lang="en" class="vb" id="191861" origin="lexin" date="2009-02-24">
+    <translation id="191861-1" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="191861-2" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="191861-3" value="skaffa sig" origin="lexin" date="2009-02-24"/>
+    <example id="191861-4" value="gather information" origin="lexin" date="2009-02-24">
+      <translation value="skaffa sig information" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="notch" lang="en" class="vb" id="288791" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="288791-1" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="288791-2" value="vinna en seger" origin="lexin" date="2009-02-24"/>
+    <example id="288791-3" value="she notched up yet another victory" origin="lexin" date="2009-02-24">
+      <translation value="hon vann ytterligare en seger" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+    <grammar value="vanligen tillsammans med prepositionen up" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="obtain" lang="en" class="vb" id="291671" lexinid="511" origin="lexin" date="2009-02-24">
+    <translation id="291671-1" value="skaffa sig" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-2" value="anskaffa" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-3" value="lyckas f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-4" value="f&#xE5; tag i" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-5" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-6" value="f&#xF6;rskaffa" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-7" value="uppn&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-8" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="291671-9" value="utverka" origin="lexin" date="2009-02-24"/>
+    <explanation value="s&#xF6;ka f&#xE5; tag i, skaffa (fram)" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sack" lang="en" class="vb" id="368671" origin="lexin" date="2009-02-24">
+    <translation id="368671-1" value="h&#xE5;va in" origin="lexin" date="2009-02-24"/>
+    <translation id="368671-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="368671-3" value="vinna" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="score" lang="en" class="vb" id="372251" origin="lexin" date="2009-02-24">
+    <translation id="372251-1" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="372251-2" value="f&#xE5; po&#xE4;ng" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="score" lang="en" class="vb" id="372261" origin="lexin" date="2009-02-24">
+    <translation id="372261-1" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="372261-2" value="g&#xF6;ra po&#xE4;ng" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="win" lang="en" class="vb" id="444701" origin="lexin" date="2009-02-24">
+    <translation id="444701-1" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="444701-2" value="segra" origin="lexin" date="2009-02-24"/>
+    <paradigm id="444701-3" origin="lexin" date="2009-02-24">
+      <inflection value="won" origin="lexin" date="2009-02-24"/>
+      <inflection value="won" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="win" lang="en" class="vb" id="444711" origin="lexin" date="2009-02-24">
+    <translation id="444711-1" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="444711-2" value="vinna i" origin="lexin" date="2009-02-24"/>
+    <translation id="444711-3" value="f&#xE5; tag i" origin="lexin" date="2009-02-24"/>
+    <translation id="444711-4" value="skaffa sig" origin="lexin" date="2009-02-24"/>
+    <translation id="444711-5" value="f&#xF6;rv&#xE4;rva" origin="lexin" date="2009-02-24"/>
+    <translation id="444711-6" value="er&#xF6;vra" origin="lexin" date="2009-02-24"/>
+    <paradigm id="444711-8" origin="lexin" date="2009-02-24">
+      <inflection value="won" origin="lexin" date="2009-02-24"/>
+      <inflection value="won" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="444711-7" value="win applause" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; en appl&#xE5;d" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to win" lang="en" id="485011" origin="user" date="2012-11-08T03:02:56">
+    <translation id="485011-1" value="vinna" origin="user" date="2012-11-08T03:03:00"/>
+  </word>
+</definition>

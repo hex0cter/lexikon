@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="slut" lang="sv" class="jj" id="163640" lexinid="16365" origin="lexin" comment="bildligt &amp;quot;utmattad&amp;quot;" date="2011-03-03">
+    <translation id="163640-15848" value="over" origin="user" date="2012-01-09T23:36:45"/>
+    <translation id="163640-15849" value="finished" origin="user" date="2012-01-09T23:36:45"/>
+    <translation id="163640-15850" value="at an end" origin="user" date="2012-01-09T23:36:45"/>
+    <use value="ob&#xF6;jligt; enbart predikativ" date="2011-03-03"/>
+    <phonetic value="slu:t" soundFile="slut.swf" date="2011-03-03"/>
+    <synonym value="till&#xE4;nda" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="upph&#xF6;rande" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;nda" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ndpunkt" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="slut||slut..2||slut..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="slut||slut..3||slut..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9218" value="skolan &#xE4;r slut f&#xF6;r dagen" date="2011-03-03">
+      <translation value="school is over for the day"/>
+    </example>
+    <example id="9219" value="nu f&#xE5;r det vara slut med fj&#xE4;skandet" date="2011-03-03">
+      <translation value="let&amp;#39;s have an end to all this sucking-up"/>
+    </example>
+    <example id="9220" value="sm&#xF6;ret &#xE4;r slut" date="2011-03-03">
+      <translation value="we&amp;#39;re out of butter"/>
+    </example>
+    <example id="9221" value="jag &#xE4;r alldeles slut efter cykelturen" date="2011-03-03">
+      <translation value="I&amp;#39;m whacked after that bike ride"/>
+    </example>
+    <definition id="15847" value="som inte l&#xE4;ngre finns, f&#xF6;rbrukad" date="2011-03-03"/>
+    <grammar value="x/A &#xE4;r &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="slut" lang="sv" class="nn" id="163650" lexinid="16366" origin="lexin" date="2011-03-03">
+    <translation id="163650-15849" value="termination" origin="user" date="2012-04-02T03:56:02"/>
+    <translation id="163650-15850" value="end" origin="user" date="2012-04-02T03:56:02"/>
+    <translation id="163650-15851" value="close" origin="user" date="2012-04-02T03:56:02"/>
+    <phonetic value="slu:t" soundFile="slut.swf" date="2011-03-03"/>
+    <paradigm id="14278" origin="lexin" date="2011-03-03">
+      <inflection value="slutet"/>
+      <inflection value="slut"/>
+      <inflection value="sluten"/>
+    </paradigm>
+    <synonym value="final" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullbordande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xE4;rdig" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rliden" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="stop" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="till &#xE4;nda" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="till&#xE4;nda" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tr&#xF6;tt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="upph&#xF6;ra" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="upph&#xF6;rande" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="uttr&#xF6;ttad" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;nda" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;nde" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ndelse" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ndpunkt" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xF6;ver" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="slut||slut..1||slut..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9222" value="fr&#xE5;n b&#xF6;rjan till slut" date="2011-03-03">
+      <translation value="from start to finish"/>
+    </example>
+    <example id="9223" value="vid &#xE5;rets slut" date="2011-03-03">
+      <translation value="at the end of the year"/>
+    </example>
+    <example id="9224" value="i slutet av veckan" date="2011-03-03">
+      <translation value="at the end of the week"/>
+    </example>
+    <example id="9225" value="i slutet p&#xE5; 1800-talet" date="2011-03-03">
+      <translation value="at the end of the 19th century"/>
+    </example>
+    <example id="9226" value="slut f&#xF6;r idag" date="2011-03-03">
+      <translation value="that&amp;#39;s all for today"/>
+    </example>
+    <example id="9227" value="vi lyckades till slut" date="2011-03-03">
+      <translation value="we finally succeeded"/>
+    </example>
+    <compound id="5656" value="veckoslut" date="2011-03-03">
+      <translation value="weekend"/>
+    </compound>
+    <compound id="5657" value="krigsslut" date="2011-03-03">
+      <translation value="end of the war"/>
+    </compound>
+    <compound id="5658" value="slut|resultat" date="2011-03-03">
+      <translation value="outcome"/>
+    </compound>
+    <definition id="15848" value="yttersta gr&#xE4;ns f&#xF6;r n&#xE5;got i rum och tid, avslutning" date="2011-03-03"/>
+  </word>
+  <word value="sluta" lang="sv" class="vb" id="163690" lexinid="16370" origin="lexin" date="2011-03-03">
+    <translation id="163690-15853" value="shut" origin="user" date="2012-01-16T00:06:05"/>
+    <translation id="163690-15854" value="close" origin="user" date="2012-01-16T00:06:05"/>
+    <phonetic value="slU:ter" soundFile="sluter.swf" date="2011-03-03"/>
+    <paradigm id="14282" origin="lexin" date="2011-03-03">
+      <inflection value="sl&#xF6;t"/>
+      <inflection value="slutit"/>
+      <inflection value="slut"/>
+      <inflection value="sluta"/>
+      <inflection value="sluter"/>
+    </paradigm>
+    <synonym value="stoppa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="st&#xE4;nga" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="sluta||sluta..1||sluta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..2||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..3||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..4||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..5||sluta..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9235" value="hon sl&#xF6;t &#xF6;gonen" date="2011-03-03">
+      <translation value="she closed her eyes"/>
+    </example>
+    <example id="9236" value="sluta sig inom sig sj&#xE4;lv" date="2011-03-03">
+      <translation value="retire into one&amp;#39;s shell"/>
+    </example>
+    <definition id="15852" value="st&#xE4;nga" date="2011-03-03"/>
+    <grammar value="A &amp; x; A/x &amp; sig" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="sluta" lang="sv" class="vb" id="163700" lexinid="16371" origin="lexin" date="2011-03-03">
+    <translation id="163700-15854" value="make" origin="user" date="2012-02-23T00:13:57"/>
+    <translation id="163700-15855" value="conclude" origin="user" date="2012-02-23T00:13:57"/>
+    <translation id="163700-15856" value="enter into" origin="user" date="2012-02-23T00:13:57"/>
+    <phonetic value="slU:ter" soundFile="sluter.swf" date="2011-03-03"/>
+    <paradigm id="14283" origin="lexin" date="2011-03-03">
+      <inflection value="sl&#xF6;t"/>
+      <inflection value="slutit"/>
+      <inflection value="slut"/>
+      <inflection value="sluta"/>
+      <inflection value="sluter"/>
+    </paradigm>
+    <synonym value="enda" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE4;gg av" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="upph&#xF6;ra" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="sluta||sluta..1||sluta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..2||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..3||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..4||sluta..vb.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sluta||sluta..5||sluta..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9237" value="sluta ett avtal" date="2011-03-03">
+      <translation value="enter into an agreement"/>
+    </example>
+    <example id="9238" value="sluta fred" date="2011-03-03">
+      <translation value="make peace"/>
+    </example>
+    <definition id="15853" value="komma &#xF6;verens om, g&#xF6;ra upp" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="close" lang="en" class="nn" id="83671" origin="lexin" date="2009-02-24">
+    <translation id="83671-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="83671-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="closure" lang="en" class="nn" id="83881" origin="lexin" date="2009-02-24">
+    <translation id="83881-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="83881-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conclusion" lang="en" class="nn" id="94881" origin="lexin" date="2009-02-24">
+    <translation id="94881-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="94881-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decision" lang="en" class="nn" id="120761" origin="lexin" date="2009-02-24">
+    <translation id="120761-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-2" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-3" value="utslag" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-4" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-5" value="domslut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="demise" lang="en" class="nn" id="124171" origin="lexin" date="2009-02-24">
+    <translation id="124171-1" value="upph&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="124171-2" value="slut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="end" lang="en" class="nn" id="155921" origin="lexin" date="2009-02-24">
+    <translation id="155921-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <example id="155921-10" value="I&amp;#39;m sure we&amp;#39;ll never hear the end of it" origin="lexin" date="2009-02-24">
+      <translation value="han/hon kommer nog aldrig att sluta prata om det" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="155921-2" value="at the end of the day" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;r allt kommer omkring" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-3" value="be at an end/come to an end" origin="lexin" date="2009-02-24">
+      <translation value="ta slut, vara &#xF6;ver" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-4" value="from beginning to end" origin="lexin" date="2009-02-24">
+      <translation value="fr&#xE5;n b&#xF6;rjan till slut" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-5" value="in the end" origin="lexin" date="2009-02-24">
+      <translation value="till slut, slutligen; n&#xE4;r allt kommer omkring" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-6" value="no end" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE4;ldigt mycket (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-7" value="no end of" origin="lexin" date="2009-02-24">
+      <translation value="hur mycket som helst, i det o&#xE4;ndliga (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-8" value="on end" origin="lexin" date="2009-02-24">
+      <translation value="i str&#xE4;ck (utan uppeh&#xE5;ll); p&#xE5; h&#xF6;gkant" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="155921-9" value="put an end to" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta stopp f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="end" lang="en" class="nn" id="155931" origin="lexin" date="2009-02-24">
+    <translation id="155931-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="155931-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="155931-3" value="&#xE4;nde" origin="lexin" date="2009-02-24"/>
+    <translation id="155931-4" value="&#xE4;nda" origin="lexin" date="2009-02-24"/>
+    <example id="155931-5" value="he&amp;#39;s the end!" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) han &#xE4;r botten!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-6" value="...and that&amp;#39;s the end of it!" origin="lexin" date="2009-02-24">
+      <translation value="...och d&#xE4;rmed basta!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-7" value="change ends" origin="lexin" date="2009-02-24">
+      <translation value="byta sida (i bollspel)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-8" value="make ends meet" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; det att g&#xE5; ihop" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-9" value="put an end to" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta stopp f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-10" value="in the end" origin="lexin" date="2009-02-24">
+      <translation value="till slut, till sist" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155931-11" value="at the end" origin="lexin" date="2009-02-24">
+      <translation value="sist" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="end" lang="en" class="nn" id="155941" origin="lexin" date="2009-02-24">
+    <translation id="155941-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="155941-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="155941-3" value="&#xE4;nde" origin="lexin" date="2009-02-24"/>
+    <translation id="155941-4" value="&#xE4;nda" origin="lexin" date="2009-02-24"/>
+    <example id="155941-5" value="at the end of the 19th century" origin="lexin" date="2009-02-24">
+      <translation value="i slutet p&#xE5; 1800-talet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155941-6" value="at one end of the train" origin="lexin" date="2009-02-24">
+      <translation value="i ena &#xE4;ndan av t&#xE5;get" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="155941-7" value="sharp at both ends" origin="lexin" date="2009-02-24">
+      <translation value="spetsig i b&#xE5;da &#xE4;ndarna" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="ending" lang="en" class="nn" id="156101" origin="lexin" date="2009-02-24">
+    <translation id="156101-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="156101-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exhausted" lang="en" class="jj" id="164211" origin="lexin" date="2009-02-24">
+    <translation id="164211-1" value="utmattad" origin="lexin" date="2009-02-24"/>
+    <translation id="164211-2" value="utpumpad" origin="lexin" date="2009-02-24"/>
+    <translation id="164211-3" value="slut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="finish" lang="en" class="nn" id="175851" origin="lexin" date="2009-02-24">
+    <translation id="175851-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-3" value="slutspurt" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-4" value="finish" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-5" value="upplopp" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-6" value="slutkamp" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-7" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="175851-8" value="slutscen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="finished" lang="en" class="jj" id="175881" origin="lexin" date="2009-02-24">
+    <translation id="175881-1" value="slut" comment="familj&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="175881-2" value="f&#xE4;rdig" origin="lexin" date="2009-02-24"/>
+    <example id="175881-3" value="I&amp;#39;m completely finished" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r helt f&#xE4;rdig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="flat" lang="en" class="jj" id="178101" origin="lexin" date="2009-02-24">
+    <translation id="178101-1" value="utbr&#xE4;nd" comment="om batteri" origin="lexin" date="2009-02-24"/>
+    <translation id="178101-2" value="slut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="heel" lang="en" class="nn" id="216441" origin="lexin" date="2009-02-24">
+    <translation id="216441-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="216441-2" value="sista del" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out of" lang="en" class="pp" id="298051" origin="lexin" date="2009-02-24">
+    <translation id="298051-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="298051-2" value="ha slut p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="298051-3" value="I&amp;#39;m out of milk" origin="lexin" date="2009-02-24">
+      <translation value="jag har slut p&#xE5; mj&#xF6;lk" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="over" lang="en" class="jj" id="299821" origin="lexin" date="2009-02-24">
+    <translation id="299821-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="299821-2" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="299821-3" value="som inte l&#xE4;ngre finns" origin="lexin" date="2009-02-24"/>
+    <translation id="299821-4" value="f&#xF6;rbrukad" origin="lexin" date="2009-02-24"/>
+    <example id="299821-7" value="school is over for the day" origin="lexin" date="2009-02-24">
+      <translation value="skolan &#xE4;r slut f&#xF6;r dagen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="299821-5" value="get it over (with)" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; det &#xF6;verst&#xF6;kat" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="299821-6" value="over and done with" origin="lexin" date="2009-02-24">
+      <translation value="helt &#xF6;verst&#xF6;kad (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="passing" lang="en" class="nn" id="307601" origin="lexin" date="2009-02-24">
+    <translation id="307601-1" value="slut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="past" lang="en" class="jj" id="307851" origin="lexin" date="2009-02-24">
+    <translation id="307851-1" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="307851-2" value="f&#xF6;rbi" origin="lexin" date="2009-02-24"/>
+    <translation id="307851-3" value="slut" origin="lexin" date="2009-02-24"/>
+    <example id="307851-4" value="the danger is past" origin="lexin" date="2009-02-24">
+      <translation value="faran &#xE4;r &#xF6;ver" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="307851-5" value="winter is past" origin="lexin" date="2009-02-24">
+      <translation value="vintern &#xE4;r slut" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="termination" lang="en" class="nn" id="416071" origin="lexin" date="2009-02-24">
+    <translation id="416071-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="416071-2" value="avslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="416071-3" value="utg&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="416071-4" value="upph&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="416071-5" value="avbrytande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="up" lang="en" class="ab" id="433771" origin="lexin" date="2009-02-24">
+    <translation id="433771-1" value="slut" origin="lexin" date="2009-02-24"/>
+    <example id="433771-3" value="Is your leave up already?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r din permission redan slut?." origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="433771-2" value="The game is up." origin="lexin" date="2009-02-24">
+      <translation value="Spelet &#xE4;r slut." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="Over, finished." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="washed-up" lang="en" class="jj" id="440501" origin="lexin" date="2009-02-24">
+    <translation id="440501-1" value="f&#xE4;rdig" origin="lexin" date="2009-02-24"/>
+    <translation id="440501-2" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="440501-3" value="f&#xF6;re detta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slampa" lang="sv" class="nn" id="162720" lexinid="16273" origin="lexin" comment="vardagligt" date="2011-03-03">
+    <translation id="162720-15765" value="hussy" origin="user" date="2012-02-18T01:15:02"/>
+    <translation id="162720-15766" value="slut" origin="user" date="2012-02-18T01:15:02"/>
+    <translation id="162720-15767" value="tart" origin="user" date="2012-02-18T01:15:02"/>
+    <translation id="162720-15768" value="slattern" origin="user" date="2012-02-18T01:15:02"/>
+    <phonetic value="&#xB2;slAm:pa" soundFile="slampa.swf" date="2011-03-03"/>
+    <paradigm id="14196" origin="lexin" date="2011-03-03">
+      <inflection value="slampan"/>
+      <inflection value="slampor"/>
+    </paradigm>
+    <synonym value="hora" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="luder" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE4;ttfotad" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="slyna" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="slampa||slampa..1||slampa..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="15764" value="slarvig el. l&#xF6;saktig kvinna" date="2011-03-03"/>
+  </word>
+  <word value="slut" lang="en" id="478511" origin="user" date="2012-09-20T01:56:12">
+    <translation id="478511-1" value="Slampa" origin="user" date="2012-09-20T01:56:12"/>
+  </word>
+</definition>

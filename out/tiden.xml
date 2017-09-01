@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="&#xE4;ven om en viss period" date="2011-03-03" id="187010" lang="sv" lexinid="18702" origin="lexin" value="tid">
+    <translation comment="also used of a certain period" date="2011-03-03" id="18370" value="time"/>
+    <phonetic date="2011-03-03" soundFile="tid.swf" value="ti:d"/>
+    <paradigm date="2011-03-03" id="16348" origin="lexin">
+      <inflection value="tiden"/>
+      <inflection value="tider"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="epok"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="tidrymd"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tid||tid..1||tid..nn.1"/>
+    <example date="2011-03-03" id="10506" value="tid att t&#xE4;nka">
+      <translation value="time to think"/>
+    </example>
+    <example date="2011-03-03" id="10507" value="en l&#xE5;ng tid fram&#xF6;ver">
+      <translation value="a long time to come"/>
+    </example>
+    <example date="2011-03-03" id="10508" value="i en m&#xE5;nads tid">
+      <translation value="in a month"/>
+    </example>
+    <example date="2011-03-03" id="10509" value="p&#xE5; Karl XII:s tid">
+      <translation value="in the days of Charles XII"/>
+    </example>
+    <example date="2011-03-03" id="10510" value="ha tid till (el. med) n&#xE5;got">
+      <translation value="have time for sth."/>
+    </example>
+    <compound date="2011-03-03" id="6333" value="vintertid">
+      <translation value="winter [time]"/>
+    </compound>
+    <compound date="2011-03-03" id="6334" value="kristid">
+      <translation value="time of crisis"/>
+    </compound>
+    <compound date="2011-03-03" id="6335" value="kv&#xE4;llstid">
+      <translation value="evening"/>
+    </compound>
+    <compound date="2011-03-03" id="6336" value="&#xF6;vertid">
+      <translation value="overtime"/>
+    </compound>
+    <compound date="2011-03-03" id="6337" inflection="tids|begr&#xE4;nsningen" value="tids|begr&#xE4;nsning">
+      <translation value="time limit"/>
+    </compound>
+    <idiom date="2011-03-03" id="1603" value="tids nog (&amp;quot;efter viss (v&#xE4;nte)tid&amp;quot;)">
+      <translation value="soon enough (&amp;quot;after a certain time (spent waiting)&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1604" value="nu f&#xF6;r tiden (&amp;quot;i v&#xE5;r tid&amp;quot;)">
+      <translation value="nowadays (&amp;quot;in our times&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1605" value="under tiden (&amp;quot;samtidigt&amp;quot;)">
+      <translation value="while (&amp;quot;at the same time&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1606" value="komma i god tid (&amp;quot;f&#xF6;re utsatt klockslag&amp;quot;)">
+      <translation value="arrive in good time (&amp;quot;before the appointed time&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1607" value="best&#xE4;lla tid (&amp;quot;avtala tid f&#xF6;r bes&#xF6;k (p&#xE5; sjukhus o dyl)&amp;quot;)">
+      <translation value="book a time (&amp;quot;make an appointment for a visit (to a hospital etc.)&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1608" value="i sinom tid (&amp;quot;efter en viss (v&#xE4;nte)tid&amp;quot;)">
+      <translation value="in due time (&amp;quot;after a certain time (spent waiting)&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1609" value="med tiden (&amp;quot;s&#xE5; sm&#xE5;ningom&amp;quot;)">
+      <translation value="in time (&amp;quot;eventually&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="18091" value="det som f&#xF6;rflyter mellan olika h&#xE4;ndelser"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="29/maatt.swf"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/tid.swf"/>
+  </word>
+  <word value="time" lang="en" class="nn" id="420031" origin="lexin" date="2009-02-24">
+    <translation id="420031-1" value="tid" origin="lexin" date="2009-02-24"/>
+    <translation id="420031-2" value="tiden" origin="lexin" date="2009-02-24"/>
+    <example id="420031-3" value="the good old times" origin="lexin" date="2009-02-24">
+      <translation value="den gamla goda tiden" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

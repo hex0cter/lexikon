@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="209370" lang="sv" lexinid="20938" origin="lexin" value="visa">
+    <translation date="2011-03-03" id="20567" value="show"/>
+    <phonetic date="2011-03-03" soundFile="visar.swf" value="&#xB2;vI:sar"/>
+    <paradigm date="2011-03-03" id="18255" origin="lexin">
+      <inflection value="visade"/>
+      <inflection value="visat"/>
+      <inflection value="visa"/>
+      <inflection value="visar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="exponera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="framf&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="indikera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lotsa"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="l&#xE5;t"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="presentera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="p&#xE5;visa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="synligg&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="s&#xE5;ng"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="visa||visa..1||visa..vb.1"/>
+    <example date="2011-03-03" id="11795" value="visa upp sin biljett">
+      <translation value="show one&amp;#39;s ticket"/>
+    </example>
+    <example date="2011-03-03" id="11796" value="han visade mig boken">
+      <translation value="he showed me the book"/>
+    </example>
+    <example date="2011-03-03" id="11797" value="visa v&#xE4;gen (f&#xF6;r n&#xE5;gon)">
+      <translation value="show (sby) the way"/>
+    </example>
+    <derivation date="2011-03-03" id="975" value="visning">
+      <translation value="display, exhibition, show"/>
+    </derivation>
+    <definition date="2011-03-03" id="20224" value="l&#xE5;ta (n&#xE5;gon) se"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="visar_biljetten.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="visar_vagen.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; B x; A &amp; x f&#xF6;r B"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="209380" lang="sv" lexinid="20939" origin="lexin" value="visa">
+    <translation date="2011-03-03" id="20568" value="show"/>
+    <phonetic date="2011-03-03" soundFile="visar.swf" value="&#xB2;vI:sar"/>
+    <paradigm date="2011-03-03" id="18256" origin="lexin">
+      <inflection value="visade"/>
+      <inflection value="visat"/>
+      <inflection value="visa"/>
+      <inflection value="visar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="exponera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="framf&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="indikera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lotsa"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="l&#xE5;t"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="presentera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="p&#xE5;visa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="synligg&#xF6;ra"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="s&#xE5;ng"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="visa||visa..1||visa..vb.1"/>
+    <example date="2011-03-03" id="11798" value="det visar att du inte har lyssnat">
+      <translation value="that shows you have not been listening"/>
+    </example>
+    <definition date="2011-03-03" id="20225" value="vara tecken p&#xE5;"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp; att + S"/>
+  </word>
+</definition>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="fr&#xE5;ga" lang="sv" class="nn" id="50140" lexinid="5014" origin="lexin" date="2011-03-03">
+    <translation id="4935" value="question" date="2011-03-03"/>
+    <phonetic value="&#xB2;fr&#xC5;:ga" soundFile="fr&#xE5;ga.swf" date="2011-03-03"/>
+    <paradigm id="4348" origin="lexin" date="2011-03-03">
+      <inflection value="fr&#xE5;gan"/>
+      <inflection value="fr&#xE5;gor"/>
+    </paradigm>
+    <synonym value="f&#xF6;rfr&#xE5;gan" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="fr&#xE5;ga||fr&#xE5;ga..2||fr&#xE5;ga..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fr&#xE5;ga||fr&#xE5;ga..4||fr&#xE5;ga..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2840" value="svara p&#xE5; min fr&#xE5;ga!" date="2011-03-03">
+      <translation value="answer my question!"/>
+    </example>
+    <compound id="1778" value="kuggfr&#xE5;ga" date="2011-03-03">
+      <translation value="catch question"/>
+    </compound>
+    <compound id="1779" value="fr&#xE5;ge|formul&#xE4;r" date="2011-03-03">
+      <translation value="questionnaire"/>
+    </compound>
+    <definition id="4843" value="beg&#xE4;ran om svar, f&#xF6;rfr&#xE5;gan" date="2011-03-03"/>
+  </word>
+  <word value="fr&#xE5;ga" lang="sv" class="nn" id="50150" lexinid="5015" origin="lexin" date="2011-03-03">
+    <translation id="50150-4845" value="question" origin="user" date="2012-03-03T03:59:08"/>
+    <translation id="50150-4846" value="matter" origin="user" date="2012-03-03T03:59:08"/>
+    <phonetic value="&#xB2;fr&#xC5;:ga" soundFile="fr&#xE5;ga.swf" date="2011-03-03"/>
+    <paradigm id="4349" origin="lexin" date="2011-03-03">
+      <inflection value="fr&#xE5;gan"/>
+      <inflection value="fr&#xE5;gor"/>
+    </paradigm>
+    <synonym value="sp&#xF6;rsm&#xE5;l" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;rende" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="fr&#xE5;ga||fr&#xE5;ga..2||fr&#xE5;ga..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fr&#xE5;ga||fr&#xE5;ga..4||fr&#xE5;ga..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2841" value="fatta beslut i fr&#xE5;gan" date="2011-03-03">
+      <translation value="make a decision on the matter"/>
+    </example>
+    <compound id="1780" value="smakfr&#xE5;ga" date="2011-03-03">
+      <translation value="matter of taste"/>
+    </compound>
+    <compound id="1781" value="tidsfr&#xE5;ga" date="2011-03-03">
+      <translation value="matter of time"/>
+    </compound>
+    <compound id="1782" value="tvistefr&#xE5;ga" date="2011-03-03">
+      <translation value="matter of dispute, bone of contention"/>
+    </compound>
+    <idiom id="361" value="vad &#xE4;r det fr&#xE5;gan om (&amp;quot;vad g&#xE4;ller saken&amp;quot;)?" date="2011-03-03">
+      <translation value="what is it about?"/>
+    </idiom>
+    <definition id="4844" value="&#xE4;rende, sak" date="2011-03-03"/>
+  </word>
+</definition>

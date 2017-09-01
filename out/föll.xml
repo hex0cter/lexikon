@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="41930" lang="sv" lexinid="4193" origin="lexin" value="falla">
+    <translation date="2011-03-03" id="4133" value="fall"/>
+    <phonetic date="2011-03-03" soundFile="faller.swf" value="fAl:er"/>
+    <paradigm date="2011-03-03" id="3619" origin="lexin">
+      <inflection value="f&#xF6;ll"/>
+      <inflection value="fallit"/>
+      <inflection value="fall"/>
+      <inflection value="falla"/>
+      <inflection value="faller"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dala"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kapitulera"/>
+    <synonym date="2011-03-03" level="4.9" origin="synlex" value="ramla"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="rasa"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="stupa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="st&#xF6;rta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="trilla"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="falla||falla..1||falla..vb.1"/>
+    <example date="2011-03-03" id="2473" value="falla i gatan">
+      <translation value="fall down in the street"/>
+    </example>
+    <example date="2011-03-03" id="2474" value="falla omkull">
+      <translation value="fall over"/>
+    </example>
+    <example date="2011-03-03" id="2475" value="falla framstupa">
+      <translation value="fall prostrate"/>
+    </example>
+    <idiom date="2011-03-03" id="310" value="det faller mig inte in (&amp;quot;jag kan inte t&#xE4;nka mig det, det struntar jag i&amp;quot;)">
+      <translation value="it doesn&amp;#39;t suit me (&amp;quot;I don&amp;#39;t want to do it, I don&amp;#39;t care about it&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="311" value="falla i gr&#xE5;t (&amp;quot;b&#xF6;rja gr&#xE5;ta&amp;quot;)">
+      <translation value="burst into tears"/>
+    </idiom>
+    <definition date="2011-03-03" id="4035" value="ramla (ner), trilla"/>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp;"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="41940" lang="sv" lexinid="4194" origin="lexin" value="falla">
+    <translation date="2011-03-03" id="4134" value="fall"/>
+    <phonetic date="2011-03-03" soundFile="faller.swf" value="fAl:er"/>
+    <paradigm date="2011-03-03" id="3620" origin="lexin">
+      <inflection value="f&#xF6;ll"/>
+      <inflection value="fallit"/>
+      <inflection value="fall"/>
+      <inflection value="falla"/>
+      <inflection value="faller"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dala"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kapitulera"/>
+    <synonym date="2011-03-03" level="4.9" origin="synlex" value="ramla"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="rasa"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="stupa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="st&#xF6;rta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="trilla"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="falla||falla..1||falla..vb.1"/>
+    <example date="2011-03-03" id="2476" value="sn&#xF6;n faller">
+      <translation value="snow is falling"/>
+    </example>
+    <example date="2011-03-03" id="2477" value="temperaturen f&#xF6;ll kraftigt under natten">
+      <translation value="there was a sharp drop in temperature during the night"/>
+    </example>
+    <definition date="2011-03-03" id="4036" value="dala, sjunka">
+      <translation value="drop, go down"/>
+    </definition>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp;"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="41950" lang="sv" lexinid="4195" origin="lexin" value="falla">
+    <translation date="2011-03-03" id="4135" value="fall"/>
+    <phonetic date="2011-03-03" soundFile="faller.swf" value="fAl:er"/>
+    <paradigm date="2011-03-03" id="3621" origin="lexin">
+      <inflection value="f&#xF6;ll"/>
+      <inflection value="fallit"/>
+      <inflection value="fall"/>
+      <inflection value="falla"/>
+      <inflection value="faller"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dala"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kapitulera"/>
+    <synonym date="2011-03-03" level="4.9" origin="synlex" value="ramla"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="rasa"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="stupa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="st&#xF6;rta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="trilla"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="falla||falla..1||falla..vb.1"/>
+    <example date="2011-03-03" id="2478" value="falla i strid">
+      <translation value="fall in battle"/>
+    </example>
+    <definition date="2011-03-03" id="4037" value="d&#xF6;, stupa, omkomma">
+      <translation value="to die, to be killed (in battle)"/>
+    </definition>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp;"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="41960" lang="sv" lexinid="4196" origin="lexin" value="falla">
+    <translation date="2011-03-03" id="4136" value="fall"/>
+    <phonetic date="2011-03-03" soundFile="faller.swf" value="fAl:er"/>
+    <paradigm date="2011-03-03" id="3622" origin="lexin">
+      <inflection value="f&#xF6;ll"/>
+      <inflection value="fallit"/>
+      <inflection value="fall"/>
+      <inflection value="falla"/>
+      <inflection value="faller"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dala"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kapitulera"/>
+    <synonym date="2011-03-03" level="4.9" origin="synlex" value="ramla"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="rasa"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="stupa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="st&#xF6;rta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="trilla"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="falla||falla..1||falla..vb.1"/>
+    <example date="2011-03-03" id="2479" value="han f&#xF6;ll f&#xF6;r hennes vitalitet">
+      <translation value="he fell for her vitality"/>
+    </example>
+    <definition date="2011-03-03" id="4038" value="kapitulera, er&#xF6;vras">
+      <translation value="capitulate, be captured, captivated"/>
+    </definition>
+    <grammar date="2011-03-03" origin="lexin" value="x/A &amp;"/>
+  </word>
+  <word class="" date="2011-03-03" id="52620" lang="sv" lexinid="5262" origin="lexin" value="f&#xF6;ll">
+    <translation date="2011-03-03" id="5178" value="fell"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;ll.swf" value="f&#xF6;l:"/>
+    <see date="2011-03-03" origin="lexin" value="falla"/>
+  </word>
+</definition>

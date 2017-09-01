@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="108960" lang="sv" lexinid="10896" origin="lexin" value="medlem">
+    <translation date="2011-03-03" id="10704" value="member"/>
+    <phonetic date="2011-03-03" soundFile="medlem.swf" value="&#xB2;mE:dlem:"/>
+    <paradigm date="2011-03-03" id="9494" origin="lexin">
+      <inflection value="medlemmen"/>
+      <inflection value="medlemmar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="medlem||medlem..1||medlem..nn.1"/>
+    <example date="2011-03-03" id="5877" value="medlem av regeringen">
+      <translation value="member of the government"/>
+    </example>
+    <example date="2011-03-03" id="5878" value="bli medlem i Turistf&#xF6;reningen">
+      <translation value="become a member of the Swedish Touring Club"/>
+    </example>
+    <compound date="2011-03-03" id="3862" value="familjemedlem">
+      <translation value="family member"/>
+    </compound>
+    <compound date="2011-03-03" id="3863" inflection="medlems|avgiften" value="medlems|avgift">
+      <translation value="membership fee"/>
+    </compound>
+    <compound date="2011-03-03" id="3864" value="partimedlem">
+      <translation value="party member"/>
+    </compound>
+    <derivation date="2011-03-03" id="502" inflection="medlemskapet" value="medlemskap">
+      <translation value="membership"/>
+    </derivation>
+    <definition date="2011-03-03" id="10506" value="person som tillh&#xF6;r en organisation etc"/>
+  </word>
+  <word value="membership" lang="en" class="nn" id="271001" origin="lexin" date="2009-02-24">
+    <translation id="271001-1" value="medlemsantal" origin="lexin" date="2009-02-24"/>
+    <translation id="271001-2" value="medlemmar" origin="lexin" date="2009-02-24"/>
+    <example id="271001-3" value="It&amp;#39;s an organization with a very limited membership." origin="lexin" date="2009-02-24">
+      <translation value="Det &#xE4;r en organisation med ett mycket begr&#xE4;nsat medlemsantal." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The people, or the number of people who belong to a club, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="members" lang="en" id="504171" origin="user" date="2013-04-30T02:33:06">
+    <translation id="504171-1" value="medlemmar" origin="user" date="2013-04-30T02:33:10"/>
+  </word>
+</definition>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="bildligt om samling f&#xF6;rem&#xE5;l som h&#xF6;r ihop" date="2011-03-03" id="63920" lang="sv" lexinid="6392" origin="lexin" value="grupp">
+    <translation comment="figuratively, of a collection of related objects" date="2011-03-03" id="6284" value="group"/>
+    <phonetic date="2011-03-03" soundFile="grupp.swf" value="grup:"/>
+    <paradigm date="2011-03-03" id="5548" origin="lexin">
+      <inflection value="gruppen"/>
+      <inflection value="grupper"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="ansamling"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="enhet"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="falang"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="flock"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="g&#xE4;ng"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="hop"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="kategori"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="klunga"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="kluster"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="samling"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sammanslutning"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sektion"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="skara"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="skock"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="sv&#xE4;rm"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="s&#xE4;llskap"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="grupp||grupp..1||grupp..nn.1"/>
+    <example date="2011-03-03" id="3748" value="en grupp inom f&#xF6;retaget">
+      <translation value="a group (faction) within the company"/>
+    </example>
+    <example date="2011-03-03" id="3749" value="en grupp skolbarn">
+      <translation value="a group of schoolchildren"/>
+    </example>
+    <compound date="2011-03-03" id="2278" value="intressegrupp">
+      <translation value="interest group, pressure group, lobby"/>
+    </compound>
+    <compound date="2011-03-03" id="2279" value="soffgrupp">
+      <translation value="furniture suite consisting of a sofa and two armchairs"/>
+    </compound>
+    <compound date="2011-03-03" id="2280" value="socialgrupp">
+      <translation value="class, social group"/>
+    </compound>
+    <compound date="2011-03-03" id="2281" value="blodgrupp">
+      <translation value="blood group, (blood type [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="2282" inflection="grupp|arbetet" value="grupp|arbete">
+      <translation value="group work"/>
+    </compound>
+    <compound date="2011-03-03" id="2283" inflection="grupp|medlemmen" value="grupp|medlem">
+      <translation value="group member"/>
+    </compound>
+    <compound date="2011-03-03" id="2284" inflection="grupp|terapin" value="grupp|terapi">
+      <translation value="group therapy"/>
+    </compound>
+    <compound date="2011-03-03" id="2285" value="studiegrupp">
+      <translation value="study circle"/>
+    </compound>
+    <definition date="2011-03-03" id="6158" value="samling personer som h&#xF6;r ihop"/>
+  </word>
+  <word value="body" lang="en" class="nn" id="48231" origin="lexin" date="2009-02-24">
+    <translation id="48231-1" value="avdelning" origin="lexin" date="2009-02-24"/>
+    <translation id="48231-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="48231-3" value="styrka" origin="lexin" date="2009-02-24"/>
+    <translation id="48231-4" value="skara" origin="lexin" date="2009-02-24"/>
+    <example id="48231-5" value="in a body" origin="lexin" date="2009-02-24">
+      <translation value="alla tillsammans" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="bracket" lang="en" class="nn" id="52691" origin="lexin" date="2009-02-24">
+    <translation id="52691-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="52691-2" value="klass" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="brigade" lang="en" class="nn" id="55421" origin="lexin" date="2009-02-24">
+    <translation id="55421-1" value="grupp" comment="neds&#xE4;ttande" origin="lexin" date="2009-02-24"/>
+    <translation id="55421-2" value="brigad" origin="lexin" date="2009-02-24"/>
+    <translation id="55421-3" value="k&#xE5;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bunch" lang="en" class="nn" id="59911" origin="lexin" date="2009-02-24">
+    <translation id="59911-1" value="samling" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="59911-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="59911-3" value="klunga" origin="lexin" date="2009-02-24"/>
+    <translation id="59911-4" value="skock" origin="lexin" date="2009-02-24"/>
+    <translation id="59911-5" value="massa" origin="lexin" date="2009-02-24"/>
+    <example id="59911-6" value="the best of the bunch" origin="lexin" date="2009-02-24">
+      <translation value="den b&#xE4;sta av hela bunten" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="class" lang="en" class="nn" id="80881" origin="lexin" date="2009-02-24">
+    <translation id="80881-1" value="kategori" comment="&#xE4;ven inom biologi" origin="lexin" date="2009-02-24"/>
+    <translation id="80881-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <example id="80881-3" value="in a class of its own" origin="lexin" date="2009-02-24">
+      <translation value="i en klass f&#xF6;r sig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="clump" lang="en" class="nn" id="84541" origin="lexin" date="2009-02-24">
+    <translation id="84541-1" value="klunga" origin="lexin" date="2009-02-24"/>
+    <translation id="84541-2" value="skock" origin="lexin" date="2009-02-24"/>
+    <translation id="84541-3" value="grupp" comment="&#xE4;ven om tr&#xE4;d" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="cluster" lang="en" class="nn" id="84601" origin="lexin" date="2009-02-24">
+    <translation id="84601-1" value="kluster" comment="inom spr&#xE5;kvetenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="84601-2" value="grupp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="cluster" lang="en" class="nn" id="84611" origin="lexin" date="2009-02-24">
+    <translation id="84611-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="84611-2" value="anhopning" origin="lexin" date="2009-02-24"/>
+    <translation id="84611-3" value="klunga" origin="lexin" date="2009-02-24"/>
+    <translation id="84611-4" value="samling" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="community" lang="en" class="nn" id="91391" lexinid="256" origin="lexin" date="2009-02-24">
+    <translation id="91391-1" value="samh&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="91391-2" value="samfund" origin="lexin" date="2009-02-24"/>
+    <translation id="91391-3" value="gemenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="91391-4" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="91391-5" value="folkgrupp,koloni" origin="lexin" date="2009-02-24"/>
+    <translation id="91391-6" value="br&#xF6;draskap" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="group" lang="en" class="nn" id="206681" origin="lexin" date="2009-02-24">
+    <translation id="206681-1" value="klunga" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-2" value="sammanslutning" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-3" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-4" value="grupp-" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-5" value="t&#xE4;tt sammanh&#xE4;ngande grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-6" value="t&#xE4;tt sammanh&#xE4;ngande grupp m&#xE4;nniskor" origin="lexin" date="2009-02-24"/>
+    <translation id="206681-7" value="skock" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="knot" lang="en" class="nn" id="247481" origin="lexin" date="2009-02-24">
+    <translation id="247481-1" value="klunga" origin="lexin" date="2009-02-24"/>
+    <translation id="247481-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <example id="247481-3" value="people were standing about in knots" origin="lexin" date="2009-02-24">
+      <translation value="m&#xE4;nniskor stod i klungor" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="mob" lang="en" class="nn" id="275791" origin="lexin" date="2009-02-24">
+    <translation id="275791-1" value="hop" origin="lexin" date="2009-02-24"/>
+    <translation id="275791-2" value="grupp" comment="ofta neds&#xE4;ttande" origin="lexin" date="2009-02-24"/>
+    <example id="275791-3" value="the usual mob of freeloaders were there" origin="lexin" date="2009-02-24">
+      <translation value="den sedvanliga hopen av snyltg&#xE4;ster var d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="bildas med verb i b&#xE5;de singular och plural" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="outfit" lang="en" class="nn" id="298621" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="298621-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="298621-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="298621-3" value="band" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="party" lang="en" class="nn" id="306831" origin="lexin" date="2009-02-24">
+    <translation id="306831-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="306831-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="306831-3" value="s&#xE4;llskap" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="platoon" lang="en" class="nn" id="321251" origin="lexin" date="2009-02-24">
+    <translation id="321251-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="321251-2" value="grupp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pocket" lang="en" class="nn" id="323881" origin="lexin" date="2009-02-24">
+    <translation id="323881-1" value="isolerat omr&#xE5;de" origin="lexin" date="2009-02-24"/>
+    <translation id="323881-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="323881-3" value="ficka" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="323881-4" value="there were pockets of resistance outside the factory" origin="lexin" date="2009-02-24">
+      <translation value="det stod n&#xE5;gra motst&#xE5;ndsgrupper utanf&#xF6;r fabriken" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="section" lang="en" class="nn" id="374371" origin="lexin" date="2009-02-24">
+    <translation id="374371-1" value="grupp" comment="milit&#xE4;rterm" origin="lexin" date="2009-02-24"/>
+    <translation id="374371-2" value="tropp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="section" lang="en" class="nn" id="374381" origin="lexin" comment="musikaliskt" date="2009-02-24">
+    <translation id="374381-1" value="sektion" origin="lexin" date="2009-02-24"/>
+    <translation id="374381-2" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="374381-3" value="instrumentgrupp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="section" lang="en" class="nn" id="374421" origin="lexin" date="2009-02-24">
+    <translation id="374421-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="374421-2" value="underavdelning" comment="naturvetenskap" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="squad" lang="en" class="nn" id="394501" origin="lexin" date="2009-02-24">
+    <translation id="394501-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="394501-2" value="rotel" origin="lexin" date="2009-02-24"/>
+    <example id="394501-3" value="The bomb squad searched the theatre." origin="lexin" date="2009-02-24">
+      <translation value="Bombgruppen s&#xF6;kte igenom teatern." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A smaller group within the police force." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="unit" lang="en" class="nn" id="432621" lexinid="119" origin="lexin" date="2009-02-24">
+    <translation id="432621-1" value="enhet" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-2" value="avdelning" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-3" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-4" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-5" value="f&#xF6;rband" origin="lexin" date="2009-02-24"/>
+    <explanation value="a group of *machines or the like forming a single unit" origin="lexin" date="2009-02-24">
+      <translation value="grupp av sammanbyggda maskiner" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="acres" lang="en" id="543451" origin="user" date="2015-10-26T00:48:54">
+    <translation id="543451-1" value="&#xE5;krar" origin="user" date="2015-10-26T00:48:55"/>
+    <translation id="543451-2" value="Grupp" origin="user" date="2015-10-26T00:49:00"/>
+    <translation id="543451-3" value="amerikanska tunnland" origin="user" date="2016-05-10T02:14:07"/>
+  </word>
+</definition>

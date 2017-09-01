@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hand" lang="sv" class="nn" id="66890" lexinid="6689" origin="lexin" date="2011-03-03">
+    <translation id="6573" value="hand" date="2011-03-03"/>
+    <phonetic value="han:d" soundFile="hand.swf" date="2011-03-03"/>
+    <paradigm id="5818" origin="lexin" date="2011-03-03">
+      <inflection value="handen"/>
+      <inflection value="h&#xE4;nder"/>
+    </paradigm>
+    <synonym value="labb" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="hand||hand..1||hand..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="hand||hand..2||hand..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3913" value="sy f&#xF6;r hand" date="2011-03-03">
+      <translation value="sew by hand"/>
+    </example>
+    <example id="3914" value="g&#xE5; hand i hand" date="2011-03-03">
+      <translation value="walk hand in hand"/>
+    </example>
+    <example id="3915" value="tv&#xE4;tta h&#xE4;nderna" date="2011-03-03">
+      <translation value="wash one&amp;#39;s hands"/>
+    </example>
+    <compound id="2414" value="hand|bagage" date="2011-03-03">
+      <translation value="hand luggage"/>
+    </compound>
+    <idiom id="491" value="p&#xE5; egen hand (&amp;quot;sj&#xE4;lv&amp;quot;)" date="2011-03-03">
+      <translation value="by oneself"/>
+    </idiom>
+    <idiom id="492" value="efter hand (&amp;quot;fortl&#xF6;pande&amp;quot;)" date="2011-03-03">
+      <translation value="gradually, by degrees (&amp;quot;continuously&amp;quot;)"/>
+    </idiom>
+    <idiom id="493" value="ha till hands (&amp;quot;ha klart till anv&#xE4;ndning&amp;quot;)" date="2011-03-03">
+      <translation value="have at hand (&amp;quot;have available and ready for use&amp;quot;)"/>
+    </idiom>
+    <idiom id="494" value="i f&#xF6;rsta hand (&amp;quot;viktigast, fr&#xE4;mst&amp;quot;)" date="2011-03-03">
+      <translation value="in the first place, preferably"/>
+    </idiom>
+    <idiom id="495" value="ta hand om (&amp;quot;v&#xE5;rda o dyl&amp;quot;)" date="2011-03-03">
+      <translation value="take care of (&amp;quot;look after, etc.&amp;quot;)"/>
+    </idiom>
+    <definition id="6442" value="yttersta delen av en m&#xE4;nniskas arm" date="2011-03-03">
+      <translation value="the terminal part of the upper limb of humans and other primates"/>
+    </definition>
+    <url value="2/hand.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="" date="2011-03-03" id="72800" lang="sv" lexinid="7280" origin="lexin" value="h&#xE4;nder">
+    <translation date="2011-03-03" id="7144" value="hands"/>
+    <phonetic date="2011-03-03" soundFile="h&#xE4;nder.swf" value="hEn:der"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="sker"/>
+    <see date="2011-03-03" id="66890" origin="lexin" value="hand"/>
+  </word>
+  <word value="h&#xE4;nda" lang="sv" class="vb" id="72810" lexinid="7281" origin="lexin" date="2011-03-03">
+    <translation id="72810-7006" value="take place" origin="user" date="2012-03-13T03:30:13"/>
+    <translation id="72810-7007" value="occur" origin="user" date="2012-03-13T03:30:13"/>
+    <translation id="72810-7008" value="happen" origin="user" date="2012-03-13T03:30:13"/>
+    <phonetic value="hEn:der" soundFile="h&#xE4;nder.swf" date="2011-03-03"/>
+    <paradigm id="6330" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE4;nde"/>
+      <inflection value="h&#xE4;nt"/>
+      <inflection value="h&#xE4;nda"/>
+      <inflection value="h&#xE4;nder"/>
+    </paradigm>
+    <synonym value="drabba" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="intr&#xE4;ffa" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="ske" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ga rum" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE4;nda||h&#xE4;nda..1||h&#xE4;nda..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4283" value="det kan h&#xE4;nda att allt g&#xE5;r bra" date="2011-03-03">
+      <translation value="everything may, of course, turn out perfectly well"/>
+    </example>
+    <example id="4284" value="det h&#xE4;nde p&#xE5; 60-talet" date="2011-03-03">
+      <translation value="it happened in the sixties"/>
+    </example>
+    <example id="4285" value="vad h&#xE4;nde med din syster?" date="2011-03-03">
+      <translation value="what happened to your sister?"/>
+    </example>
+    <definition id="7005" value="ske, tilldra sig" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

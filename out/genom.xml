@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="genom" lang="sv" class="pp" id="60230" lexinid="6023" origin="lexin" date="2011-03-03">
+    <translation id="5924" value="through" date="2011-03-03"/>
+    <translation id="60230-5808" value="via" origin="user" date="2014-02-11T05:14:41"/>
+    <phonetic value="jE:n&#xE5;m" soundFile="genom.swf" date="2011-03-03"/>
+    <synonym value="igenom" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="via" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="genom||genom..1||genom..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3537" value="resa genom Sverige" date="2011-03-03">
+      <translation value="travel through Sweden"/>
+    </example>
+    <example id="3538" value="g&#xE5; in genom en d&#xF6;rr" date="2011-03-03">
+      <translation value="go in through a door"/>
+    </example>
+    <idiom id="431" value="genom &#xE5;ren (el. tiderna) (&amp;quot;genom &#xE5;rens (el. tidernas) lopp&amp;quot;)" date="2011-03-03">
+      <translation value="over the years (&amp;quot;throughout a period of years&amp;quot;)"/>
+    </idiom>
+    <definition id="5807" value="in p&#xE5; ena sidan (av n&#xE5;got) och ut p&#xE5; den andra, fr&#xE5;n den ena sidan till den andra, igenom" date="2011-03-03">
+      <translation value="into at one side (of something) and out on the other; from one side to the other"/>
+    </definition>
+  </word>
+  <word class="pp" date="2011-03-03" id="60240" lang="sv" lexinid="6024" origin="lexin" value="genom">
+    <translation date="2011-03-03" id="5925" value="through"/>
+    <phonetic date="2011-03-03" soundFile="genom.swf" value="jE:n&#xE5;m"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="igenom"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="via"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="genom||genom..1||genom..pp.1"/>
+    <example date="2011-03-03" id="3539" value="olyckan skedde genom ett missf&#xF6;rst&#xE5;nd">
+      <translation value="the accident was caused by a misunderstanding"/>
+    </example>
+    <example date="2011-03-03" id="3540" value="genom att l&#xE4;ra andra l&#xE4;r man sig sj&#xE4;lv">
+      <translation value="one learns by teaching others"/>
+    </example>
+    <example date="2011-03-03" id="3541" value="spara pengar genom investering">
+      <translation value="save money through investment"/>
+    </example>
+    <definition date="2011-03-03" id="5808" value="med, med hj&#xE4;lp av; p&#xE5; grund av">
+      <translation value="with the help of, by means of; as a result of"/>
+    </definition>
+  </word>
+  <word value="across" lang="en" class="pp" id="3981" origin="lexin" date="2009-02-24">
+    <translation id="3981-1" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="3981-2" value="tv&#xE4;rs&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="3981-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="3981-4" value="genom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23151" origin="lexin" date="2009-02-24">
+    <translation id="23151-1" value="p&#xE5;" comment="som uttrycker befintlighet, plats" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-2" value="vid" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-3" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-4" value="hos" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-5" value="genom" origin="lexin" date="2009-02-24"/>
+    <translation id="23151-6" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="by" lang="en" class="pp" id="62591" origin="lexin" date="2009-02-24">
+    <translation id="62591-1" value="genom" origin="lexin" date="2009-02-24"/>
+    <example id="62591-2" value="I entered by the back door" origin="lexin" date="2009-02-24">
+      <translation value="jag kom in genom bakd&#xF6;rren" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="by" lang="en" class="pp" id="62641" origin="lexin" date="2009-02-24">
+    <translation id="62641-1" value="medelst" origin="lexin" date="2009-02-24"/>
+    <translation id="62641-2" value="genom" comment="anger det s&#xE4;tt p&#xE5; vilket n&#xE5;got utf&#xF6;rs" origin="lexin" date="2009-02-24"/>
+    <example id="62641-6" value="I did it all by myself" origin="lexin" date="2009-02-24">
+      <translation value="jag har gjort det alldeles sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="62641-7" value="I&amp;#39;ll sew it by hand" origin="lexin" date="2009-02-24">
+      <translation value="jag syr det f&#xF6;r hand" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="62641-8" value="she sent the package by air mail" origin="lexin" date="2009-02-24">
+      <translation value="hon skickade paketet med flygpost" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="62641-3" value="go by car (bus; train; etcetera)" origin="lexin" date="2009-02-24">
+      <translation value="&#xE5;ka bil (buss; t&#xE5;g; etcetera)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="62641-4" value="send something by courier" origin="lexin" date="2009-02-24">
+      <translation value="skicka n&#xE5;gonting med bud" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="62641-5" value="travel by car (bus; train; etcetera)" origin="lexin" date="2009-02-24">
+      <translation value="resa med bil (buss; t&#xE5;g; etcetera)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="in" lang="en" class="pp" id="228611" origin="lexin" date="2009-02-24">
+    <translation id="228611-1" value="genom" origin="lexin" date="2009-02-24"/>
+    <translation id="228611-2" value="n&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <example id="228611-5" value="in learning about foreign cultures one grows as a person" origin="lexin" date="2009-02-24">
+      <translation value="genom att l&#xE4;ra sig om fr&#xE4;mmande kulturer v&#xE4;xer man som person" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="228611-3" value="in all" origin="lexin" date="2009-02-24">
+      <translation value="sammantaget" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228611-4" value="in that" origin="lexin" date="2009-02-24">
+      <translation value="d&#xE4;rf&#xF6;r att, p&#xE5; grund av" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="alltid med progressiv form" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out" lang="en" class="pp" id="298121" origin="lexin" date="2009-02-24">
+    <translation id="298121-1" value="genom" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <example id="298121-2" value="she went out the gate" origin="lexin" date="2009-02-24">
+      <translation value="hon gick ut genom grinden" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pp" lang="en" class="pp" id="328641" origin="lexin" comment="formellt; i brev undertecknade av sekreterare etc." date="2009-02-24">
+    <translation id="328641-1" value="genom" origin="lexin" date="2009-02-24"/>
+    <example id="328641-2" value="Signed John Smith pp Lucy Jones." origin="lexin" date="2009-02-24">
+      <translation value="Undertecknat John Smith genom Lucy Jones." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="By delegation to, through the agency of." origin="lexin" date="2009-02-24">
+      <translation value="F&#xF6;rkortning f&#xF6;r genom." origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="through" lang="en" class="pp" id="429641" origin="lexin" date="2009-02-24">
+    <translation id="429641-1" value="genom" origin="lexin" date="2009-02-24"/>
+    <example id="429641-2" value="I had to drive through a tunnel." origin="lexin" date="2009-02-24">
+      <translation value="Jag var tvuingen att k&#xF6;ra genom en tunnel." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="In at end of something like a pipe or tube and out at the other." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="through" lang="en" class="pp" id="429651" origin="lexin" date="2009-02-24">
+    <translation id="429651-1" value="genom" origin="lexin" date="2009-02-24"/>
+    <translation id="429651-2" value="genom ngns f&#xF6;rsorg" origin="lexin" date="2009-02-24"/>
+    <translation id="429651-3" value="tack vare" origin="lexin" date="2009-02-24"/>
+    <example id="429651-4" value="I got this gig through contacts." origin="lexin" date="2009-02-24">
+      <translation value="Jag fick den h&#xE4;r spelningen genom kontakter." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="by means of, with the help of" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="via" lang="en" class="pp" id="436751" origin="lexin" date="2009-02-24">
+    <translation id="436751-1" value="via" origin="lexin" date="2009-02-24"/>
+    <translation id="436751-2" value="genom" origin="lexin" date="2009-02-24"/>
+    <translation id="436751-3" value="med hj&#xE4;lp av" origin="lexin" date="2009-02-24"/>
+    <example id="436751-4" value="We&amp;#39;re going to Stockholm via Hallsberg." origin="lexin" date="2009-02-24">
+      <translation value="Vi &#xE5;ker till Stockholm via Hallsberg." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="436751-5" value="I was able to contact her via a satellite connection." origin="lexin" date="2009-02-24">
+      <translation value="Jag kunde kontakta henne med hj&#xE4;lp av en satellitf&#xF6;rbindelse." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Through, or by the help of" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Austrians" lang="en" id="522061" origin="user" date="2013-11-23T04:49:24">
+    <translation id="522061-1" value="&#xD6;sterrikare" origin="user" date="2013-11-23T04:49:24"/>
+    <translation id="522061-2" value="Austrian (Manlig &#xD6;sterrikare)" origin="user" date="2013-11-23T04:49:26"/>
+    <translation id="522061-3" value="genom" origin="user" date="2016-02-25T00:39:02"/>
+  </word>
+</definition>

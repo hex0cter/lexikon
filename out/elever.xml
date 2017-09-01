@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="elev" lang="sv" class="nn" id="38500" lexinid="3850" origin="lexin" date="2011-03-03">
+    <translation id="38500-3705" value="pupil" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="38500-3706" value="student" origin="user" date="2012-02-08T23:49:44"/>
+    <phonetic value="elE:v" soundFile="elev.swf" date="2011-03-03"/>
+    <paradigm id="3336" origin="lexin" date="2011-03-03">
+      <inflection value="eleven"/>
+      <inflection value="elever"/>
+    </paradigm>
+    <synonym value="adept" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE4;rjunge" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE4;rling" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="skolbarn" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="student" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="studerande" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="elev||elev..1||elev..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2277" value="hon var elev till Picasso" date="2011-03-03">
+      <translation value="she was a pupil of Picasso&amp;#39;s"/>
+    </example>
+    <example id="2278" value="elev p&#xE5; grundskolans h&#xF6;gstadium" date="2011-03-03">
+      <translation value="pupil at the senior level of the nine-year compulsory school"/>
+    </example>
+    <example id="2279" value="elev i gymnasiet" date="2011-03-03">
+      <translation value="upper-secondary school pupil"/>
+    </example>
+    <compound id="1343" value="sjuksk&#xF6;terskeelev" date="2011-03-03">
+      <translation value="student nurse"/>
+    </compound>
+    <definition id="3704" value="person som l&#xE4;r sig, l&#xE4;rjunge" date="2011-03-03"/>
+    <url value="14/klassrum.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="s&#xE4;rskilt om centrala delar av en stad" date="2011-03-03" id="27690" lang="sv" lexinid="2769" origin="lexin" value="centrum">
+    <translation comment="esp. in the central parts of a city" date="2011-03-03" id="2732" value="centre, (center [US])"/>
+    <phonetic date="2011-03-03" soundFile="centrum.swf" value="sEn:trum"/>
+    <paradigm date="2011-03-03" id="2429" origin="lexin">
+      <inflection value="centrumet"/>
+      <inflection value="centrum"/>
+      <inflection value="centrumen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="center"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="city"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="k&#xE4;rna"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="medelpunkt"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="mitt"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="mitten"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="mittpunkt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="nav"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="centrum||centrum..1||centrum..nn.1"/>
+    <example date="2011-03-03" id="1634" value="st&#xE5; i centrum f&#xF6;r uppm&#xE4;rksamheten">
+      <translation value="be the centre of attention"/>
+    </example>
+    <example date="2011-03-03" id="1635" value="Stockholms centrum">
+      <translation value="central Stockholm"/>
+    </example>
+    <compound date="2011-03-03" id="951" value="stormcentrum">
+      <translation value="storm centre"/>
+    </compound>
+    <compound date="2011-03-03" id="952" value="aff&#xE4;rscentrum">
+      <translation value="business (shopping) centre"/>
+    </compound>
+    <definition date="2011-03-03" id="2672" value="mittpunkt">
+      <translation value="midpoint"/>
+    </definition>
+  </word>
+  <word value="center" lang="en" class="nn" id="71451" origin="lexin" comment="amerikansk engelska" date="2009-02-24">
+    <variant value="centre" comment="i brittisk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="71451-1" value="mittpunkt" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="71451-2" value="centrum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="center" lang="en" class="nn" id="71481" origin="lexin" comment="amerikansk engelska" date="2009-02-24">
+    <variant value="centre" comment="i brittisk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="71481-1" value="center" origin="lexin" date="2009-02-24"/>
+    <translation id="71481-2" value="centrum" origin="lexin" date="2009-02-24"/>
+    <explanation value="area or district with a high concentration of businesses, etc." origin="lexin" date="2009-02-24">
+      <translation value="omr&#xE5;de eller distrikt med en h&#xF6;g koncentration av aff&#xE4;rer med mera" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="center" lang="en" class="nn" id="71511" origin="lexin" comment="amerikansk engelska" date="2009-02-24">
+    <variant value="centre" comment="i brittisk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="71511-1" value="centrum" origin="lexin" date="2009-02-24"/>
+    <translation id="71511-2" value="center" origin="lexin" date="2009-02-24"/>
+    <translation id="71511-3" value="mittpunkt" origin="lexin" date="2009-02-24"/>
+    <translation id="71511-4" value="medelpunkt" origin="lexin" date="2009-02-24"/>
+    <explanation value="midpoint" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="centre" lang="en" class="nn" id="71801" origin="lexin" date="2009-02-24">
+    <translation id="71801-1" value="mittpunkt" comment="brittisk engelska, i amerikansk engelska center; bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="71801-2" value="centrum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="centre" lang="en" class="nn" id="71831" origin="lexin" date="2009-02-24">
+    <translation id="71831-1" value="center" comment="brittisk engelska, i amerikansk engelska center" origin="lexin" date="2009-02-24"/>
+    <translation id="71831-2" value="centrum" origin="lexin" date="2009-02-24"/>
+    <explanation value="omr&#xE5;de eller distrikt med en h&#xF6;g koncentration av aff&#xE4;rer med mera" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="centre" lang="en" class="nn" id="71861" origin="lexin" date="2009-02-24">
+    <translation id="71861-1" value="centrum" comment="brittisk engelska, i amerikansk engelska center" origin="lexin" date="2009-02-24"/>
+    <translation id="71861-2" value="center" origin="lexin" date="2009-02-24"/>
+    <translation id="71861-3" value="mittpunkt" origin="lexin" date="2009-02-24"/>
+    <translation id="71861-4" value="medelpunkt" origin="lexin" date="2009-02-24"/>
+    <explanation value="midpoint" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="focal point" lang="en" class="nn" id="180681" origin="lexin" date="2009-02-24">
+    <translation id="180681-1" value="br&#xE4;nnpunkt" origin="lexin" date="2009-02-24"/>
+    <translation id="180681-2" value="fokus" origin="lexin" date="2009-02-24"/>
+    <translation id="180681-3" value="centrum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="focus" lang="en" class="nn" id="180711" origin="lexin" date="2009-02-24">
+    <translation id="180711-1" value="medelpunkt" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="180711-2" value="centrum" origin="lexin" date="2009-02-24"/>
+    <translation id="180711-3" value="blickf&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="180711-4" value="inriktning" origin="lexin" date="2009-02-24"/>
+    <paradigm id="180711-5" origin="lexin" date="2009-02-24">
+      <inflection value="foci" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="180711-6" origin="lexin" date="2009-02-24">
+      <inflection value="focuses" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="heart" lang="en" class="nn" id="215591" origin="lexin" date="2009-02-24">
+    <translation id="215591-1" value="hj&#xE4;rta" origin="lexin" date="2009-02-24"/>
+    <translation id="215591-2" value="k&#xE4;rna" origin="lexin" date="2009-02-24"/>
+    <translation id="215591-3" value="centrum" origin="lexin" date="2009-02-24"/>
+    <example id="215591-5" value="she lives in the heart of the city" origin="lexin" date="2009-02-24">
+      <translation value="hon bor mitt i stadens centrum" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="215591-4" value="the heart of the matter" origin="lexin" date="2009-02-24">
+      <translation value="pudelns k&#xE4;rna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="hub" lang="en" class="nn" id="223601" origin="lexin" date="2009-02-24">
+    <translation id="223601-1" value="centrum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="seat" lang="en" class="nn" id="373801" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="373801-1" value="centrum" origin="lexin" date="2009-02-24"/>
+    <translation id="373801-2" value="s&#xE4;te" origin="lexin" date="2009-02-24"/>
+    <example id="373801-3" value="the seat of the trouble" origin="lexin" date="2009-02-24">
+      <translation value="orosh&#xE4;rden" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

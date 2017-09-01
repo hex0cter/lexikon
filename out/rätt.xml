@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="148380" lang="sv" lexinid="14839" origin="lexin" value="r&#xE4;t">
+    <translation date="2011-03-03" id="14576" value="straight"/>
+    <phonetic date="2011-03-03" soundFile="r&#xE4;t.swf" value="r&#xE4;:t"/>
+    <paradigm date="2011-03-03" id="12952" origin="lexin">
+      <inflection value="r&#xE4;tt"/>
+      <inflection value="r&#xE4;ta"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="rak"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="r&#xE4;t||r&#xE4;t..1||r&#xE4;t..av.1"/>
+    <example date="2011-03-03" id="8416" value="en r&#xE4;t linje">
+      <translation value="a straight line"/>
+    </example>
+    <definition date="2011-03-03" id="14371" value="rak"/>
+  </word>
+  <word class="jj" comment="om vinkel" date="2011-03-03" id="148390" lang="sv" lexinid="14840" origin="lexin" value="r&#xE4;t">
+    <translation comment="of angles" date="2011-03-03" id="14577" value="right angle"/>
+    <phonetic date="2011-03-03" soundFile="r&#xE4;t.swf" value="r&#xE4;:t"/>
+    <paradigm date="2011-03-03" id="12953" origin="lexin">
+      <inflection value="r&#xE4;tt"/>
+      <inflection value="r&#xE4;ta"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="rak"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="r&#xE4;t||r&#xE4;t..1||r&#xE4;t..av.1"/>
+    <example date="2011-03-03" id="8417" value="en r&#xE4;t vinkel">
+      <translation value="a right (90 degree) angle"/>
+    </example>
+    <definition date="2011-03-03" id="14372" value="som har storleken 90 grader"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="jj" id="148440" lexinid="14845" origin="lexin" date="2011-03-03">
+    <translation id="14582" value="right" date="2011-03-03"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <paradigm id="12958" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;tt"/>
+      <inflection value="r&#xE4;tta"/>
+    </paradigm>
+    <synonym value="exakt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="korrekt" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="precis" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktig" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktigt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sann" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..1||r&#xE4;tt..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8423" value="p&#xE5; r&#xE4;tt sida" date="2011-03-03">
+      <translation value="on the right side"/>
+    </example>
+    <example id="8424" value="r&#xE4;ttare sagt" date="2011-03-03">
+      <translation value="rather (more correctly)"/>
+    </example>
+    <example id="8425" value="det &#xE4;r inte mer &#xE4;n r&#xE4;tt" date="2011-03-03">
+      <translation value="it&amp;#39;s only right"/>
+    </example>
+    <example id="8426" value="du har r&#xE4;tt" date="2011-03-03">
+      <translation value="you are right"/>
+    </example>
+    <related value="fel" type="antonym" origin="lexin">
+      <translation value="wrong" origin="lexin" date="2011-03-03"/>
+    </related>
+    <idiom id="1278" value="r&#xE4;tt och sl&#xE4;tt (&amp;quot;helt enkelt&amp;quot;)" date="2011-03-03">
+      <translation value="quite simply"/>
+    </idiom>
+    <definition id="14377" value="riktig, korrekt" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="ab" id="148450" lexinid="14846" origin="lexin" date="2011-03-03">
+    <translation id="148450-14379" value="fairly" origin="user" date="2012-01-19T23:50:02"/>
+    <translation id="148450-14380" value="rather" origin="user" date="2012-01-19T23:50:02"/>
+    <translation id="148450-14381" value="quite" origin="user" date="2012-01-19T23:50:02"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <synonym value="domstol" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="exakt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="korrekt" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="precis" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktig" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktigt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sann" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..5||r&#xE4;tt..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8427" value="det g&#xE5;r r&#xE4;tt bra" date="2011-03-03">
+      <translation value="it&amp;#39;s going quite well"/>
+    </example>
+    <definition id="14378" value="ganska" date="2011-03-03"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="148460" lang="sv" lexinid="14847" origin="lexin" value="r&#xE4;tt">
+    <translation date="2011-03-03" id="14584" value="right"/>
+    <phonetic date="2011-03-03" soundFile="r&#xE4;tt.swf" value="ret:"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="domstol"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="exakt"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="korrekt"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="precis"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="riktig"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="riktigt"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="sann"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="r&#xE4;tt||r&#xE4;tt..5||r&#xE4;tt..ab.1"/>
+    <example date="2011-03-03" id="8428" value="klockan g&#xE5;r r&#xE4;tt">
+      <translation value="the clock is right"/>
+    </example>
+    <definition date="2011-03-03" id="14379" value="utan fel"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="ab" id="148470" lexinid="14848" origin="lexin" date="2011-03-03">
+    <translation id="148470-14381" value="right" origin="user" date="2012-02-03T23:48:06"/>
+    <translation id="148470-14382" value="(straight)" origin="user" date="2012-02-03T23:48:06"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <synonym value="domstol" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="exakt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="korrekt" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="precis" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktig" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktigt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sann" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..5||r&#xE4;tt..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8429" value="hon gick r&#xE4;tt i f&#xE4;llan" date="2011-03-03">
+      <translation value="she fell right (straight) into the trap"/>
+    </example>
+    <example id="8430" value="ett h&#xE5;l r&#xE4;tt igenom v&#xE4;ggen" date="2011-03-03">
+      <translation value="a hole right (straight) through the wall"/>
+    </example>
+    <definition id="14380" value="rakt" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="nn" id="148480" lexinid="14849" origin="lexin" date="2011-03-03">
+    <translation id="148480-14382" value="course" origin="user" date="2011-12-17T19:49:40"/>
+    <translation id="148480-14383" value="dish" origin="user" date="2011-12-17T19:49:40"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <paradigm id="12959" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;tten"/>
+      <inflection value="r&#xE4;tter"/>
+    </paradigm>
+    <see value="r&#xE4;tt||r&#xE4;tt..2||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..3||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..4||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="5190" value="nationalr&#xE4;tt" date="2011-03-03">
+      <translation value="national dish"/>
+    </compound>
+    <compound id="5191" value="huvudr&#xE4;tt" date="2011-03-03">
+      <translation value="main course"/>
+    </compound>
+    <compound id="5192" value="matr&#xE4;tt" date="2011-03-03">
+      <translation value="dish, course (of food)"/>
+    </compound>
+    <definition id="14381" value="matanr&#xE4;ttning" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="nn" id="148490" lexinid="14850" origin="lexin" date="2011-03-03">
+    <translation id="14587" value="right" date="2011-03-03"/>
+    <use value="ej plural" date="2011-03-03"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <paradigm id="12960" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;tten"/>
+      <inflection value="r&#xE4;tter"/>
+    </paradigm>
+    <see value="r&#xE4;tt||r&#xE4;tt..2||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..3||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..4||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8431" value="med vilken r&#xE4;tt sitter du h&#xE4;r?" date="2011-03-03">
+      <translation value="what right have you to sit here?"/>
+    </example>
+    <definition id="14382" value="r&#xE4;ttighet" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="nn" id="148500" lexinid="14851" origin="lexin" date="2011-03-03">
+    <translation id="148500-14384" value="right" origin="user" date="2012-03-01T01:33:20"/>
+    <translation id="148500-14385" value="justice" origin="user" date="2012-03-01T01:33:20"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <paradigm id="12961" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;tten"/>
+      <inflection value="r&#xE4;tter"/>
+    </paradigm>
+    <synonym value="exakt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="riktigt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..2||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..3||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..4||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8432" value="lag och r&#xE4;tt" date="2011-03-03">
+      <translation value="law and order"/>
+    </example>
+    <compound id="5193" value="r&#xE4;ttsk&#xE4;nsla" date="2011-03-03">
+      <translation value="sense of justice"/>
+    </compound>
+    <definition id="14383" value="r&#xE4;ttvisa" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;tt" lang="sv" class="nn" id="148510" lexinid="14852" origin="lexin" date="2011-03-03">
+    <translation id="14589" value="court" date="2011-03-03"/>
+    <phonetic value="ret:" soundFile="r&#xE4;tt.swf" date="2011-03-03"/>
+    <paradigm id="12962" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;tten"/>
+      <inflection value="r&#xE4;tter"/>
+    </paradigm>
+    <see value="r&#xE4;tt||r&#xE4;tt..2||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..3||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;tt||r&#xE4;tt..4||r&#xE4;tt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="5194" value="tingsr&#xE4;tt" date="2011-03-03">
+      <translation value="district court"/>
+    </compound>
+    <definition id="14384" value="domstol" date="2011-03-03"/>
+  </word>
+  <word value="authority" lang="en" class="nn" id="25211" origin="lexin" date="2009-02-24">
+    <translation id="25211-1" value="bemyndigande" origin="lexin" date="2009-02-24"/>
+    <translation id="25211-2" value="fullmakt" origin="lexin" date="2009-02-24"/>
+    <translation id="25211-3" value="till&#xE5;telse" origin="lexin" date="2009-02-24"/>
+    <translation id="25211-4" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="25211-5" value="befogenhet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="claim" lang="en" class="nn" id="80421" origin="lexin" date="2009-02-24">
+    <translation id="80421-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="course" lang="en" class="nn" id="106461" origin="lexin" date="2009-02-24">
+    <translation id="106461-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="106461-2" value="matr&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="direct" lang="en" class="ab" id="132151" origin="lexin" date="2009-02-24">
+    <translation id="132151-1" value="direkt" origin="lexin" date="2009-02-24"/>
+    <translation id="132151-2" value="omedelbart" origin="lexin" date="2009-02-24"/>
+    <translation id="132151-3" value="rakt" origin="lexin" date="2009-02-24"/>
+    <translation id="132151-4" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <explanation value="without interruption or diversion, immediately; clearly" origin="lexin" date="2009-02-24">
+      <translation value="utan omv&#xE4;gar" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="good" lang="en" class="jj" id="200961" origin="lexin" date="2009-02-24">
+    <translation id="200961-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="200961-2" value="ganska" origin="lexin" date="2009-02-24"/>
+    <example id="200961-7" value="we waited a good while before we made the phone call" origin="lexin" date="2009-02-24">
+      <translation value="vi v&#xE4;ntade ganska l&#xE4;nge innan vi ringde" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="200961-3" value="a good deal" origin="lexin" date="2009-02-24">
+      <translation value="mycket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="200961-4" value="a good deal of" origin="lexin" date="2009-02-24">
+      <translation value="mycket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="200961-5" value="a good few" origin="lexin" date="2009-02-24">
+      <translation value="ett stort antal" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="200961-6" value="a good many" origin="lexin" date="2009-02-24">
+      <translation value="m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="interest" lang="en" class="nn" id="236651" origin="lexin" date="2009-02-24">
+    <translation id="236651-1" value="engagemang" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-2" value="intresse" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-3" value="andel" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-4" value="instats" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-5" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="236651-6" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="jj" id="244221" origin="lexin" date="2009-02-24">
+    <translation id="244221-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="244221-2" value="riktig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="justice" lang="en" class="nn" id="244261" origin="lexin" date="2009-02-24">
+    <translation id="244261-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="244261-2" value="r&#xE4;tt och billighet" origin="lexin" date="2009-02-24"/>
+    <translation id="244261-3" value="ber&#xE4;ttigande" origin="lexin" date="2009-02-24"/>
+    <translation id="244261-4" value="riktighet" origin="lexin" date="2009-02-24"/>
+    <translation id="244261-5" value="rimlighet" origin="lexin" date="2009-02-24"/>
+    <example id="244261-6" value="the justice of" origin="lexin" date="2009-02-24">
+      <translation value="det befogade" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="licence" lang="en" class="nn" id="255541" origin="lexin" date="2009-02-24">
+    <translation id="255541-1" value="licens" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-2" value="tillst&#xE5;ndsbevis" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-3" value="tillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-4" value="lov" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-5" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-6" value="dispens" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-7" value="privilegium" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-8" value="r&#xE4;ttigheter" comment="brittisk engelska, i amerikansk engelska license" origin="lexin" date="2009-02-24"/>
+    <translation id="255541-9" value="spritr&#xE4;ttigheter" comment="brittisk engelska, i amerikansk engelska license" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="license" lang="en" class="nn" id="255601" origin="lexin" date="2009-02-24">
+    <translation id="255601-1" value="licens" comment="amerikansk engelska, i brittisk engelska licence" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-2" value="tillst&#xE5;ndsbevis" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-3" value="tillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-4" value="lov" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-5" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-6" value="dispens" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-7" value="r&#xE4;ttigheter" origin="lexin" date="2009-02-24"/>
+    <translation id="255601-8" value="spritr&#xE4;ttigheter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="proper" lang="en" class="ab" id="336441" origin="lexin" date="2009-02-24">
+    <translation id="336441-1" value="r&#xE4;tt" comment="brittisk engelska; talspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="336441-2" value="riktigt" origin="lexin" date="2009-02-24"/>
+    <translation id="336441-3" value="p&#xE5; r&#xE4;tt s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="336441-4" value="ordentligt" origin="lexin" date="2009-02-24"/>
+    <idiom id="336441-5" value="good and proper" origin="lexin" date="2009-02-24">
+      <translation value="riktigt ordentligt, helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="proper" lang="en" class="jj" id="336451" origin="lexin" date="2009-02-24">
+    <translation id="336451-1" value="r&#xE4;tt" comment="i synnerhet brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="336451-2" value="riktig" origin="lexin" date="2009-02-24"/>
+    <translation id="336451-3" value="passande" origin="lexin" date="2009-02-24"/>
+    <translation id="336451-4" value="l&#xE4;mplig" origin="lexin" date="2009-02-24"/>
+    <translation id="336451-5" value="tillb&#xF6;rlig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="proper" lang="en" class="jj" id="336491" origin="lexin" date="2009-02-24">
+    <translation id="336491-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="336491-2" value="riktig" origin="lexin" date="2009-02-24"/>
+    <translation id="336491-3" value="korrekt" origin="lexin" date="2009-02-24"/>
+    <translation id="336491-4" value="anst&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reason" lang="en" class="nn" id="347921" origin="lexin" date="2009-02-24">
+    <translation id="347921-1" value="rimlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="347921-2" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="347921-3" value="fog" origin="lexin" date="2009-02-24"/>
+    <translation id="347921-4" value="sk&#xE4;lighet" origin="lexin" date="2009-02-24"/>
+    <translation id="347921-5" value="reson" origin="lexin" date="2009-02-24"/>
+    <translation id="347921-6" value="f&#xF6;rnuft" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slap" lang="en" class="ab" id="385161" origin="lexin" date="2009-02-24">
+    <translation id="385161-1" value="rakt" origin="lexin" date="2009-02-24"/>
+    <translation id="385161-2" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="385161-3" value="pang" origin="lexin" date="2009-02-24"/>
+    <translation id="385161-4" value="pang p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slap-bang" lang="en" class="ab" id="385201" origin="lexin" date="2009-02-24">
+    <translation id="385201-1" value="rakt" origin="lexin" date="2009-02-24"/>
+    <translation id="385201-2" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="385201-3" value="pang" origin="lexin" date="2009-02-24"/>
+    <translation id="385201-4" value="pang p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suitably" lang="en" class="ab" id="406331" origin="lexin" date="2009-02-24">
+    <translation id="406331-1" value="l&#xE4;mpligt" origin="lexin" date="2009-02-24"/>
+    <translation id="406331-2" value="passande" origin="lexin" date="2009-02-24"/>
+    <translation id="406331-3" value="riktigt" origin="lexin" date="2009-02-24"/>
+    <translation id="406331-4" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tribunal" lang="en" class="nn" id="425641" origin="lexin" date="2009-02-24">
+    <translation id="425641-1" value="tribunal" origin="lexin" date="2009-02-24"/>
+    <translation id="425641-2" value="domstol" origin="lexin" date="2009-02-24"/>
+    <translation id="425641-3" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="warrant" lang="en" class="nn" id="440311" origin="lexin" date="2009-02-24">
+    <translation id="440311-1" value="ber&#xE4;ttigande" origin="lexin" date="2009-02-24"/>
+    <translation id="440311-2" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="440311-3" value="grund" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

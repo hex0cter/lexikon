@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="tidning" lang="sv" class="nn" id="187060" lexinid="18707" origin="lexin" date="2011-03-03">
+    <translation id="187060-18097" value="newspaper" origin="user" date="2011-11-12T00:14:36"/>
+    <translation id="187060-18098" value="magazine" origin="user" date="2011-11-12T00:14:36"/>
+    <phonetic value="&#xB2;ti:dni@" soundFile="tidning.swf" date="2011-03-03"/>
+    <paradigm id="16353" origin="lexin" date="2011-03-03">
+      <inflection value="tidningen"/>
+      <inflection value="tidningar"/>
+    </paradigm>
+    <synonym value="avis" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="blaska" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="lektyr" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="magasin" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="tidskrift" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="tidsskrift" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="tidning||tidning..1||tidning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10515" value="l&#xE4;sa tidningen" date="2011-03-03">
+      <translation value="read the newspaper"/>
+    </example>
+    <compound id="6338" value="tidnings|artikel" date="2011-03-03">
+      <translation value="newspaper article"/>
+    </compound>
+    <compound id="6339" value="veckotidning" date="2011-03-03">
+      <translation value="weekly"/>
+    </compound>
+    <compound id="6340" value="tidnings|reportage" date="2011-03-03">
+      <translation value="newspaper report"/>
+    </compound>
+    <compound id="6341" value="kv&#xE4;llstidning" date="2011-03-03">
+      <translation value="evening paper"/>
+    </compound>
+    <definition id="18096" value="regelbundet utkommande skrift med aktuellt inneh&#xE5;ll, nyhetsblad" date="2011-03-03"/>
+    <url value="19/massmedia1.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

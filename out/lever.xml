@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="lever" lang="sv" class="nn" id="99520" lexinid="9952" origin="lexin" date="2011-03-03">
+    <translation id="9776" value="liver" comment="liver" origin="user" date="2012-09-07T04:01:13"/>
+    <phonetic value="lE:ver" soundFile="lever.swf" date="2011-03-03"/>
+    <paradigm id="8659" origin="lexin" date="2011-03-03">
+      <inflection value="levern"/>
+      <inflection value="levrar"/>
+    </paradigm>
+    <see value="lever||lever..1||lever..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9587" value="ett inre organ i kroppen" date="2011-03-03"/>
+    <url value="3/matsmaeltning.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" comment="&#xE4;ven bildligt" date="2011-03-03" id="99530" lang="sv" lexinid="9953" origin="lexin" value="leva">
+    <translation comment="also figuratively" date="2011-03-03" id="9777" value="live"/>
+    <phonetic date="2011-03-03" soundFile="lever.swf" value="lE:ver"/>
+    <paradigm date="2011-03-03" id="8660" origin="lexin">
+      <inflection value="levde"/>
+      <inflection value="levt"/>
+      <inflection value="lev"/>
+      <inflection value="leva"/>
+      <inflection value="lever"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="leva||leva..1||leva..vb.1"/>
+    <example date="2011-03-03" id="5421" value="lever dina f&#xF6;r&#xE4;ldrar?">
+      <translation value="are your parents still alive?"/>
+    </example>
+    <example date="2011-03-03" id="5422" value="f&#xF6;da levande ungar">
+      <translation value="give birth to live offspring"/>
+    </example>
+    <example date="2011-03-03" id="5423" value="leva p&#xE5; ris">
+      <translation value="live on rice"/>
+    </example>
+    <idiom date="2011-03-03" id="842" value="leva upp till sitt rykte (&amp;quot;leva som folk anser att man lever&amp;quot;)">
+      <translation value="live up to one&amp;#39;s reputation (&amp;quot;live as people believe one lives&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="843" value="levande ljus (&amp;quot;stearinljus etc&amp;quot;)">
+      <translation value="candles (&amp;quot;wax candles, etc.&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="9588" value="vara vid liv, existera"/>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp;"/>
+  </word>
+  <word class="vb" comment="vardagligt" date="2011-03-03" id="99540" lang="sv" lexinid="9954" origin="lexin" value="leva">
+    <translation comment="informal" date="2011-03-03" id="9778" value="be noisy"/>
+    <phonetic date="2011-03-03" soundFile="lever.swf" value="lE:ver"/>
+    <paradigm date="2011-03-03" id="8661" origin="lexin">
+      <inflection value="levde"/>
+      <inflection value="levt"/>
+      <inflection value="lev"/>
+      <inflection value="leva"/>
+      <inflection value="lever"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="leva||leva..1||leva..vb.1"/>
+    <example date="2011-03-03" id="5424" value="han svor och levde">
+      <translation value="he cursed and kicked up a row"/>
+    </example>
+    <definition date="2011-03-03" id="9589" value="f&#xF6;ra ov&#xE4;sen"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp;"/>
+  </word>
+  <word value="h&#xE4;va" lang="sv" class="vb" id="73500" lexinid="7350" origin="lexin" date="2011-03-03">
+    <translation id="7213" value="heave" date="2011-03-03"/>
+    <phonetic value="h&#xC4;:ver" soundFile="h&#xE4;ver.swf" date="2011-03-03"/>
+    <paradigm id="6385" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE4;vde"/>
+      <inflection value="h&#xE4;vt"/>
+      <inflection value="h&#xE4;v"/>
+      <inflection value="h&#xE4;va"/>
+      <inflection value="h&#xE4;ver"/>
+    </paradigm>
+    <see value="h&#xE4;va||h&#xE4;va..1||h&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE4;va||h&#xE4;va..2||h&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4342" value="tunnorna h&#xE4;vdes &#xF6;verbord" date="2011-03-03">
+      <translation value="the barrels were cast overboard"/>
+    </example>
+    <compound id="2726" value="h&#xE4;v|st&#xE5;ng" date="2011-03-03">
+      <translation value="lever"/>
+    </compound>
+    <definition id="7073" value="lyfta upp (och kasta)" date="2011-03-03">
+      <translation value="lift up (and throw)"/>
+    </definition>
+    <grammar value="A &amp; x + RIKTNING" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="reglage" lang="sv" class="nn" id="141450" lexinid="14146" origin="lexin" date="2011-03-03">
+    <translation id="141450-13684" value="lever" origin="user" date="2012-01-14T23:15:28"/>
+    <translation id="141450-13685" value="control" origin="user" date="2012-01-14T23:15:28"/>
+    <translation id="141450-13686" value="regulator" origin="user" date="2012-01-14T23:15:28"/>
+    <phonetic value="reglA:$" soundFile="reglage.swf" date="2011-03-03"/>
+    <paradigm id="12312" origin="lexin" date="2011-03-03">
+      <inflection value="reglaget"/>
+      <inflection value="reglage"/>
+      <inflection value="reglagen"/>
+    </paradigm>
+    <see value="reglage||reglage..1||reglage..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="13683" value="anordning som reglerar en maskin" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="168950" lang="sv" lexinid="16896" origin="lexin" value="spak">
+    <translation date="2011-03-03" id="16600" value="lever"/>
+    <phonetic date="2011-03-03" soundFile="spak.swf" value="spa:k"/>
+    <paradigm date="2011-03-03" id="14750" origin="lexin">
+      <inflection value="spaken"/>
+      <inflection value="spakar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="handtag"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="reglerhandtag"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spak||spak..1||spak..nn.1"/>
+    <compound date="2011-03-03" id="5787" value="v&#xE4;xelspak">
+      <translation value="gear lever"/>
+    </compound>
+    <definition date="2011-03-03" id="16361" value="st&#xE5;ng som man reglerar en maskin med"/>
+  </word>
+  <word value="lever" lang="en" class="vb" id="254961" origin="lexin" date="2009-02-24">
+    <translation id="254961-1" value="anv&#xE4;nda p&#xE5;tryckning" origin="lexin" date="2009-02-24"/>
+    <example id="254961-2" value="they&amp;#39;re trying to lever me to quit my job" origin="lexin" date="2009-02-24">
+      <translation value="de f&#xF6;rs&#xF6;ker tvinga mig att s&#xE4;ga upp mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lever" lang="en" class="nn" id="254971" origin="lexin" date="2009-02-24">
+    <translation id="254971-1" value="handtag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lever" lang="en" class="nn" id="254981" origin="lexin" date="2009-02-24">
+    <translation id="254981-1" value="h&#xE4;vst&#xE5;ng" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lever" lang="en" class="vb" id="254991" origin="lexin" date="2009-02-24">
+    <translation id="254991-1" value="lyfta eller flytta med h&#xE4;vst&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lever" lang="en" class="nn" id="255001" origin="lexin" date="2009-02-24">
+    <translation id="255001-1" value="p&#xE5;tryckningsmedel" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="anger den talande el. skrivande" date="2011-03-03" id="79790" lang="sv" lexinid="7979" origin="lexin" value="jag">
+    <translation comment="indicates the speaker or writer (first person)" date="2011-03-03" id="7831" value="I"/>
+    <use date="2011-03-03" value="som subjekt; objektsform &amp;quot;mig&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="jag.swf" value="ja:(g)"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="mig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="sj&#xE4;lv"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="jag||jag..1||jag..pn.1"/>
+    <example date="2011-03-03" id="4718" value="vill du skicka mig sm&#xF6;ret!">
+      <translation value="please pass the butter!"/>
+    </example>
+    <example date="2011-03-03" id="4719" value="s&#xE5;vitt jag vet">
+      <translation value="as far as I know"/>
+    </example>
+    <example date="2011-03-03" id="4720" value="jag sj&#xE4;lv">
+      <translation value="I myself"/>
+    </example>
+  </word>
+  <word class="nn" date="2011-03-03" id="79800" lang="sv" lexinid="7980" origin="lexin" value="jag">
+    <translation date="2011-03-03" id="7832" value="ego"/>
+    <phonetic date="2011-03-03" soundFile="jag.swf" value="ja:g"/>
+    <paradigm date="2011-03-03" id="6879" origin="lexin">
+      <inflection value="jaget"/>
+      <inflection value="jag"/>
+      <inflection value="jagen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="mig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="sj&#xE4;lv"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="jag||jag..2||jag..nn.1"/>
+    <example date="2011-03-03" id="4721" value="det egna jaget">
+      <translation value="one&amp;#39;s true nature"/>
+    </example>
+    <definition date="2011-03-03" id="7671" value="beteckning f&#xF6;r den egna personen"/>
+  </word>
+  <word value="ego" lang="en" class="nn" id="151971" origin="lexin" date="2009-02-24">
+    <translation id="151971-1" value="ego" comment="filosofi eller psykologi" origin="lexin" date="2009-02-24"/>
+    <translation id="151971-2" value="jag" origin="lexin" date="2009-02-24"/>
+    <explanation value="a person&amp;#39;s &amp;quot;I&amp;quot; or &amp;quot;self&amp;quot;" origin="lexin" date="2009-02-24">
+      <translation value="jag" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="I" lang="en" class="pn" id="225331" origin="lexin" date="2009-02-24">
+    <translation id="225331-1" value="jag" origin="lexin" date="2009-02-24"/>
+    <example id="225331-2" value="as far as I know" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5;vitt jag vet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="subjektsformen av personliga pronomen f&#xF6;rsta person singularis (skrivs alltid med stor bokstav p&#xE5; engelska)" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="self" lang="en" class="nn" id="375411" origin="lexin" date="2009-02-24">
+    <translation id="375411-1" value="jag" origin="lexin" date="2009-02-24"/>
+    <paradigm id="375411-3" origin="lexin" date="2009-02-24">
+      <inflection value="selves" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="375411-2" value="she is still not her old self" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r fortfarande inte sitt gamla jag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="candy cane" lang="en" id="502461" origin="user" date="2013-04-13T04:02:18">
+    <translation id="502461-1" value="jag" origin="user" date="2013-04-13T04:02:18"/>
+  </word>
+  <word value="narrative form" lang="en" id="510041" origin="user" date="2013-07-17T00:42:28">
+    <translation id="510041-1" value="jag" origin="user" date="2013-07-17T00:42:28"/>
+  </word>
+  <word value="manganese ore" lang="en" id="549911" origin="user" date="2017-03-20T01:23:18">
+    <translation id="549911-1" value="mangan malm" origin="user" date="2017-03-20T01:23:19"/>
+    <translation id="549911-2" value="Save ska " origin="user" date="2017-03-20T01:23:21"/>
+    <translation id="549911-3" value="jag" origin="user" date="2017-03-20T01:23:22"/>
+  </word>
+</definition>

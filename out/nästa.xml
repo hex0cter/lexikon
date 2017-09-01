@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="120060" lang="sv" lexinid="12007" origin="lexin" value="n&#xE4;sta">
+    <translation date="2011-03-03" id="11790" value="next"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE4;sta.swf" value="&#xB2;nEs:ta"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="eftertr&#xE4;dande"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="kommande"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE4;sta||n&#xE4;sta..1||n&#xE4;sta..av.1"/>
+    <example date="2011-03-03" id="6599" value="n&#xE4;sta &#xE5;r">
+      <translation value="next year"/>
+    </example>
+    <example date="2011-03-03" id="6600" value="n&#xE4;sta g&#xE5;ng">
+      <translation value="next time"/>
+    </example>
+    <definition date="2011-03-03" id="11562" value="som kommer efter denna, f&#xF6;ljande"/>
+  </word>
+  <word value="n&#xE4;sta" lang="sv" class="nn" id="120070" lexinid="12008" origin="lexin" date="2011-03-03">
+    <translation id="120070-11564" value="neighbour" origin="user" date="2012-02-08T23:49:35"/>
+    <translation id="120070-11565" value="(neighbor [US])" origin="user" date="2012-02-08T23:49:35"/>
+    <phonetic value="&#xB2;nEs:ta" soundFile="n&#xE4;sta.swf" date="2011-03-03"/>
+    <paradigm id="10399" origin="lexin" date="2011-03-03">
+      <inflection value="n&#xE4;stan"/>
+    </paradigm>
+    <synonym value="eftertr&#xE4;dande" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="kommande" level="4.5" origin="synlex" date="2011-03-03"/>
+    <example id="6601" value="&#xE4;lska sin n&#xE4;sta" date="2011-03-03">
+      <translation value="love one&amp;#39;s neighbour"/>
+    </example>
+    <definition id="11563" value="medm&#xE4;nniska" date="2011-03-03"/>
+  </word>
+  <word value="neighbor" lang="en" class="nn" id="285151" origin="lexin" date="2009-02-24">
+    <translation id="285151-1" value="n&#xE4;sta" comment="amerikansk engelska, i brittisk engelska neighbour; bibliskt" origin="lexin" date="2009-02-24"/>
+    <idiom id="285151-2" value="love thy neighbor as yourself" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;lska din n&#xE4;sta s&#xE5;som dig sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="neighbour" lang="en" class="nn" id="285201" origin="lexin" date="2009-02-24">
+    <translation id="285201-1" value="n&#xE4;sta" comment="brittisk engelska, i amerikansk engelska neighbor; bibliskt" origin="lexin" date="2009-02-24"/>
+    <example id="285201-2" value="love one&amp;#39;s neighbour" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;lska sin n&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="medm&#xE4;nniska" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="next" lang="en" class="jj" id="286441" origin="lexin" date="2009-02-24">
+    <translation id="286441-1" value="n&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    <translation id="286441-2" value="n&#xE4;rmast f&#xF6;ljande" origin="lexin" date="2009-02-24"/>
+    <translation id="286441-3" value="n&#xE4;stf&#xF6;ljande" origin="lexin" date="2009-02-24"/>
+    <translation id="286441-4" value="n&#xE4;rmast" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="h&#xE5;rd" lang="sv" class="jj" id="72100" lexinid="7210" origin="lexin" comment="om person &amp;quot;ok&#xE4;nslig&amp;quot;" date="2011-03-03">
+    <translation id="72100-6939" value="strong" origin="user" date="2012-02-12T00:08:03"/>
+    <translation id="72100-6940" value="hard" origin="user" date="2012-02-12T00:08:03"/>
+    <phonetic value="h&#xE5;:r+d" soundFile="h&#xE5;rd.swf" date="2011-03-03"/>
+    <paradigm id="6266" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE5;rt"/>
+      <inflection value="h&#xE5;rda"/>
+    </paradigm>
+    <synonym value="brysk" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="obeveklig" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..1||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..2||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..3||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4236" value="h&#xE5;rd som st&#xE5;l" date="2011-03-03">
+      <translation value="hard as nails"/>
+    </example>
+    <example id="4237" value="en h&#xE5;rd arbetsgivare" date="2011-03-03">
+      <translation value="a tough employer"/>
+    </example>
+    <related value="mjuk" type="antonym" origin="lexin">
+      <translation value="soft" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="6938" value="som inte ger efter f&#xF6;r tryck el. b&#xF6;jning" date="2011-03-03">
+      <translation value="unyielding to pressure or bending"/>
+    </definition>
+  </word>
+  <word value="h&#xE5;rd" lang="sv" class="jj" id="72110" lexinid="7211" origin="lexin" date="2011-03-03">
+    <translation id="72110-6940" value="harsh" origin="user" date="2012-02-28T01:34:19"/>
+    <translation id="72110-6941" value="severe" origin="user" date="2012-02-28T01:34:19"/>
+    <translation id="72110-6942" value="fierce" origin="user" date="2012-02-28T01:34:19"/>
+    <phonetic value="h&#xE5;:r+d" soundFile="h&#xE5;rd.swf" date="2011-03-03"/>
+    <paradigm id="6267" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE5;rt"/>
+      <inflection value="h&#xE5;rda"/>
+    </paradigm>
+    <synonym value="brysk" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="grym" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE5;barkad" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="tuff" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..1||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..2||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..3||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4238" value="h&#xE5;rda strider" date="2011-03-03">
+      <translation value="fierce fighting"/>
+    </example>
+    <example id="4239" value="en h&#xE5;rd vinter" date="2011-03-03">
+      <translation value="a bitterly cold winter"/>
+    </example>
+    <example id="4240" value="h&#xE5;rt arbete" date="2011-03-03">
+      <translation value="hard work"/>
+    </example>
+    <definition id="6939" value="p&#xE5;frestande" date="2011-03-03">
+      <translation value="trying"/>
+    </definition>
+  </word>
+  <word value="h&#xE5;rd" lang="sv" class="jj" id="72120" lexinid="7212" origin="lexin" date="2011-03-03">
+    <translation id="72120-6941" value="strong" origin="user" date="2011-12-07T22:20:36"/>
+    <translation id="72120-6942" value="hard" origin="user" date="2011-12-07T22:20:36"/>
+    <phonetic value="h&#xE5;:r+d" soundFile="h&#xE5;rd.swf" date="2011-03-03"/>
+    <paradigm id="6268" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE5;rt"/>
+      <inflection value="h&#xE5;rda"/>
+    </paradigm>
+    <synonym value="robust" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE5;barkad" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="styv" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE5;rd||h&#xE5;rd..1||h&#xE5;rd..av.1" type="saldo" origin="saldo" date="2015-01-13T02:20:28"/>
+    <example id="4241" value="ett h&#xE5;rt skott p&#xE5; m&#xE5;l" date="2011-03-03">
+      <translation value="a hard shot at goal"/>
+    </example>
+    <example id="4242" value="h&#xE5;rda vindar" date="2011-03-03">
+      <translation value="strong winds"/>
+    </example>
+    <related value="l&#xE4;tt" type="antonym" origin="lexin">
+      <translation value="easy, weak" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="l&#xF6;s" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="6940" value="kraftig" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE5;rt" lang="sv" id="225730" origin="user" date="2011-12-07T22:20:23">
+    <translation id="225730-1" value="hard, tough" origin="user" date="2011-12-07T22:20:23"/>
+    <translation id="225730-1" value="hard" origin="user" date="2012-05-10T03:00:58"/>
+  </word>
+  <word value="fast" lang="en" class="ab" id="170451" origin="lexin" date="2009-02-24">
+    <translation id="170451-1" value="fast" origin="lexin" date="2009-02-24"/>
+    <translation id="170451-2" value="stadigt" origin="lexin" date="2009-02-24"/>
+    <translation id="170451-3" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="170451-4" value="t&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="170451-5" value="be fast asleep" origin="lexin" date="2009-02-24">
+      <translation value="sova tungt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="firmly" lang="en" class="ab" id="176371" origin="lexin" date="2009-02-24">
+    <translation id="176371-1" value="fast" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-2" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-3" value="best&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-4" value="s&#xE4;kert" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-5" value="f&#xF6;rtroendeingivande" origin="lexin" date="2009-02-24"/>
+    <translation id="176371-6" value="beslutsamt" origin="lexin" date="2009-02-24"/>
+    <idiom id="176371-7" value="fully believe" origin="lexin" date="2009-02-24">
+      <translation value="tro fullt och fast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="hard" lang="en" class="ab" id="212451" origin="lexin" date="2009-02-24">
+    <translation id="212451-1" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="212451-2" value="intensivt" origin="lexin" date="2009-02-24"/>
+    <example id="212451-3" value="is he working hard enough?" origin="lexin" date="2009-02-24">
+      <translation value="arbetar han tillr&#xE4;ckligt h&#xE5;rt?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="212451-4" value="I&amp;#39;ve really tried hard this time" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r g&#xE5;ngen har jag verkligen anstr&#xE4;ngt mig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="hardly" lang="en" class="ab" id="212571" origin="lexin" date="2009-02-24">
+    <translation id="212571-1" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="212571-2" value="str&#xE4;ngt" comment="s&#xE4;rskilt brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="212571-3" value="hardly treated" origin="lexin" date="2009-02-24">
+      <translation value="behandlad p&#xE5; ett h&#xE5;rt s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="rough" lang="en" class="ab" id="365341" origin="lexin" date="2009-02-24">
+    <translation id="365341-1" value="grovt" origin="lexin" date="2009-02-24"/>
+    <translation id="365341-2" value="r&#xE5;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="365341-3" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="365341-4" value="ojust" origin="lexin" date="2009-02-24"/>
+    <example id="365341-5" value="play rough" origin="lexin" date="2009-02-24">
+      <translation value="spela ojust" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="tight" lang="en" class="ab" id="419731" origin="lexin" date="2009-02-24">
+    <translation id="419731-1" value="t&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="419731-2" value="fast" origin="lexin" date="2009-02-24"/>
+    <translation id="419731-3" value="h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    <example id="419731-4" value="hug a person tight" origin="lexin" date="2009-02-24">
+      <translation value="krama n&#xE5;gon h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="anger den talande plus en eller flera andra" date="2011-03-03" id="207530" lang="sv" lexinid="20754" origin="lexin" value="vi">
+    <translation date="2011-03-03" id="20389" value="we"/>
+    <use date="2011-03-03" value="plural till &amp;quot;jag&amp;quot;; b&#xF6;jd form anv&#xE4;nds som objekt och efter preposition"/>
+    <phonetic date="2011-03-03" soundFile="vi.swf" value="vi:"/>
+    <paradigm date="2011-03-03" id="18100" origin="lexin">
+      <inflection value="oss"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vi||vi..1||vi..pn.1"/>
+    <example date="2011-03-03" id="11660" value="han har sett oss">
+      <translation value="he has seen us"/>
+    </example>
+    <example date="2011-03-03" id="11661" value="ska vi g&#xE5; nu?">
+      <translation value="shall we go now?"/>
+    </example>
+  </word>
+  <word value="we" lang="en" class="pn" id="441491" origin="lexin" date="2009-02-24">
+    <translation id="441491-1" value="vi" origin="lexin" date="2009-02-24"/>
+    <example id="441491-2" value="We are hungry." origin="lexin" date="2009-02-24">
+      <translation value="Vi &#xE4;r hungriga." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to oneself and one or more others as subject of a clause." origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="f&#xF6;rsta person plural, subjektform" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

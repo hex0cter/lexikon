@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="95480" lang="sv" lexinid="9548" origin="lexin" value="kvinna">
+    <translation date="2011-03-03" id="9380" value="woman"/>
+    <phonetic date="2011-03-03" soundFile="kvinna.swf" value="&#xB2;kvIn:a"/>
+    <paradigm date="2011-03-03" id="8292" origin="lexin">
+      <inflection value="kvinnan"/>
+      <inflection value="kvinnor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="brud"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="dam"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="fruntimmer"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="gumma"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="madam"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="tant"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="tjej"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kvinna||kvinna..1||kvinna..nn.1"/>
+    <compound date="2011-03-03" id="3394" value="kvinno|syn">
+      <translation value="attitude toward women"/>
+    </compound>
+    <compound date="2011-03-03" id="3395" value="indiankvinna">
+      <translation value="Native American woman"/>
+    </compound>
+    <compound date="2011-03-03" id="3396" value="yrkeskvinna">
+      <translation value="career woman"/>
+    </compound>
+    <definition date="2011-03-03" id="9199" value="vuxen person av honk&#xF6;n"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="2/maenniska.swf"/>
+  </word>
+  <word value="woman" lang="en" class="nn" id="446291" origin="lexin" date="2009-02-24">
+    <translation id="446291-1" value="kvinnan" comment="i allm&#xE4;nhet" origin="lexin" date="2009-02-24"/>
+    <translation id="446291-2" value="kvinnor" origin="lexin" date="2009-02-24"/>
+    <translation id="446291-3" value="kvinnosl&#xE4;ktet" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

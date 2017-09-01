@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="arbetsl&#xF6;s" lang="sv" class="jj" id="6610" lexinid="661" origin="lexin" date="2011-03-03">
+    <translation id="6610-659" value="out of work" origin="user" date="2012-03-19T05:00:14"/>
+    <translation id="6610-660" value="unemployed" origin="user" date="2012-03-19T05:00:14"/>
+    <translation id="6610-661" value="jobless" origin="user" date="2012-03-19T05:00:14"/>
+    <phonetic value="&#xB2;Ar:be:tsl&#xF6;:s" soundFile="arbetsl&#xF6;s.swf" date="2011-03-03"/>
+    <paradigm id="535" origin="lexin" date="2011-03-03">
+      <inflection value="arbetsl&#xF6;st"/>
+      <inflection value="arbetsl&#xF6;sa"/>
+    </paradigm>
+    <see value="arbetsl&#xF6;s||arbetsl&#xF6;s..1||arbetsl&#xF6;s..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="482" value="g&#xE5; arbetsl&#xF6;s" date="2011-03-03">
+      <translation value="be unemployed (out of work)"/>
+    </example>
+    <example id="483" value="bli arbetsl&#xF6;s" date="2011-03-03">
+      <translation value="become unemployed, lose one&amp;#39;s job"/>
+    </example>
+    <derivation id="56" value="arbetsl&#xF6;shet" date="2011-03-03">
+      <translation value="unemployment"/>
+    </derivation>
+    <definition id="658" value="som saknar arbete" date="2011-03-03">
+      <translation value="being without work"/>
+    </definition>
+  </word>
+  <word class="nn" date="2011-03-03" id="6620" lang="sv" lexinid="662" origin="lexin" value="arbetsl&#xF6;s|het">
+    <translation date="2011-03-03" id="652" value="unemployment"/>
+    <phonetic date="2011-03-03" soundFile="arbetsl&#xF6;shet.swf" value="&#xB2;Ar:be:tsl&#xF6;:she:t"/>
+    <paradigm date="2011-03-03" id="536" origin="lexin">
+      <inflection value="arbetsl&#xF6;sheten"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="arbetsl&#xF6;shet||arbetsl&#xF6;shet..1||arbetsl&#xF6;shet..nn.1"/>
+    <example date="2011-03-03" id="484" value="h&#xF6;g arbetsl&#xF6;shet">
+      <translation value="high level of unemployment"/>
+    </example>
+    <example date="2011-03-03" id="485" value="dold arbetsl&#xF6;shet">
+      <translation value="hidden (disguised) unemployment"/>
+    </example>
+    <compound date="2011-03-03" id="224" inflection="arbetsl&#xF6;shets|kassan" value="arbetsl&#xF6;shets|kassa">
+      <translation value="unemployment benefit society (fund)"/>
+    </compound>
+    <compound date="2011-03-03" id="225" inflection="arbetsl&#xF6;shets|f&#xF6;rs&#xE4;kringen" value="arbetsl&#xF6;shets|f&#xF6;rs&#xE4;kring">
+      <translation value="unemployment insurance"/>
+    </compound>
+    <compound date="2011-03-03" id="226" value="ungdomsarbetsl&#xF6;shet">
+      <translation value="unemployment among young people,juvenile unemployment"/>
+    </compound>
+    <definition date="2011-03-03" id="659" value="det att g&#xE5; utan arbete p&#xE5; grund av brist p&#xE5; jobb (i samh&#xE4;llet)">
+      <translation value="the state of being without work because of a lack of jobs (in the community)"/>
+    </definition>
+  </word>
+</definition>

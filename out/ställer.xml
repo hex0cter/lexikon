@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="st&#xE4;lla" lang="sv" class="vb" id="177230" lexinid="17724" origin="lexin" comment="allm&#xE4;nt &amp;quot;placera&amp;quot;" date="2011-03-03">
+    <translation id="17409" value="put" comment="commonly &amp;quot;place, position&amp;quot;" date="2011-03-03"/>
+    <phonetic value="stEl:er" soundFile="st&#xE4;ller.swf" date="2011-03-03"/>
+    <paradigm id="15487" origin="lexin" date="2011-03-03">
+      <inflection value="st&#xE4;llde"/>
+      <inflection value="st&#xE4;llt"/>
+      <inflection value="st&#xE4;ll"/>
+      <inflection value="st&#xE4;lla"/>
+      <inflection value="st&#xE4;ller"/>
+    </paradigm>
+    <synonym value="placera" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..1||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..2||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..3||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..4||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9994" value="st&#xE4;lla sig p&#xE5; t&#xE5;" date="2011-03-03">
+      <translation value="stand on one&amp;#39;s toes (on tiptoe)"/>
+    </example>
+    <example id="9995" value="st&#xE4;lla tallriken p&#xE5; bordet" date="2011-03-03">
+      <translation value="put the plate on the table"/>
+    </example>
+    <example id="9996" value="st&#xE4;lla fram maten" date="2011-03-03">
+      <translation value="put the food on the table"/>
+    </example>
+    <idiom id="1517" value="st&#xE4;lla sig bakom ett f&#xF6;rslag (&amp;quot;st&#xF6;dja&amp;quot;)" date="2011-03-03">
+      <translation value="support a proposal"/>
+    </idiom>
+    <idiom id="1518" value="st&#xE4;llas inf&#xF6;r r&#xE4;tta (&amp;quot;rannsakas av domstol&amp;quot;)" date="2011-03-03">
+      <translation value="be brought before the court (&amp;quot;be put on trial&amp;quot;)"/>
+    </idiom>
+    <idiom id="1519" value="st&#xE4;lla sig (tvivlande) (&amp;quot;vara (tvivlande)&amp;quot;)" date="2011-03-03">
+      <translation value="take a (doubtful) attitude (&amp;quot;be (doubtful, sceptical)&amp;quot;)"/>
+    </idiom>
+    <definition id="17144" value="placera uppr&#xE4;tt el. st&#xE5;ende" date="2011-03-03"/>
+    <grammar value="A &amp; x (p&#xE5; y)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="st&#xE4;lla" lang="sv" class="vb" id="177240" lexinid="17725" origin="lexin" date="2011-03-03">
+    <translation id="17410" value="put" date="2011-03-03"/>
+    <phonetic value="stEl:er" soundFile="st&#xE4;ller.swf" date="2011-03-03"/>
+    <paradigm id="15488" origin="lexin" date="2011-03-03">
+      <inflection value="st&#xE4;llde"/>
+      <inflection value="st&#xE4;llt"/>
+      <inflection value="st&#xE4;ll"/>
+      <inflection value="st&#xE4;lla"/>
+      <inflection value="st&#xE4;ller"/>
+    </paradigm>
+    <synonym value="rikta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..1||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..2||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..3||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="st&#xE4;lla||st&#xE4;lla..4||st&#xE4;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9997" value="st&#xE4;lla en fr&#xE5;ga" date="2011-03-03">
+      <translation value="put (ask) a question"/>
+    </example>
+    <example id="9998" value="st&#xE4;lla krav" date="2011-03-03">
+      <translation value="make demands"/>
+    </example>
+    <example id="9999" value="ans&#xF6;kan var st&#xE4;lld till Migrationsverket" date="2011-03-03">
+      <translation value="the application was addressed to the Migration Board"/>
+    </example>
+    <definition id="17145" value="framf&#xF6;ra, rikta" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="177250" lang="sv" lexinid="17726" origin="lexin" value="st&#xE4;lla">
+    <translation date="2011-03-03" id="17411" value="set"/>
+    <phonetic date="2011-03-03" soundFile="st&#xE4;ller.swf" value="stEl:er"/>
+    <paradigm date="2011-03-03" id="15489" origin="lexin">
+      <inflection value="st&#xE4;llde"/>
+      <inflection value="st&#xE4;llt"/>
+      <inflection value="st&#xE4;ll"/>
+      <inflection value="st&#xE4;lla"/>
+      <inflection value="st&#xE4;ller"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="placera"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="rikta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="st&#xE4;lla||st&#xE4;lla..1||st&#xE4;lla..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="st&#xE4;lla||st&#xE4;lla..2||st&#xE4;lla..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="st&#xE4;lla||st&#xE4;lla..3||st&#xE4;lla..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="st&#xE4;lla||st&#xE4;lla..4||st&#xE4;lla..vb.1"/>
+    <example date="2011-03-03" id="10000" value="st&#xE4;lla klockan p&#xE5; ringning">
+      <translation value="set the alarm clock to ring"/>
+    </example>
+    <definition date="2011-03-03" id="17146" value="s&#xE4;tta p&#xE5; ett visst s&#xE4;tt, st&#xE4;lla in"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word value="put" lang="en" class="vb" id="341871" origin="lexin" date="2009-02-24">
+    <translation id="341871-1" value="st&#xE4;ller" origin="lexin" date="2009-02-24"/>
+    <example id="341871-2" value="put (ask) a question" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla en fr&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341871-3" value="make demands" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla krav" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341871-4" value="the application was addressed to the Immigration Board" origin="lexin" date="2009-02-24">
+      <translation value="ans&#xF6;kan var st&#xE4;lld till Invandrarverket" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="framf&#xF6;ra, rikta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="put" lang="en" class="vb" id="341881" origin="lexin" date="2009-02-24">
+    <translation id="341881-1" value="st&#xE4;ller" origin="lexin" date="2009-02-24"/>
+    <example id="341881-5" value="put the plate on the table" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla tallriken p&#xE5; bordet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341881-6" value="put the food on the table" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla fram maten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341881-7" value="stand on one&amp;#39;s toes (on tiptoe)" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla sig p&#xE5; t&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="341881-2" value="support a proposal" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla sig bakom ett f&#xF6;rslag (&amp;quot;st&#xF6;dja&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341881-3" value="take a doubtful attitude, be doubtful/sceptical" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;lla sig tvivlande, vara tvivlande" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341881-4" value="be brought before the court (&amp;quot;be put on trial&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;llas inf&#xF6;r r&#xE4;tta (&amp;quot;rannsakas av domstol&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="placera uppr&#xE4;tt el. st&#xE5;ende" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

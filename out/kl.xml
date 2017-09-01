@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" comment="vid klockslag" date="2011-03-03" id="84890" lang="sv" lexinid="8489" origin="lexin" value="kl">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="kl."/>
+    <translation comment="when indicating the time of day" date="2011-03-03" id="8336" value="o&amp;#39;clock"/>
+    <phonetic date="2011-03-03" soundFile="kl.swf" value="&#xB2;kl&#xC5;k:an"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kl||kl..1||kl..nna.1"/>
+    <definition date="2011-03-03" id="8154" value="klockan"/>
+  </word>
+</definition>

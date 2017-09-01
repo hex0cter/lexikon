@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ledning" lang="sv" class="nn" id="98970" lexinid="9897" origin="lexin" date="2011-03-03">
+    <translation id="9721" value="management" date="2011-03-03"/>
+    <phonetic value="&#xB2;lE:dni@" soundFile="ledning.swf" date="2011-03-03"/>
+    <paradigm id="8612" origin="lexin" date="2011-03-03">
+      <inflection value="ledningen"/>
+      <inflection value="ledningar"/>
+    </paradigm>
+    <synonym value="direktion" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="styre" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="styrelse" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="ledning||ledning..1||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..2||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..3||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..4||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3532" value="f&#xF6;retagsledning" date="2011-03-03">
+      <translation value="company management"/>
+    </compound>
+    <compound id="3533" value="lednings|grupp" date="2011-03-03">
+      <translation value="managerial body, (the executive(s) [US])"/>
+    </compound>
+    <definition id="9535" value="styrelse" date="2011-03-03"/>
+  </word>
+  <word value="ledning" lang="sv" class="nn" id="98980" lexinid="9898" origin="lexin" date="2011-03-03">
+    <translation id="98980-9537" value="pipe" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="98980-9538" value="wire" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="98980-9539" value="line" origin="user" date="2012-01-14T23:15:24"/>
+    <phonetic value="&#xB2;lE:dni@" soundFile="ledning.swf" date="2011-03-03"/>
+    <paradigm id="8613" origin="lexin" date="2011-03-03">
+      <inflection value="ledningen"/>
+      <inflection value="ledningar"/>
+    </paradigm>
+    <synonym value="kabel" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;gledning" level="4.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="wire" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="ledning||ledning..1||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..2||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..3||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ledning||ledning..4||ledning..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3534" value="elledning" date="2011-03-03">
+      <translation value="electric cable"/>
+    </compound>
+    <compound id="3535" value="vattenledning" date="2011-03-03">
+      <translation value="water pipe"/>
+    </compound>
+    <definition id="9536" value="r&#xF6;r el. kabel som n&#xE5;got leds igenom" date="2011-03-03"/>
+  </word>
+</definition>

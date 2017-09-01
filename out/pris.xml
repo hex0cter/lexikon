@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="134970" lang="sv" lexinid="13498" origin="lexin" value="pris">
+    <translation date="2011-03-03" id="13253" value="pinch"/>
+    <phonetic date="2011-03-03" soundFile="pris.swf" value="pri:s"/>
+    <paradigm date="2011-03-03" id="11724" origin="lexin">
+      <inflection value="prisen"/>
+      <inflection value="prisar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="kostnad"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="tariff"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="taxa"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="vinst"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pris||pris..1||pris..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pris||pris..2||pris..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pris||pris..3||pris..nn.2"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pris||pris..4||pris..nn.4"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pris||pris..5||pris..nn.3"/>
+    <idiom date="2011-03-03" id="1180" value="en pris snus (&amp;quot;en nypa snus&amp;quot;)">
+      <translation value="a pinch of snuff"/>
+    </idiom>
+  </word>
+  <word value="pris" lang="sv" class="nn" id="134980" lexinid="13499" origin="lexin" comment="&#xE4;ven bildligt" date="2011-03-03">
+    <translation id="13254" value="price" comment="also figuratively" date="2011-03-03"/>
+    <phonetic value="pri:s" soundFile="pris.swf" date="2011-03-03"/>
+    <paradigm id="11725" origin="lexin" date="2011-03-03">
+      <inflection value="priset"/>
+      <inflection value="pris"/>
+      <inflection value="prisen"/>
+    </paradigm>
+    <synonym value="kostnad" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="taxa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="pris||pris..1||pris..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..2||pris..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..3||pris..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..4||pris..nn.4" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..5||pris..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7522" value="s&#xE4;tta ett pris p&#xE5; n&#xE5;got" date="2011-03-03">
+      <translation value="put a price on sth."/>
+    </example>
+    <example id="7523" value="betala ett h&#xF6;gt pris f&#xF6;r sina r&#xE4;ttigheter" date="2011-03-03">
+      <translation value="pay a high price for one&amp;#39;s rights"/>
+    </example>
+    <example id="7524" value="till ett pris av tio kronor per person" date="2011-03-03">
+      <translation value="at a price of ten kronor per person"/>
+    </example>
+    <example id="7525" value="ett h&#xF6;gt pris" date="2011-03-03">
+      <translation value="a high price"/>
+    </example>
+    <compound id="4738" value="pris|niv&#xE5;" date="2011-03-03">
+      <translation value="price level"/>
+    </compound>
+    <compound id="4739" value="pris|h&#xF6;jning" date="2011-03-03">
+      <translation value="price rise, price increase"/>
+    </compound>
+    <compound id="4740" value="pris|krig" date="2011-03-03">
+      <translation value="price war"/>
+    </compound>
+    <compound id="4741" value="pris|s&#xE4;ttning" date="2011-03-03">
+      <translation value="pricing"/>
+    </compound>
+    <compound id="4742" value="pris|stegring" date="2011-03-03">
+      <translation value="price rise, price increase"/>
+    </compound>
+    <compound id="4743" value="genomsnittspris" date="2011-03-03">
+      <translation value="average price"/>
+    </compound>
+    <compound id="4744" value="biljettpris" date="2011-03-03">
+      <translation value="price of a ticket, fare"/>
+    </compound>
+    <compound id="4745" value="ink&#xF6;pspris" date="2011-03-03">
+      <translation value="cost price"/>
+    </compound>
+    <idiom id="1181" value="till varje pris (&amp;quot;absolut, ovillkorligen&amp;quot;)" date="2011-03-03">
+      <translation value="at any price (&amp;quot;absolutely, unconditionally&amp;quot;)"/>
+    </idiom>
+    <definition id="13035" value="kostnad f&#xF6;r n&#xE5;gon vid k&#xF6;p" date="2011-03-03"/>
+  </word>
+  <word value="pris" lang="sv" class="nn" id="134990" lexinid="13500" origin="lexin" date="2011-03-03">
+    <translation id="13255" value="prize" date="2011-03-03"/>
+    <phonetic value="pri:s" soundFile="pris.swf" date="2011-03-03"/>
+    <paradigm id="11726" origin="lexin" date="2011-03-03">
+      <inflection value="priset"/>
+      <inflection value="pris"/>
+      <inflection value="prisen"/>
+    </paradigm>
+    <see value="pris||pris..1||pris..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..2||pris..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..3||pris..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..4||pris..nn.4" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="pris||pris..5||pris..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7526" value="f&#xE5; f&#xF6;rsta pris" date="2011-03-03">
+      <translation value="win first prize"/>
+    </example>
+    <compound id="4746" value="prisbel&#xF6;nad" date="2011-03-03"/>
+    <compound id="4747" value="Nobelpris" date="2011-03-03">
+      <translation value="Nobel Prize"/>
+    </compound>
+    <definition id="13036" value="fastst&#xE4;lld bel&#xF6;ning f&#xF6;r en viss prestation" date="2011-03-03"/>
+  </word>
+  <word value="award" lang="en" class="nn" id="26071" origin="lexin" date="2009-02-24">
+    <translation id="26071-1" value="pris" origin="lexin" date="2009-02-24"/>
+    <translation id="26071-2" value="bel&#xF6;ning" origin="lexin" date="2009-02-24"/>
+    <translation id="26071-3" value="stipendium" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="charge" lang="en" class="nn" id="74011" origin="lexin" date="2009-02-24">
+    <translation id="74011-1" value="pris" origin="lexin" date="2009-02-24"/>
+    <translation id="74011-2" value="avgift" origin="lexin" date="2009-02-24"/>
+    <translation id="74011-3" value="taxa" origin="lexin" date="2009-02-24"/>
+    <translation id="74011-4" value="skatt" origin="lexin" date="2009-02-24"/>
+    <translation id="74011-5" value="debitering" origin="lexin" date="2009-02-24"/>
+    <translation id="74011-6" value="konto" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="damage" lang="en" class="nn" id="117181" origin="lexin" date="2009-02-24">
+    <translation id="117181-1" value="pris" comment="informellt, s&#xE4;rskilt brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="117181-2" value="what&amp;#39;s the damage?" origin="lexin" date="2009-02-24">
+      <translation value="vad kostar det?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pot" lang="en" class="nn" id="327681" origin="lexin" date="2009-02-24">
+    <translation id="327681-1" value="buckla" comment="inom sport, vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="327681-2" value="pris" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="praise" lang="en" class="nn" id="329181" origin="lexin" date="2009-02-24">
+    <translation id="329181-1" value="ber&#xF6;m" origin="lexin" date="2009-02-24"/>
+    <translation id="329181-2" value="pris" origin="lexin" date="2009-02-24"/>
+    <translation id="329181-3" value="lovord" origin="lexin" date="2009-02-24"/>
+    <idiom id="329181-4" value="praise be to God!" origin="lexin" date="2009-02-24">
+      <translation value="Gud vare lovad!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="expression of approval" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="prize" lang="en" class="nn" id="333541" origin="lexin" date="2009-02-24">
+    <translation id="333541-1" value="bel&#xF6;ning" origin="lexin" date="2009-02-24"/>
+    <translation id="333541-2" value="pris" origin="lexin" date="2009-02-24"/>
+    <translation id="333541-3" value="l&#xF6;n" origin="lexin" date="2009-02-24"/>
+    <translation id="333541-4" value="premium" origin="lexin" date="2009-02-24"/>
+    <translation id="333541-5" value="premie" origin="lexin" date="2009-02-24"/>
+    <idiom id="333541-6" value="there are no prizes for guessing&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r inte sv&#xE5;rt att gissa&#xE4;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="rate" lang="en" class="nn" id="346411" origin="lexin" date="2009-02-24">
+    <translation id="346411-1" value="taxa" origin="lexin" date="2009-02-24"/>
+    <translation id="346411-2" value="tariff" origin="lexin" date="2009-02-24"/>
+    <translation id="346411-3" value="pris" origin="lexin" date="2009-02-24"/>
+    <translation id="346411-4" value="belopp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ribbon" lang="en" class="nn" id="361421" origin="lexin" date="2009-02-24">
+    <translation id="361421-1" value="band" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="361421-2" value="pris" comment="i t&#xE4;vling" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

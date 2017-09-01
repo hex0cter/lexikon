@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hitta" lang="sv" class="vb" id="69440" lexinid="6944" origin="lexin" date="2011-03-03">
+    <translation id="69440-6683" value="light on" origin="user" date="2012-03-11T03:08:33"/>
+    <translation id="69440-6684" value="come across" origin="user" date="2012-03-11T03:08:33"/>
+    <translation id="69440-6685" value="find" origin="user" date="2012-03-11T03:08:33"/>
+    <phonetic value="&#xB2;hIt:ar" soundFile="hittar.swf" date="2011-03-03"/>
+    <paradigm id="6032" origin="lexin" date="2011-03-03">
+      <inflection value="hittade"/>
+      <inflection value="hittat"/>
+      <inflection value="hitta"/>
+      <inflection value="hittar"/>
+    </paradigm>
+    <synonym value="finna" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="lokalisera" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="p&#xE5;tr&#xE4;ffa" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppt&#xE4;cka" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppt&#xE4;ckt" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;terfinna" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="hitta||hitta..1||hitta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4078" value="f&#xF6;rs&#xF6;k att hitta en orsak!" date="2011-03-03">
+      <translation value="you just try to come up with a good excuse!"/>
+    </example>
+    <compound id="2528" value="hitte|gods" date="2011-03-03">
+      <translation value="lost property"/>
+    </compound>
+    <definition id="6682" value="finna, uppt&#xE4;cka, p&#xE5;tr&#xE4;ffa" date="2011-03-03"/>
+    <grammar value="A &amp; B/x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="come across" lang="en" class="vb" id="88681" origin="lexin" date="2009-02-24">
+    <translation id="88681-1" value="hitta" origin="lexin" date="2009-02-24"/>
+    <translation id="88681-2" value="finna" origin="lexin" date="2009-02-24"/>
+    <translation id="88681-3" value="uppt&#xE4;cka" origin="lexin" date="2009-02-24"/>
+    <translation id="88681-4" value="p&#xE5;tr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <example id="88681-5" value="I&amp;#39;ve just come across the most interesting document" origin="lexin" date="2009-02-24">
+      <translation value="jag har precis uppt&#xE4;ckt ett ytterst intressant dokument" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="find" lang="en" class="vb" id="175361" origin="lexin" date="2009-02-24">
+    <translation id="175361-1" value="finna" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-2" value="hitta" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-3" value="p&#xE5;tr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-4" value="antr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-5" value="tr&#xE4;ffa p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-6" value="f&#xE5; tag i" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-7" value="m&#xF6;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-8" value="erh&#xE5;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="175361-9" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="175361-10" origin="lexin" date="2009-02-24">
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="find" lang="en" class="vb" id="175411" origin="lexin" date="2009-02-24">
+    <translation id="175411-1" value="s&#xF6;ka reda p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-2" value="leta reda p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-3" value="hitta" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-4" value="p&#xE5;tr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-5" value="s&#xF6;ka upp" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-6" value="skaffa" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-7" value="uppdriva" origin="lexin" date="2009-02-24"/>
+    <translation id="175411-8" value="hitta p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="175411-9" origin="lexin" date="2009-02-24">
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hit" lang="en" class="vb" id="219201" origin="lexin" date="2009-02-24">
+    <translation id="219201-1" value="komma p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="219201-2" value="hitta" origin="lexin" date="2009-02-24"/>
+    <translation id="219201-3" value="finna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="219201-4" origin="lexin" date="2009-02-24">
+      <inflection value="hit" origin="lexin" date="2009-02-24"/>
+      <inflection value="hit" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="identify" lang="en" class="vb" id="225691" origin="lexin" date="2009-02-24">
+    <translation id="225691-1" value="identifiera" origin="lexin" date="2009-02-24"/>
+    <translation id="225691-2" value="uppt&#xE4;cka" origin="lexin" date="2009-02-24"/>
+    <translation id="225691-3" value="fastst&#xE4;lla" origin="lexin" date="2009-02-24"/>
+    <translation id="225691-4" value="hitta" origin="lexin" date="2009-02-24"/>
+    <example id="225691-5" value="we have identified the problem" origin="lexin" date="2009-02-24">
+      <translation value="vi har hittat problemet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

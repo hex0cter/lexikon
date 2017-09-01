@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="stark" lang="sv" class="jj" id="172300" lexinid="17231" origin="lexin" comment="om levande varelser; bildligt &amp;quot;m&#xE4;ktig&amp;quot;" date="2011-03-03">
+    <translation id="16927" value="strong" comment="of living creatures; figuratively &amp;quot;powerful&amp;quot;" date="2011-03-03"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15047" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="markant" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="solid" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="strong" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..1||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9736" value="stark kyla" date="2011-03-03">
+      <translation value="severe cold"/>
+    </example>
+    <example id="9737" value="starka armar" date="2011-03-03">
+      <translation value="strong arms"/>
+    </example>
+    <example id="9738" value="stark regering" date="2011-03-03">
+      <translation value="strong government"/>
+    </example>
+    <related value="svag" type="antonym" origin="lexin">
+      <translation value="weak, mild" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="mild" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="16672" value="som har stor styrka, kraftfull" date="2011-03-03"/>
+  </word>
+  <word value="stark" lang="sv" class="jj" id="172310" lexinid="17232" origin="lexin" date="2011-03-03">
+    <translation id="16928" value="strong" date="2011-03-03"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15048" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="markant" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="slagkraftig" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="strong" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..1||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9739" value="stark ost" date="2011-03-03">
+      <translation value="strong cheese"/>
+    </example>
+    <example id="9740" value="starka drycker" date="2011-03-03">
+      <translation value="strong drinks"/>
+    </example>
+    <example id="9741" value="starkt kaffe" date="2011-03-03">
+      <translation value="strong coffee"/>
+    </example>
+    <definition id="16673" value="som intensivt p&#xE5;verkar sinnena" date="2011-03-03"/>
+  </word>
+  <word value="stark" lang="sv" class="jj" id="172320" lexinid="17233" origin="lexin" date="2011-03-03">
+    <translation id="172320-16675" value="lasting" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="172320-16676" value="durable" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="172320-16677" value="solid" origin="user" date="2012-02-02T00:55:08"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15049" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="h&#xE5;llfast" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="robust" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2014-08-06T04:00:50"/>
+    <example id="9742" value="ett starkt tyg" date="2011-03-03">
+      <translation value="strong fabric"/>
+    </example>
+    <related value="&#xF6;mt&#xE5;lig" type="antonym" origin="lexin">
+      <translation value="fragile, brittle, perishable" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="16674" value="slitstark, h&#xE5;llbar" date="2011-03-03"/>
+  </word>
+  <word value="able-bodied" lang="en" class="jj" id="831" origin="lexin" date="2009-02-24">
+    <translation id="831-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="831-2" value="arbetsf&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="acute" lang="en" class="jj" id="4401" origin="lexin" date="2009-02-24">
+    <translation id="4401-1" value="skarp" origin="lexin" date="2009-02-24"/>
+    <translation id="4401-2" value="h&#xE4;ftig" origin="lexin" date="2009-02-24"/>
+    <translation id="4401-3" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="4401-4" value="intensiv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="beefy" lang="en" class="jj" id="37281" origin="lexin" date="2009-02-24">
+    <translation id="37281-1" value="biffig" origin="lexin" date="2009-02-24"/>
+    <translation id="37281-2" value="muskul&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="37281-3" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <translation id="37281-4" value="stark" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="cast-iron" lang="en" class="jj" id="69391" origin="lexin" date="2009-02-24">
+    <variant value="cast iron" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="69391-1" value="benh&#xE5;rd" origin="lexin" date="2009-02-24"/>
+    <translation id="69391-2" value="j&#xE4;rnh&#xE5;rd" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="69391-3" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="69391-4" value="ok&#xE4;nslig" origin="lexin" date="2009-02-24"/>
+    <example id="69391-5" value="a cast-iron stomach" origin="lexin" date="2009-02-24">
+      <translation value="ok&#xE4;nslig mage" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="deep" lang="en" class="jj" id="121831" origin="lexin" date="2009-02-24">
+    <translation id="121831-1" value="djup" origin="lexin" date="2009-02-24"/>
+    <translation id="121831-2" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="121831-3" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <explanation value="to a high degree, strong, powerful" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fast" lang="en" class="jj" id="170481" origin="lexin" date="2009-02-24">
+    <translation id="170481-1" value="fastsittande" origin="lexin" date="2009-02-24"/>
+    <translation id="170481-2" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="170481-3" value="h&#xE5;llbar" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="forceful" lang="en" class="jj" id="182171" origin="lexin" date="2009-02-24">
+    <translation id="182171-1" value="kraftfull" origin="lexin" date="2009-02-24"/>
+    <translation id="182171-2" value="stark" origin="lexin" date="2009-02-24"/>
+    <example id="182171-3" value="a forceful person" origin="lexin" date="2009-02-24">
+      <translation value="en kraftfull person" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="fresh" lang="en" class="jj" id="186201" origin="lexin" date="2009-02-24">
+    <translation id="186201-1" value="stark" comment="ofta tekniskt, om vind" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="heady" lang="en" class="jj" id="215281" origin="lexin" date="2009-02-24">
+    <translation id="215281-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="215281-2" value="berusande" origin="lexin" date="2009-02-24"/>
+    <translation id="215281-3" value="som stiger &#xE5;t huvudet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="intense" lang="en" class="jj" id="236131" origin="lexin" date="2009-02-24">
+    <translation id="236131-1" value="intensiv" origin="lexin" date="2009-02-24"/>
+    <translation id="236131-2" value="stark" comment="s&#xE4;rskilt om k&#xE4;nslor" origin="lexin" date="2009-02-24"/>
+    <example id="236131-3" value="I felt intense pain in my right leg" origin="lexin" date="2009-02-24">
+      <translation value="jag k&#xE4;nde en intensiv sm&#xE4;rt i h&#xF6;ger ben" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="keen" lang="en" class="jj" id="244471" origin="lexin" date="2009-02-24">
+    <translation id="244471-1" value="intensiv" origin="lexin" date="2009-02-24"/>
+    <translation id="244471-2" value="skarp" origin="lexin" date="2009-02-24"/>
+    <translation id="244471-3" value="h&#xE5;rd" origin="lexin" date="2009-02-24"/>
+    <translation id="244471-4" value="h&#xE4;ftig" origin="lexin" date="2009-02-24"/>
+    <translation id="244471-5" value="livlig" origin="lexin" date="2009-02-24"/>
+    <translation id="244471-6" value="stark" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lasting" lang="en" class="jj" id="250201" origin="lexin" date="2009-02-24">
+    <translation id="250201-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="250201-2" value="slitstark" origin="lexin" date="2009-02-24"/>
+    <translation id="250201-3" value="h&#xE5;llbar" origin="lexin" date="2009-02-24"/>
+    <example id="250201-4" value="this is a much more lasting fabric, it seems to me" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker att det h&#xE4;r tyget verkar vara mycket mera h&#xE5;llbart" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="mighty" lang="en" class="jj" id="272541" origin="lexin" date="2009-02-24">
+    <translation id="272541-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="272541-2" value="v&#xE4;ldig" origin="lexin" date="2009-02-24"/>
+    <translation id="272541-3" value="kolossal" comment="s&#xE4;rskilt litter&#xE4;rt eller bibliskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="potent" lang="en" class="jj" id="327871" origin="lexin" date="2009-02-24">
+    <translation id="327871-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="327871-2" value="m&#xE4;ktig" origin="lexin" date="2009-02-24"/>
+    <translation id="327871-3" value="kraftig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="powerful" lang="en" class="jj" id="328531" origin="lexin" date="2009-02-24">
+    <translation id="328531-1" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <translation id="328531-2" value="stark" comment="som kan producera stor fysisk styrka" origin="lexin" date="2009-02-24"/>
+    <example id="328531-3" value="he has powerful muscles" origin="lexin" date="2009-02-24">
+      <translation value="han har starka muskler" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="pronounced" lang="en" class="jj" id="336051" origin="lexin" date="2009-02-24">
+    <translation id="336051-1" value="tydlig" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-2" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-3" value="avgjord" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-4" value="best&#xE4;md" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-5" value="otvetydig" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-6" value="uppenbar" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-7" value="utpr&#xE4;glad" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-8" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-9" value="markerad" origin="lexin" date="2009-02-24"/>
+    <translation id="336051-10" value="uttalad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="short" lang="en" class="jj" id="380391" origin="lexin" date="2009-02-24">
+    <translation id="380391-1" value="stark" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="380391-2" value="outsp&#xE4;dd" origin="lexin" date="2009-02-24"/>
+    <translation id="380391-3" value="ren" comment="om sprit" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sinewy" lang="en" class="jj" id="383191" origin="lexin" date="2009-02-24">
+    <translation id="383191-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="383191-2" value="kraftfull" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stiff" lang="en" class="jj" id="399031" origin="lexin" date="2009-02-24">
+    <translation id="399031-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="399031-2" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <translation id="399031-3" value="stor" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="strong" lang="en" class="jj" id="402701" origin="lexin" date="2009-02-24">
+    <translation id="402701-1" value="stark" comment="inom grammatik" origin="lexin" date="2009-02-24"/>
+    <example id="402701-2" value="a strong verb" origin="lexin" date="2009-02-24">
+      <translation value="ett starkt verb" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="strong" lang="en" class="jj" id="402711" origin="lexin" date="2009-02-24">
+    <translation id="402711-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="402711-2" value="numer&#xE4;rt stark" origin="lexin" date="2009-02-24"/>
+    <translation id="402711-3" value="-manna" comment="s&#xE5;som efterled i sammans&#xE4;ttningar" origin="lexin" date="2009-02-24"/>
+    <example id="402711-4" value="strong in numbers" origin="lexin" date="2009-02-24">
+      <translation value="manstark" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="strong" lang="en" class="jj" id="402751" origin="lexin" date="2009-02-24">
+    <translation id="402751-1" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <translation id="402751-2" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="402751-3" value="energisk" origin="lexin" date="2009-02-24"/>
+    <translation id="402751-4" value="m&#xE4;ktig" origin="lexin" date="2009-02-24"/>
+    <translation id="402751-5" value="stor" origin="lexin" date="2009-02-24"/>
+    <translation id="402751-6" value="kraftfull" origin="lexin" date="2009-02-24"/>
+    <example id="402751-7" value="strong arms" origin="lexin" date="2009-02-24">
+      <translation value="kraftiga armar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="402751-8" value="strong southwesterly wind" origin="lexin" date="2009-02-24">
+      <translation value="kraftig sydv&#xE4;stlig vind" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="svag" type="antonym" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="strong" lang="en" class="jj" id="402771" origin="lexin" date="2009-02-24">
+    <translation id="402771-1" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="402771-2" value="skarp" origin="lexin" date="2009-02-24"/>
+    <translation id="402771-3" value="fr&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <example id="402771-4" value="a strong breath" origin="lexin" date="2009-02-24">
+      <translation value="en d&#xE5;lig andedr&#xE4;kt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="sturdy" lang="en" class="jj" id="403941" origin="lexin" date="2009-02-24">
+    <translation id="403941-1" value="kraftig" origin="lexin" date="2009-02-24"/>
+    <translation id="403941-2" value="robust" origin="lexin" date="2009-02-24"/>
+    <translation id="403941-3" value="stark" origin="lexin" date="2009-02-24"/>
+    <translation id="403941-4" value="stabil" origin="lexin" date="2009-02-24"/>
+    <translation id="403941-5" value="bastant" origin="lexin" date="2009-02-24"/>
+    <example id="403941-6" value="a sturdy cane" origin="lexin" date="2009-02-24">
+      <translation value="en kraftig k&#xE4;pp" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="high-growth" lang="en" class="jj" id="454791" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="454791-1" value="stark" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+  <word value="red-blooded" lang="en" id="536271" origin="user" date="2014-09-01T04:22:04">
+    <translation id="536271-1" value="Stark" origin="user" date="2014-09-01T04:22:04"/>
+  </word>
+  <word value="stark" lang="en" class="ab" id="396951" origin="lexin" date="2009-02-24">
+    <translation id="396951-1" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="396951-2" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <idiom id="396951-3" value="stark naked" origin="lexin" date="2009-02-24">
+      <translation value="spritt spr&#xE5;ngande naken (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="396951-4" value="stark raving/staring mad" origin="lexin" date="2009-02-24">
+      <translation value="spritt spr&#xE5;ngande galen (humoristiskt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="stark" lang="en" class="jj" id="396961" origin="lexin" date="2009-02-24">
+    <translation id="396961-1" value="fullst&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    <translation id="396961-2" value="ren" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stark" lang="en" class="jj" id="396971" origin="lexin" date="2009-02-24">
+    <translation id="396971-1" value="tom" origin="lexin" date="2009-02-24"/>
+    <translation id="396971-2" value="bar" origin="lexin" date="2009-02-24"/>
+    <translation id="396971-3" value="naken" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

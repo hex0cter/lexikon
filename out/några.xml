@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="i plural &amp;quot;ett par, vissa, somliga&amp;quot;" date="2011-03-03" id="119340" lang="sv" lexinid="11935" origin="lexin" value="n&#xE5;gon">
+    <translation comment="in the plural &amp;quot;a couple, some/any&amp;quot;" date="2011-03-03" id="11720" value="one"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;gon.swf" value="&#xB2;n&#xC5;:g&#xE5;n"/>
+    <paradigm date="2011-03-03" id="10363" origin="lexin">
+      <inflection value="n&#xE5;got"/>
+      <inflection value="n&#xE5;gra"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="en"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE5;gon||n&#xE5;gon..1||n&#xE5;gon..pn.1"/>
+    <example date="2011-03-03" id="6537" value="om n&#xE5;gra dagar">
+      <translation value="in a few days"/>
+    </example>
+    <example date="2011-03-03" id="6538" value="har du inte f&#xE5;tt n&#xE5;got jobb?">
+      <translation value="haven&amp;#39;t you got a job?"/>
+    </example>
+    <example date="2011-03-03" id="6539" value="n&#xE5;gon av pojkarna">
+      <translation value="one of the boys"/>
+    </example>
+    <example date="2011-03-03" id="6540" value="utan n&#xE5;gra som helst sk&#xE4;l">
+      <translation value="without any reason at all"/>
+    </example>
+    <example date="2011-03-03" id="6541" value="det kostade n&#xE5;gra kronor">
+      <translation value="it cost a few kronor"/>
+    </example>
+    <example date="2011-03-03" id="6542" value="har du n&#xE5;gon g&#xE5;ng varit i Afrika?">
+      <translation value="have you ever been to Africa"/>
+    </example>
+    <idiom date="2011-03-03" id="1060" value="av n&#xE5;gon (&amp;quot;en ok&#xE4;nd&amp;quot;) anledning"/>
+    <idiom date="2011-03-03" id="1061" value="i n&#xE5;gon m&#xE5;n (&amp;quot;till en viss del&amp;quot;)"/>
+    <definition date="2011-03-03" id="11499" value="en"/>
+  </word>
+  <word class="" date="2011-03-03" id="119410" lang="sv" lexinid="11942" origin="lexin" value="n&#xE5;gra">
+    <translation date="2011-03-03" id="11727" value="some"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;gra.swf" value="&#xB2;n&#xC5;:gra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="m&#xE4;rklig"/>
+    <see date="2011-03-03" id="119340" origin="lexin" value="n&#xE5;gon"/>
+  </word>
+  <word value="a" lang="en" class="article" id="91" origin="lexin" date="2009-02-24">
+    <translation id="91-1" value="en viss m&#xE4;ngd" origin="lexin" date="2009-02-24"/>
+    <translation id="91-2" value="viss" origin="lexin" date="2009-02-24"/>
+    <translation id="91-3" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <example id="91-5" value="take a look at this" origin="lexin" date="2009-02-24">
+      <translation value="ta dig en titt p&#xE5; det h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="91-4" value="have a good knowledge of something" origin="lexin" date="2009-02-24">
+      <translation value="besitta en viss kunskap i n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="anv&#xE4;nds f&#xF6;re konsonantljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars an" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="an" lang="en" class="article" id="12811" origin="lexin" date="2009-02-24">
+    <translation id="12811-1" value="en viss m&#xE4;ngd" origin="lexin" date="2009-02-24"/>
+    <translation id="12811-2" value="viss" origin="lexin" date="2009-02-24"/>
+    <translation id="12811-3" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <grammar value="anv&#xE4;nds f&#xF6;re vokalljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars a" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="any" lang="en" class="pn" id="15521" origin="lexin" date="2009-02-24">
+    <translation id="15521-1" value="n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    <translation id="15521-2" value="n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <translation id="15521-3" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <example id="15521-4" value="do you have any money?" origin="lexin" date="2009-02-24">
+      <translation value="har du n&#xE5;gra pengar?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="f&#xF6;renat" origin="lexin" date="2009-02-24"/>
+    <grammar value="indefinit pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="few" lang="en" class="pn" id="173441" origin="lexin" date="2009-02-24">
+    <translation id="173441-1" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <translation id="173441-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="173441-8" value="only a few of us could make it to practice today" origin="lexin" date="2009-02-24">
+      <translation value="det var bara n&#xE5;gra f&#xE5; av oss som kunde komma till tr&#xE4;ningen i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="173441-9" value="she&amp;#39;s among the few who really understand me" origin="lexin" date="2009-02-24">
+      <translation value="hon tillh&#xF6;r det lilla f&#xE5;tal som verkligen f&#xF6;rst&#xE5;r mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="173441-3" value="a chosen few" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;gra f&#xE5; utvalda" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-4" value="a good few" origin="lexin" date="2009-02-24">
+      <translation value="ganska m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-5" value="few and far between" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;llsynta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-6" value="many are called but few are chosen" origin="lexin" date="2009-02-24">
+      <translation value="m&#xE5;nga &#xE4;r kallade men f&#xE5; &#xE4;r utvalda" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="173441-7" value="quite a few" origin="lexin" date="2009-02-24">
+      <translation value="ganska m&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="some" lang="en" class="pn" id="389951" origin="lexin" date="2009-02-24">
+    <translation id="389951-1" value="en del" origin="lexin" date="2009-02-24"/>
+    <translation id="389951-2" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <example id="389951-3" value="I bought us some bisquits." origin="lexin" date="2009-02-24">
+      <translation value="Jag k&#xF6;pte oss n&#xE5;gra kex." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A few, a little" origin="lexin" date="2009-02-24"/>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="some" lang="en" class="pn" id="389961" origin="lexin" date="2009-02-24">
+    <translation id="389961-1" value="lite grann" origin="lexin" date="2009-02-24"/>
+    <translation id="389961-2" value="n&#xE5;gra" origin="lexin" date="2009-02-24"/>
+    <translation id="389961-3" value="n&#xE5;gra f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="389961-5" origin="lexin" date="2009-02-24">
+      <inflection value="indefinit" origin="lexin" date="2009-02-24"/>
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="389961-4" value="&amp;quot;Could you let me borrow a stamp?&amp;quot; &amp;quot;Yes I think I have some left.&amp;quot;" origin="lexin" date="2009-02-24">
+      <translation value="&amp;quot;Kan du l&#xE5;na mig ett frim&#xE4;rke?&amp;quot; &amp;quot;Ja, jag tror jag har n&#xE5;gra kvar.&amp;quot;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A small amount, a few" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sections" lang="en" id="508961" origin="user" date="2013-06-29T01:06:06">
+    <translation id="508961-1" value="n&#xE5;gra" origin="user" date="2013-06-29T01:06:07"/>
+    <translation id="508961-2" value="avdelningar" origin="user" date="2013-06-29T01:06:08"/>
+    <translation id="508961-3" value="sektioner" origin="user" date="2013-06-29T01:06:08"/>
+  </word>
+</definition>

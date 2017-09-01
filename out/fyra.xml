@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="51420" lang="sv" lexinid="5142" origin="lexin" value="fyra">
+    <translation date="2011-03-03" id="5060" value="four"/>
+    <phonetic date="2011-03-03" soundFile="fyra.swf" value="&#xB2;fY:ra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fyra||fyra..1||fyra..nl.1"/>
+    <compound date="2011-03-03" id="1809" inflection="fyra|&#xE5;ringen" value="fyra|&#xE5;ring">
+      <translation value="four-year-old"/>
+    </compound>
+    <compound date="2011-03-03" id="1810" inflection="fyr|kl&#xF6;vern" value="fyr|kl&#xF6;ver">
+      <translation value="four-leaf clover"/>
+    </compound>
+    <definition date="2011-03-03" id="4961" value="4"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/tid.swf"/>
+  </word>
+  <word value="fyra" lang="sv" class="nn" id="51430" lexinid="5143" origin="lexin" date="2011-03-03">
+    <translation id="5061" value="four" date="2011-03-03"/>
+    <phonetic value="&#xB2;fY:ra" soundFile="fyra.swf" date="2011-03-03"/>
+    <see value="fyra||fyra..2||fyra..nn.1" type="saldo" origin="saldo" date="2014-12-11T05:13:54"/>
+    <example id="2924" value="hon kom fyra i t&#xE4;vlingen" date="2011-03-03">
+      <translation value="she came fourth (number four) in the competition"/>
+    </example>
+    <definition id="4962" value="siffran 4; nummer 4 i ordningen" date="2011-03-03"/>
+  </word>
+  <word value="four" lang="en" class="rg" id="184201" origin="lexin" date="2009-02-24">
+    <translation id="184201-1" value="fyra" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="four" lang="en" class="nn" id="184211" origin="lexin" date="2009-02-24">
+    <translation id="184211-1" value="fyra" origin="lexin" date="2009-02-24"/>
+    <translation id="184211-2" value="b&#xE5;t som ros av fyra personer" comment="roddsport" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="four" lang="en" class="nn" id="184221" origin="lexin" date="2009-02-24">
+    <translation id="184221-1" value="fyra" origin="lexin" date="2009-02-24"/>
+    <translation id="184221-2" value="lag p&#xE5; fyra personer" comment="roddsport" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="four" lang="en" class="nn" id="184231" origin="lexin" date="2009-02-24">
+    <translation id="184231-1" value="fyra" origin="lexin" date="2009-02-24"/>
+    <translation id="184231-2" value="fyrtal" origin="lexin" date="2009-02-24"/>
+    <example id="184231-4" value="on all fours" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; alla fyra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="184231-3" value="be on all fours with&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="vara helt j&#xE4;mst&#xE4;lld med&#xE4;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="four" lang="en" class="nn" id="184241" origin="lexin" date="2009-02-24">
+    <translation id="184241-1" value="fyra" origin="lexin" date="2009-02-24"/>
+    <translation id="184241-2" value="gr&#xE4;nsboll" comment="cricketterm" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

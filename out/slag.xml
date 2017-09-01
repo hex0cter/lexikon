@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="slag" lang="sv" class="nn" id="162450" lexinid="16246" origin="lexin" date="2011-03-03">
+    <translation id="162450-15740" value="category" origin="user" date="2012-02-27T00:44:34"/>
+    <translation id="162450-15741" value="type" origin="user" date="2012-02-27T00:44:34"/>
+    <translation id="162450-15742" value="kind" origin="user" date="2012-02-27T00:44:34"/>
+    <translation id="162450-15743" value="class" origin="user" date="2012-02-27T00:44:34"/>
+    <translation id="162450-15744" value="species" origin="user" date="2012-02-27T00:44:34"/>
+    <translation id="162450-15745" value="sort" origin="user" date="2012-02-27T00:44:34"/>
+    <phonetic value="sla:g" soundFile="slag.swf" date="2011-03-03"/>
+    <paradigm id="14171" origin="lexin" date="2011-03-03">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <synonym value="art" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="kategori" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="klass" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="sort" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="typ" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="slag||slag..1||slag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9152" value="ett slags internatskola" date="2011-03-03">
+      <translation value="a kind of boarding school"/>
+    </example>
+    <example id="9153" value="alla slags patienter" date="2011-03-03">
+      <translation value="all categories of patients"/>
+    </example>
+    <definition id="15739" value="sort, typ" date="2011-03-03"/>
+  </word>
+  <word value="slag" lang="sv" class="nn" id="162460" lexinid="16247" origin="lexin" comment="&#xE4;ven bildligt &amp;quot;chock, motg&#xE5;ng&amp;quot;" date="2011-03-03">
+    <translation id="162460-15741" value="slap" origin="user" date="2012-03-06T02:45:19"/>
+    <translation id="162460-15742" value="stroke" origin="user" date="2012-03-06T02:45:19"/>
+    <translation id="162460-15743" value="knock" origin="user" date="2012-03-06T02:45:19"/>
+    <translation id="162460-15744" value="hit" origin="user" date="2012-03-06T02:45:19"/>
+    <translation id="162460-15745" value="punch" origin="user" date="2012-03-06T02:45:19"/>
+    <translation id="162460-15746" value="blow" origin="user" date="2012-03-06T02:45:19"/>
+    <phonetic value="sla:g" soundFile="slag.swf" date="2011-03-03"/>
+    <paradigm id="14172" origin="lexin" date="2011-03-03">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <synonym value="dask" level="4.0" origin="user" date="2014-06-28"/>
+    <synonym value="rapp" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE5;sop" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sm&#xE4;ll" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="st&#xF6;t" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xF6;rfil" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="slag||slag..2||slag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9154" value="klockan slog tolv slag" date="2011-03-03">
+      <translation value="the clock struck twelve times"/>
+    </example>
+    <example id="9155" value="ett slag i ansiktet" date="2011-03-03">
+      <translation value="a slap in the face"/>
+    </example>
+    <compound id="5627" value="handslag" date="2011-03-03">
+      <translation value="handshake"/>
+    </compound>
+    <compound id="5628" value="slagtr&#xE4;" date="2011-03-03">
+      <translation value="bat"/>
+    </compound>
+    <idiom id="1394" value="ett sv&#xE5;rt slag (&amp;quot;en sv&#xE5;r chock&amp;quot;)" date="2011-03-03">
+      <translation value="a terrible blow (&amp;quot;a severe shock&amp;quot;)"/>
+    </idiom>
+    <idiom id="1395" value="slag i slag (&amp;quot;utan uppeh&#xE5;ll&amp;quot;)" date="2011-03-03">
+      <translation value="in rapid succession (&amp;quot;without ceasing&amp;quot;)"/>
+    </idiom>
+    <definition id="15740" value="h&#xE5;rd tr&#xE4;ff (av handen) p&#xE5; ett f&#xF6;rem&#xE5;l, st&#xF6;t" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="162470" lang="sv" lexinid="16248" origin="lexin" value="slag">
+    <translation date="2011-03-03" id="15963" value="battle"/>
+    <phonetic date="2011-03-03" soundFile="slag.swf" value="sla:g"/>
+    <paradigm date="2011-03-03" id="14173" origin="lexin">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="batalj"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="drabbning"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="kamp"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="krig"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="strid"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="slag||slag..3||slag..nn.1"/>
+    <example date="2011-03-03" id="9156" value="slaget om Storbritannien">
+      <translation value="the Battle of Britain"/>
+    </example>
+    <compound date="2011-03-03" id="5629" inflection="slagf&#xE4;ltet" value="slagf&#xE4;lt">
+      <translation value="battlefield"/>
+    </compound>
+    <compound date="2011-03-03" id="5630" value="f&#xE4;ltslag">
+      <translation value="pitched battle"/>
+    </compound>
+    <definition date="2011-03-03" id="15741" value="st&#xF6;rre strid, drabbning"/>
+  </word>
+  <word value="slag" lang="sv" class="nn" id="162480" lexinid="16249" origin="lexin" date="2011-03-03">
+    <translation id="162480-15743" value="lapel" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="162480-15744" value="cuff" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="162480-15745" value="turn-up" origin="user" date="2012-01-28T23:48:23"/>
+    <phonetic value="sla:g" soundFile="slag.swf" date="2011-03-03"/>
+    <paradigm id="14174" origin="lexin" date="2011-03-03">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <see value="slag||slag..4||slag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="5631" value="kavajslag" date="2011-03-03">
+      <translation value="lapel"/>
+    </compound>
+    <definition id="15742" value="uppvikt del p&#xE5; kl&#xE4;desplagg" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="162490" lang="sv" lexinid="16250" origin="lexin" value="slag">
+    <translation date="2011-03-03" id="15965" value="apoplexy, [apoplectic] stroke"/>
+    <phonetic date="2011-03-03" soundFile="slag.swf" value="sla:g"/>
+    <paradigm date="2011-03-03" id="14175" origin="lexin">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="slag||slag..6||slag..nn.1"/>
+    <example date="2011-03-03" id="9157" value="f&#xE5; slag">
+      <translation value="have a fit"/>
+    </example>
+    <definition date="2011-03-03" id="15743" value="(anfall av) hj&#xE4;rnbl&#xF6;dning"/>
+  </word>
+  <word value="slag" lang="sv" class="nn" id="162500" lexinid="16251" origin="lexin" date="2011-03-03">
+    <translation id="162500-15745" value="moment" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="162500-15746" value="while" origin="user" date="2012-01-26T00:06:51"/>
+    <phonetic value="sla:g" soundFile="slag.swf" date="2011-03-03"/>
+    <paradigm id="14176" origin="lexin" date="2011-03-03">
+      <inflection value="slaget"/>
+      <inflection value="slag"/>
+      <inflection value="slagen"/>
+    </paradigm>
+    <synonym value="stund" level="4.0" origin="user" date="2014-06-28"/>
+    <see value="slag||slag..5||slag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9158" value="jag g&#xE5;r ut ett slag" date="2011-03-03">
+      <translation value="I&amp;#39;m going out for a while"/>
+    </example>
+    <definition id="15744" value="kort stund" date="2011-03-03"/>
+  </word>
+  <word value="apoplexy" lang="en" class="nn" id="15991" origin="lexin" date="2009-02-24">
+    <translation id="15991-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="15991-2" value="apoplexi" origin="lexin" date="2009-02-24"/>
+    <example id="15991-3" value="fit of apoplexy" origin="lexin" date="2009-02-24">
+      <translation value="slaganfall" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="(anfall av) hj&#xE4;rnbl&#xF6;dning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bang" lang="en" class="nn" id="31251" origin="lexin" date="2009-02-24">
+    <translation id="31251-1" value="sm&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="31251-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bat" lang="en" class="nn" id="34331" origin="lexin" date="2009-02-24">
+    <translation id="34331-1" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="battle" lang="en" class="nn" id="35001" origin="lexin" date="2009-02-24">
+    <translation id="35001-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="35001-2" value="f&#xE4;ltslag" origin="lexin" date="2009-02-24"/>
+    <translation id="35001-3" value="duell" origin="lexin" date="2009-02-24"/>
+    <translation id="35001-4" value="strid" origin="lexin" date="2009-02-24"/>
+    <translation id="35001-5" value="drabbning" origin="lexin" date="2009-02-24"/>
+    <translation id="35001-6" value="batalj" origin="lexin" date="2009-02-24"/>
+    <example id="35001-7" value="the Battle of Britain" origin="lexin" date="2009-02-24">
+      <translation value="slaget om Storbritannien" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="st&#xF6;rre strid" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="battle" lang="en" class="nn" id="35021" origin="lexin" date="2009-02-24">
+    <translation id="35021-1" value="batalj" origin="lexin" date="2009-02-24"/>
+    <translation id="35021-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="35021-3" value="f&#xE4;ltslag" origin="lexin" date="2009-02-24"/>
+    <translation id="35021-4" value="strid" origin="lexin" date="2009-02-24"/>
+    <translation id="35021-5" value="drabbning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="belt" lang="en" class="nn" id="39041" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="39041-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <idiom id="39041-2" value="give somebody a belt" origin="lexin" date="2009-02-24">
+      <translation value="sl&#xE5; till n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="bilge" lang="en" class="nn" id="41341" origin="lexin" date="2009-02-24">
+    <translation id="41341-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="41341-2" value="rundningen p&#xE5; ett fartygs botten" comment="sj&#xF6;term" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="blow" lang="en" class="nn" id="46341" origin="lexin" date="2009-02-24">
+    <translation id="46341-1" value="slag" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="46341-2" value="motg&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="46341-3" value="olycka" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="blow" lang="en" class="nn" id="46481" origin="lexin" date="2009-02-24">
+    <translation id="46481-1" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+    <translation id="46481-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <idiom id="46481-3" value="come to blows" origin="lexin" date="2009-02-24">
+      <translation value="ryka ihop, r&#xE5;ka i slagsm&#xE5;l" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="brand" lang="en" class="nn" id="53271" origin="lexin" date="2009-02-24">
+    <translation id="53271-1" value="m&#xE4;rke" origin="lexin" date="2009-02-24"/>
+    <translation id="53271-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="53271-3" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="breed" lang="en" class="nn" id="54711" origin="lexin" date="2009-02-24">
+    <translation id="54711-1" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="54711-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="54711-3" value="sl&#xE4;kte" origin="lexin" date="2009-02-24"/>
+    <translation id="54711-4" value="stam" origin="lexin" date="2009-02-24"/>
+    <translation id="54711-5" value="ras" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="buffet" lang="en" class="nn" id="58551" origin="lexin" date="2009-02-24">
+    <translation id="58551-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="58551-2" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+    <translation id="58551-3" value="knytn&#xE4;vsslag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clip" lang="en" class="nn" id="83091" origin="lexin" date="2009-02-24">
+    <translation id="83091-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="83091-2" value="snyting" origin="lexin" date="2009-02-24"/>
+    <translation id="83091-3" value="klatsch" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="day" lang="en" class="nn" id="118931" origin="lexin" date="2009-02-24">
+    <translation id="118931-1" value="seger" origin="lexin" date="2009-02-24"/>
+    <translation id="118931-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="description" lang="en" class="nn" id="126851" origin="lexin" date="2009-02-24">
+    <translation id="126851-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="126851-2" value="sort" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="drive" lang="en" class="nn" id="145791" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="145791-1" value="drive" origin="lexin" date="2009-02-24"/>
+    <translation id="145791-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="genre" lang="en" class="nn" id="193021" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="193021-1" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="193021-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hit" lang="en" class="nn" id="219241" origin="lexin" date="2009-02-24">
+    <translation id="219241-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="219241-2" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+    <translation id="219241-3" value="tr&#xE4;ff" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="kind" lang="en" class="nn" id="245871" origin="lexin" date="2009-02-24">
+    <translation id="245871-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="245871-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="245871-3" value="typ" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="knock" lang="en" class="nn" id="247161" origin="lexin" date="2009-02-24">
+    <translation id="247161-1" value="knackning" origin="lexin" date="2009-02-24"/>
+    <translation id="247161-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="knock" lang="en" class="nn" id="247181" origin="lexin" date="2009-02-24">
+    <translation id="247181-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="247181-2" value="sm&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="247181-3" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lapel" lang="en" class="nn" id="249631" origin="lexin" date="2009-02-24">
+    <translation id="249631-1" value="slag" comment="p&#xE5; kavaj och dylikt" origin="lexin" date="2009-02-24"/>
+    <example id="249631-2" value="I&amp;#39;ll be wearing a carnation in my lapel" origin="lexin" date="2009-02-24">
+      <translation value="jag kommer att ha en nejlika i slaget" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="manner" lang="en" class="nn" id="266651" origin="lexin" date="2009-02-24">
+    <translation id="266651-1" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="266651-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="nature" lang="en" class="nn" id="283711" origin="lexin" date="2009-02-24">
+    <translation id="283711-1" value="beskaffenhet" origin="lexin" date="2009-02-24"/>
+    <translation id="283711-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="283711-3" value="natur" origin="lexin" date="2009-02-24"/>
+    <translation id="283711-4" value="l&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <example id="283711-7" value="a matter of a serious nature" origin="lexin" date="2009-02-24">
+      <translation value="en fr&#xE5;ga av allvarlig natur" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="283711-8" value="I am lazy by nature" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r av naturen lat" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="283711-9" value="what is the nature of his problem?" origin="lexin" date="2009-02-24">
+      <translation value="vad &#xE4;r det f&#xF6;r slags problem han har?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="283711-5" value="by nature" origin="lexin" date="2009-02-24">
+      <translation value="av naturen, till sin l&#xE4;ggning, till sin natur" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="283711-6" value="human nature" origin="lexin" date="2009-02-24">
+      <translation value="m&#xE4;nniskans natur" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="nature" lang="en" class="nn" id="283731" origin="lexin" date="2009-02-24">
+    <translation id="283731-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="283731-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="283731-3" value="typ" origin="lexin" date="2009-02-24"/>
+    <example id="283731-4" value="she is a psychologist or something of that nature" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r psykolog eller n&#xE5;gonting liknande/&#xE5;t det h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="order" lang="en" class="nn" id="296751" origin="lexin" date="2009-02-24">
+    <translation id="296751-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="296751-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="296751-3" value="storleksordning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="percussion" lang="en" class="nn" id="312451" origin="lexin" date="2009-02-24">
+    <translation id="312451-1" value="perkussion" comment="medicinskt" origin="lexin" date="2009-02-24"/>
+    <translation id="312451-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="312451-3" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="plug" lang="en" class="nn" id="322971" origin="lexin" date="2009-02-24">
+    <translation id="322971-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="322971-2" value="smocka" origin="lexin" date="2009-02-24"/>
+    <translation id="322971-3" value="propp" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pounding" lang="en" class="nn" id="328281" origin="lexin" date="2009-02-24">
+    <translation id="328281-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="328281-2" value="dunkande" origin="lexin" date="2009-02-24"/>
+    <translation id="328281-3" value="bankande" origin="lexin" date="2009-02-24"/>
+    <idiom id="328281-4" value="take a pounding" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; stryk, besegras" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="punch" lang="en" class="nn" id="339881" origin="lexin" date="2009-02-24">
+    <translation id="339881-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <example id="339881-4" value="a slap in the face" origin="lexin" date="2009-02-24">
+      <translation value="ett slag i ansiktet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="339881-5" value="the clock struck twelve times" origin="lexin" date="2009-02-24">
+      <translation value="klockan slog tolv slag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="339881-2" value="in rapid succession (&amp;quot;without ceasing&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="slag i slag (&amp;quot;utan uppeh&#xE5;ll&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339881-3" value="a terrible blow (&amp;quot;a severe shock&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="ett sv&#xE5;rt slag (&amp;quot;en sv&#xE5;r chock&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="h&#xE5;rd tr&#xE4;ff (av handen) p&#xE5; ett f&#xF6;rem&#xE5;l, st&#xF6;t; knackning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="quality" lang="en" class="nn" id="342501" origin="lexin" date="2009-02-24">
+    <translation id="342501-1" value="kvalitet" origin="lexin" date="2009-02-24"/>
+    <translation id="342501-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="342501-3" value="art" origin="lexin" date="2009-02-24"/>
+    <translation id="342501-4" value="beskaffenhet" origin="lexin" date="2009-02-24"/>
+    <example id="342501-5" value="high quality" origin="lexin" date="2009-02-24">
+      <translation value="h&#xF6;g kvalitet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="342501-6" value="feeling for quality" origin="lexin" date="2009-02-24">
+      <translation value="k&#xE4;nsla f&#xF6;r kvalitet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="kvantitet" type="antonym" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="shock" lang="en" class="nn" id="379881" origin="lexin" date="2009-02-24">
+    <translation id="379881-1" value="chock" origin="lexin" date="2009-02-24"/>
+    <translation id="379881-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="379881-3" value="kn&#xE4;ck" origin="lexin" date="2009-02-24"/>
+    <translation id="379881-4" value="&#xF6;verraskning" origin="lexin" date="2009-02-24"/>
+    <idiom id="379881-5" value="be in a state of chock" origin="lexin" date="2009-02-24">
+      <translation value="vara i chocktillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="379881-6" value="come as a chock" origin="lexin" date="2009-02-24">
+      <translation value="komma som en chock/&#xF6;verraskning" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="379881-7" value="get a chock" origin="lexin" date="2009-02-24">
+      <translation value="chockeras" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="v&#xE5;ldsam (obehaglig) &#xF6;verraskning som leder till en f&#xF6;rlamande k&#xE4;nsla" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slap" lang="en" class="nn" id="385171" origin="lexin" date="2009-02-24">
+    <translation id="385171-1" value="sm&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="385171-2" value="dask" origin="lexin" date="2009-02-24"/>
+    <translation id="385171-3" value="slag" origin="lexin" date="2009-02-24"/>
+    <explanation value="(light) blow (with the open hand); spanking" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="smash" lang="en" class="nn" id="387221" origin="lexin" date="2009-02-24">
+    <translation id="387221-1" value="sm&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="387221-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sort" lang="en" class="nn" id="390471" origin="lexin" date="2009-02-24">
+    <translation id="390471-1" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="390471-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="390471-3" value="typ" origin="lexin" date="2009-02-24"/>
+    <translation id="390471-4" value="art" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="species" lang="en" class="nn" id="391711" origin="lexin" date="2009-02-24">
+    <translation id="391711-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="391711-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="391711-3" value="typ" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stamp" lang="en" class="nn" id="396251" origin="lexin" date="2009-02-24">
+    <translation id="396251-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="396251-2" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="396251-3" value="kaliber" origin="lexin" date="2009-02-24"/>
+    <example id="396251-4" value="I wouldn&amp;#39;t trust a man of his stamp" origin="lexin" date="2009-02-24">
+      <translation value="jag skulle inte kunna lita p&#xE5; en s&#xE5;dan sorts man" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="strike" lang="en" class="nn" id="401841" origin="lexin" date="2009-02-24">
+    <translation id="401841-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="401841-2" value="hugg" origin="lexin" date="2009-02-24"/>
+    <translation id="401841-3" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stroke" lang="en" class="nn" id="402581" lexinid="515" origin="lexin" date="2009-02-24">
+    <translation id="402581-1" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="402581-2" value="hugg" origin="lexin" date="2009-02-24"/>
+    <translation id="402581-3" value="st&#xF6;t" origin="lexin" date="2009-02-24"/>
+    <translation id="402581-4" value="rapp" origin="lexin" date="2009-02-24"/>
+    <idiom id="402581-5" value="little strokes fell great oakes" origin="lexin" date="2009-02-24">
+      <translation value="liten tuva v&#xE4;lter ofta stort lass" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="a *striking (of balls, keys, etc.)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tt att sl&#xE5; (boll, p&#xE5; tangenter)" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="throb" lang="en" class="nn" id="418281" origin="lexin" date="2009-02-24">
+    <translation id="418281-1" value="dunk" origin="lexin" date="2009-02-24"/>
+    <translation id="418281-2" value="dunkande" origin="lexin" date="2009-02-24"/>
+    <translation id="418281-3" value="bultande" origin="lexin" date="2009-02-24"/>
+    <translation id="418281-4" value="bankande" origin="lexin" date="2009-02-24"/>
+    <translation id="418281-5" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thump" lang="en" class="nn" id="418591" origin="lexin" date="2009-02-24">
+    <translation id="418591-1" value="dunk" origin="lexin" date="2009-02-24"/>
+    <translation id="418591-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="418591-3" value="sm&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="418591-4" value="duns" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="toll" lang="en" class="nn" id="421481" origin="lexin" date="2009-02-24">
+    <translation id="421481-1" value="kl&#xE4;mtning" origin="lexin" date="2009-02-24"/>
+    <translation id="421481-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="421481-3" value="ringning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="travel" lang="en" class="nn" id="424731" origin="lexin" date="2009-02-24">
+    <translation id="424731-1" value="r&#xF6;relse" comment="teknik" origin="lexin" date="2009-02-24"/>
+    <translation id="424731-2" value="bana" origin="lexin" date="2009-02-24"/>
+    <translation id="424731-3" value="g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="424731-4" value="takt" origin="lexin" date="2009-02-24"/>
+    <translation id="424731-5" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="424731-6" value="slagl&#xE4;ngd" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="type" lang="en" class="nn" id="428751" origin="lexin" date="2009-02-24">
+    <translation id="428751-1" value="typ" origin="lexin" date="2009-02-24"/>
+    <translation id="428751-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="428751-3" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="428751-4" value="art" origin="lexin" date="2009-02-24"/>
+    <example id="428751-5" value="only one of this type of house has ever been built" origin="lexin" date="2009-02-24">
+      <translation value="huset &#xE4;r unikt i sin art" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="sort, slag, typ" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="variety" lang="en" class="nn" id="435691" origin="lexin" date="2009-02-24">
+    <translation id="435691-1" value="sort" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-2" value="slag" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-3" value="form" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-4" value="typ" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-5" value="underart" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-6" value="sortering" origin="lexin" date="2009-02-24"/>
+    <translation id="435691-7" value="urval" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wallop" lang="en" class="nn" id="439671" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="439671-1" value="r&#xE5;sop" origin="lexin" date="2009-02-24"/>
+    <translation id="439671-2" value="smocka" origin="lexin" date="2009-02-24"/>
+    <translation id="439671-3" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="spank" lang="en" id="487181" origin="user" date="2012-11-24T03:32:05">
+    <translation id="487181-1" value="slag, sm&#xE4;ll" origin="user" date="2012-11-24T03:32:05"/>
+  </word>
+  <word value="sheep-farmers" lang="en" class="nn" id="506021" origin="user" date="2013-05-22T04:17:30">
+    <translation id="506021-1" value="f&#xE5;rfarmare" origin="user" date="2013-05-22T04:17:31"/>
+    <translation id="506021-2" value="f&#xE5;rauppf&#xF6;dare" origin="user" date="2013-05-22T04:17:36"/>
+    <translation id="506021-1" value="f&#xE5;rb&#xF6;nder" origin="user" date="2013-11-28T03:35:40"/>
+    <translation id="506021-1" value="F&#xE5;raherde" origin="user" date="2014-06-14T08:03:04"/>
+    <translation id="506021-3" value="slag" origin="user" date="2014-12-31T00:51:46"/>
+    <translation id="506021-4" value="herdar" origin="user" date="2015-08-22T03:52:18"/>
+    <paradigm date="2014-06-14T08:03:05">
+      <inflection value="sheep farmer" origin="user" date="2014-06-14T08:03:05"/>
+      <inflection value="sheep farmers" origin="user" date="2014-06-14T08:03:05"/>
+    </paradigm>
+  </word>
+  <word value="punches" lang="en" id="520561" origin="user" date="2013-11-07T04:37:58">
+    <translation id="520561-1" value="slag" origin="user" date="2013-11-07T04:37:59"/>
+  </word>
+  <word value="slag" lang="en" id="520451" origin="user" date="2013-11-06T00:59:01">
+    <translation id="520451-1" value="slagg" origin="user" date="2013-11-06T00:59:01"/>
+    <definition value="metal left over in steel processing" origin="user" date="2017-05-20T05:13:21"/>
+  </word>
+</definition>

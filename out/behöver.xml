@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="beh&#xF6;va" lang="sv" class="vb" id="14550" lexinid="1455" origin="lexin" date="2011-03-03">
+    <translation id="14550-1414" value="want" origin="user" date="2012-01-22T00:11:43"/>
+    <translation id="14550-1415" value="need" origin="user" date="2012-01-22T00:11:43"/>
+    <translation id="14550-1416" value="require" origin="user" date="2012-01-22T00:11:43"/>
+    <phonetic value="beh&#xD6;:ver" soundFile="beh&#xF6;ver.swf" date="2011-03-03"/>
+    <paradigm id="1238" origin="lexin" date="2011-03-03">
+      <inflection value="beh&#xF6;vde"/>
+      <inflection value="beh&#xF6;vt"/>
+      <inflection value="beh&#xF6;va"/>
+      <inflection value="beh&#xF6;ver"/>
+    </paradigm>
+    <synonym value="tarva" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="beh&#xF6;va||beh&#xF6;va..1||beh&#xF6;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="909" value="han beh&#xF6;vde hj&#xE4;lp" date="2011-03-03">
+      <translation value="he was in need of assistance"/>
+    </example>
+    <example id="910" value="jag beh&#xF6;ver hundra kronor" date="2011-03-03">
+      <translation value="I need a hundred kronor"/>
+    </example>
+    <derivation id="101" value="beh&#xF6;vlig" date="2011-03-03">
+      <translation value="necessary"/>
+    </derivation>
+    <definition id="1413" value="ha behov av" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="beh&#xF6;va" lang="sv" class="vb" id="14560" lexinid="1456" origin="lexin" date="2011-03-03">
+    <translation id="14560-1415" value="have to" origin="user" date="2012-03-10T00:55:38"/>
+    <translation id="14560-1416" value="need to" origin="user" date="2012-03-10T00:55:38"/>
+    <phonetic value="beh&#xD6;:ver" soundFile="beh&#xF6;ver.swf" date="2011-03-03"/>
+    <paradigm id="1239" origin="lexin" date="2011-03-03">
+      <inflection value="beh&#xF6;vde"/>
+      <inflection value="beh&#xF6;vt"/>
+      <inflection value="beh&#xF6;va"/>
+      <inflection value="beh&#xF6;ver"/>
+    </paradigm>
+    <synonym value="tarva" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="beh&#xF6;va||beh&#xF6;va..1||beh&#xF6;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="911" value="hon vann utan att beh&#xF6;va anstr&#xE4;nga sig" date="2011-03-03">
+      <translation value="she won without even having to try"/>
+    </example>
+    <definition id="1414" value="vara tvungen att" date="2011-03-03">
+      <translation value="be forced to"/>
+    </definition>
+    <grammar value="A &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

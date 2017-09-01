@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="184360" lang="sv" lexinid="18437" origin="lexin" value="tala">
+    <translation date="2011-03-03" id="18107" value="speak"/>
+    <phonetic date="2011-03-03" soundFile="talar.swf" value="&#xB2;tA:lar"/>
+    <paradigm date="2011-03-03" id="16097" origin="lexin">
+      <inflection value="talade"/>
+      <inflection value="talat"/>
+      <inflection value="tala"/>
+      <inflection value="talar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="dryfta"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="knysta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="konversera"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="orera"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="prata"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pratar"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="samtala"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="snacka"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="spr&#xE5;ka"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="s&#xE4;ga"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="ta till orda"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="yttra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tala||tala..1||tala..vb.1"/>
+    <example date="2011-03-03" id="10397" value="tala med varandra">
+      <translation value="talk with each other"/>
+    </example>
+    <example date="2011-03-03" id="10398" value="talas vid">
+      <translation value="talk about sth. (sth. over)"/>
+    </example>
+    <example date="2011-03-03" id="10399" value="hon talar svenska">
+      <translation value="she speaks Swedish"/>
+    </example>
+    <example date="2011-03-03" id="10400" value="h&#xF6;ra talas om n&#xE5;got">
+      <translation value="hear of sth."/>
+    </example>
+    <idiom date="2011-03-03" id="1585" value="tala ut (&amp;quot;s&#xE4;ga sin uppriktiga mening&amp;quot;)">
+      <translation value="speak out (&amp;quot;voice one&amp;#39;s true opinion&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1586" value="tala om (&amp;quot;ber&#xE4;tta&amp;quot;)">
+      <translation value="tell (&amp;quot;relate&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="17824" value="anv&#xE4;nda r&#xF6;sten till spr&#xE5;k, yttra sig"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="talar.swf"/>
+  </word>
+  <word value="tala" lang="sv" class="vb" id="184370" lexinid="18438" origin="lexin" date="2011-03-03">
+    <translation id="184370-17826" value="speak" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="184370-17827" value="make (deliver) a speech" origin="user" date="2012-03-05T03:40:40"/>
+    <phonetic value="&#xB2;tA:lar" soundFile="talar.swf" date="2011-03-03"/>
+    <paradigm id="16098" origin="lexin" date="2011-03-03">
+      <inflection value="talade"/>
+      <inflection value="talat"/>
+      <inflection value="tala"/>
+      <inflection value="talar"/>
+    </paradigm>
+    <synonym value="dryfta" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="knysta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="konversera" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="orera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="prata" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="pratar" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="samtala" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="snacka" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="spr&#xE5;ka" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="s&#xE4;ga" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="ta till orda" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="yttra" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="tala||tala..1||tala..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10401" value="tala i riksdagen" date="2011-03-03">
+      <translation value="speak before the Riksdag"/>
+    </example>
+    <definition id="17825" value="h&#xE5;lla tal" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="184380" lang="sv" lexinid="18439" origin="lexin" value="tala">
+    <translation date="2011-03-03" id="18109" value="plead"/>
+    <phonetic date="2011-03-03" soundFile="talar.swf" value="&#xB2;tA:lar"/>
+    <paradigm date="2011-03-03" id="16099" origin="lexin">
+      <inflection value="talade"/>
+      <inflection value="talat"/>
+      <inflection value="tala"/>
+      <inflection value="talar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="dryfta"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="knysta"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="konversera"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="orera"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="prata"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pratar"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="samtala"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="snacka"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="spr&#xE5;ka"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="s&#xE4;ga"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="ta till orda"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="yttra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tala||tala..1||tala..vb.1"/>
+    <example date="2011-03-03" id="10402" value="mycket talar f&#xF6;r att du har r&#xE4;tt i din bed&#xF6;mning">
+      <translation value="there is much to suggest that your assessment is correct"/>
+    </example>
+    <definition date="2011-03-03" id="17826" value="utg&#xF6;ra sk&#xE4;l (f&#xF6;r eller emot)"/>
+  </word>
+  <word value="articulate" lang="en" class="vb" id="20101" lexinid="747" origin="lexin" date="2009-02-24">
+    <translation id="20101-1" value="artikulera" origin="lexin" date="2009-02-24"/>
+    <translation id="20101-2" value="uttala" origin="lexin" date="2009-02-24"/>
+    <translation id="20101-3" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="20101-4" value="tala tydligt" origin="lexin" date="2009-02-24"/>
+    <explanation value="*utter clearly and distinctly" origin="lexin" date="2009-02-24">
+      <translation value="uttala tydligt" origin="lexin" date="2009-02-24"/>
+    </explanation>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="broadcast" lang="en" class="vb" id="56301" origin="lexin" date="2009-02-24">
+    <translation id="56301-1" value="upptr&#xE4;da" origin="lexin" date="2009-02-24"/>
+    <translation id="56301-2" value="upptr&#xE4;da i TV eller radio" origin="lexin" date="2009-02-24"/>
+    <translation id="56301-3" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="56301-4" value="tala i radio" origin="lexin" date="2009-02-24"/>
+    <paradigm id="56301-5" origin="lexin" date="2009-02-24">
+      <inflection value="broadcast" origin="lexin" date="2009-02-24"/>
+      <inflection value="broadcast" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="plead" lang="en" class="vb" id="321921" origin="lexin" date="2009-02-24">
+    <translation id="321921-1" value="pl&#xE4;dera" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="321921-2" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="321921-3" value="tala inf&#xF6;r r&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="321921-4" origin="lexin" date="2009-02-24">
+      <inflection value="pleaded" origin="lexin" date="2009-02-24"/>
+      <inflection value="pleaded" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="321921-5" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24">
+      <inflection value="pled" origin="lexin" date="2009-02-24"/>
+      <inflection value="pled" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speak" lang="en" class="vb" id="391421" origin="lexin" date="2009-02-24">
+    <translation id="391421-1" value="tala" origin="lexin" date="2009-02-24"/>
+    <paradigm id="391421-4" origin="lexin" date="2009-02-24">
+      <inflection value="spoke" origin="lexin" date="2009-02-24"/>
+      <inflection value="spoken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="391421-3" value="they aren&amp;#39;t even on speaking terms" origin="lexin" date="2009-02-24">
+      <translation value="de talar inte ens med varandra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="391421-2" value="to speak of" origin="lexin" date="2009-02-24">
+      <translation value="att tala om (i negativa satser)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speak" lang="en" class="vb" id="391431" origin="lexin" date="2009-02-24">
+    <translation id="391431-1" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="391431-2" value="h&#xE5;lla ett tal" origin="lexin" date="2009-02-24"/>
+    <paradigm id="391431-4" origin="lexin" date="2009-02-24">
+      <inflection value="spoke" origin="lexin" date="2009-02-24"/>
+      <inflection value="spoken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="391431-3" value="we&amp;#39;d like you to speak for about fifteen minutes" origin="lexin" date="2009-02-24">
+      <translation value="vi skulle vilja att du talar i ungef&#xE4;r en kvart" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="speak" lang="en" class="vb" id="391441" origin="lexin" date="2009-02-24">
+    <translation id="391441-1" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="391441-2" value="kunna tala" comment="ett visst spr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <paradigm id="391441-4" origin="lexin" date="2009-02-24">
+      <inflection value="spoke" origin="lexin" date="2009-02-24"/>
+      <inflection value="spoken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="391441-3" value="I speak three languages fluently" origin="lexin" date="2009-02-24">
+      <translation value="jag talar tre spr&#xE5;k flytande" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="talk" lang="en" class="vb" id="412521" origin="lexin" date="2009-02-24">
+    <translation id="412521-1" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="412521-2" value="prata" origin="lexin" date="2009-02-24"/>
+    <example id="412521-7" value="talk to me!" origin="lexin" date="2009-02-24">
+      <translation value="prata med mig!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="412521-3" value="now you&amp;#39;re talking!" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; ska det l&#xE5;ta! (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="412521-4" value="talk of the devil" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;r man talar om trollen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="412521-5" value="talk through one&amp;#39;s hat" origin="lexin" date="2009-02-24">
+      <translation value="tala i nattm&#xF6;ssan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="412521-6" value="you&amp;#39;re a fine one to talk!/look who&amp;#39;s talking!" origin="lexin" date="2009-02-24">
+      <translation value="och det ska du s&#xE4;ga! (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tell" lang="en" class="vb" id="415111" origin="lexin" date="2009-02-24">
+    <translation id="415111-1" value="ber&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <translation id="415111-2" value="tala" origin="lexin" date="2009-02-24"/>
+    <translation id="415111-3" value="vittna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="415111-4" origin="lexin" date="2009-02-24">
+      <inflection value="told" origin="lexin" date="2009-02-24"/>
+      <inflection value="told" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

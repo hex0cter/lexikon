@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="svar" lang="sv" class="nn" id="179490" lexinid="17950" origin="lexin" date="2011-03-03">
+    <translation id="179490-17356" value="answer" origin="user" date="2012-01-28T23:48:24"/>
+    <translation id="179490-17357" value="reply" origin="user" date="2012-01-28T23:48:24"/>
+    <phonetic value="sva:r" soundFile="svar.swf" date="2011-03-03"/>
+    <paradigm id="15695" origin="lexin" date="2011-03-03">
+      <inflection value="svaret"/>
+      <inflection value="svar"/>
+      <inflection value="svaren"/>
+    </paradigm>
+    <synonym value="besked" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="besvarande" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="facit" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="genm&#xE4;le" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xF6;sning" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="replik" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="respons" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="svar||svar..1||svar..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10142" value="svaret blev nej" date="2011-03-03">
+      <translation value="the answer was no"/>
+    </example>
+    <example id="10143" value="ge svar p&#xE5; en fr&#xE5;ga" date="2011-03-03">
+      <translation value="answer a question"/>
+    </example>
+    <example id="10144" value="hon fick bara undanflykter till svar" date="2011-03-03">
+      <translation value="the only answers she got were evasive"/>
+    </example>
+    <compound id="6135" value="svars|brev" date="2011-03-03">
+      <translation value="answering letter"/>
+    </compound>
+    <definition id="17355" value="upplysning (efter en fr&#xE5;ga)" date="2011-03-03"/>
+  </word>
+  <word value="answer" lang="en" class="nn" id="14731" origin="lexin" date="2009-02-24">
+    <translation id="14731-1" value="svar" comment="om b&#xE5;de skriftliga och muntliga svar" origin="lexin" date="2009-02-24"/>
+    <example id="14731-3" value="his answer was no" origin="lexin" date="2009-02-24">
+      <translation value="han gav ett nekande svar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="14731-2" value="in answer to" origin="lexin" date="2009-02-24">
+      <translation value="som svar p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="answer" lang="en" class="nn" id="14741" origin="lexin" date="2009-02-24">
+    <translation id="14741-1" value="svar" comment="p&#xE5; fr&#xE5;gor vid prov etcetera" origin="lexin" date="2009-02-24"/>
+    <example id="14741-2" value="all your answers should be written on one side of the paper only" origin="lexin" date="2009-02-24">
+      <translation value="anv&#xE4;nd bara ena sidan av papperet n&#xE4;r ni skriver ned svaren" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="answer" lang="en" class="nn" id="14751" origin="lexin" date="2009-02-24">
+    <translation id="14751-1" value="svar" origin="lexin" date="2009-02-24"/>
+    <translation id="14751-2" value="l&#xF6;sning" origin="lexin" date="2009-02-24"/>
+    <example id="14751-4" value="the answer to the problem is to employ more people" origin="lexin" date="2009-02-24">
+      <translation value="l&#xF6;sningen p&#xE5; problemet &#xE4;r att anst&#xE4;lla flera personer" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="14751-3" value="right/wrong answer" origin="lexin" date="2009-02-24">
+      <translation value="r&#xE4;tt/fel svar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="answer" lang="en" class="nn" id="14761" origin="lexin" date="2009-02-24">
+    <translation id="14761-1" value="svar" origin="lexin" date="2009-02-24"/>
+    <translation id="14761-2" value="motsvarighet" origin="lexin" date="2009-02-24"/>
+    <translation id="14761-3" value="motsvarighet till" origin="lexin" date="2009-02-24"/>
+    <example id="14761-4" value="he&amp;#39;s England&amp;#39;s answer to Harrison Ford" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r Englands svar (motsvarighet till) Harrison Ford" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="comeback" lang="en" class="nn" id="89511" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="89511-1" value="svar" origin="lexin" date="2009-02-24"/>
+    <translation id="89511-2" value="skarpt svar" origin="lexin" date="2009-02-24"/>
+    <translation id="89511-3" value="genm&#xE4;le" origin="lexin" date="2009-02-24"/>
+    <translation id="89511-4" value="svar p&#xE5; tal" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="plea" lang="en" class="nn" id="321881" origin="lexin" date="2009-02-24">
+    <translation id="321881-1" value="&#xE5;beropande" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="321881-2" value="svar" origin="lexin" date="2009-02-24"/>
+    <translation id="321881-3" value="p&#xE5;st&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="321881-4" value="inlaga" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reply" lang="en" class="nn" id="355781" origin="lexin" date="2009-02-24">
+    <translation id="355781-1" value="svar" origin="lexin" date="2009-02-24"/>
+    <idiom id="355781-2" value="in reply to" origin="lexin" date="2009-02-24">
+      <translation value="som svar p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="retort" lang="en" class="nn" id="359531" origin="lexin" date="2009-02-24">
+    <translation id="359531-1" value="genm&#xE4;le" origin="lexin" date="2009-02-24"/>
+    <translation id="359531-2" value="svar" comment="som &#xE4;r snabbt, argt, oartigt eller lustigt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="answers" lang="en" id="508921" origin="user" date="2013-06-28T01:57:42">
+    <translation id="508921-1" value="flera svar" origin="user" date="2013-06-28T01:57:42"/>
+    <translation id="508921-2" value="svar" origin="user" date="2013-06-28T01:57:43"/>
+  </word>
+  <word value="inept" lang="en" id="544161" origin="user" date="2015-11-30T05:14:46">
+    <translation id="544161-1" value="svar" origin="user" date="2015-11-30T05:14:46"/>
+    <translation id="544161-2" value="okapabel" origin="user" date="2015-11-30T05:14:47"/>
+    <translation id="544161-3" value="okunnig, klumpig, inkompetent" origin="user" date="2015-11-30T05:14:49"/>
+    <translation id="544161-4" value="of&#xF6;rm&#xF6;gen" origin="user" date="2017-03-30T04:10:09"/>
+  </word>
+</definition>

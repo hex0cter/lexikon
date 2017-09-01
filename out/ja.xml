@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="in" comment="bekr&#xE4;ftande svar p&#xE5; en fr&#xE5;ga" date="2011-03-03" id="79720" lang="sv" lexinid="7972" origin="lexin" value="ja">
+    <translation comment="affirmative answer to a question" date="2011-03-03" id="7824" value="yes"/>
+    <phonetic date="2011-03-03" soundFile="ja.swf" value="ja:"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="acceptera"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="givetvis"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="jad&#xE5;"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="jo"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="s&#xE5;klart"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ja||ja..1||ja..in.1"/>
+    <example date="2011-03-03" id="4715" value="--Har hon kommit? --Ja!">
+      <translation value="&amp;quot;Has she arrived?&amp;quot; &amp;quot;Yes.&amp;quot;"/>
+    </example>
+    <example date="2011-03-03" id="4716" value="--Vill du ha kaffe? --Ja tack!">
+      <translation value="&amp;quot;Would you like coffee?&amp;quot; &amp;quot;Yes, please.&amp;quot;"/>
+    </example>
+    <idiom date="2011-03-03" id="655" value="s&#xE4;ga ja till (&amp;quot;acceptera&amp;quot;) (k&#xE4;rnkraft)">
+      <translation value="vote yes for (&amp;quot;accept&amp;quot;) (nuclear power)"/>
+    </idiom>
+    <definition date="2011-03-03" id="7665" value="just det, visst"/>
+  </word>
+  <word class="in" comment="som sammanfattning eller utfyllnad" date="2011-03-03" id="79730" lang="sv" lexinid="7973" origin="lexin" value="ja">
+    <translation comment="as a conclusion or transition?" date="2011-03-03" id="7825" value="well; all right"/>
+    <phonetic date="2011-03-03" soundFile="ja.swf" value="ja:"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="acceptera"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="givetvis"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="jad&#xE5;"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="jo"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="s&#xE5;klart"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ja||ja..1||ja..in.1"/>
+    <example date="2011-03-03" id="4717" value="ja, d&#xE5; g&#xE5;r jag v&#xE4;l d&#xE5;!">
+      <translation value="well, I suppose I&amp;#39;d better be off!"/>
+    </example>
+  </word>
+  <word value="even" lang="en" class="ab" id="161941" origin="lexin" date="2009-02-24">
+    <translation id="161941-1" value="ja" origin="lexin" date="2009-02-24"/>
+    <translation id="161941-2" value="till och med" comment="f&#xF6;rst&#xE4;rkande" origin="lexin" date="2009-02-24"/>
+    <example id="161941-3" value="everyone, even the toughest guy, was frightened" origin="lexin" date="2009-02-24">
+      <translation value="alla, ja, till och med den tuffaste killen, var r&#xE4;dda" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="indeed" lang="en" class="ab" id="230341" origin="lexin" date="2009-02-24">
+    <translation id="230341-1" value="jas&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="230341-2" value="ja" origin="lexin" date="2009-02-24"/>
+    <translation id="230341-3" value="javisst" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="indeed" lang="en" class="ab" id="230351" origin="lexin" date="2009-02-24">
+    <translation id="230351-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-2" value="riktigt" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-3" value="minsann" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-4" value="ja" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-5" value="i sanning" origin="lexin" date="2009-02-24"/>
+    <explanation value="minsann" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="yes" lang="en" class="nn" id="449421" origin="lexin" date="2009-02-24">
+    <translation id="449421-1" value="ja" origin="lexin" date="2009-02-24"/>
+    <translation id="449421-2" value="ett ja" origin="lexin" date="2009-02-24"/>
+    <translation id="449421-3" value="ja-r&#xF6;st" origin="lexin" date="2009-02-24"/>
+    <translation id="449421-4" value="ja-sida" origin="lexin" date="2009-02-24"/>
+    <example id="449421-5" value="And the result of the poll is a definite yes." origin="lexin" date="2009-02-24">
+      <translation value="Och resultatet av opinionsunders&#xF6;kningen &#xE4;r ett tydligt ja." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="449421-6" value="In this vote, the yeses are expected to get at least 55 &#xC3;x82&#xC2;&#xA4;." origin="lexin" date="2009-02-24">
+      <translation value="I den h&#xE4;r omr&#xF6;stningen f&#xF6;rv&#xE4;ntas ja-r&#xF6;sterna f&#xE5; &#xE5;tminstone 55 &#xC3;x82&#xC2;&#xA4;." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An affirmative answer or response." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="yes" lang="en" class="ab" id="449431" origin="lexin" date="2009-02-24">
+    <translation id="449431-1" value="ja" origin="lexin" date="2009-02-24"/>
+    <example id="449431-2" value="Yes, that is correct." origin="lexin" date="2009-02-24">
+      <translation value="Ja, det &#xE4;r riktigt." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A positive response." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Long weekend" lang="en" id="486251" origin="user" date="2012-11-16T04:00:17">
+    <translation id="486251-1" value="Ja" origin="user" date="2012-11-16T04:00:17"/>
+  </word>
+  <word value="china manufacture" lang="en" id="548641" origin="user" date="2016-11-13T03:06:00">
+    <translation id="548641-1" value="kinafabrikat" origin="user" date="2016-11-13T03:06:00"/>
+    <translation id="548641-2" value="ja" origin="user" date="2016-11-13T03:06:01"/>
+    <translation id="548641-3" value="chinatillverkat" origin="user" date="2016-11-13T03:06:05"/>
+    <translation id="548641-4" value="porslinsfabrik" origin="user" date="2016-11-13T03:06:05"/>
+  </word>
+</definition>

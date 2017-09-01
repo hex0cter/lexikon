@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="135130" lang="sv" lexinid="13514" origin="lexin" value="problem">
+    <translation date="2011-03-03" id="13269" value="problem"/>
+    <phonetic date="2011-03-03" soundFile="problem.swf" value="problE:m"/>
+    <paradigm date="2011-03-03" id="11737" origin="lexin">
+      <inflection value="problemet"/>
+      <inflection value="problem"/>
+      <inflection value="problemen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="bekymmer"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="besv&#xE4;r"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="bryderi"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="dilemma"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="gissel"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="mankemang"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="strul"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="sv&#xE5;righet"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="trassel"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="trubbel"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="problem||problem..1||problem..nn.1"/>
+    <example date="2011-03-03" id="7535" value="ekonomiska problem">
+      <translation value="financial difficulties"/>
+    </example>
+    <example date="2011-03-03" id="7536" value="problem av olika slag">
+      <translation value="various kinds of problem"/>
+    </example>
+    <example date="2011-03-03" id="7537" value="vi har stora problem att l&#xF6;sa">
+      <translation value="we have major problems to solve"/>
+    </example>
+    <example date="2011-03-03" id="7538" value="ett problem f&#xF6;r mig">
+      <translation value="a problem for me"/>
+    </example>
+    <example date="2011-03-03" id="7539" value="ha problem med att hinna i tid"/>
+    <compound date="2011-03-03" id="4752" value="problemfylld">
+      <translation value="full of problems"/>
+    </compound>
+    <compound date="2011-03-03" id="4753" inflection="problem|barnet" value="problem|barn">
+      <translation value="problem child"/>
+    </compound>
+    <compound date="2011-03-03" id="4754" value="samh&#xE4;llsproblem">
+      <translation value="social problem"/>
+    </compound>
+    <compound date="2011-03-03" id="4755" value="huvudproblem">
+      <translation value="main problem"/>
+    </compound>
+    <compound date="2011-03-03" id="4756" value="narkotikaproblem">
+      <translation value="drug (substance abuse) problem"/>
+    </compound>
+    <definition date="2011-03-03" id="13051" value="sv&#xE5;righet som inte l&#xE4;tt kan avhj&#xE4;lpas"/>
+  </word>
+</definition>

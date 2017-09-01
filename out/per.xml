@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pp" date="2011-03-03" id="129880" lang="sv" lexinid="12989" origin="lexin" value="per">
+    <translation date="2011-03-03" id="12754" value="by"/>
+    <phonetic date="2011-03-03" soundFile="per.swf" value="p&#xE4;r:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="per||per..1||per..pp.1"/>
+    <example date="2011-03-03" id="7246" value="(skicka) per flyg">
+      <translation value="(send) by air"/>
+    </example>
+    <example date="2011-03-03" id="7247" value="(ta kontakt) per telefon">
+      <translation value="(get in touch) by telephone"/>
+    </example>
+    <definition date="2011-03-03" id="12518" value="med (hj&#xE4;lp av), via"/>
+  </word>
+  <word value="per" lang="sv" class="pp" id="129890" lexinid="12990" origin="lexin" comment="anger f&#xF6;rdelning" date="2011-03-03">
+    <translation id="129890-12520" value="each" origin="user" date="2012-02-02T00:55:01"/>
+    <translation id="129890-12521" value="per" origin="user" date="2012-02-02T00:55:01"/>
+    <phonetic value="p&#xE4;r:" soundFile="per.swf" date="2011-03-03"/>
+    <see value="per||per..1||per..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7248" value="10 kronor per styck" date="2011-03-03">
+      <translation value="10 kronor each"/>
+    </example>
+    <example id="7249" value="8 timmar per dag" date="2011-03-03">
+      <translation value="8 hours a day"/>
+    </example>
+    <example id="7250" value="ett fall per tusen inv&#xE5;nare" date="2011-03-03">
+      <translation value="one case per thousand inhabitants"/>
+    </example>
+    <definition id="12519" value="f&#xF6;r (varje)" date="2011-03-03"/>
+  </word>
+  <word value="a" lang="en" class="article" id="191" origin="lexin" date="2009-02-24">
+    <translation id="191-1" value="per" origin="lexin" date="2009-02-24"/>
+    <example id="191-2" value="five breaks a day" origin="lexin" date="2009-02-24">
+      <translation value="fem raster om dagen (per dag)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="191-3" value="once a week" origin="lexin" date="2009-02-24">
+      <translation value="en g&#xE5;ng i veckan (per vecka)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="anv&#xE4;nds f&#xF6;re konsonantljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars an" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="an" lang="en" class="article" id="12911" origin="lexin" date="2009-02-24">
+    <translation id="12911-1" value="per" origin="lexin" date="2009-02-24"/>
+    <example id="12911-2" value="one break an hour" origin="lexin" date="2009-02-24">
+      <translation value="en rast per timme" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="anv&#xE4;nds f&#xF6;re vokalljud" origin="lexin" date="2009-02-24"/>
+    <grammar value="annars a" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="by" lang="en" class="pp" id="62661" origin="lexin" date="2009-02-24">
+    <translation id="62661-1" value="per" origin="lexin" date="2009-02-24"/>
+    <example id="62661-3" value="he gets paid by the hour" origin="lexin" date="2009-02-24">
+      <translation value="han f&#xE5;r betalt per timme" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="62661-2" value="by the dozen" origin="lexin" date="2009-02-24">
+      <translation value="per dussinet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="in" lang="en" class="pp" id="228931" origin="lexin" date="2009-02-24">
+    <translation id="228931-1" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="228931-2" value="per" comment="anger relation eller proportion" origin="lexin" date="2009-02-24"/>
+    <example id="228931-3" value="one in fifty" origin="lexin" date="2009-02-24">
+      <translation value="en av femtio, var femtionde" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="per" lang="en" class="pp" id="312181" origin="lexin" date="2009-02-24">
+    <translation id="312181-1" value="per" origin="lexin" date="2009-02-24"/>
+    <translation id="312181-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="312181-3" value="f&#xF6;r varje" origin="lexin" date="2009-02-24"/>
+    <example id="312181-9" value="one case per thousand inhabitants" origin="lexin" date="2009-02-24">
+      <translation value="ett fall per tusen inv&#xE5;nare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="312181-4" value="per annum" origin="lexin" date="2009-02-24">
+      <translation value="per &#xE5;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-5" value="per cent" origin="lexin" date="2009-02-24">
+      <translation value="procent" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-6" value="per capita" origin="lexin" date="2009-02-24">
+      <translation value="per capita, per man" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-7" value="per diem" origin="lexin" date="2009-02-24">
+      <translation value="per dag, dagligen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-8" value="per head" origin="lexin" date="2009-02-24">
+      <translation value="per person" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="per" lang="en" class="pp" id="312171" origin="lexin" date="2009-02-24">
+    <translation id="312171-1" value="enligt" origin="lexin" date="2009-02-24"/>
+    <translation id="312171-2" value="i enlighet med" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <idiom id="312171-3" value="as per" origin="lexin" date="2009-02-24">
+      <translation value="enligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312171-4" value="as per usual" origin="lexin" date="2009-02-24">
+      <translation value="som vanligt (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

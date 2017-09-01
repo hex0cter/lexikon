@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="d&#xE4;refter" lang="sv" class="ab" id="36410" lexinid="3641" origin="lexin" date="2011-03-03">
+    <translation id="36410-3506" value="afterward" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="36410-3507" value="then" origin="user" date="2012-01-26T00:06:51"/>
+    <phonetic value="d&#xE4;rEf:ter" soundFile="d&#xE4;refter.swf" date="2011-03-03"/>
+    <synonym value="d&#xE4;rn&#xE4;st" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="d&#xE4;rp&#xE5;" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="efter&#xE5;t" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="n&#xE4;rmast i f&#xF6;ljd" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sedan" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sedermera" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="d&#xE4;refter||d&#xE4;refter..1||d&#xE4;refter..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2136" value="kort d&#xE4;refter" date="2011-03-03">
+      <translation value="shortly thereafter"/>
+    </example>
+    <example id="2137" value="dagen d&#xE4;refter" date="2011-03-03">
+      <translation value="the next day"/>
+    </example>
+    <definition id="3505" value="efter detta" date="2011-03-03"/>
+  </word>
+  <word value="accordingly" lang="en" class="ab" id="3031" origin="lexin" date="2009-02-24">
+    <translation id="3031-1" value="i enlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="3031-2" value="d&#xE4;rmed" origin="lexin" date="2009-02-24"/>
+    <translation id="3031-3" value="d&#xE4;refter" origin="lexin" date="2009-04-24"/>
+    <translation id="3031-4" value="s&#xE5;ledes" origin="lexin" date="2009-02-24"/>
+    <translation id="3031-5" value="f&#xF6;ljaktligen" origin="lexin" date="2009-02-24"/>
+    <translation id="3031-6" value="d&#xE4;rf&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="afterward" lang="en" class="ab" id="8201" origin="lexin" date="2009-02-24">
+    <translation id="8201-1" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+    <translation id="8201-2" value="sedan" origin="lexin" date="2009-02-24"/>
+    <translation id="8201-3" value="efter&#xE5;t" comment="amerikansk engelska, i brittisk engelska afterwards" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="afterwards" lang="en" class="ab" id="8211" origin="lexin" date="2009-02-24">
+    <variant value="afterward" comment="amerikansk engelska" alt="or" origin="lexin" date="2009-02-24"/>
+    <translation id="8211-1" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+    <translation id="8211-2" value="sedan" origin="lexin" date="2009-02-24"/>
+    <translation id="8211-3" value="efter&#xE5;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="next" lang="en" class="ab" id="286411" origin="lexin" date="2009-02-24">
+    <translation id="286411-1" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+    <translation id="286411-2" value="d&#xE4;rp&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="286411-3" value="n&#xE4;rmast" origin="lexin" date="2009-02-24"/>
+    <translation id="286411-4" value="sedan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="subsequently" lang="en" class="ab" id="404791" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="404791-1" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+    <translation id="404791-2" value="d&#xE4;rp&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="404791-3" value="efter&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="404791-4" value="sedan" origin="lexin" date="2009-02-24"/>
+    <translation id="404791-5" value="efter detta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="then" lang="en" class="jj" id="417051" origin="lexin" date="2009-02-24">
+    <translation id="417051-1" value="d&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="417051-2" value="d&#xE4;rp&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="417051-3" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+    <translation id="417051-4" value="sedan" origin="lexin" date="2009-02-24"/>
+    <translation id="417051-5" value="s&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thereafter" lang="en" class="ab" id="417221" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="417221-1" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thereinafter" lang="en" class="ab" id="417271" origin="lexin" date="2009-02-24">
+    <translation id="417271-1" value="i det f&#xF6;ljande" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="417271-2" value="d&#xE4;refter" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

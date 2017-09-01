@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="155310" lang="sv" lexinid="15532" origin="lexin" value="sju">
+    <translation date="2011-03-03" id="15254" value="seven"/>
+    <phonetic date="2011-03-03" soundFile="sju.swf" value="$u:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sju||sju..1||sju..nl.1"/>
+    <definition date="2011-03-03" id="15047" value="7"/>
+  </word>
+  <word value="seven" lang="en" class="rg" id="377571" origin="lexin" date="2009-02-24">
+    <translation id="377571-1" value="sju" origin="lexin" date="2009-02-24"/>
+    <translation id="377571-2" value="sjua" origin="lexin" date="2009-02-24"/>
+    <explanation value="the number 7." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="seven-" lang="en" class="rg" id="460481" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="460481-1" value="sju" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

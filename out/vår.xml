@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="210960" lang="sv" lexinid="21097" origin="lexin" value="v&#xE5;r">
+    <translation date="2011-03-03" id="20721" value="our"/>
+    <use date="2011-03-03" value="possessiv form av &amp;quot;vi&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="v&#xE5;r.swf" value="v&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="18397" origin="lexin">
+      <inflection value="v&#xE5;rt"/>
+      <inflection value="v&#xE5;ra"/>
+    </paradigm>
+    <example date="2011-03-03" id="11888" value="v&#xE5;rt eget modersm&#xE5;l">
+      <translation value="our own mother tongue"/>
+    </example>
+    <definition date="2011-03-03" id="20374" value="som tillh&#xF6;r oss"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="210970" lang="sv" lexinid="21098" origin="lexin" value="v&#xE5;r">
+    <translation date="2011-03-03" id="20722" value="spring"/>
+    <phonetic date="2011-03-03" soundFile="v&#xE5;r.swf" value="v&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="18398" origin="lexin">
+      <inflection value="v&#xE5;ren"/>
+      <inflection value="v&#xE5;rar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="v&#xE5;r||v&#xE5;r..1||v&#xE5;r..nn.1"/>
+    <compound date="2011-03-03" id="6893" inflection="v&#xE5;r|blomman" value="v&#xE5;r|blomma">
+      <translation value="spring flower"/>
+    </compound>
+    <compound date="2011-03-03" id="6894" inflection="v&#xE5;r|terminen" value="v&#xE5;r|termin">
+      <translation value="spring term"/>
+    </compound>
+    <definition date="2011-03-03" id="20375" value="&#xE5;rstiden efter vintern"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="28/kalender.swf"/>
+  </word>
+  <word value="our" lang="en" class="pn" id="297961" origin="lexin" date="2009-02-24">
+    <translation id="297961-1" value="v&#xE5;r" origin="lexin" date="2009-02-24"/>
+    <example id="297961-2" value="did you see our new car?" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5;g du v&#xE5;r nya bil?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="spring" lang="en" class="nn" id="394121" origin="lexin" date="2009-02-24">
+    <translation id="394121-1" value="v&#xE5;r" origin="lexin" date="2009-02-24"/>
+    <example id="394121-2" value="Spring was in the air." origin="lexin" date="2009-02-24">
+      <translation value="Det var v&#xE5;r i luften." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="the season after winter and before summer" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ours" lang="en" id="511881" origin="user" date="2013-08-18T01:30:13">
+    <translation id="511881-1" value="v&#xE5;r" origin="user" date="2013-08-18T01:30:13"/>
+  </word>
+</definition>

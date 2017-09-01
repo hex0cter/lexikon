@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="handla" lang="sv" class="vb" id="67170" lexinid="6717" origin="lexin" date="2011-03-03">
+    <translation id="6599" value="act, take action, do" date="2011-03-03"/>
+    <phonetic value="&#xB2;hAn:dlar" soundFile="handlar.swf" date="2011-03-03"/>
+    <paradigm id="5844" origin="lexin" date="2011-03-03">
+      <inflection value="handlade"/>
+      <inflection value="handlat"/>
+      <inflection value="handla"/>
+      <inflection value="handlar"/>
+    </paradigm>
+    <synonym value="utr&#xE4;tta" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="verka" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="handla||handla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..2||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..3||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..4||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla_och_vandla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3931" value="det g&#xE4;ller att handla snabbt" date="2011-03-03">
+      <translation value="some sort of action must be taken at once"/>
+    </example>
+    <definition id="6469" value="agera" date="2011-03-03"/>
+    <grammar value="A &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="handla" lang="sv" class="vb" id="67180" lexinid="6718" origin="lexin" comment="&#xE4;ven allm&#xE4;nt &amp;quot;g&#xF6;ra aff&#xE4;rer&amp;quot;" date="2011-03-03">
+    <translation id="67180-6471" value="buy" origin="user" date="2012-01-09T23:36:44"/>
+    <translation id="67180-6472" value="shop" origin="user" date="2012-01-09T23:36:44"/>
+    <phonetic value="&#xB2;hAn:dlar" soundFile="handlar.swf" date="2011-03-03"/>
+    <paradigm id="5845" origin="lexin" date="2011-03-03">
+      <inflection value="handlade"/>
+      <inflection value="handlat"/>
+      <inflection value="handla"/>
+      <inflection value="handlar"/>
+    </paradigm>
+    <synonym value="k&#xF6;pa" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="shoppa" level="4.7" origin="synlex" date="2011-03-03"/>
+    <see value="handla||handla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..2||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..3||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..4||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla_och_vandla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3932" value="handla med tr&#xE4;varor" date="2011-03-03">
+      <translation value="trade in timber"/>
+    </example>
+    <example id="3933" value="handla i snabbk&#xF6;p" date="2011-03-03">
+      <translation value="shop in a supermarket"/>
+    </example>
+    <definition id="6470" value="k&#xF6;pa" date="2011-03-03"/>
+    <grammar value="A &amp; (x); A &amp; med x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="handla" lang="sv" class="vb" id="67190" lexinid="6719" origin="lexin" date="2011-03-03">
+    <translation id="67190-6472" value="deal with" origin="user" date="2012-04-17T05:09:57"/>
+    <translation id="67190-6473" value="be about" origin="user" date="2012-04-17T05:09:57"/>
+    <use value="med prep. om" date="2011-03-03"/>
+    <phonetic value="&#xB2;hAn:dlar" soundFile="handlar.swf" date="2011-03-03"/>
+    <paradigm id="5846" origin="lexin" date="2011-03-03">
+      <inflection value="handlade"/>
+      <inflection value="handlat"/>
+      <inflection value="handla"/>
+      <inflection value="handlar"/>
+    </paradigm>
+    <synonym value="shoppa" level="4.7" origin="synlex" date="2011-03-03"/>
+    <see value="handla||handla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..2||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..3||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla..4||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="handla||handla_och_vandla..1||handla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3934" value="det handlar bara om propaganda" date="2011-03-03">
+      <translation value="it&amp;#39;s just propaganda"/>
+    </example>
+    <example id="3935" value="boken handlar om indianer" date="2011-03-03">
+      <translation value="the book is about Indians"/>
+    </example>
+    <definition id="6471" value="ha till &#xE4;mne; r&#xF6;ra sig om" date="2011-03-03">
+      <translation value="have as a subject; treat"/>
+    </definition>
+    <grammar value="x &amp; om y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="obey" lang="en" id="483401" origin="user" date="2012-10-27T04:24:01">
+    <translation id="483401-1" value="lyder" origin="user" date="2012-10-27T04:24:03"/>
+    <translation id="483401-2" value="lyda" origin="user" date="2012-10-27T04:24:03"/>
+    <translation id="483401-1" value="lyda, f&#xF6;lja" origin="user" date="2014-03-21T04:44:18"/>
+    <translation id="483401-1" value="lida" origin="user" date="2014-04-06T01:20:45"/>
+    <translation id="483401-3" value="handlar" origin="user" date="2017-03-04T03:17:11"/>
+  </word>
+</definition>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="191960" lang="sv" lexinid="19197" origin="lexin" value="tredje">
+    <translation date="2011-03-03" id="18850" value="third"/>
+    <phonetic date="2011-03-03" soundFile="tredje.swf" value="&#xB2;trE:dje"/>
+    <idiom date="2011-03-03" id="1655" value="tredje v&#xE4;rlden (&amp;quot;u-l&#xE4;nderna&amp;quot;)">
+      <translation value="the Third World (&amp;quot;developing countries&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="18561" value="p&#xE5; plats nummer 3"/>
+  </word>
+  <word value="third" lang="en" class="rg" id="429441" origin="lexin" date="2009-02-24">
+    <translation id="429441-1" value="tredje" origin="lexin" date="2009-02-24"/>
+    <explanation value="the one counted as number 3." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="2660" lang="sv" lexinid="266" origin="lexin" value="alltid">
+    <translation date="2011-03-03" id="260" value="always"/>
+    <phonetic date="2011-03-03" soundFile="alltid.swf" value="&#xB2;Al:ti(:)d"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="evig"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="evigt"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rgott"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="hela tiden"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="j&#xE4;mt"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="st&#xE4;dse"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="st&#xE4;ndigt"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="varje g&#xE5;ng"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="alltid||alltid..1||alltid..ab.1"/>
+    <example date="2011-03-03" id="153" value="jag har alltid varit r&#xE4;dd f&#xF6;r hundar">
+      <translation value="I&amp;#39;ve always been afraid of dogs"/>
+    </example>
+    <example date="2011-03-03" id="154" value="han var glad som alltid">
+      <translation value="he was as cheerful as always"/>
+    </example>
+    <definition date="2011-03-03" id="270" value="j&#xE4;mt, st&#xE4;ndigt">
+      <translation value="constantly, perpetually"/>
+    </definition>
+  </word>
+  <word value="alltid" lang="sv" class="ab" id="2670" lexinid="267" origin="lexin" date="2011-03-03">
+    <translation id="2670-272" value="always" origin="user" date="2011-11-13T00:20:29"/>
+    <translation id="2670-273" value="anyway" origin="user" date="2011-11-13T00:20:29"/>
+    <phonetic value="&#xB2;Al:tid" soundFile="alltid.swf" date="2011-03-03"/>
+    <synonym value="evig" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="evigt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rgott" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="hela tiden" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="j&#xE4;mt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="st&#xE4;dse" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="st&#xE4;ndigt" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="varje g&#xE5;ng" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="alltid||alltid..1||alltid..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="155" value="man kan alltid f&#xF6;rs&#xF6;ka" date="2011-03-03">
+      <translation value="you can always try"/>
+    </example>
+    <definition id="271" value="i alla fall, i alla h&#xE4;ndelser" date="2011-03-03">
+      <translation value="in any case, at all events"/>
+    </definition>
+  </word>
+  <word value="always" lang="en" class="ab" id="11511" origin="lexin" date="2009-02-24">
+    <translation id="11511-1" value="alltid" comment="uttrycker att ett visst beteende eller tycke &#xE4;r typiskt f&#xF6;r n&#xE5;gon eller n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <example id="11511-2" value="he always did like going to the movies" origin="lexin" date="2009-02-24">
+      <translation value="han har alltid tyckt om att g&#xE5; p&#xE5; bio" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="always" lang="en" class="ab" id="11521" origin="lexin" date="2009-02-24">
+    <translation id="11521-1" value="alltid" origin="lexin" date="2009-02-24"/>
+    <translation id="11521-2" value="f&#xF6;rst&#xE5;s" origin="lexin" date="2009-02-24"/>
+    <translation id="11521-3" value="ju" comment="uttrycker en m&#xF6;jlig v&#xE4;g att g&#xE5; eller agera p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="11521-4" value="you can always go by train" origin="lexin" date="2009-02-24">
+      <translation value="du kan ju alltid ta t&#xE5;get" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ofta tillsammans med can eller could" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="always" lang="en" class="ab" id="11531" lexinid="264" origin="lexin" date="2009-02-24">
+    <translation id="11531-1" value="alltid" origin="lexin" date="2009-02-24"/>
+    <translation id="11531-2" value="j&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <example id="11531-3" value="I&amp;#39;ve always been afraid of dogs" origin="lexin" date="2009-02-24">
+      <translation value="jag har alltid varit r&#xE4;dd f&#xF6;r hundar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="11531-4" value="he was as cheerful as always" origin="lexin" date="2009-02-24">
+      <translation value="han var lika glad som alltid" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="11531-5" value="you can always try" origin="lexin" date="2009-02-24">
+      <translation value="man kan alltid f&#xF6;rs&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*constantly, *perpetually" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ever" lang="en" class="ab" id="162161" origin="lexin" date="2009-02-24">
+    <translation id="162161-1" value="alltid" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="forever" lang="en" class="ab" id="454181" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="454181-1" value="alltid" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

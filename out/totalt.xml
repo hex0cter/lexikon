@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="191010" lang="sv" lexinid="19102" origin="lexin" value="total">
+    <translation date="2011-03-03" id="18755" value="complete"/>
+    <phonetic date="2011-03-03" soundFile="total.swf" value="totA:l"/>
+    <paradigm date="2011-03-03" id="16687" origin="lexin">
+      <inflection value="totalt"/>
+      <inflection value="totala"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="absolut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="full"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="fullbordande"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="fullkomlig"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="fullst&#xE4;ndig"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="hel"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="helt"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="komplett"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="sammanlagd"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="slutsumma"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="summa"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="total||total..1||total..av.1"/>
+    <example date="2011-03-03" id="10736" value="en total f&#xF6;rnyelse">
+      <translation value="a complete regeneration"/>
+    </example>
+    <example date="2011-03-03" id="10737" value="totalt sett">
+      <translation value="viewed on the whole"/>
+    </example>
+    <compound date="2011-03-03" id="6429" inflection="total|f&#xF6;rbudet" value="total|f&#xF6;rbud">
+      <translation value="total prohibition"/>
+    </compound>
+    <compound date="2011-03-03" id="6430" inflection="total|f&#xF6;rsvaret" value="total|f&#xF6;rsvar">
+      <translation value="overall defence"/>
+    </compound>
+    <definition date="2011-03-03" id="18466" value="i sin helhet, fullst&#xE4;ndig"/>
+  </word>
+  <word value="totalt" lang="sv" id="315040" origin="user" date="2013-02-12T03:51:25">
+    <translation id="315040-1" value="total" origin="user" date="2013-02-12T03:51:26"/>
+  </word>
+  <word value="cold" lang="en" class="ab" id="86991" origin="lexin" date="2009-02-24">
+    <translation id="86991-1" value="absolut" comment="amerikansk engelska, vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="86991-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="86991-3" value="direkt" origin="lexin" date="2009-02-24"/>
+    <translation id="86991-4" value="helt sonika" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dead" lang="en" class="ab" id="119181" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="119181-1" value="d&#xF6;d-" origin="lexin" date="2009-02-24"/>
+    <translation id="119181-2" value="d&#xF6;ds-" origin="lexin" date="2009-02-24"/>
+    <translation id="119181-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="119181-4" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="119181-5" value="absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="119181-6" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <idiom id="119181-7" value="stop dead" origin="lexin" date="2009-02-24">
+      <translation value="tv&#xE4;rstanna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="gross" lang="en" class="ab" id="206341" origin="lexin" date="2009-02-24">
+    <translation id="206341-1" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="206341-2" value="brutto" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out" lang="en" class="ab" id="298111" origin="lexin" date="2009-02-24">
+    <translation id="298111-1" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="298111-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="298111-3" value="f&#xE4;rdigt" origin="lexin" date="2009-02-24"/>
+    <translation id="298111-4" value="till slut" origin="lexin" date="2009-02-24"/>
+    <example id="298111-6" value="he is tired out" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r utmattad" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="298111-7" value="you must clean out your room before you leave" origin="lexin" date="2009-02-24">
+      <translation value="du m&#xE5;ste st&#xE4;da ur ditt rum innan du &#xE5;ker" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="298111-5" value="sort out, straighten out" origin="lexin" date="2009-02-24">
+      <translation value="reda ut" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="plain" lang="en" class="ab" id="320191" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="320191-1" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="320191-2" value="komplett" origin="lexin" date="2009-02-24"/>
+    <translation id="320191-3" value="helt enkelt" origin="lexin" date="2009-02-24"/>
+    <example id="320191-4" value="that&amp;#39;s just plain stupid" origin="lexin" date="2009-02-24">
+      <translation value="det d&#xE4;r &#xE4;r helt enkelt dumt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="purely" lang="en" class="ab" id="340621" origin="lexin" date="2009-02-24">
+    <translation id="340621-1" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-3" value="rent" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-4" value="uteslutande" origin="lexin" date="2009-02-24"/>
+    <idiom id="340621-5" value="purely and simply" origin="lexin" date="2009-02-24">
+      <translation value="endast, rent och sk&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="rotten" lang="en" class="ab" id="365181" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="365181-1" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="365181-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="365181-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <idiom id="365181-4" value="spoil somebody rotten" origin="lexin" date="2009-02-24">
+      <translation value="sk&#xE4;mma bort n&#xE5;gon totalt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

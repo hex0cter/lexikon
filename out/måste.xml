@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="114890" lang="sv" lexinid="11489" origin="lexin" value="m&#xE5;ste">
+    <translation date="2011-03-03" id="11285" value="must"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;ste.swf" value="&#xB2;m&#xC5;:ste"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="plikt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tvingas"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="tvungen"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="vara tvungen"/>
+    <example date="2011-03-03" id="6246" value="det &#xE4;r ett m&#xE5;ste">
+      <translation value="it&amp;#39;s a must"/>
+    </example>
+    <definition date="2011-03-03" id="11076" value="n&#xE5;got n&#xF6;dv&#xE4;ndigt"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="114900" lang="sv" lexinid="11490" origin="lexin" value="m&#xE5;ste">
+    <translation date="2011-03-03" id="11286" value="must"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;ste.swf" value="&#xB2;m&#xC5;s:te"/>
+    <paradigm date="2011-03-03" id="10002" origin="lexin">
+      <inflection value="m&#xE5;ste"/>
+      <inflection value="m&#xE5;st"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="plikt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tvingas"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="tvungen"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="vara tvungen"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;ste||m&#xE5;ste..1||m&#xE5;ste..vb.1"/>
+    <example date="2011-03-03" id="6247" value="jag m&#xE5;ste ge mig iv&#xE4;g nu">
+      <translation value="now I must be off"/>
+    </example>
+    <example date="2011-03-03" id="6248" value="vi m&#xE5;ste v&#xE4;nta till i morgon">
+      <translation value="we must wait until tomorrow"/>
+    </example>
+    <definition date="2011-03-03" id="11077" value="vara tvungen att"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word class="vb" comment="anger sannolikhet" date="2011-03-03" id="114910" lang="sv" lexinid="11491" origin="lexin" value="m&#xE5;ste">
+    <translation comment="indicates probability" date="2011-03-03" id="11287" value="must"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;ste.swf" value="&#xB2;m&#xC5;s:te"/>
+    <paradigm date="2011-03-03" id="10003" origin="lexin">
+      <inflection value="m&#xE5;ste"/>
+      <inflection value="m&#xE5;st"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="plikt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tvingas"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="tvungen"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="vara tvungen"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;ste||m&#xE5;ste..1||m&#xE5;ste..vb.1"/>
+    <example date="2011-03-03" id="6249" value="du m&#xE5;ste vara tr&#xF6;tt nu">
+      <translation value="you must be tired now"/>
+    </example>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp; + INF"/>
+  </word>
+  <word value="must" lang="en" class="hj&#xE4;lpverb" id="281431" origin="lexin" date="2009-02-24">
+    <translation id="281431-1" value="m&#xE5;ste" comment="anv&#xE4;nds f&#xF6;r att uttrycka ogillande" origin="lexin" date="2009-02-24"/>
+    <example id="281431-2" value="if you must smoke, please go into the other room" origin="lexin" date="2009-02-24">
+      <translation value="om du n&#xF6;dv&#xE4;ndigt ska r&#xF6;ka s&#xE5; var sn&#xE4;ll och g&#xE5; in i det andra rummet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="281431-3" value="of course he must go and tell her about it!" origin="lexin" date="2009-02-24">
+      <translation value="naturligtvis var han tvungen att g&#xE5; och ber&#xE4;tta det f&#xF6;r henne!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="i imperfekt och perfekt particip must" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="must" lang="en" class="nn" id="281441" origin="lexin" date="2009-02-24">
+    <translation id="281441-1" value="m&#xE5;ste" origin="lexin" date="2009-02-24"/>
+    <translation id="281441-2" value="n&#xF6;dv&#xE4;ndighet" origin="lexin" date="2009-02-24"/>
+    <example id="281441-3" value="it&amp;#39;s a must" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r ett m&#xE5;ste, det &#xE4;r en absolut n&#xF6;dv&#xE4;ndighet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="must" lang="en" class="hj&#xE4;lpverb" id="281451" origin="lexin" date="2009-02-24">
+    <translation id="281451-1" value="m&#xE5;ste" origin="lexin" date="2009-02-24"/>
+    <translation id="281451-2" value="vara tvungen" origin="lexin" date="2009-02-24"/>
+    <translation id="281451-3" value="f&#xE5; lov" origin="lexin" date="2009-02-24"/>
+    <translation id="281451-4" value="f&#xE5; lov att" origin="lexin" date="2009-02-24"/>
+    <example id="281451-6" value="we mustn&amp;#39;t tell him about this" origin="lexin" date="2009-02-24">
+      <translation value="vi f&#xE5;r inte s&#xE4;ga n&#xE5;gonting till honom om det h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="281451-7" value="you must come on time" origin="lexin" date="2009-02-24">
+      <translation value="du m&#xE5;ste komma i tid" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="281451-5" value="must admit" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5;r lov att tillst&#xE5;, m&#xE5;ste s&#xE4;ga (uttrycker best&#xE4;md &#xE5;sikt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="tredje person singular presens indikativ must" origin="lexin" date="2009-02-24"/>
+    <grammar value="negative kortform mustn&amp;#39;t" origin="lexin" date="2009-02-24"/>
+    <grammar value="i imperfekt och perfekt particip vanligen had to" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="must" lang="en" class="hj&#xE4;lpverb" id="281461" origin="lexin" date="2009-02-24">
+    <translation id="281461-1" value="m&#xE5;tte" origin="lexin" date="2009-02-24"/>
+    <translation id="281461-2" value="m&#xE5;ste" origin="lexin" date="2009-02-24"/>
+    <translation id="281461-3" value="m&#xE5;ste utan tvivel" origin="lexin" date="2009-02-24"/>
+    <example id="281461-5" value="she must be so tired by now" origin="lexin" date="2009-02-24">
+      <translation value="hon m&#xE5;tte vara s&#xE5; tr&#xF6;tt vid det h&#xE4;r laget" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="281461-6" value="you must be very disappointed in him" origin="lexin" date="2009-02-24">
+      <translation value="jag antar att du &#xE4;r v&#xE4;ldigt besviken p&#xE5; honom" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="281461-4" value="you must be joking!" origin="lexin" date="2009-02-24">
+      <translation value="du skojar, hoppas jag!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="i imperfekt och perfekt particip must have" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

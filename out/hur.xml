@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="hur" lang="sv" class="ab" id="70690" lexinid="7069" origin="lexin" comment="anv&#xE4;nds i fr&#xE5;gor" date="2011-03-03">
+    <translation id="6939" value="how" comment="used in questions" date="2011-03-03"/>
+    <phonetic value="hu:r" soundFile="hur.swf" date="2011-03-03"/>
+    <see value="hur||hur..1||hur..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="hur||hur_&#xE4;n..1||hur..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4157" value="hur dags?" date="2011-03-03">
+      <translation value="when?"/>
+    </example>
+    <example id="4158" value="hur mycket kostar det?" date="2011-03-03">
+      <translation value="how much is it?"/>
+    </example>
+    <example id="4159" value="hur sa?" date="2011-03-03">
+      <translation value="what?"/>
+    </example>
+    <example id="4160" value="hur m&#xE5;r du?" date="2011-03-03">
+      <translation value="how are you?"/>
+    </example>
+    <idiom id="545" value="eller hur (&amp;quot;inte sant&amp;quot;)" date="2011-03-03">
+      <translation value="isn&amp;#39;t that so? (&amp;quot;isn&amp;#39;t it? doesn&amp;#39;t he?&amp;quot;, etc.)"/>
+    </idiom>
+    <definition id="6802" value="p&#xE5; vilket s&#xE4;tt?; i vilken utstr&#xE4;ckning?" date="2011-03-03">
+      <translation value="in what manner; to what extent"/>
+    </definition>
+  </word>
+  <word value="how" lang="en" class="ab" id="223411" origin="lexin" date="2009-02-24">
+    <translation id="223411-1" value="hur" comment="i betydelsen i vilken m&#xE4;ngd eller i vilken grad" origin="lexin" date="2009-02-24"/>
+    <example id="223411-2" value="how long will it be before I see you again?" origin="lexin" date="2009-02-24">
+      <translation value="hur l&#xE4;nge dr&#xF6;jer det tills jag f&#xE5;r tr&#xE4;ffa dig n&#xE4;sta g&#xE5;ng?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="223411-3" value="how much will it cost to take the train?" origin="lexin" date="2009-02-24">
+      <translation value="vad kostar det att ta t&#xE5;get?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="223411-4" value="how old is your daughter?" origin="lexin" date="2009-02-24">
+      <translation value="hur gammal &#xE4;r din/er dotter?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="how" lang="en" class="ab" id="223421" origin="lexin" date="2009-02-24">
+    <translation id="223421-1" value="hur" comment="i betydelsen i vilket sinnestillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <example id="223421-2" value="how are you today?" origin="lexin" date="2009-02-24">
+      <translation value="hur m&#xE5;r du/ni i dag?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="223421-3" value="how kind of you!" origin="lexin" date="2009-02-24">
+      <translation value="vad sn&#xE4;llt av dig!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="how" lang="en" class="ab" id="223431" origin="lexin" date="2009-02-24">
+    <translation id="223431-1" value="hur" comment="i betydelsen p&#xE5; vilket s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="223431-5" value="how will you get to the party?" origin="lexin" date="2009-02-24">
+      <translation value="hur ska du ta dig till festen?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="223431-2" value="and how!" origin="lexin" date="2009-02-24">
+      <translation value="det kan du skriva upp!/om! (informellt; s&#xE4;rskilt amerikansk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223431-3" value="how come?" origin="lexin" date="2009-02-24">
+      <translation value="varf&#xF6;r det? (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="223431-4" value="how do yo do?" origin="lexin" date="2009-02-24">
+      <translation value="goddag!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="how" lang="en" class="ab" id="223441" origin="lexin" date="2009-02-24">
+    <translation id="223441-1" value="hur" origin="lexin" date="2009-02-24"/>
+    <translation id="223441-2" value="vad" comment="anv&#xE4;nds f&#xF6;r att uttrycka stark sinnesr&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <example id="223441-3" value="how wonderful to see you again!" origin="lexin" date="2009-02-24">
+      <translation value="vad underbart att tr&#xE4;ffa dig igen!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="colonnade" lang="en" id="549401" origin="user" date="2017-02-01T03:12:18">
+    <translation id="549401-1" value="hur" origin="user" date="2017-02-01T03:12:18"/>
+  </word>
+</definition>

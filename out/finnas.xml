@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="finnas" lang="sv" class="vb" id="44830" lexinid="4483" origin="lexin" date="2011-03-03">
+    <translation id="44830-4317" value="am" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="44830-4318" value="is" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="44830-4319" value="are" origin="user" date="2012-01-28T23:48:23"/>
+    <phonetic value="fin:s" soundFile="finns.swf" date="2011-03-03"/>
+    <paradigm id="3870" origin="lexin" date="2011-03-03">
+      <inflection value="fanns"/>
+      <inflection value="funnits"/>
+      <inflection value="finnas"/>
+      <inflection value="finns"/>
+    </paradigm>
+    <synonym value="existens" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="existera" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rekomma" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;religga" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="vara" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="finnas||finnas..1||finnas..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="finnas||finnas_till..1||finnas..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2614" value="det finns ingen anledning att misst&#xE4;nka henne" date="2011-03-03">
+      <translation value="there is no reason to suspect her"/>
+    </example>
+    <example id="2615" value="det finns lite br&#xF6;d kvar" date="2011-03-03">
+      <translation value="there is a little bread left"/>
+    </example>
+    <definition id="4316" value="vara, existera, f&#xF6;rekomma" date="2011-03-03"/>
+    <grammar value="A/x/det &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="come" lang="en" class="vb" id="89471" origin="lexin" date="2009-02-24">
+    <translation id="89471-1" value="finnas" origin="lexin" date="2009-02-24"/>
+    <example id="89471-2" value="does this skirt come in any other colours?" origin="lexin" date="2009-02-24">
+      <translation value="finns den h&#xE4;r kjolen i n&#xE5;gra andra f&#xE4;rger?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exist" lang="en" class="vb" id="164541" origin="lexin" date="2009-02-24">
+    <translation id="164541-1" value="existera" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-2" value="finnas" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-3" value="finnas till" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-4" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-5" value="vara till" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-6" value="f&#xF6;rekomma" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

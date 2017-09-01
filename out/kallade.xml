@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="kalla" lang="sv" class="vb" id="82200" lexinid="8220" origin="lexin" date="2011-03-03">
+    <translation id="82200-7895" value="summon" origin="user" date="2012-02-12T00:07:59"/>
+    <translation id="82200-7896" value="call (for)" origin="user" date="2012-02-12T00:07:59"/>
+    <phonetic value="&#xB2;kAl:ar" soundFile="kallar.swf" date="2011-03-03"/>
+    <paradigm id="7065" origin="lexin" date="2011-03-03">
+      <inflection value="kallade"/>
+      <inflection value="kallat"/>
+      <inflection value="kalla"/>
+      <inflection value="kallar"/>
+    </paradigm>
+    <synonym value="anropa" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="titulera" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="kalla||kalla..1||kalla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kalla||kalla..2||kalla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4819" value="kalla p&#xE5; polis" date="2011-03-03">
+      <translation value="summon the police"/>
+    </example>
+    <example id="4820" value="kalla till sammantr&#xE4;de" date="2011-03-03">
+      <translation value="call a meeting"/>
+    </example>
+    <definition id="7894" value="uppmana att komma" date="2011-03-03"/>
+    <grammar value="A &amp; p&#xE5; B; A &amp; till x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="kalla" lang="sv" class="vb" id="82210" lexinid="8221" origin="lexin" date="2011-03-03">
+    <translation id="8070" value="call" date="2011-03-03"/>
+    <phonetic value="&#xB2;kAl:ar" soundFile="kallar.swf" date="2011-03-03"/>
+    <paradigm id="7066" origin="lexin" date="2011-03-03">
+      <inflection value="kallade"/>
+      <inflection value="kallat"/>
+      <inflection value="kalla"/>
+      <inflection value="kallar"/>
+    </paradigm>
+    <synonym value="ben&#xE4;mna" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="kalla||kalla..1||kalla..vb.1" type="saldo" origin="saldo" date="2014-09-20T02:59:41"/>
+    <example id="4821" value="han kallas (f&#xF6;r) Lillen" date="2011-03-03">
+      <translation value="he is called Lillen"/>
+    </example>
+    <idiom id="678" value="s&#xE5; kallad (s k) (&amp;quot;vad man brukar kalla&amp;quot;)" date="2011-03-03">
+      <translation value="so-called (&amp;quot;what one usually calls sby/sth.&amp;quot;)"/>
+    </idiom>
+    <definition id="7895" value="ge namn, ben&#xE4;mna" date="2011-03-03"/>
+    <grammar value="A &amp; B/x (f&#xF6;r) + PRED" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

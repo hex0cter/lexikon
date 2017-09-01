@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="annan" lang="sv" class="pn" id="4740" lexinid="474" origin="lexin" date="2011-03-03">
+    <translation id="4740-471" value="another" origin="user" date="2012-02-14T22:56:57"/>
+    <translation id="4740-472" value="other" origin="user" date="2012-02-14T22:56:57"/>
+    <phonetic value="&#xB2;An:an" soundFile="annan.swf" date="2011-03-03"/>
+    <paradigm id="371" origin="lexin" date="2011-03-03">
+      <inflection value="annat"/>
+      <inflection value="andra"/>
+    </paradigm>
+    <see value="annan||annan..1||annan..pn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="326" value="med andra ord" date="2011-03-03">
+      <translation value="in other words"/>
+    </example>
+    <example id="327" value="p&#xE5; andra h&#xE5;ll" date="2011-03-03">
+      <translation value="elsewhere"/>
+    </example>
+    <example id="328" value="vi har ett och annat att prata om" date="2011-03-03">
+      <translation value="we&amp;#39;ve got one or two things to talk about"/>
+    </example>
+    <example id="329" value="hon &#xE4;r allt annat &#xE4;n sn&#xE4;ll" date="2011-03-03">
+      <translation value="she is anything but kind"/>
+    </example>
+    <example id="330" value="nu ska det bli annat av" date="2011-03-03">
+      <translation value="now something else is going to happen"/>
+    </example>
+    <example id="331" value="bland annat" date="2011-03-03">
+      <translation value="among other things, inter alia"/>
+    </example>
+    <example id="332" value="om inte annat (s&#xE5;)" date="2011-03-03">
+      <translation value="the least (you can do is to ...)"/>
+    </example>
+    <example id="333" value="g&#xE5;ng efter annan" date="2011-03-03">
+      <translation value="time and time again, again and again"/>
+    </example>
+    <example id="334" value="en helt annan sak" date="2011-03-03">
+      <translation value="another thing altogether, something quite different"/>
+    </example>
+    <example id="335" value="p&#xE5; andra sidan (om) huset" date="2011-03-03">
+      <translation value="on the other side of the house"/>
+    </example>
+    <example id="336" value="den andre pojken" date="2011-03-03">
+      <translation value="the other boy"/>
+    </example>
+    <idiom id="55" value="&#xE5; andra sidan (&amp;quot;d&#xE4;remot&amp;quot;)" date="2011-03-03">
+      <translation value="on the other hand"/>
+    </idiom>
+    <idiom id="56" value="ett och annat (&amp;quot;lite av varje&amp;quot;)" date="2011-03-03">
+      <translation value="a little bit of everything"/>
+    </idiom>
+    <idiom id="57" value="en och annan (&amp;quot;ett mindre antal&amp;quot;) bes&#xF6;kare" date="2011-03-03">
+      <translation value="a handful of (&amp;quot;a few&amp;quot;) visitors"/>
+    </idiom>
+    <definition id="470" value="inte den h&#xE4;r; ytterligare, &#xF6;vrig" date="2011-03-03">
+      <translation value="different, distinct; additional, further"/>
+    </definition>
+  </word>
+  <word value="another" lang="en" class="pn" id="14581" origin="lexin" date="2009-02-24">
+    <translation id="14581-1" value="en annan" origin="lexin" date="2009-02-24"/>
+    <translation id="14581-2" value="annan" origin="lexin" date="2009-02-24"/>
+    <example id="14581-3" value="another thing altogether" origin="lexin" date="2009-02-24">
+      <translation value="en helt annan sak" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="new" lang="en" class="jj" id="286131" origin="lexin" date="2009-02-24">
+    <translation id="286131-1" value="ny" origin="lexin" date="2009-02-24"/>
+    <translation id="286131-2" value="ny i j&#xE4;mf&#xF6;relse med tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="286131-3" value="annan" origin="lexin" date="2009-02-24"/>
+    <translation id="286131-4" value="annan &#xE4;n tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="286131-5" value="I feel like a new man" origin="lexin" date="2009-02-24">
+      <translation value="jag k&#xE4;nner mig som en ny (annan) m&#xE4;nniska" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="286131-6" value="they have decided to start a new life in Canada" origin="lexin" date="2009-02-24">
+      <translation value="de har best&#xE4;mt sig f&#xF6;r att b&#xF6;rja ett nytt (annat) liv i Kanada" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="286131-7" value="we have a new teacher" origin="lexin" date="2009-02-24">
+      <translation value="vi har en ny l&#xE4;rare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ingen komparering" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="other" lang="en" class="pn" id="297841" lexinid="374" origin="lexin" date="2009-02-24">
+    <translation id="297841-1" value="annan" origin="lexin" date="2009-02-24"/>
+    <translation id="297841-2" value="annat" origin="lexin" date="2009-02-24"/>
+    <translation id="297841-3" value="andra" origin="lexin" date="2009-02-24"/>
+    <translation id="297841-4" value="ytterligare" origin="lexin" date="2009-02-24"/>
+    <translation id="297841-5" value="...till" origin="lexin" date="2009-02-24"/>
+    <example id="297841-8" value="on the other side of the house" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; andra sidan (om) huset" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="297841-9" value="the other boy" origin="lexin" date="2009-02-24">
+      <translation value="den andre pojken" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="297841-10" value="among other things" origin="lexin" date="2009-02-24">
+      <translation value="bland annat" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="297841-6" value="in other words" origin="lexin" date="2009-02-24">
+      <translation value="med andra ord" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="297841-7" value="on the other hand" origin="lexin" date="2009-02-24">
+      <translation value="&#xE5; andra sidan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="hide away" lang="en" id="528901" origin="user" date="2014-02-07T04:08:32">
+    <translation id="528901-1" value="g&#xF6;mma undan" origin="user" date="2014-02-07T04:08:32"/>
+    <translation id="528901-2" value="annan" origin="user" date="2014-02-07T04:08:32"/>
+    <translation id="528901-3" value="g&#xF6;m, g&#xF6;mma, stoppa undan" origin="user" date="2014-02-07T04:08:39"/>
+    <translation id="528901-4" value="g&#xF6;mst&#xE4;lle" origin="user" date="2014-02-07T04:08:40"/>
+  </word>
+</definition>

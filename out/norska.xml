@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="norsk" lang="sv" class="jj" id="118360" lexinid="11837" origin="lexin" date="2011-03-03">
+    <translation id="11623" value="Norwegian" date="2011-03-03"/>
+    <phonetic value="n&#xE5;r+s:k" soundFile="norsk.swf" date="2011-03-03"/>
+    <paradigm id="10283" origin="lexin" date="2011-03-03">
+      <inflection value="norskt"/>
+      <inflection value="norska"/>
+    </paradigm>
+    <see value="norsk||norsk..1||norsk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="norsk||norsk..2||norsk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="11405" value="som &#xE4;r fr&#xE5;n el. avser Norge" date="2011-03-03"/>
+  </word>
+  <word value="norska" lang="sv" class="nn" id="118370" lexinid="11838" origin="lexin" date="2011-03-03">
+    <translation id="11624" value="Norwegian" date="2011-03-03"/>
+    <use value="endast singular" date="2011-03-03"/>
+    <phonetic value="&#xB2;n&#xC5;r+s:ka" soundFile="norska.swf" date="2011-03-03"/>
+    <paradigm id="10284" origin="lexin" date="2011-03-03">
+      <inflection value="norskan"/>
+    </paradigm>
+    <see value="norska||norska..1||norska..nn.1" type="saldo" origin="saldo" date="2014-08-27T02:55:54"/>
+    <definition id="11406" value="spr&#xE5;k i Norge" date="2011-03-03">
+      <translation value="the language of Norway"/>
+    </definition>
+  </word>
+  <word class="nn" date="2011-03-03" id="118380" lang="sv" lexinid="11839" origin="lexin" value="norska">
+    <translation date="2011-03-03" id="11625" value="Norwegian woman"/>
+    <phonetic date="2011-03-03" soundFile="norska.swf" value="&#xB2;n&#xC5;r+s:ka"/>
+    <paradigm date="2011-03-03" id="10285" origin="lexin">
+      <inflection value="norskan"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="norska||norska..1||norska..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="norska||norska..2||norska..nn.2"/>
+    <definition date="2011-03-03" id="11407" value="kvinna fr&#xE5;n Norge"/>
+  </word>
+  <word value="Norwegian" lang="en" class="nn" id="288461" origin="lexin" date="2009-02-24">
+    <translation id="288461-1" value="norska" comment="spr&#xE5;ket" origin="lexin" date="2009-02-24"/>
+    <example id="288461-2" value="I&amp;#39;m learning Norwegian" origin="lexin" date="2009-02-24">
+      <translation value="jag h&#xE5;ller p&#xE5; att l&#xE4;ra mig norska" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="Norwegian" lang="en" class="nn" id="288471" origin="lexin" date="2009-02-24">
+    <translation id="288471-1" value="norska" origin="lexin" date="2009-02-24"/>
+    <translation id="288471-2" value="kvinnlig person fr&#xE5;n Norge" origin="lexin" date="2009-02-24"/>
+    <translation id="288471-3" value="norrman" origin="lexin" date="2009-02-24"/>
+    <translation id="288471-4" value="manlig person fr&#xE5;n Norge" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

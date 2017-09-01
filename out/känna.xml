@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="k&#xE4;nna" lang="sv" class="vb" id="96400" lexinid="9640" origin="lexin" date="2011-03-03">
+    <translation id="96400-9291" value="sense" origin="user" date="2012-01-26T00:06:46"/>
+    <translation id="96400-9292" value="feel" origin="user" date="2012-01-26T00:06:46"/>
+    <phonetic value="cEn:er" soundFile="k&#xE4;nner.swf" date="2011-03-03"/>
+    <paradigm id="8377" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xE4;nde"/>
+      <inflection value="k&#xE4;nt"/>
+      <inflection value="k&#xE4;nn"/>
+      <inflection value="k&#xE4;nna"/>
+      <inflection value="k&#xE4;nner"/>
+    </paradigm>
+    <synonym value="ber&#xF6;ra" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppleva" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..1||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..2||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..3||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..4||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5299" value="k&#xE4;nna en lukt" date="2011-03-03">
+      <translation value="smell"/>
+    </example>
+    <example id="5300" value="k&#xE4;nna sig missn&#xF6;jd" date="2011-03-03">
+      <translation value="feel dissatisfied"/>
+    </example>
+    <example id="5301" value="k&#xE4;nna medlidande" date="2011-03-03">
+      <translation value="feel pity"/>
+    </example>
+    <idiom id="806" value="k&#xE4;nna efter (&amp;quot;unders&#xF6;ka&amp;quot;)" date="2011-03-03">
+      <translation value="feel out (&amp;quot;investigate&amp;quot;)"/>
+    </idiom>
+    <idiom id="807" value="k&#xE4;nna p&#xE5; sig (&amp;quot;ana&amp;quot;)" date="2011-03-03">
+      <translation value="have a feeling (&amp;quot;suspect&amp;quot;)"/>
+    </idiom>
+    <idiom id="808" value="k&#xE4;nna av (&amp;quot;m&#xE4;rka&amp;quot;)" date="2011-03-03">
+      <translation value="feel (&amp;quot;notice&amp;quot;)"/>
+    </idiom>
+    <definition id="9290" value="uppfatta med sinnena, m&#xE4;rka" date="2011-03-03"/>
+    <grammar value="A &amp; x/att + S" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="k&#xE4;nna" lang="sv" class="vb" id="96410" lexinid="9641" origin="lexin" date="2011-03-03">
+    <translation id="9470" value="know" date="2011-03-03"/>
+    <phonetic value="cEn:er" soundFile="k&#xE4;nner.swf" date="2011-03-03"/>
+    <paradigm id="8378" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xE4;nde"/>
+      <inflection value="k&#xE4;nt"/>
+      <inflection value="k&#xE4;nn"/>
+      <inflection value="k&#xE4;nna"/>
+      <inflection value="k&#xE4;nner"/>
+    </paradigm>
+    <see value="k&#xE4;nna||k&#xE4;nna..1||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..2||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..3||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..4||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5302" value="jag k&#xE4;nner henne" date="2011-03-03">
+      <translation value="I know her"/>
+    </example>
+    <idiom id="809" value="k&#xE4;nna till (&amp;quot;ha ytlig kunskap om&amp;quot;)" date="2011-03-03">
+      <translation value="know about (&amp;quot;have superficial knowledge of&amp;quot;)"/>
+    </idiom>
+    <definition id="9291" value="ha kunskap om, vara bekant eller f&#xF6;rtrogen med" date="2011-03-03"/>
+    <grammar value="A &amp; B; A &amp; till x/att+SATS" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="k&#xE4;nna" lang="sv" class="vb" id="96420" lexinid="9642" origin="lexin" date="2011-03-03">
+    <translation id="9471" value="feel" date="2011-03-03"/>
+    <phonetic value="cEn:er" soundFile="k&#xE4;nner.swf" date="2011-03-03"/>
+    <paradigm id="8379" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xE4;nde"/>
+      <inflection value="k&#xE4;nt"/>
+      <inflection value="k&#xE4;nn"/>
+      <inflection value="k&#xE4;nna"/>
+      <inflection value="k&#xE4;nner"/>
+    </paradigm>
+    <synonym value="ber&#xF6;ra" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..1||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..2||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..3||k&#xE4;nna..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="k&#xE4;nna||k&#xE4;nna..4||k&#xE4;nna..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5303" value="k&#xE4;nna p&#xE5; kvalit&#xE9;n" date="2011-03-03">
+      <translation value="check the quality"/>
+    </example>
+    <definition id="9292" value="ta (p&#xE5;), r&#xF6;ra (vid)" date="2011-03-03"/>
+    <grammar value="A &amp; p&#xE5; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="feel" lang="en" class="vb" id="172161" origin="lexin" date="2009-02-24">
+    <translation id="172161-1" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-2" value="m&#xE4;rka" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-3" value="ha en k&#xE4;nsla av" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-4" value="f&#xE5; k&#xE4;nna p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-5" value="k&#xE4;nna av" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-6" value="lida av" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-7" value="erfara" origin="lexin" date="2009-02-24"/>
+    <translation id="172161-8" value="f&#xF6;rnimma" origin="lexin" date="2009-02-24"/>
+    <paradigm id="172161-10" origin="lexin" date="2009-02-24">
+      <inflection value="felt" origin="lexin" date="2009-02-24"/>
+      <inflection value="felt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="172161-9" value="feel pleasure" origin="lexin" date="2009-02-24">
+      <translation value="k&#xE4;nna v&#xE4;lbehag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="feel" lang="en" class="vb" id="172171" origin="lexin" date="2009-02-24">
+    <translation id="172171-1" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="172171-2" value="reagera" origin="lexin" date="2009-02-24"/>
+    <translation id="172171-3" value="ha k&#xE4;nslor" origin="lexin" date="2009-02-24"/>
+    <translation id="172171-4" value="m&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="172171-5" value="k&#xE4;nna sig" origin="lexin" date="2009-02-24"/>
+    <translation id="172171-6" value="befinna sig" origin="lexin" date="2009-02-24"/>
+    <paradigm id="172171-9" origin="lexin" date="2009-02-24">
+      <inflection value="felt" origin="lexin" date="2009-02-24"/>
+      <inflection value="felt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="172171-7" value="I felt as though I&amp;#39;d won a million dollars" origin="lexin" date="2009-02-24">
+      <translation value="jag k&#xE4;nde mig som om jag hade vunnit en miljon dollar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="172171-8" value="I feel sick" origin="lexin" date="2009-02-24">
+      <translation value="jag m&#xE5;r illa" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="have" lang="en" class="vb" id="213811" origin="lexin" date="2009-02-24">
+    <variant value="have got" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="213811-1" value="hysa" origin="lexin" date="2009-02-24"/>
+    <translation id="213811-2" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="213811-4" origin="lexin" date="2009-02-24">
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+      <inflection value="had" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="213811-3" value="I have some doubts about this business deal" origin="lexin" date="2009-02-24">
+      <translation value="jag hyser en del tvivel betr&#xE4;ffande den h&#xE4;r aff&#xE4;rs&#xF6;verenskommelsen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="know" lang="en" class="vb" id="247561" origin="lexin" date="2009-02-24">
+    <translation id="247561-1" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="247561-2" value="vara bekant med" origin="lexin" date="2009-02-24"/>
+    <paradigm id="247561-5" origin="lexin" date="2009-02-24">
+      <inflection value="knew" origin="lexin" date="2009-02-24"/>
+      <inflection value="known" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="247561-3" value="get to know eachother" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;ra k&#xE4;nna varandra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247561-4" value="if I know you..." origin="lexin" date="2009-02-24">
+      <translation value="om jag k&#xE4;nner dig r&#xE4;tt..." origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt och intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sense" lang="en" class="vb" id="376001" origin="lexin" date="2009-02-24">
+    <translation id="376001-1" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-2" value="k&#xE4;nna p&#xE5; sig" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-3" value="ha p&#xE5; k&#xE4;nn" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-4" value="m&#xE4;rka" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-5" value="uppfatta" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-6" value="f&#xF6;rst&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="376001-7" value="fatta" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="take" lang="en" class="vb" id="412041" origin="lexin" date="2009-02-24">
+    <translation id="412041-1" value="fatta" origin="lexin" date="2009-02-24"/>
+    <translation id="412041-2" value="hysa" origin="lexin" date="2009-02-24"/>
+    <translation id="412041-3" value="k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="412041-6" origin="lexin" date="2009-02-24">
+      <inflection value="took" origin="lexin" date="2009-02-24"/>
+      <inflection value="taken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="412041-4" value="I immediately took a liking to her" origin="lexin" date="2009-02-24">
+      <translation value="jag fattade omedelbart tycke f&#xF6;r henne" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="412041-5" value="she seemed quite taken with him" origin="lexin" date="2009-02-24">
+      <translation value="hon verkade ganska intagen av honom" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+    <grammar value="ofta i passiv form" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

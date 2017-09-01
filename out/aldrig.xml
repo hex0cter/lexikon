@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="1860" lang="sv" lexinid="186" origin="lexin" value="aldrig">
+    <translation date="2011-03-03" id="180" value="never"/>
+    <phonetic date="2011-03-03" soundFile="aldrig.swf" value="&#xB2;Al:drig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="aldrig||aldrig..1||aldrig..ab.1"/>
+    <example date="2011-03-03" id="93" value="jag g&#xE5;r aldrig p&#xE5; bio">
+      <translation value="I never go to the cinema (the movies)"/>
+    </example>
+    <example date="2011-03-03" id="94" value="s&#xE4;llan eller aldrig">
+      <translation value="seldom or never"/>
+    </example>
+    <example date="2011-03-03" id="95" value="aldrig tidigare">
+      <translation value="never before"/>
+    </example>
+    <definition date="2011-03-03" id="188" value="inte n&#xE5;gon g&#xE5;ng"/>
+  </word>
+  <word value="ne&amp;#39;er" lang="en" class="ab" id="284761" origin="lexin" date="2009-02-24">
+    <translation id="284761-1" value="aldrig" comment="poetiskt" origin="lexin" date="2009-02-24"/>
+    <explanation value="never" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="never" lang="en" class="ab" id="286231" lexinid="181" origin="lexin" date="2009-02-24">
+    <translation id="286231-1" value="aldrig" origin="lexin" date="2009-02-24"/>
+    <translation id="286231-2" value="inte alls" origin="lexin" date="2009-02-24"/>
+    <example id="286231-4" value="I never go to the cinema (the movies)" origin="lexin" date="2009-02-24">
+      <translation value="jag g&#xE5;r aldrig p&#xE5; bio" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="286231-5" value="seldom or never" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;llan eller aldrig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="286231-3" value="never before" origin="lexin" date="2009-02-24">
+      <translation value="aldrig tidigare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="inte n&#xE5;gon g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="no way" lang="en" id="474331" origin="user" date="2012-08-21T04:54:58">
+    <translation id="474331-1" value="aldrig" origin="user" date="2012-08-21T04:55:00"/>
+  </word>
+</definition>

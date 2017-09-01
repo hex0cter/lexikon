@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="kr&#xE4;va" lang="sv" class="vb" id="93900" lexinid="9390" origin="lexin" comment="&#xE4;ven allm&#xE4;nt &amp;quot;fordra&amp;quot;" date="2011-03-03">
+    <translation id="9227" value="demand" comment="also used generally, &amp;quot;require&amp;quot;" date="2011-03-03"/>
+    <phonetic value="kr&#xC4;:ver" soundFile="kr&#xE4;ver.swf" date="2011-03-03"/>
+    <paradigm id="8148" origin="lexin" date="2011-03-03">
+      <inflection value="kr&#xE4;vde"/>
+      <inflection value="kr&#xE4;vt"/>
+      <inflection value="kr&#xE4;v"/>
+      <inflection value="kr&#xE4;va"/>
+      <inflection value="kr&#xE4;ver"/>
+    </paradigm>
+    <synonym value="erfordra" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fodra" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;ra anspr&#xE5;k p&#xE5;" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="yrka" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="kr&#xE4;va||kr&#xE4;va..1||kr&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kr&#xE4;va||kr&#xE4;va..2||kr&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5217" value="ut&#xF6;kad demokrati kr&#xE4;ver &#xF6;kade kunskaper" date="2011-03-03">
+      <translation value="greater democracy requires greater knowledge"/>
+    </example>
+    <example id="5218" value="kr&#xE4;va att alla utl&#xE4;ndska trupper dras bort" date="2011-03-03">
+      <translation value="demand that all foreign troops be withdrawn"/>
+    </example>
+    <derivation id="446" value="kr&#xE4;vande" date="2011-03-03">
+      <translation value="demanding"/>
+    </derivation>
+    <definition id="9046" value="framf&#xF6;ra som krav" date="2011-03-03"/>
+    <grammar value="A/x &amp; y/att + S" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="kr&#xE4;va" lang="sv" class="vb" id="93910" lexinid="9391" origin="lexin" date="2011-03-03">
+    <translation id="93910-9048" value="claim" origin="user" date="2011-11-12T00:14:31"/>
+    <translation id="93910-9049" value="demand" origin="user" date="2011-11-12T00:14:31"/>
+    <phonetic value="kr&#xC4;:ver" soundFile="kr&#xE4;ver.swf" date="2011-03-03"/>
+    <paradigm id="8149" origin="lexin" date="2011-03-03">
+      <inflection value="kr&#xE4;vde"/>
+      <inflection value="kr&#xE4;vt"/>
+      <inflection value="kr&#xE4;v"/>
+      <inflection value="kr&#xE4;va"/>
+      <inflection value="kr&#xE4;ver"/>
+    </paradigm>
+    <synonym value="fodra" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="fordra" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="framtvinga" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;ra anspr&#xE5;k p&#xE5;" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="tarva" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="kr&#xE4;va||kr&#xE4;va..1||kr&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kr&#xE4;va||kr&#xE4;va..2||kr&#xE4;va..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5219" value="han kr&#xE4;vde mig p&#xE5; pengar" date="2011-03-03">
+      <translation value="he demanded payment from me"/>
+    </example>
+    <definition id="9047" value="fordra tillbaka n&#xE5;got utl&#xE5;nat" date="2011-03-03"/>
+    <grammar value="A &amp; B p&#xE5; x" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="igen" lang="sv" class="ab" id="74850" lexinid="7485" origin="lexin" date="2011-03-03">
+    <translation id="74850-7195" value="back" origin="user" date="2012-01-21T00:38:49"/>
+    <translation id="74850-7196" value="again" origin="user" date="2012-01-21T00:38:49"/>
+    <phonetic value="ijEn:" soundFile="igen.swf" date="2011-03-03"/>
+    <synonym value="upprepa" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;ter" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;terigen" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="igen||igen..1||igen..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4438" value="sommarn &#xE4;r h&#xE4;r igen" date="2011-03-03">
+      <translation value="summer is here again"/>
+    </example>
+    <example id="4439" value="kom igen om en vecka" date="2011-03-03">
+      <translation value="come back in a week"/>
+    </example>
+    <idiom id="611" value="ge igen (&amp;quot;sl&#xE5; tillbaka&amp;quot;)" date="2011-03-03">
+      <translation value="retaliate (&amp;quot;hit back&amp;quot;)"/>
+    </idiom>
+    <idiom id="612" value="sl&#xE5; igen d&#xF6;rren (&amp;quot;st&#xE4;nga d&#xF6;rren med en sm&#xE4;ll&amp;quot;)" date="2011-03-03">
+      <translation value="slam the door (&amp;quot;close the door with a bang&amp;quot;)"/>
+    </idiom>
+    <idiom id="613" value="k&#xE4;nna igen (&amp;quot;identifiera&amp;quot;)" date="2011-03-03">
+      <translation value="recognize (&amp;quot;identify&amp;quot;)"/>
+    </idiom>
+    <idiom id="614" value="ta igen (&amp;quot;arbeta f&#xF6;r att ers&#xE4;tta vad man missat&amp;quot;)" date="2011-03-03">
+      <translation value="make good (&amp;quot;work to replace what you have lost&amp;quot;)"/>
+    </idiom>
+    <definition id="7194" value="&#xE4;nnu en g&#xE5;ng, &#xE5;ter; tillbaka" date="2011-03-03"/>
+  </word>
+  <word value="again" lang="en" class="ab" id="8231" origin="lexin" date="2009-02-24">
+    <translation id="8231-1" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="8231-2" value="&#xE4;n en g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <example id="8231-6" value="summer is here again" origin="lexin" date="2009-02-24">
+      <translation value="sommaren &#xE4;r h&#xE4;r igen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="8231-7" value="we&amp;#39;ll have to meet again next week" origin="lexin" date="2009-02-24">
+      <translation value="vi m&#xE5;ste ses igen n&#xE4;sta vecka" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="8231-8" value="please tell the story again from the beginning" origin="lexin" date="2009-02-24">
+      <translation value="var sn&#xE4;ll och ber&#xE4;tta historien en g&#xE5;ng till fr&#xE5;n b&#xF6;rjan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="8231-3" value="again and again" origin="lexin" date="2009-02-24">
+      <translation value="om och om igen; g&#xE5;ng efter annan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="8231-4" value="time and again" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5;ng p&#xE5; g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="8231-5" value="never again" origin="lexin" date="2009-02-24">
+      <translation value="aldrig mer" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="anew" lang="en" class="ab" id="13701" origin="lexin" date="2009-02-24">
+    <translation id="13701-1" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="13701-2" value="p&#xE5; samma s&#xE4;tt" comment="s&#xE4;rskilt litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="back" lang="en" class="ab" id="27521" origin="lexin" date="2009-02-24">
+    <translation id="27521-1" value="&#xE5;ter" origin="lexin" date="2009-02-24"/>
+    <translation id="27521-2" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="27521-3" value="tillbaka" origin="lexin" date="2009-02-24"/>
+    <idiom id="27521-4" value="go back (up)on one&amp;#39;s word" origin="lexin" date="2009-02-24">
+      <translation value="bryta sitt ord" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="over" lang="en" class="ab" id="299761" origin="lexin" date="2009-02-24">
+    <translation id="299761-1" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="299761-2" value="en g&#xE5;ng till" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="299761-3" value="this is sloppy work; do it over!" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xE4;r var ett slarvigt utf&#xF6;rt arbete; g&#xF6;r om det!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="to" lang="en" class="ab" id="420831" origin="lexin" date="2009-02-24">
+    <translation id="420831-1" value="igen" origin="lexin" date="2009-02-24"/>
+    <translation id="420831-2" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

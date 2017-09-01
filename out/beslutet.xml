@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="beslut" lang="sv" class="nn" id="16500" lexinid="1650" origin="lexin" date="2011-03-03">
+    <translation id="16500-1607" value="decision" origin="user" date="2011-11-12T00:14:45"/>
+    <translation id="16500-1608" value="resolution" origin="user" date="2011-11-12T00:14:45"/>
+    <phonetic value="beslU:t" soundFile="beslut.swf" date="2011-03-03"/>
+    <paradigm id="1423" origin="lexin" date="2011-03-03">
+      <inflection value="beslutet"/>
+      <inflection value="beslut"/>
+      <inflection value="besluten"/>
+    </paradigm>
+    <synonym value="dom" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fastst&#xE4;llande" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="beslut||beslut..1||beslut..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1055" value="fatta beslut" date="2011-03-03">
+      <translation value="come to a decision"/>
+    </example>
+    <example id="1056" value="beslut om sanktioner" date="2011-03-03">
+      <translation value="decision on sanctions"/>
+    </example>
+    <example id="1057" value="driva igenom ett beslut" date="2011-03-03">
+      <translation value="force through a decision"/>
+    </example>
+    <example id="1058" value="&#xE4;garen har &#xF6;verklagat h&#xE4;lsov&#xE5;rdsn&#xE4;mndens beslut att st&#xE4;nga krogen" date="2011-03-03">
+      <translation value="the proprietor has appealed against the health authorities&amp;#39; decision to close the restaurant"/>
+    </example>
+    <compound id="502" value="principbeslut" date="2011-03-03">
+      <translation value="decision in principle"/>
+    </compound>
+    <compound id="503" value="majoritetsbeslut" date="2011-03-03">
+      <translation value="majority decision"/>
+    </compound>
+    <compound id="504" value="besluts|fattare" date="2011-03-03">
+      <translation value="decision-maker"/>
+    </compound>
+    <definition id="1606" value="n&#xE5;got som &#xE4;r best&#xE4;mt, avg&#xF6;rande, utslag" date="2011-03-03">
+      <translation value="that which is decided, judgement, etc."/>
+    </definition>
+  </word>
+  <word value="besluten" lang="sv" class="jj" id="16520" lexinid="1652" origin="lexin" date="2011-03-03">
+    <translation id="16520-1609" value="resolved" origin="user" date="2012-02-12T00:08:04"/>
+    <translation id="16520-1610" value="determined" origin="user" date="2012-02-12T00:08:04"/>
+    <phonetic value="beslU:ten" soundFile="besluten.swf" date="2011-03-03"/>
+    <paradigm id="1425" origin="lexin" date="2011-03-03">
+      <inflection value="beslutet"/>
+      <inflection value="beslutna"/>
+    </paradigm>
+    <synonym value="best&#xE4;md" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="besluten||besluten..1||besluten..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1061" value="han &#xE4;r fast besluten att genomf&#xF6;ra planen" date="2011-03-03">
+      <translation value="he is absolutely determined to carry through the plan"/>
+    </example>
+    <definition id="1608" value="som har beslutat sig f&#xF6;r (n&#xE5;got)" date="2011-03-03">
+      <translation value="having decided (to do sth.)"/>
+    </definition>
+  </word>
+</definition>

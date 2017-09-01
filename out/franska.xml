@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="48940" lang="sv" lexinid="4894" origin="lexin" value="fransk">
+    <translation date="2011-03-03" id="4816" value="French"/>
+    <phonetic date="2011-03-03" soundFile="fransk.swf" value="fran:sk"/>
+    <paradigm date="2011-03-03" id="4237" origin="lexin">
+      <inflection value="franskt"/>
+      <inflection value="franska"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fransk||fransk..1||fransk..av.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fransk||fransk..2||fransk..av.1"/>
+    <definition date="2011-03-03" id="4720" value="som &#xE4;r fr&#xE5;n el. avser Frankrike">
+      <translation value="that is from France"/>
+    </definition>
+  </word>
+  <word value="franska" lang="sv" class="nn" id="48950" lexinid="4895" origin="lexin" date="2011-03-03">
+    <translation id="4817" value="French" date="2011-03-03"/>
+    <phonetic value="&#xB2;frAn:ska" soundFile="franska.swf" date="2011-03-03"/>
+    <paradigm id="4238" origin="lexin" date="2011-03-03">
+      <inflection value="franskan"/>
+    </paradigm>
+    <see value="franska||franska..1||franska..nn.1" type="saldo" origin="saldo" date="2014-08-19T03:26:43"/>
+    <definition id="4721" value="spr&#xE5;k i Frankrike" date="2011-03-03">
+      <translation value="the French language"/>
+    </definition>
+  </word>
+  <word class="nn" date="2011-03-03" id="48960" lang="sv" lexinid="4896" origin="lexin" value="franska">
+    <translation date="2011-03-03" id="4818" value="French bread"/>
+    <phonetic date="2011-03-03" soundFile="franska.swf" value="&#xB2;frAn:ska"/>
+    <paradigm date="2011-03-03" id="4239" origin="lexin">
+      <inflection value="franskan"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="franska||franska..1||franska..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="franska||franska..2||franska..nn.2"/>
+    <definition date="2011-03-03" id="4722" value="franskbr&#xF6;d">
+      <translation value="French bread (loaf, roll)"/>
+    </definition>
+  </word>
+  <word value="French" lang="en" class="nn" id="186051" origin="lexin" date="2009-02-24">
+    <translation id="186051-1" value="franska" origin="lexin" date="2009-02-24"/>
+    <explanation value="The language spoken by most people in France." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

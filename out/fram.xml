@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="fram" lang="sv" class="ab" id="48330" lexinid="4833" origin="lexin" date="2011-03-03">
+    <translation id="48330-4661" value="forward" origin="user" date="2012-02-29T00:28:36"/>
+    <translation id="48330-4662" value="up" origin="user" date="2012-02-29T00:28:36"/>
+    <translation id="48330-4663" value="out" origin="user" date="2012-02-29T00:28:36"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="fram:" soundFile="fram.swf" date="2011-03-03"/>
+    <see value="fram||fram..1||fram..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2746" value="gr&#xE4;va fram" date="2011-03-03">
+      <translation value="dig out"/>
+    </example>
+    <example id="2747" value="stiga fram" date="2011-03-03">
+      <translation value="come forward, come out"/>
+    </example>
+    <definition id="4660" value="i riktning fr&#xE5;n en plats som ligger l&#xE4;ngre bort eller &#xE4;r skymd" date="2011-03-03"/>
+  </word>
+  <word class="ab" comment="i riktning mot ett m&#xE5;l" date="2011-03-03" id="48340" lang="sv" lexinid="4834" origin="lexin" value="fram">
+    <translation comment="in the direction of a goal" date="2011-03-03" id="4756" value="along"/>
+    <phonetic date="2011-03-03" soundFile="fram.swf" value="fram:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fram||fram..1||fram..ab.1"/>
+    <example date="2011-03-03" id="2748" value="promenera v&#xE4;gen fram">
+      <translation value="walk along the road"/>
+    </example>
+    <definition date="2011-03-03" id="4661" value="fram&#xE5;t"/>
+  </word>
+  <word class="ab" comment="i riktning mot en senare tidpunkt" date="2011-03-03" id="48350" lang="sv" lexinid="4835" origin="lexin" value="fram">
+    <translation comment="towards a later point in time" date="2011-03-03" id="4757" value="late, later"/>
+    <phonetic date="2011-03-03" soundFile="fram.swf" value="fram:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fram||fram..1||fram..ab.1"/>
+    <example date="2011-03-03" id="2749" value="fram p&#xE5; dagen">
+      <translation value="late in the morning"/>
+    </example>
+  </word>
+  <word class="ab" date="2011-03-03" id="48360" lang="sv" lexinid="4836" origin="lexin" value="fram">
+    <translation date="2011-03-03" id="4758" value="there"/>
+    <phonetic date="2011-03-03" soundFile="fram.swf" value="fram:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fram||fram..1||fram..ab.1"/>
+    <example date="2011-03-03" id="2750" value="hinna fram i tid">
+      <translation value="get there (arrive) in time"/>
+    </example>
+    <definition date="2011-03-03" id="4662" value="till m&#xE5;let"/>
+  </word>
+  <word value="forth" lang="en" class="ab" id="183261" origin="lexin" date="2009-02-24">
+    <translation id="183261-1" value="fram&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-2" value="vidare" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-3" value="fram" origin="lexin" date="2009-02-24"/>
+    <translation id="183261-4" value="ut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="forward" lang="en" class="ab" id="183501" origin="lexin" date="2009-02-24">
+    <translation id="183501-1" value="fram" origin="lexin" date="2009-02-24"/>
+    <translation id="183501-2" value="vidare" origin="lexin" date="2009-02-24"/>
+    <translation id="183501-3" value="l&#xE5;ngt fram" origin="lexin" date="2009-02-24"/>
+    <translation id="183501-4" value="l&#xE4;ngre fram" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="forward" lang="en" class="ab" id="183521" origin="lexin" date="2009-02-24">
+    <translation id="183521-1" value="fram&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="183521-2" value="fram" origin="lexin" date="2009-02-24"/>
+    <translation id="183521-3" value="framl&#xE4;nges" origin="lexin" date="2009-02-24"/>
+    <example id="183521-4" value="backward and forward" origin="lexin" date="2009-02-24">
+      <translation value="fram och tillbaka" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="ab, jj" id="294231" origin="lexin" date="2009-02-24">
+    <translation id="294231-1" value="fram" origin="lexin" date="2009-02-24"/>
+    <translation id="294231-2" value="fram&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <example id="294231-3" value="walk right on" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; rakt fram" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="predikativt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

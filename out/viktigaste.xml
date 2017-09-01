@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="chief" lang="en" class="jj" id="76441" origin="lexin" date="2009-02-24">
+    <translation id="76441-1" value="viktigaste" origin="lexin" date="2009-02-24"/>
+    <translation id="76441-2" value="huvud-" origin="lexin" date="2009-02-24"/>
+    <example id="76441-3" value="the chief cause of this conflict is a lack in communication" origin="lexin" date="2009-02-24">
+      <translation value="huvudorsaken till den h&#xE4;r konflikten &#xE4;r brist p&#xE5; kommunikation" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="43480" lang="sv" lexinid="4348" origin="lexin" value="fem">
+    <translation date="2011-03-03" id="4284" value="five"/>
+    <phonetic date="2011-03-03" soundFile="fem.swf" value="fem:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fem||fem..1||fem..nl.1"/>
+    <definition date="2011-03-03" id="4181" value="5">
+      <translation value="5"/>
+    </definition>
+  </word>
+  <word value="five" lang="en" class="rg" id="176791" origin="lexin" date="2009-02-24">
+    <translation id="176791-1" value="fem" origin="lexin" date="2009-02-24"/>
+    <explanation value="The number 5." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

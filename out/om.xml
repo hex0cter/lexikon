@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" comment="om rum" date="2011-03-03" id="123300" lang="sv" lexinid="12331" origin="lexin" value="om">
+    <translation comment="spatial" date="2011-03-03" id="12109" value="round"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="om.swf" value="&#xE5;m:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;rs&#xE5;vitt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ifall"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="om||om..4||om..ab.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="om||om..5||om..ab.1"/>
+    <example date="2011-03-03" id="6846" value="linda om">
+      <translation value="tie round"/>
+    </example>
+    <example date="2011-03-03" id="6847" value="b&#xE4;dda om">
+      <translation value="remake a bed"/>
+    </example>
+    <example date="2011-03-03" id="6848" value="k&#xF6;ra om">
+      <translation value="overtake"/>
+    </example>
+    <definition date="2011-03-03" id="11874" value="omkring, runt; f&#xF6;rbi"/>
+  </word>
+  <word value="om" lang="sv" class="ab" id="123310" lexinid="12332" origin="lexin" date="2011-03-03">
+    <translation id="123310-11876" value="again" origin="user" date="2012-02-02T00:55:01"/>
+    <translation id="123310-11877" value="re-" origin="user" date="2012-02-02T00:55:01"/>
+    <use value="mest som verbpartikel" date="2011-03-03"/>
+    <phonetic value="&#xE5;m:" soundFile="om.swf" date="2011-03-03"/>
+    <see value="om||om..4||om..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="om||om..5||om..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6849" value="bygga om" date="2011-03-03">
+      <translation value="rebuild"/>
+    </example>
+    <example id="6850" value="t&#xE4;nka om" date="2011-03-03">
+      <translation value="rethink"/>
+    </example>
+    <example id="6851" value="v&#xE4;lja om" date="2011-03-03">
+      <translation value="re-elect"/>
+    </example>
+    <example id="6852" value="om och om igen" date="2011-03-03">
+      <translation value="again and again"/>
+    </example>
+    <definition id="11875" value="p&#xE5; nytt, &#xE4;nnu en g&#xE5;ng, om igen" date="2011-03-03"/>
+  </word>
+  <word value="om" lang="sv" class="ab" id="123320" lexinid="12333" origin="lexin" date="2011-03-03">
+    <translation id="12111" value="about" date="2011-03-03"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="&#xE5;m:" soundFile="om.swf" date="2011-03-03"/>
+    <see value="om||om..4||om..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="om||om..5||om..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6853" value="bry sig om" date="2011-03-03">
+      <translation value="care about"/>
+    </example>
+    <example id="6854" value="sk&#xF6;ta om" date="2011-03-03">
+      <translation value="look after"/>
+    </example>
+    <example id="6855" value="tycka om" date="2011-03-03">
+      <translation value="like"/>
+    </example>
+    <definition id="11876" value="ang&#xE5;ende, betr&#xE4;ffande" date="2011-03-03"/>
+  </word>
+  <word class="kn" date="2011-03-03" id="123330" lang="sv" lexinid="12334" origin="lexin" value="om">
+    <translation date="2011-03-03" id="12112" value="if"/>
+    <phonetic date="2011-03-03" soundFile="om.swf" value="&#xE5;m:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;rs&#xE5;vitt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ifall"/>
+    <example date="2011-03-03" id="6856" value="om du hinner s&#xE5; k&#xF6;p lite mj&#xF6;lk">
+      <translation value="if you have time, buy a little milk"/>
+    </example>
+    <example date="2011-03-03" id="6857" value="jag undrar om du kan hj&#xE4;lpa mig?">
+      <translation value="I wonder if you can help me?"/>
+    </example>
+    <example date="2011-03-03" id="6858" value="som om inget hade h&#xE4;nt">
+      <translation value="as if nothing had happened"/>
+    </example>
+    <example date="2011-03-03" id="6859" value="jag &#xE5;ker &#xE4;ven om det regnar">
+      <translation value="I shall go even if it is raining"/>
+    </example>
+    <definition date="2011-03-03" id="11877" value="ifall, s&#xE5;vida; huruvida"/>
+  </word>
+  <word class="pp" comment="om rum" date="2011-03-03" id="123340" lang="sv" lexinid="12335" origin="lexin" value="om">
+    <translation comment="spatial" date="2011-03-03" id="12113" value="round"/>
+    <phonetic date="2011-03-03" soundFile="om.swf" value="&#xE5;m:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;rs&#xE5;vitt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ifall"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="om||om..2||om..pp.1"/>
+    <example date="2011-03-03" id="6860" value="en halsduk om halsen">
+      <translation value="a scarf round one&amp;#39;s neck"/>
+    </example>
+    <example date="2011-03-03" id="6861" value="aff&#xE4;ren om h&#xF6;rnet">
+      <translation value="the shop round (on) the corner"/>
+    </example>
+    <example date="2011-03-03" id="6862" value="&#xE5;ka om Stockholm">
+      <translation value="go round Stockholm"/>
+    </example>
+    <definition date="2011-03-03" id="11878" value="omkring, runt; f&#xF6;rbi, via"/>
+  </word>
+  <word class="pp" comment="om tid" date="2011-03-03" id="123350" lang="sv" lexinid="12336" origin="lexin" value="om">
+    <translation comment="temporal" date="2011-03-03" id="12114" value="by"/>
+    <phonetic date="2011-03-03" soundFile="om.swf" value="&#xE5;m:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;rs&#xE5;vitt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ifall"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="om||om..2||om..pp.1"/>
+    <example date="2011-03-03" id="6863" value="om natten">
+      <translation value="by night"/>
+    </example>
+    <example date="2011-03-03" id="6864" value="tre g&#xE5;nger om &#xE5;ret">
+      <translation value="three times a year"/>
+    </example>
+    <example date="2011-03-03" id="6865" value="om dagarna">
+      <translation value="by day"/>
+    </example>
+    <example date="2011-03-03" id="6866" value="om en stund">
+      <translation value="in a while"/>
+    </example>
+    <definition date="2011-03-03" id="11879" value="p&#xE5;; inom en tid av"/>
+  </word>
+  <word value="om" lang="sv" class="pp" id="123360" lexinid="12337" origin="lexin" date="2011-03-03">
+    <translation id="123360-11881" value="about" origin="user" date="2011-11-12T00:14:33"/>
+    <translation id="123360-11882" value="of" origin="user" date="2011-11-12T00:14:33"/>
+    <phonetic value="&#xE5;m:" soundFile="om.swf" date="2011-03-03"/>
+    <synonym value="f&#xF6;rs&#xE5;vitt" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ifall" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="om||om..2||om..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6867" value="v&#xE5;rdnaden om barn" date="2011-03-03">
+      <translation value="custody of children"/>
+    </example>
+    <example id="6868" value="en fr&#xE5;ga om tid" date="2011-03-03">
+      <translation value="a question of time"/>
+    </example>
+    <example id="6869" value="prata om v&#xE4;dret" date="2011-03-03">
+      <translation value="talk about the weather"/>
+    </example>
+    <idiom id="1097" value="gott om (&amp;quot;rikligt med&amp;quot;) (pengar)" date="2011-03-03">
+      <translation value="plenty of (money)"/>
+    </idiom>
+    <definition id="11880" value="ang&#xE5;ende, betr&#xE4;ffande" date="2011-03-03"/>
+  </word>
+  <word class="pp" date="2011-03-03" id="123370" lang="sv" lexinid="12338" origin="lexin" value="om">
+    <translation date="2011-03-03" id="12116" value="of"/>
+    <phonetic date="2011-03-03" soundFile="om.swf" value="&#xE5;m:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xF6;rs&#xE5;vitt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ifall"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="om||om..2||om..pp.1"/>
+    <example date="2011-03-03" id="6870" value="&#xF6;ster om staden">
+      <translation value="east of the town"/>
+    </example>
+    <example date="2011-03-03" id="6871" value="till h&#xF6;ger om d&#xF6;rren">
+      <translation value="to the right of the door"/>
+    </example>
+    <definition date="2011-03-03" id="11881" value="i f&#xF6;rh&#xE5;llande till"/>
+  </word>
+  <word value="about" lang="en" class="pp" id="1141" origin="lexin" date="2009-02-24">
+    <translation id="1141-1" value="omkring i" comment="i rumsbetydelse" origin="lexin" date="2009-02-24"/>
+    <translation id="1141-2" value="runt i" origin="lexin" date="2009-02-24"/>
+    <translation id="1141-3" value="runt p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="1141-4" value="runtomkring" origin="lexin" date="2009-02-24"/>
+    <translation id="1141-5" value="om" origin="lexin" date="2009-02-24"/>
+    <example id="1141-6" value="walk about the town" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; runt p&#xE5; stan&amp;#39;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="1141-7" value="somewhere about here" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;r n&#xE5;gonstans" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="about" lang="en" class="ab" id="1151" origin="lexin" date="2009-02-24">
+    <translation id="1151-1" value="om" comment="&#xE5;t motsatt h&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    <example id="1151-2" value="it&amp;#39;s the other way about" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r precis tv&#xE4;rtom" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="about" lang="en" class="pp" id="1161" origin="lexin" date="2009-02-24">
+    <translation id="1161-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="1161-2" value="ang&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="1161-3" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="1161-4" value="i fr&#xE5;ga om" origin="lexin" date="2009-02-24"/>
+    <translation id="1161-5" value="med" origin="lexin" date="2009-02-24"/>
+    <example id="1161-6" value="be about" origin="lexin" date="2009-02-24">
+      <translation value="handla om, g&#xE4;lla" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="1161-7" value="what about a cup of tea?" origin="lexin" date="2009-02-24">
+      <translation value="hur skulle det smaka med en kopp te?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="about" lang="en" class="pp" id="1171" origin="lexin" date="2009-02-24">
+    <translation id="1171-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="1171-2" value="ang&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="1171-3" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="1171-4" value="i fr&#xE5;ga om" origin="lexin" date="2009-02-24"/>
+    <translation id="1171-5" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="1171-6" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <example id="1171-7" value="be about" origin="lexin" date="2009-02-24">
+      <translation value="handla om, g&#xE4;lla" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="1171-8" value="well, what about it?" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;, &#xE4;n sen&amp;#39;?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="by" lang="en" class="pp" id="62651" origin="lexin" date="2009-02-24">
+    <translation id="62651-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="62651-2" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="62651-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="62651-4" value="I mostly work by day" origin="lexin" date="2009-02-24">
+      <translation value="jag arbetar oftast p&#xE5; dagen (dagtid)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181701" origin="lexin" date="2009-02-24">
+    <translation id="181701-1" value="f&#xF6;r att f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="181701-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="181701-3" value="om" origin="lexin" date="2009-02-24"/>
+    <example id="181701-4" value="I&amp;#39;m asking you for a favour" origin="lexin" date="2009-02-24">
+      <translation value="jag ber dig om en tj&#xE4;nst" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="if" lang="en" class="kn" id="226001" origin="lexin" date="2009-02-24">
+    <translation id="226001-1" value="huruvida" origin="lexin" date="2009-02-24"/>
+    <translation id="226001-2" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="226001-3" value="ifall" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="if" lang="en" class="kn" id="226011" origin="lexin" date="2009-02-24">
+    <translation id="226011-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-2" value="ifall" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-3" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="226011-4" value="s&#xE5;vida" origin="lexin" date="2009-02-24"/>
+    <idiom id="226011-5" value="if I were you" origin="lexin" date="2009-02-24">
+      <translation value="om jag vore som du, om jag vore i dina kl&#xE4;der" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-6" value="if anything" origin="lexin" date="2009-02-24">
+      <translation value="om m&#xF6;jlig, n&#xE4;rmast" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-7" value="as if" origin="lexin" date="2009-02-24">
+      <translation value="som om, liksom om" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-8" value="even if" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;ven om, fast&#xE4;n, om (ock)s&#xE5;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-9" value="if not" origin="lexin" date="2009-02-24">
+      <translation value="om inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-10" value="if not" origin="lexin" date="2009-02-24">
+      <translation value="annars, i annat fall" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-11" value="if only" origin="lexin" date="2009-02-24">
+      <translation value="om bara" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-12" value="if only because" origin="lexin" date="2009-02-24">
+      <translation value="om inte f&#xF6;r annat s&#xE5; f&#xF6;r att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="226011-13" value="if only to" origin="lexin" date="2009-02-24">
+      <translation value="om inte annat s&#xE5; f&#xF6;r att" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="in" lang="en" class="pp" id="228691" origin="lexin" date="2009-02-24">
+    <translation id="228691-1" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="228691-2" value="om" comment="anger kvantitet, antal med mera" origin="lexin" date="2009-02-24"/>
+    <example id="228691-4" value="pack them in tens" origin="lexin" date="2009-02-24">
+      <translation value="packa dem tio om tio/tio i varje bunt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="228691-5" value="you&amp;#39;ll discuss it in smaller groups" origin="lexin" date="2009-02-24">
+      <translation value="ni f&#xE5;r sitta i mindre grupper och diskutera det" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="228691-3" value="in pairs" origin="lexin" date="2009-02-24">
+      <translation value="parvis" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="in" lang="en" class="pp" id="228881" origin="lexin" date="2009-02-24">
+    <translation id="228881-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="228881-2" value="vid slutet av angiven tidsperiod" origin="lexin" date="2009-02-24"/>
+    <example id="228881-3" value="I&amp;#39;ll be back in an hour" origin="lexin" date="2009-02-24">
+      <translation value="jag kommer tillbaka om en timme" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="of" lang="en" class="pp" id="292631" origin="lexin" date="2009-02-24">
+    <translation id="292631-1" value="av" comment="i uttryck med objektiv genitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-4" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-5" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-6" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292651" origin="lexin" date="2009-02-24">
+    <translation id="292651-1" value="i" comment="i uttryck som betecknar f&#xF6;rbindelse, &#xE4;gande" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-3" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-4" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-5" value="vid" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-6" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-7" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-8" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="292651-9" value="som tillh&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292671" origin="lexin" date="2009-02-24">
+    <translation id="292671-1" value="om" comment="i uttryck som betecknar l&#xE4;ge, utg&#xE5;ngspunkt, avskiljande, ber&#xF6;vande" origin="lexin" date="2009-02-24"/>
+    <translation id="292671-2" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292671-3" value="efter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292691" origin="lexin" date="2009-02-24">
+    <translation id="292691-1" value="om" comment="i uttryck som betecknar &#xE4;mne, f&#xF6;rh&#xE5;llande, inneh&#xE5;ll" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292701" origin="lexin" date="2009-02-24">
+    <translation id="292701-1" value="av" comment="i uttryck som betecknar &#xE4;mne, material, inneh&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="292701-2" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="292701-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="292701-4" value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292711" origin="lexin" date="2009-02-24">
+    <translation id="292711-1" value="p&#xE5;" comment="i vissa tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="292711-2" value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="on" lang="en" class="pp" id="294201" origin="lexin" date="2009-02-24">
+    <translation id="294201-1" value="p&#xE5;" comment="i tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="294201-2" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="294201-3" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="294201-4" value="on May 1" origin="lexin" date="2009-02-24">
+      <translation value="den 1 maj" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="pp" id="294281" origin="lexin" date="2009-02-24">
+    <translation id="294281-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="294281-2" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="294281-3" value="kring" comment="ett &#xE4;mne och dylikt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="past" lang="en" class="pp" id="307781" origin="lexin" date="2009-02-24">
+    <translation id="307781-1" value="f&#xF6;rbi" origin="lexin" date="2009-02-24"/>
+    <translation id="307781-2" value="om" origin="lexin" date="2009-02-24"/>
+    <example id="307781-3" value="he drove past me" origin="lexin" date="2009-02-24">
+      <translation value="han k&#xF6;rde om mig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="round" lang="en" class="pp" id="365621" origin="lexin" date="2009-02-24">
+    <translation id="365621-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-2" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-3" value="runt" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-4" value="omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-5" value="runt omkring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-6" value="kring" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-7" value="runtom" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-8" value="omkring i" origin="lexin" date="2009-02-24"/>
+    <translation id="365621-9" value="runt i" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="kn" id="416581" origin="lexin" date="2009-02-24">
+    <translation id="416581-1" value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to" lang="en" class="pp" id="420871" origin="lexin" date="2009-02-24">
+    <translation id="420871-1" value="om" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whether" lang="en" class="kn" id="443261" origin="lexin" date="2009-02-24">
+    <translation id="443261-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="443261-2" value="huruvida" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

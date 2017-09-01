@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="195440" lang="sv" lexinid="19545" origin="lexin" value="tycka">
+    <translation date="2011-03-03" id="19195" value="think"/>
+    <phonetic date="2011-03-03" soundFile="tycker.swf" value="tYk:er"/>
+    <paradigm date="2011-03-03" id="17089" origin="lexin">
+      <inflection value="tyckte"/>
+      <inflection value="tyckt"/>
+      <inflection value="tyck"/>
+      <inflection value="tycka"/>
+      <inflection value="tycker"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="anse"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="&#xE5;sikt"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tycka||tycka..1||tycka..vb.1"/>
+    <example date="2011-03-03" id="10921" value="jag tycker du har fel">
+      <translation value="I think you are wrong"/>
+    </example>
+    <example date="2011-03-03" id="10922" value="tycka synd om n&#xE5;gon">
+      <translation value="feel sorry for sby"/>
+    </example>
+    <definition date="2011-03-03" id="18903" value="ha en viss &#xE5;sikt eller f&#xF6;rest&#xE4;llning, anse"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; att+SATS"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="195450" lang="sv" lexinid="19546" origin="lexin" value="tycka">
+    <translation date="2011-03-03" id="19196" value="imagine"/>
+    <phonetic date="2011-03-03" soundFile="tycker.swf" value="tYk:er"/>
+    <paradigm date="2011-03-03" id="17090" origin="lexin">
+      <inflection value="tyckte"/>
+      <inflection value="tyckt"/>
+      <inflection value="tyck"/>
+      <inflection value="tycka"/>
+      <inflection value="tycker"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="anse"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="&#xE5;sikt"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tycka||tycka..1||tycka..vb.1"/>
+    <example date="2011-03-03" id="10923" value="han tyckte sig se en gammal grek">
+      <translation value="he thought he saw an old Greek"/>
+    </example>
+    <definition date="2011-03-03" id="18904" value="ha intryck av"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; sig + INF"/>
+  </word>
+</definition>

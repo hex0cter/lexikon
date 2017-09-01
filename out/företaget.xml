@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;retag" lang="sv" class="nn" id="54060" lexinid="5406" origin="lexin" date="2011-03-03">
+    <translation id="5322" value="company" date="2011-03-03"/>
+    <phonetic value="&#xB2;f&#xD6;:reta:g" soundFile="f&#xF6;retag.swf" date="2011-03-03"/>
+    <paradigm id="4672" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;retaget"/>
+      <inflection value="f&#xF6;retag"/>
+      <inflection value="f&#xF6;retagen"/>
+    </paradigm>
+    <synonym value="bolag" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="firma" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="n&#xE4;ringsverksamhet" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..1||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..2||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3133" value="multinationella f&#xF6;retag" date="2011-03-03">
+      <translation value="multinational companies"/>
+    </example>
+    <compound id="1934" value="f&#xF6;retags|demokrati" date="2011-03-03">
+      <translation value="industrial democracy"/>
+    </compound>
+    <compound id="1935" value="aff&#xE4;rsf&#xF6;retag" date="2011-03-03">
+      <translation value="business company (concern)"/>
+    </compound>
+    <compound id="1936" value="f&#xF6;retags|ledning" date="2011-03-03">
+      <translation value="company management"/>
+    </compound>
+    <compound id="1937" value="f&#xF6;retags|nedl&#xE4;ggelse" date="2011-03-03">
+      <translation value="company closure"/>
+    </compound>
+    <definition id="5204" value="r&#xF6;relse, firma" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;retag" lang="sv" class="nn" id="54070" lexinid="5407" origin="lexin" date="2011-03-03">
+    <translation id="54070-5206" value="business" origin="user" date="2012-02-08T23:49:41"/>
+    <translation id="54070-5207" value="enterprise" origin="user" date="2012-02-08T23:49:41"/>
+    <translation id="54070-5208" value="undertaking" origin="user" date="2012-02-08T23:49:41"/>
+    <phonetic value="&#xB2;f&#xD6;:reta:g" soundFile="f&#xF6;retag.swf" date="2011-03-03"/>
+    <paradigm id="4673" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;retaget"/>
+      <inflection value="f&#xF6;retag"/>
+      <inflection value="f&#xF6;retagen"/>
+    </paradigm>
+    <see value="f&#xF6;retag||f&#xF6;retag..1||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..2||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3134" value="det &#xE4;r ett helt f&#xF6;retag att byta avgassystem" date="2011-03-03">
+      <translation value="it is a real business to change an exhaust system"/>
+    </example>
+    <definition id="5205" value="f&#xF6;rehavande; tilltag" date="2011-03-03"/>
+  </word>
+</definition>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="&#xE4;ven med f&#xF6;rsvagad betydelse i uppmaningar" date="2011-03-03" id="208390" lang="sv" lexinid="20840" origin="lexin" value="vilja">
+    <translation comment="also downtoned in exhortations" date="2011-03-03" id="20471" value="want"/>
+    <phonetic date="2011-03-03" soundFile="vill.swf" value="vil:"/>
+    <paradigm date="2011-03-03" id="18170" origin="lexin">
+      <inflection value="ville"/>
+      <inflection value="velat"/>
+      <inflection value="vilja"/>
+      <inflection value="vill"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;mna"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xF6;nska"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="&#xF6;nskan"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vilja||vilja..1||vilja..vb.1"/>
+    <example date="2011-03-03" id="11738" value="vill du skicka mig saltet?">
+      <translation value="would you pass me the salt, please?"/>
+    </example>
+    <example date="2011-03-03" id="11739" value="jag ville att han skulle stanna">
+      <translation value="I wanted him to stay"/>
+    </example>
+    <example date="2011-03-03" id="11740" value="jag vill inte g&#xE5; och l&#xE4;gga mig">
+      <translation value="I don&amp;#39;t want to go to bed"/>
+    </example>
+    <example date="2011-03-03" id="11741" value="vad vill du ha till middag?">
+      <translation value="what do you want for dinner?"/>
+    </example>
+    <idiom date="2011-03-03" id="1814" value="det vill till (krafter f&#xF6;r att lyfta stenen) (&amp;quot;det beh&#xF6;vs (krafter etc)&amp;quot;)">
+      <translation value="it will take (strength to lift the stone) (&amp;quot;(strength etc.) is needed to&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1815" value="om det vill sig v&#xE4;l (&amp;quot;om det g&#xE5;r bra&amp;quot;)">
+      <translation value="if all goes well"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1816" value="det vill s&#xE4;ga (&amp;quot;det betyder, allts&#xE5;&amp;quot;)">
+      <translation value="that is to say (&amp;quot;that means&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="20129" value="&#xF6;nska, str&#xE4;va (efter)"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF/att + S"/>
+  </word>
+  <word value="vill" lang="sv" id="274040" origin="user" date="2012-08-24T04:03:20">
+    <translation id="274040-1" value="want" origin="user" date="2012-08-24T04:03:20"/>
+  </word>
+  <word value="will" lang="en" class="hj&#xE4;lpverb" id="444471" origin="lexin" date="2009-02-24">
+    <translation id="444471-1" value="ska" origin="lexin" date="2009-02-24"/>
+    <translation id="444471-2" value="ska absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="444471-3" value="vill" origin="lexin" date="2009-02-24"/>
+    <translation id="444471-4" value="vill absolut" origin="lexin" date="2009-02-24"/>
+    <paradigm id="444471-6" origin="lexin" date="2009-02-24">
+      <inflection value="obetonat" origin="lexin" date="2009-02-24"/>
+      <inflection value="i imperfekt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="444471-7" origin="lexin" date="2009-02-24">
+      <inflection value="would" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="444471-5" value="she will have her own way" origin="lexin" date="2009-02-24">
+      <translation value="hon ska n&#xF6;dv&#xE4;ndigt ha sin vilja fram" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="will" lang="en" class="hj&#xE4;lpverb" id="444541" origin="lexin" date="2009-02-24">
+    <translation id="444541-1" value="vill" origin="lexin" date="2009-02-24"/>
+    <paradigm id="444541-3" origin="lexin" date="2009-02-24">
+      <inflection value="obetonat" origin="lexin" date="2009-02-24"/>
+      <inflection value="i imperfekt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="444541-4" origin="lexin" date="2009-02-24">
+      <inflection value="would" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="444541-2" value="won&amp;#39;t you sit down" origin="lexin" date="2009-02-24">
+      <translation value="var s&#xE5; god och sitt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="well-worn" lang="en" id="537161" origin="user" date="2014-11-13T04:42:26">
+    <translation id="537161-1" value="v&#xE4;lanv&#xE4;nd" origin="user" date="2014-11-13T04:42:26"/>
+    <translation id="537161-2" value="vill" origin="user" date="2014-11-13T04:42:27"/>
+  </word>
+</definition>

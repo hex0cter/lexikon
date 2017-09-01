@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="215280" lang="sv" lexinid="21529" origin="lexin" value="&#xE5;t">
+    <translation date="2011-03-03" id="21141" value="ate"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;t.swf" value="&#xE5;:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="till"/>
+    <see date="2011-03-03" origin="lexin" value="&#xE4;ta"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="215290" lang="sv" lexinid="21530" origin="lexin" value="&#xE5;t">
+    <translation date="2011-03-03" id="21142" value="at"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;t.swf" value="&#xE5;:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="till"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;t||&#xE5;t..4||&#xE5;t..ab.1"/>
+    <example date="2011-03-03" id="12143" value="komma &#xE5;t">
+      <translation value="get at, reach, get hold of"/>
+    </example>
+    <example date="2011-03-03" id="12144" value="ta &#xE5;t sig">
+      <translation value="take somthing to heart, feel guilty"/>
+    </example>
+    <example date="2011-03-03" id="12145" value="sitta &#xE5;t">
+      <translation value="be tight, be a tight fit"/>
+    </example>
+    <definition date="2011-03-03" id="20796" value="n&#xE4;ra, inp&#xE5;"/>
+  </word>
+  <word value="&#xE5;t" lang="sv" class="pp" id="215300" lexinid="21531" origin="lexin" date="2011-03-03">
+    <translation id="215300-20798" value="towards" origin="user" date="2012-03-22T02:31:37"/>
+    <translation id="215300-20799" value="to" origin="user" date="2012-03-22T02:31:37"/>
+    <phonetic value="&#xE5;:t" soundFile="&#xE5;t.swf" date="2011-03-03"/>
+    <synonym value="till" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="&#xE5;t||&#xE5;t..1||&#xE5;t..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="12146" value="g&#xE5; &#xE5;t andra h&#xE5;llet" date="2011-03-03">
+      <translation value="go in the other direction"/>
+    </example>
+    <example id="12147" value="g&#xE5; &#xE5;t sidan" date="2011-03-03">
+      <translation value="step aside"/>
+    </example>
+    <example id="12148" value="huset ligger &#xE5;t norr" date="2011-03-03">
+      <translation value="the house is to the north"/>
+    </example>
+    <definition id="20797" value="i riktning mot" date="2011-03-03"/>
+  </word>
+  <word class="pp" comment="anger f&#xF6;rem&#xE5;let f&#xF6;r en verksamhet" date="2011-03-03" id="215310" lang="sv" lexinid="21532" origin="lexin" value="&#xE5;t">
+    <translation comment="states the subject of an activity" date="2011-03-03" id="21144" value="at, to, about"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;t.swf" value="&#xE5;:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="till"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;t||&#xE5;t..1||&#xE5;t..pp.1"/>
+    <example date="2011-03-03" id="12149" value="ge sitt st&#xF6;d &#xE5;t en sak">
+      <translation value="support something, give something one&amp;#39;s support"/>
+    </example>
+    <example date="2011-03-03" id="12150" value="&#xE4;gna sig &#xE5;t">
+      <translation value="devote oneself to"/>
+    </example>
+    <example date="2011-03-03" id="12151" value="gl&#xE4;dja sig &#xE5;t">
+      <translation value="be happy at (about)"/>
+    </example>
+  </word>
+  <word class="vb" date="2011-03-03" id="217240" lang="sv" lexinid="21725" origin="lexin" value="&#xE4;ta">
+    <translation date="2011-03-03" id="21332" value="eat"/>
+    <phonetic date="2011-03-03" soundFile="&#xE4;ter.swf" value="&#xC4;:ter"/>
+    <paradigm date="2011-03-03" id="18920" origin="lexin">
+      <inflection value="&#xE5;t"/>
+      <inflection value="&#xE4;tit"/>
+      <inflection value="&#xE4;t"/>
+      <inflection value="&#xE4;ta"/>
+      <inflection value="&#xE4;ter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="dinera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;rt&#xE4;ra"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="inta"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="intaga"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="krubba"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="k&#xE4;ka"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="spisa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="supera"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE4;ta||&#xE4;ta..1||&#xE4;ta..vb.1"/>
+    <example date="2011-03-03" id="12303" value="n&#xE4;r &#xE4;ter vi?">
+      <translation value="when do we eat?"/>
+    </example>
+    <example date="2011-03-03" id="12304" value="&#xE4;t upp maten!">
+      <translation value="eat up your food!"/>
+    </example>
+    <example date="2011-03-03" id="12305" value="&#xE4;ta frukost">
+      <translation value="eat (have) breakfast"/>
+    </example>
+    <example date="2011-03-03" id="12306" value="&#xE4;ta en sm&#xF6;rg&#xE5;s">
+      <translation value="eat a sandwich"/>
+    </example>
+    <definition date="2011-03-03" id="20984" value="tugga och sv&#xE4;lja (mat); inta (m&#xE5;ltid)"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="ater.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp; (y)"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23141" origin="lexin" date="2009-02-24">
+    <translation id="23141-1" value="&#xF6;ver" comment="som uttrycker anledning" origin="lexin" date="2009-02-24"/>
+    <translation id="23141-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="23141-3" value="&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="23141-4" value="vid" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23161" origin="lexin" date="2009-02-24">
+    <translation id="23161-1" value="p&#xE5;" comment="som uttrycker riktning, m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="23161-2" value="mot" origin="lexin" date="2009-02-24"/>
+    <translation id="23161-3" value="&#xE5;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="for" lang="en" class="pp" id="181781" origin="lexin" date="2009-02-24">
+    <translation id="181781-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-2" value="&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="181781-4" value="I&amp;#39;m doing this for you" origin="lexin" date="2009-02-24">
+      <translation value="jag g&#xF6;r det h&#xE4;r f&#xF6;r dig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="to" lang="en" class="pp" id="420861" origin="lexin" date="2009-02-24">
+    <translation id="420861-1" value="mot" origin="lexin" date="2009-02-24"/>
+    <translation id="420861-2" value="&#xE5;t" comment="uttrycker riktning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="to" lang="en" class="pp" id="420901" origin="lexin" date="2009-02-24">
+    <translation id="420901-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="420901-2" value="&#xE5;t" comment="uttrycker dativf&#xF6;rh&#xE5;llande" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

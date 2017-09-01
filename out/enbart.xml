@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="39000" lang="sv" lexinid="3900" origin="lexin" value="enbart">
+    <translation date="2011-03-03" id="3845" value="only, alone, solely"/>
+    <phonetic date="2011-03-03" soundFile="enbart.swf" value="&#xB2;E:nba:r+t"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="bara"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="endast"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="enbart||enbart..1||enbart..ab.1"/>
+    <example date="2011-03-03" id="2306" value="&#xF6;kningen g&#xE4;ller enbart andra kvartalet">
+      <translation value="the increase applies to the second quarter only"/>
+    </example>
+    <definition date="2011-03-03" id="3752" value="bara"/>
+  </word>
+  <word value="alone" lang="en" class="ab" id="10991" origin="lexin" date="2009-02-24">
+    <translation id="10991-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-3" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-4" value="uteslutande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="entirely" lang="en" class="ab" id="158231" origin="lexin" date="2009-02-24">
+    <translation id="158231-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="158231-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <example id="158231-3" value="you&amp;#39;re to blame entirely" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r enbart ditt fel" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="exclusively" lang="en" class="ab" id="163491" origin="lexin" date="2009-02-24">
+    <translation id="163491-1" value="uteslutande" origin="lexin" date="2009-02-24"/>
+    <translation id="163491-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="163491-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <example id="163491-4" value="the group consisted exclusively of Greeks" origin="lexin" date="2009-02-24">
+      <translation value="gruppen bestod uteslutande av greker" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="solely" lang="en" class="ab" id="389541" origin="lexin" date="2009-02-24">
+    <translation id="389541-1" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="389541-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="389541-3" value="uteslutande" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

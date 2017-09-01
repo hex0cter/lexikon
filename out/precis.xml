@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="134100" lang="sv" lexinid="13411" origin="lexin" value="precis">
+    <translation date="2011-03-03" id="13168" value="exact, precise"/>
+    <phonetic date="2011-03-03" soundFile="precis.swf" value="presI:s"/>
+    <paradigm date="2011-03-03" id="11649" origin="lexin">
+      <inflection value="precist"/>
+      <inflection value="precisa"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="absolut"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="ackurat"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="exakt"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="just"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="korrekt"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="noggrann"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="riktigt"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="r&#xE4;tt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tr&#xE4;ffs&#xE4;ker"/>
+    <example date="2011-03-03" id="7460" value="korta och precisa svar">
+      <translation value="brief and precise (to the point) replies"/>
+    </example>
+    <definition date="2011-03-03" id="12947" value="noggrann, noga"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="134110" lang="sv" lexinid="13412" origin="lexin" value="precis">
+    <translation date="2011-03-03" id="13169" value="exactly, precisely"/>
+    <phonetic date="2011-03-03" soundFile="precis.swf" value="presI:s"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="absolut"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="ackurat"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="exakt"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="just"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="korrekt"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="noggrann"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="riktigt"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="r&#xE4;tt"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tr&#xE4;ffs&#xE4;ker"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="precis||precis..1||precis..ab.1"/>
+    <example date="2011-03-03" id="7461" value="den passar precis">
+      <translation value="it fits exactly"/>
+    </example>
+    <example date="2011-03-03" id="7462" value="precis som vanligt">
+      <translation value="the same as ever"/>
+    </example>
+    <example date="2011-03-03" id="7463" value="f&#xE5;r det g&#xE5; till precis hur som helst?">
+      <translation value="can it be done just any old how?"/>
+    </example>
+    <definition date="2011-03-03" id="12948" value="exakt"/>
+  </word>
+  <word value="accurate" lang="en" class="jj" id="3381" origin="lexin" date="2009-02-24">
+    <translation id="3381-1" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="3381-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="3381-3" value="riktig" origin="lexin" date="2009-02-24"/>
+    <translation id="3381-4" value="noggrann" origin="lexin" date="2009-02-24"/>
+    <translation id="3381-5" value="omsorgsfull" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bang" lang="en" class="ab" id="31161" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="31161-1" value="tv&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="31161-2" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="31161-3" value="precis" origin="lexin" date="2009-02-24"/>
+    <idiom id="31161-4" value="bang on time" origin="lexin" date="2009-02-24">
+      <translation value="precis, exakt, punktligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="31161-5" value="it&amp;#39;s bang on!" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r perfekt!/utm&#xE4;rkt!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="dead" lang="en" class="jj" id="119221" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="119221-1" value="absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="119221-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="119221-3" value="fullst&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    <translation id="119221-4" value="ren" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="due" lang="en" class="ab" id="147651" origin="lexin" date="2009-02-24">
+    <translation id="147651-1" value="rakt" origin="lexin" date="2009-02-24"/>
+    <translation id="147651-2" value="precis" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exact" lang="en" class="jj" id="162561" origin="lexin" date="2009-02-24">
+    <translation id="162561-1" value="korrekt" origin="lexin" date="2009-02-24"/>
+    <translation id="162561-2" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="162561-3" value="precis" origin="lexin" date="2009-02-24"/>
+    <example id="162561-5" value="I want the exact figure" origin="lexin" date="2009-02-24">
+      <translation value="jag vill ha den exakta siffran" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="162561-4" value="to be exact" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r att vara exakt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="exactly" lang="en" class="ab" id="162621" origin="lexin" date="2009-02-24">
+    <translation id="162621-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="162621-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="162621-3" value="exakt" origin="lexin" date="2009-02-24"/>
+    <example id="162621-4" value="you&amp;#39;re standing exactly where he was when he saw the snake" origin="lexin" date="2009-02-24">
+      <translation value="du st&#xE5;r exakt p&#xE5; det st&#xE4;lle d&#xE4;r han stod n&#xE4;r han s&#xE5;g ormen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="flat" lang="en" class="ab" id="178221" origin="lexin" date="2009-02-24">
+    <translation id="178221-1" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-2" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-3" value="blankt" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-4" value="fullst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-5" value="rent ut" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-6" value="rakt" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-7" value="rakt i ansiktet" origin="lexin" date="2009-02-24"/>
+    <translation id="178221-8" value="utan vidare tv&#xE4;rt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244181" origin="lexin" date="2009-02-24">
+    <translation id="244181-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="244181-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="244181-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <idiom id="244181-4" value="it is just as well" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r lika bra" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="244181-5" value="just so!" origin="lexin" date="2009-02-24">
+      <translation value="just det!/det &#xE4;r riktigt!/alldeles riktigt!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="just" lang="en" class="ab" id="244191" origin="lexin" date="2009-02-24">
+    <translation id="244191-1" value="knappt" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-2" value="med n&#xF6;d och n&#xE4;ppe" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-3" value="n&#xE4;tt och j&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-4" value="precis" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pinpoint" lang="en" class="jj" id="318291" origin="lexin" date="2009-02-24">
+    <translation id="318291-1" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="318291-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <example id="318291-3" value="pinpoint accuracy" origin="lexin" date="2009-02-24">
+      <translation value="yttersta exakthet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="precisely" lang="en" class="ab" id="329771" origin="lexin" date="2009-02-24">
+    <translation id="329771-1" value="precis" origin="user" date="2012-11-14T04:11:06"/>
+    <example id="329771-2" value="it fits exactly" origin="lexin" date="2009-02-24">
+      <translation value="den passar precis" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="329771-3" value="can it be done just any old how?" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5;r det g&#xE5; till precis hur som helst?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="329771-4" value="the same as ever" origin="lexin" date="2009-02-24">
+      <translation value="precis som vanligt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="exakt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="prompt" lang="en" class="ab" id="335851" origin="lexin" date="2009-02-24">
+    <translation id="335851-1" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="335851-2" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="335851-3" value="p&#xE5; slaget" origin="lexin" date="2009-02-24"/>
+    <example id="335851-4" value="we&amp;#39;re meeting at 7.00 prompt, so don&amp;#39;t be late" origin="lexin" date="2009-02-24">
+      <translation value="vi ska ses prick klockan 7.00, s&#xE5; kom inte sent" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="quite" lang="en" class="ab" id="343701" lexinid="207" origin="lexin" date="2009-02-24">
+    <translation id="343701-1" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-2" value="fullkomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-3" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-4" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-5" value="absolut" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-6" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-7" value="exakt" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-8" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="343701-9" value="ganska" origin="lexin" date="2009-02-24"/>
+    <example id="343701-10" value="quite right!" origin="lexin" date="2009-02-24">
+      <translation value="alldeles riktigt!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="helt (och h&#xE5;llet), fullst&#xE4;ndigt, precis" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="spot-on" lang="en" id="522571" origin="user" date="2013-11-29T04:35:23">
+    <translation id="522571-1" value="p&#xE5; pricken, precis" origin="user" date="2013-11-29T04:35:24"/>
+  </word>
+</definition>

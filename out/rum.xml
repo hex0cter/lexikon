@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="146250" lang="sv" lexinid="14626" origin="lexin" value="rum">
+    <phonetic date="2011-03-03" soundFile="rum.swf" value="rum:"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kammare"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="lokal"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sal"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="rum||rum..1||rum..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="rum||rum..3||rum..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="rum||rum..4||rum..nn.1"/>
+    <idiom date="2011-03-03" id="1255" value="&#xE4;ga rum (&amp;quot;intr&#xE4;ffa, f&#xF6;rsigg&#xE5;&amp;quot;)">
+      <translation value="take place (&amp;quot;happen&amp;quot;)"/>
+    </idiom>
+  </word>
+  <word value="rum" lang="sv" class="nn" id="146260" lexinid="14627" origin="lexin" date="2011-03-03">
+    <translation id="14368" value="room" date="2011-03-03"/>
+    <phonetic value="rum:" soundFile="rum.swf" date="2011-03-03"/>
+    <paradigm id="12756" origin="lexin" date="2011-03-03">
+      <inflection value="rummet"/>
+      <inflection value="rum"/>
+      <inflection value="rummen"/>
+    </paradigm>
+    <synonym value="kammare" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lokal" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="rum||rum..1||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="rum||rum..3||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="rum||rum..4||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8264" value="en l&#xE4;genhet p&#xE5; fyra rum och k&#xF6;k" date="2011-03-03">
+      <translation value="an apartment with four rooms and a kitchen"/>
+    </example>
+    <compound id="5123" value="rums|belysning" date="2011-03-03">
+      <translation value="indoor lighting"/>
+    </compound>
+    <compound id="5124" value="sjukrum" date="2011-03-03">
+      <translation value="sickroom"/>
+    </compound>
+    <compound id="5125" value="tj&#xE4;nsterum" date="2011-03-03">
+      <translation value="office"/>
+    </compound>
+    <compound id="5126" value="badrum" date="2011-03-03">
+      <translation value="bathroom"/>
+    </compound>
+    <definition id="14166" value="avdelning i hus" date="2011-03-03"/>
+    <url value="9/laegenhet.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="rum" lang="sv" class="nn" id="146270" lexinid="14628" origin="lexin" date="2011-03-03">
+    <translation id="146270-14168" value="room" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="146270-14169" value="space" origin="user" date="2012-01-14T23:15:29"/>
+    <phonetic value="rum:" soundFile="rum.swf" date="2011-03-03"/>
+    <paradigm id="12757" origin="lexin" date="2011-03-03">
+      <inflection value="rummet"/>
+      <inflection value="rum"/>
+      <inflection value="rummen"/>
+    </paradigm>
+    <synonym value="kammare" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lokal" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="rum||rum..1||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="rum||rum..3||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="rum||rum..4||rum..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8265" value="l&#xE4;mna rum f&#xF6;r nyp&#xE5;stigna passagerare" date="2011-03-03">
+      <translation value="leave room (make way) for newly-embarked passengers"/>
+    </example>
+    <example id="8266" value="hon kommer i fr&#xE4;msta rummet" date="2011-03-03">
+      <translation value="she comes first"/>
+    </example>
+    <example id="8267" value="vi f&#xE5;r inte rum med fler m&#xF6;bler" date="2011-03-03">
+      <translation value="we haven&amp;#39;t enough room for any more furniture"/>
+    </example>
+    <compound id="5127" value="tomrum" date="2011-03-03">
+      <translation value="void, empty place"/>
+    </compound>
+    <compound id="5128" value="sv&#xE4;ngrum" date="2011-03-03">
+      <translation value="space, elbowroom"/>
+    </compound>
+    <idiom id="1256" value="&#xE4;ga rum (&amp;quot;utspela sig, ske&amp;quot;)" date="2011-03-03">
+      <translation value="take place (&amp;quot;occur, happen&amp;quot;)"/>
+    </idiom>
+    <definition id="14167" value="plats, utrymme" date="2011-03-03"/>
+  </word>
+  <word value="place" lang="en" class="nn" id="319951" origin="lexin" date="2009-02-24">
+    <translation id="319951-1" value="st&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="319951-2" value="plats" origin="lexin" date="2009-02-24"/>
+    <translation id="319951-3" value="utrymme" origin="lexin" date="2009-02-24"/>
+    <translation id="319951-4" value="sittplats" origin="lexin" date="2009-02-24"/>
+    <translation id="319951-5" value="rum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="room" lang="en" class="nn" id="364611" origin="lexin" date="2009-02-24">
+    <translation id="364611-1" value="rum" origin="lexin" date="2009-02-24"/>
+    <example id="364611-2" value="I&amp;#39;d like a single/double room" origin="lexin" date="2009-02-24">
+      <translation value="jag skulle vilja ha ett enkel-/dubbelrum" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ofta i kombination" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="space" lang="en" class="nn" id="390891" origin="lexin" date="2009-02-24">
+    <translation id="390891-1" value="rum" origin="lexin" date="2009-02-24"/>
+    <translation id="390891-2" value="rymd" origin="lexin" date="2009-02-24"/>
+    <example id="390891-3" value="Is there enough space for my things in your drawer?" origin="lexin" date="2009-02-24">
+      <translation value="Finns det rum f&#xF6;r mina saker i din l&#xE5;da?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="390891-4" value="A parking space" origin="lexin" date="2009-02-24">
+      <translation value="En parkeringsplats (utrymme f&#xF6;r parkering)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Something that can be measured in length, width depth, distance, area, or volume." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ward" lang="en" class="nn" id="440141" origin="lexin" date="2009-02-24">
+    <translation id="440141-1" value="avdelning" origin="lexin" date="2009-02-24"/>
+    <translation id="440141-2" value="sal" origin="lexin" date="2009-02-24"/>
+    <translation id="440141-3" value="rum" comment="p&#xE5; sjukhus" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rom" lang="sv" class="nn" id="145300" lexinid="14531" origin="lexin" date="2011-03-03">
+    <translation id="14276" value="rum" date="2011-03-03"/>
+    <phonetic value="r&#xE5;m:" soundFile="rom.swf" date="2011-03-03"/>
+    <paradigm id="12667" origin="lexin" date="2011-03-03">
+      <inflection value="rommen"/>
+    </paradigm>
+    <see value="rom||rom..1||rom..nn.1" type="saldo" origin="saldo" date="2014-07-25T04:48:20"/>
+    <definition id="14073" value="spritdryck av sockerr&#xF6;rssaft" date="2011-03-03"/>
+  </word>
+  <word value="rum" lang="en" class="nn" id="366981" origin="lexin" date="2009-02-24">
+    <translation id="366981-1" value="rom" origin="lexin" date="2009-02-24"/>
+    <explanation value="spritdryck av sockerr&#xF6;rssaft" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

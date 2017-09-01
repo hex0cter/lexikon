@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="183190" lang="sv" lexinid="18320" origin="lexin" value="s&#xE4;tt">
+    <translation date="2011-03-03" id="17991" value="way"/>
+    <phonetic date="2011-03-03" soundFile="s&#xE4;tt.swf" value="set:"/>
+    <paradigm date="2011-03-03" id="15998" origin="lexin">
+      <inflection value="s&#xE4;ttet"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tten"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="fason"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="metod"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="taktik"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="s&#xE4;tt||s&#xE4;tt..1||s&#xE4;tt..nn.1"/>
+    <example date="2011-03-03" id="10338" value="g&#xF6;ra en sak p&#xE5; r&#xE4;tt s&#xE4;tt">
+      <translation value="do a thing in the right way"/>
+    </example>
+    <example date="2011-03-03" id="10339" value="ett cyniskt s&#xE4;tt att resonera">
+      <translation value="a cynical way to argue"/>
+    </example>
+    <compound date="2011-03-03" id="6223" value="tillv&#xE4;gag&#xE5;ngss&#xE4;tt">
+      <translation value="line of action, approach"/>
+    </compound>
+    <compound date="2011-03-03" id="6224" value="t&#xE4;nkes&#xE4;tt">
+      <translation value="way of thinking"/>
+    </compound>
+    <compound date="2011-03-03" id="6225" value="f&#xE4;rds&#xE4;tt">
+      <translation value="mode of transport"/>
+    </compound>
+    <idiom date="2011-03-03" id="1566" value="p&#xE5; s&#xE4;tt och vis (&amp;quot;i viss mening&amp;quot;)">
+      <translation value="in some ways (&amp;quot;in a certain sense&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1567" value="p&#xE5; s&#xE5; s&#xE4;tt (&amp;quot;jas&#xE5;&amp;quot;)">
+      <translation value="oh, I see! (&amp;quot;really?&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="17712" value="s&#xE4;rskild form f&#xF6;r att g&#xF6;ra n&#xE5;got, vis"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="183200" lang="sv" lexinid="18321" origin="lexin" value="s&#xE4;tt">
+    <translation date="2011-03-03" id="17992" value="manner"/>
+    <phonetic date="2011-03-03" soundFile="s&#xE4;tt.swf" value="set:"/>
+    <paradigm date="2011-03-03" id="15999" origin="lexin">
+      <inflection value="s&#xE4;ttet"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tten"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="fason"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="metod"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="taktik"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="s&#xE4;tt||s&#xE4;tt..1||s&#xE4;tt..nn.1"/>
+    <example date="2011-03-03" id="10340" value="hon har ett besv&#xE4;rligt s&#xE4;tt">
+      <translation value="she has a difficult manner"/>
+    </example>
+    <definition date="2011-03-03" id="17713" value="uppf&#xF6;rande, beteende"/>
+  </word>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183210" lexinid="18322" origin="lexin" date="2011-03-03">
+    <translation id="183210-17715" value="place" origin="user" date="2011-12-17T19:49:38"/>
+    <translation id="183210-17716" value="put" origin="user" date="2011-12-17T19:49:38"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16000" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <synonym value="placera" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..1||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..2||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..4||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="satter_in.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="10341" value="hon satte blomkrukan i f&#xF6;nstret" date="2011-03-03">
+      <translation value="she put the flower pot in the window"/>
+    </example>
+    <idiom id="1568" value="s&#xE4;tta n&#xE5;got i fr&#xE5;ga (&amp;quot;ifr&#xE5;gas&#xE4;tta&amp;quot;)" date="2011-03-03">
+      <translation value="bring sth. into question (&amp;quot;question sth.&amp;quot;)"/>
+    </idiom>
+    <idiom id="1569" value="s&#xE4;tta livet till (&amp;quot;d&#xF6;&amp;quot;)" date="2011-03-03">
+      <translation value="give one&amp;#39;s life (&amp;quot;die&amp;quot;)"/>
+    </idiom>
+    <idiom id="1570" value="s&#xE4;tta bo (&amp;quot;ordna ett hem&amp;quot;)" date="2011-03-03">
+      <translation value="make a nest (&amp;quot;start a home&amp;quot;)"/>
+    </idiom>
+    <idiom id="1571" value="s&#xE4;tta eld p&#xE5; (&amp;quot;t&#xE4;nda&amp;quot;)" date="2011-03-03">
+      <translation value="set fire to (&amp;quot;light&amp;quot;)"/>
+    </idiom>
+    <idiom id="1572" value="s&#xE4;tta fart (&amp;quot;starta, &#xF6;ka farten&amp;quot;)" date="2011-03-03">
+      <translation value="get going (&amp;quot;start, increase speed&amp;quot;)"/>
+    </idiom>
+    <definition id="17714" value="placera" date="2011-03-03"/>
+    <grammar value="A &amp; x i/p&#xE5; y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183220" lexinid="18323" origin="lexin" date="2011-03-03">
+    <translation id="183220-17716" value="set" origin="user" date="2012-02-12T00:08:02"/>
+    <translation id="183220-17717" value="plant" origin="user" date="2012-02-12T00:08:02"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16001" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <synonym value="plantera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..1||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..2||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..4||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10342" value="s&#xE4;tta l&#xF6;kar" date="2011-03-03">
+      <translation value="set (plant) bulbs"/>
+    </example>
+    <definition id="17715" value="plantera" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183230" lexinid="18324" origin="lexin" date="2011-03-03">
+    <translation id="183230-17717" value="compose" origin="user" date="2012-03-17T04:00:49"/>
+    <translation id="183230-17718" value="set" origin="user" date="2012-03-17T04:00:49"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16002" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2014-11-17T05:11:40"/>
+    <compound id="6226" value="s&#xE4;ttmaskin" date="2011-03-03">
+      <translation value="typesetting (composing) machine"/>
+    </compound>
+    <definition id="17716" value="f&#xF6;rbereda text till tryckning" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="approach" lang="en" class="nn" id="17281" origin="lexin" date="2009-02-24">
+    <translation id="17281-1" value="tillv&#xE4;gag&#xE5;ngss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="17281-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="17281-3" value="taktik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="course" lang="en" class="nn" id="106471" origin="lexin" date="2009-02-24">
+    <translation id="106471-1" value="v&#xE4;g" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="106471-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="106471-3" value="f&#xF6;rfaringss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fashion" lang="en" class="nn" id="170411" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="170411-1" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="170411-2" value="vis" origin="lexin" date="2009-02-24"/>
+    <idiom id="170411-3" value="after a fashion" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5;d&#xE4;r, n&#xE5;gorlunda" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="kind" lang="en" class="nn" id="245851" origin="lexin" date="2009-02-24">
+    <translation id="245851-1" value="natur" comment="&#xE5;lderdomlig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="245851-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="245851-3" value="naturlig b&#xF6;jelse" origin="lexin" date="2009-02-24"/>
+    <translation id="245851-4" value="art" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="manner" lang="en" class="nn" id="266671" lexinid="252" origin="lexin" date="2009-02-24">
+    <translation id="266671-1" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="266671-2" value="vis" origin="lexin" date="2009-02-24"/>
+    <explanation value="different types of, a variety of" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="plan" lang="en" class="nn" id="320401" origin="lexin" date="2009-02-24">
+    <translation id="320401-1" value="metod" origin="lexin" date="2009-02-24"/>
+    <translation id="320401-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="320401-4" value="have plans for (to do) something" origin="lexin" date="2009-02-24">
+      <translation value="ha planer p&#xE5; (att g&#xF6;ra) n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="320401-5" value="put one&amp;#39;s plans into effect" origin="lexin" date="2009-02-24">
+      <translation value="realisera sina planer" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="320401-3" value="go according to plan" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; enligt planerna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="style" lang="en" class="nn" id="404021" origin="lexin" date="2009-02-24">
+    <translation id="404021-1" value="stil" origin="lexin" date="2009-02-24"/>
+    <translation id="404021-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="404021-3" value="framst&#xE4;llningss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="404021-4" value="The Southwest American style of cooking." origin="lexin" date="2009-02-24">
+      <translation value="Matlagning i den sydv&#xE4;stamerikanska stilen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The way in which something is presented." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="way" lang="en" class="nn" id="441371" origin="lexin" date="2009-02-24">
+    <translation id="441371-1" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="441371-2" value="avseende" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="way" lang="en" class="nn" id="441381" origin="lexin" date="2009-02-24">
+    <translation id="441381-1" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="441381-2" value="vis" origin="lexin" date="2009-02-24"/>
+    <translation id="441381-3" value="metod" origin="lexin" date="2009-02-24"/>
+    <idiom id="441381-4" value="allow somebody his/her way" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;ta n&#xE5;gon f&#xE5; sin vilja fram" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-5" value="in a big way" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) j&#xE4;ttemycket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-6" value="in one&amp;#39;s own way" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; sitt eget s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-7" value="be born/made this/that way" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) vara s&#xE5;dan, vara f&#xF6;dd s&#xE5;dan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-8" value="every which way" origin="lexin" date="2009-02-24">
+      <translation value="(brittisk engelska) (talspr&#xE5;k) p&#xE5; alla (m&#xF6;jliga) s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-9" value="in more ways than one" origin="lexin" date="2009-02-24">
+      <translation value="(talspr&#xE5;k) p&#xE5; mer &#xE4;n ett s&#xE4;tt, p&#xE5; flera s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-10" value="in one&amp;#39;s own sweet way" origin="lexin" date="2009-02-24">
+      <translation value="i godan ro, efter behag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-11" value="no way!" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) inte en chans!/aldrig i livet!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-12" value="no way Jose!" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) (informellt) s&#xE4;llan!/gl&#xF6;m det!/inte en chans!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-13" value="one way and another" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; allt, p&#xE5; alla s&#xE4;tt och vis" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-14" value="one way or the other/another/other" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; ett eller annat s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-15" value="rub somebody up the wrong way" origin="lexin" date="2009-02-24">
+      <translation value="(bildligt) stryka n&#xE5;gon moth&#xE5;rs, irritera n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-16" value="take the easy way out" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE4;lja det l&#xE4;tta s&#xE4;ttet, v&#xE4;lja den l&#xE4;tta(ste) (ut)v&#xE4;gen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="441381-17" value="that&amp;#39;s always the way!" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; &#xE4;r det alltid!/alltid samma visa!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="ways and means" lang="en" class="nn" id="441441" origin="lexin" date="2009-02-24">
+    <translation id="441441-1" value="m&#xF6;jligheter" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-2" value="utv&#xE4;gar" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-3" value="resurser" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-4" value="medel" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-5" value="n&#xF6;dv&#xE4;ndiga medel" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-6" value="n&#xF6;dv&#xE4;ndiga tillg&#xE5;ngar" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-7" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="441441-8" value="tillv&#xE4;gag&#xE5;ngss&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wise" lang="en" class="nn" id="445681" origin="lexin" date="2009-02-24">
+    <translation id="445681-1" value="vis" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="445681-2" value="s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

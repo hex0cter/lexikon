@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="30750" lang="sv" lexinid="3075" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3035" value="it, he, she"/>
+    <use date="2011-03-03" value="anger n&#xE5;got tidigare omtalat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2692" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1749" value="Var &#xE4;r boken? -- Den &#xE4;r h&#xE4;r">
+      <translation value="Where is the book? It is here"/>
+    </example>
+    <example date="2011-03-03" id="1750" value="de klarade sig">
+      <translation value="they made it"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30760" lang="sv" lexinid="3076" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3036" value="that"/>
+    <use date="2011-03-03" value="utpekande och ibland betonat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2693" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1751" value="den boken har jag inte l&#xE4;st">
+      <translation value="I have not read that book"/>
+    </example>
+    <idiom date="2011-03-03" id="236" value="de d&#xE4;r (skorna)">
+      <translation value="those (shoes)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="237" value="den h&#xE4;r (boken)">
+      <translation value="this (book)"/>
+    </idiom>
+  </word>
+  <word class="" date="2011-03-03" id="30990" lang="sv" lexinid="3099" origin="lexin" value="dess">
+    <translation date="2011-03-03" id="3059" value="his, her, its, their"/>
+    <phonetic date="2011-03-03" soundFile="dess.swf" value="des:"/>
+    <see date="2011-03-03" id="30750,30760" origin="lexin" value="den"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="31000" lang="sv" lexinid="3100" origin="lexin" value="dess">
+    <translation date="2011-03-03" id="3060" value="then"/>
+    <use date="2011-03-03" value="endast i fraser"/>
+    <phonetic date="2011-03-03" soundFile="dess.swf" value="des:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dess||ju_dess..1||dess..ab.1"/>
+    <example date="2011-03-03" id="1763" value="sedan dess har jag inte tr&#xE4;ffat honom">
+      <translation value="since then I have not met him"/>
+    </example>
+    <example date="2011-03-03" id="1764" value="vi ses nog innan dess">
+      <translation value="we&amp;#39;ll probably see one another before then"/>
+    </example>
+    <definition date="2011-03-03" id="2996" value="den tiden">
+      <translation value="that time"/>
+    </definition>
+  </word>
+  <word class="ab" date="2011-03-03" id="31010" lang="sv" lexinid="3101" origin="lexin" value="dess">
+    <translation date="2011-03-03" id="3061" value="the"/>
+    <phonetic date="2011-03-03" soundFile="dess.swf" value="des:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dess||ju_dess..1||dess..ab.1"/>
+    <example date="2011-03-03" id="1765" value="ju f&#xF6;rr dess b&#xE4;ttre">
+      <translation value="the sooner the better"/>
+    </example>
+    <definition date="2011-03-03" id="2997" value="desto">
+      <translation value="the (better)"/>
+    </definition>
+  </word>
+  <word value="its" lang="en" class="pn" id="240451" origin="lexin" date="2009-02-24">
+    <translation id="240451-1" value="dess" origin="lexin" date="2009-02-24"/>
+    <translation id="240451-2" value="sin" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="their" lang="en" class="pn" id="416971" origin="lexin" date="2009-02-24">
+    <translation id="416971-1" value="deras" origin="lexin" date="2009-02-24"/>
+    <translation id="416971-2" value="dess" origin="lexin" date="2009-02-24"/>
+    <grammar value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

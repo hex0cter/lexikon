@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="article" date="2011-03-03" id="30740" lang="sv" lexinid="3074" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3034" value="the, that"/>
+    <use date="2011-03-03" value="vid adjektiv (+ substantiv)"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2691" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..1||den..al.1"/>
+    <example date="2011-03-03" id="1746" value="den r&#xF6;da bilen">
+      <translation value="the red automobile"/>
+    </example>
+    <example date="2011-03-03" id="1747" value="de sm&#xE5; barnen">
+      <translation value="the little children"/>
+    </example>
+    <example date="2011-03-03" id="1748" value="det b&#xE4;sta jag vet">
+      <translation value="the nicest thing I know"/>
+    </example>
+  </word>
+  <word class="ab" date="2011-03-03" id="31010" lang="sv" lexinid="3101" origin="lexin" value="dess">
+    <translation date="2011-03-03" id="3061" value="the"/>
+    <phonetic date="2011-03-03" soundFile="dess.swf" value="des:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dess||ju_dess..1||dess..ab.1"/>
+    <example date="2011-03-03" id="1765" value="ju f&#xF6;rr dess b&#xE4;ttre">
+      <translation value="the sooner the better"/>
+    </example>
+    <definition date="2011-03-03" id="2997" value="desto">
+      <translation value="the (better)"/>
+    </definition>
+  </word>
+  <word value="desto" lang="sv" class="ab" id="31110" lexinid="3111" origin="lexin" date="2011-03-03">
+    <translation id="31110-1775" value="The" origin="user" date="2013-03-15T00:28:41"/>
+    <use value="endast i fraser" date="2011-03-03"/>
+    <phonetic value="dEs:to" soundFile="desto.swf" date="2011-03-03"/>
+    <see value="desto||ju_desto..1||desto..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1772" value="inte desto mindre" date="2011-03-03">
+      <translation value="nonetheless"/>
+    </example>
+    <example id="1773" value="hon s&#xE4;ger inte mycket men t&#xE4;nker desto mer" date="2011-03-03">
+      <translation value="she may not say much, but she thinks deeply"/>
+    </example>
+    <example id="1774" value="ju f&#xF6;rr desto b&#xE4;ttre" date="2011-03-03">
+      <translation value="the sooner the better"/>
+    </example>
+  </word>
+  <word value="the" lang="en" class="article" id="429241" origin="lexin" date="2009-02-24">
+    <translation id="429241-1" value="" comment="ingen exakt &#xF6;vers&#xE4;ttning, motsvaras av best&#xE4;md slutartikel eller den, de, osv." origin="lexin" date="2009-02-24"/>
+    <example id="429241-2" value="The car." origin="lexin" date="2009-02-24">
+      <translation value="Bilen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429241-3" value="The Old Man and the Sea." origin="lexin" date="2009-02-24">
+      <translation value="Den Gamle och Havet." origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

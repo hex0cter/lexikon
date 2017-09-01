@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="viktig" lang="sv" class="jj" id="208200" lexinid="20821" origin="lexin" date="2011-03-03">
+    <translation id="20453" value="important" date="2011-03-03"/>
+    <phonetic value="&#xB2;vIk:tig" soundFile="viktig.swf" date="2011-03-03"/>
+    <paradigm id="18153" origin="lexin" date="2011-03-03">
+      <inflection value="viktigt"/>
+      <inflection value="viktiga"/>
+    </paradigm>
+    <synonym value="angel&#xE4;gen" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydande" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydelsefull" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentligt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="viktig||viktig..1||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viktig||viktig..2||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11714" value="spela en viktig roll" date="2011-03-03">
+      <translation value="play an important part"/>
+    </example>
+    <example id="11715" value="en viktig fr&#xE5;ga" date="2011-03-03">
+      <translation value="an important matter"/>
+    </example>
+    <definition id="20112" value="betydelsefull, angel&#xE4;gen" date="2011-03-03">
+      <translation value="significant"/>
+    </definition>
+  </word>
+  <word value="viktig" lang="sv" class="jj" id="208210" lexinid="20822" origin="lexin" date="2011-03-03">
+    <translation id="20454" value="stuck-up" date="2011-03-03"/>
+    <phonetic value="&#xB2;vIk:tig" soundFile="viktig.swf" date="2011-03-03"/>
+    <paradigm id="18154" origin="lexin" date="2011-03-03">
+      <inflection value="viktigt"/>
+      <inflection value="viktiga"/>
+    </paradigm>
+    <synonym value="betydande" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="viktig||viktig..1||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viktig||viktig..2||viktig..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11716" value="g&#xF6;ra sig viktig" date="2011-03-03">
+      <translation value="put on airs"/>
+    </example>
+    <compound id="6810" value="viktig|petter" date="2011-03-03">
+      <translation value="pompous ass"/>
+    </compound>
+    <definition id="20113" value="&#xF6;verl&#xE4;gsen, snorkig" date="2011-03-03"/>
+  </word>
+</definition>

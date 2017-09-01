@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="n&#xE4;rmaste" lang="sv" class="jj" id="262940" origin="user" date="2012-06-20T03:32:55">
+    <translation id="262940-1" value="nearest" origin="user" date="2012-06-20T03:32:55"/>
+    <translation id="262940-2" value="closest" origin="user" date="2015-09-19T02:49:50"/>
+  </word>
+  <word value="immediate" lang="en" class="jj" id="227031" origin="lexin" date="2009-02-24">
+    <translation id="227031-1" value="n&#xE4;rmaste" origin="lexin" date="2009-02-24"/>
+    <translation id="227031-2" value="omedelbar" origin="lexin" date="2009-02-24"/>
+    <translation id="227031-3" value="direkt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

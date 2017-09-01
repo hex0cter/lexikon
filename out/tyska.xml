@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="tysk" lang="sv" class="jj" id="195720" lexinid="19573" origin="lexin" date="2011-03-03">
+    <translation id="19223" value="German" date="2011-03-03"/>
+    <phonetic value="tys:k" soundFile="tysk.swf" date="2011-03-03"/>
+    <paradigm id="17114" origin="lexin" date="2011-03-03">
+      <inflection value="tyskt"/>
+      <inflection value="tyska"/>
+    </paradigm>
+    <synonym value="german" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="tysk||tysk..3||tysk..av.1" type="saldo" origin="saldo" date="2015-04-07T00:54:15"/>
+    <definition id="18928" value="som &#xE4;r fr&#xE5;n el. avser Tyskland" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="195740" lang="sv" lexinid="19575" origin="lexin" value="tyska">
+    <translation date="2011-03-03" id="19225" value="German"/>
+    <phonetic date="2011-03-03" soundFile="tyska.swf" value="&#xB2;tYs:ka"/>
+    <paradigm date="2011-03-03" id="17116" origin="lexin">
+      <inflection value="tyskan"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tyska||tyska..1||tyska..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tyska||tyska..2||tyska..nn.2"/>
+    <definition date="2011-03-03" id="18930" value="spr&#xE5;k i Tyskland"/>
+  </word>
+  <word value="German" lang="en" class="nn" id="193491" origin="lexin" date="2009-02-24">
+    <translation id="193491-1" value="tysk" origin="lexin" date="2009-02-24"/>
+    <translation id="193491-2" value="tyska" origin="lexin" date="2009-02-24"/>
+    <explanation value="person fr&#xE5;n Tyskland" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="German" lang="en" class="nn" id="193501" origin="lexin" date="2009-02-24">
+    <translation id="193501-1" value="tyska" comment="spr&#xE5;ket" origin="lexin" date="2009-02-24"/>
+    <explanation value="det spr&#xE5;k som talas i Tyskland, &#xC3;x83&#xC2;x96sterrike och stora delar av Schweitz" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

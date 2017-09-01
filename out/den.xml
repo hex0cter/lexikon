@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="b&#xE4;rbar dator" lang="sv" class="nn" id="26570" lexinid="2657" origin="lexin" date="2011-03-03">
+    <translation id="2621" value="portable computer" date="2011-03-03"/>
+    <translation id="26570-43961" value="laptop" origin="user" date="2013-03-01T03:22:03"/>
+    <phonetic value="&#xB2;b&#xC4;:rba:r 2dA:tor" soundFile="b&#xE4;rbar dator.swf" date="2011-03-03"/>
+    <paradigm id="2330" origin="lexin" date="2011-03-03">
+      <inflection value="den"/>
+      <inflection value="b&#xE4;rbara"/>
+      <inflection value="datorn"/>
+      <inflection value="b&#xE4;rbara"/>
+      <inflection value="datorer"/>
+    </paradigm>
+    <see id="43960" value="fickdator" type="compare" origin="lexin" date="2011-03-03"/>
+    <definition id="2568" value="dator som &#xE4;r utformad s&#xE5; att den &#xE4;r l&#xE4;tt att b&#xE4;ra med sig" date="2011-03-03"/>
+  </word>
+  <word class="article" date="2011-03-03" id="30740" lang="sv" lexinid="3074" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3034" value="the, that"/>
+    <use date="2011-03-03" value="vid adjektiv (+ substantiv)"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2691" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..1||den..al.1"/>
+    <example date="2011-03-03" id="1746" value="den r&#xF6;da bilen">
+      <translation value="the red automobile"/>
+    </example>
+    <example date="2011-03-03" id="1747" value="de sm&#xE5; barnen">
+      <translation value="the little children"/>
+    </example>
+    <example date="2011-03-03" id="1748" value="det b&#xE4;sta jag vet">
+      <translation value="the nicest thing I know"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30750" lang="sv" lexinid="3075" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3035" value="it, he, she"/>
+    <use date="2011-03-03" value="anger n&#xE5;got tidigare omtalat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2692" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1749" value="Var &#xE4;r boken? -- Den &#xE4;r h&#xE4;r">
+      <translation value="Where is the book? It is here"/>
+    </example>
+    <example date="2011-03-03" id="1750" value="de klarade sig">
+      <translation value="they made it"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30760" lang="sv" lexinid="3076" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3036" value="that"/>
+    <use date="2011-03-03" value="utpekande och ibland betonat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2693" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1751" value="den boken har jag inte l&#xE4;st">
+      <translation value="I have not read that book"/>
+    </example>
+    <idiom date="2011-03-03" id="236" value="de d&#xE4;r (skorna)">
+      <translation value="those (shoes)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="237" value="den h&#xE4;r (boken)">
+      <translation value="this (book)"/>
+    </idiom>
+  </word>
+  <word value="her" lang="en" class="pn" id="217171" origin="lexin" date="2009-02-24">
+    <translation id="217171-1" value="henne" origin="lexin" date="2009-02-24"/>
+    <translation id="217171-2" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="217171-3" value="det" comment="om land, b&#xE5;t, bil etcetera" origin="lexin" date="2009-02-24"/>
+    <example id="217171-4" value="I saw her yesterday" origin="lexin" date="2009-02-24">
+      <translation value="jag tr&#xE4;ffade henne i g&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="it" lang="en" class="pn" id="240231" origin="lexin" date="2009-02-24">
+    <translation id="240231-1" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="240231-2" value="det" origin="lexin" date="2009-02-24"/>
+    <explanation value="Refers to an object, animal or other thing that has already been mentioned." origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person singular, subjekt och objekt." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416531" origin="lexin" date="2009-02-24">
+    <translation id="416531-1" value="den d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-2" value="det d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-3" value="denne" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-4" value="denna" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-5" value="detta" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-6" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-7" value="det" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-8" value="de d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-9" value="de d&#xE4;r" comment="plural" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-10" value="dessa" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-11" value="de" origin="lexin" date="2009-02-24"/>
+    <translation id="416531-12" value="detta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416531-13" origin="lexin" date="2009-02-24">
+      <inflection value="those" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="demonstrativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416541" origin="lexin" date="2009-02-24">
+    <translation id="416541-1" value="den" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-2" value="det" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-3" value="de" comment="plural" origin="lexin" date="2009-02-24"/>
+    <translation id="416541-4" value="dem" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416541-5" origin="lexin" date="2009-02-24">
+      <inflection value="those" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bo" lang="sv" class="nn" id="21150" lexinid="2115" origin="lexin" comment="bildligt om bostad f&#xF6;r m&#xE4;nniskor" date="2011-03-03">
+    <translation id="21150-2048" value="hole" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2049" value="lair" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2050" value="den" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2051" value="nest" origin="user" date="2012-03-05T03:40:40"/>
+    <phonetic value="bo:" date="2011-03-03"/>
+    <paradigm id="1840" origin="lexin" date="2011-03-03">
+      <inflection value="boet"/>
+      <inflection value="bon"/>
+      <inflection value="bona"/>
+    </paradigm>
+    <synonym value="hem" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bo||bo..2||bo..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bo||bo..3||bo..nnh.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="658" value="f&#xE5;gelbo" date="2011-03-03">
+      <translation value="bird&amp;#39;s nest"/>
+    </compound>
+    <definition id="2047" value="bostad f&#xF6;r djur (rede, ide etc)" date="2011-03-03">
+      <translation value="the shelter of a bird or animal"/>
+    </definition>
+  </word>
+  <word value="h&#xE5;la" lang="sv" class="nn" id="71750" lexinid="7175" origin="lexin" comment="bildligt &amp;quot;ointressant&amp;quot; ort; i sms &#xE4;ven&amp;quot;skumt tillh&#xE5;ll&amp;quot;" date="2011-03-03">
+    <translation id="71750-6907" value="burrow" origin="user" date="2012-01-26T00:06:49"/>
+    <translation id="71750-6908" value="cave" origin="user" date="2012-01-26T00:06:49"/>
+    <translation id="71750-6909" value="hole" origin="user" date="2012-01-26T00:06:49"/>
+    <translation id="71750-6910" value="den" origin="user" date="2012-01-26T00:06:49"/>
+    <phonetic value="&#xB2;h&#xC5;:la" date="2011-03-03"/>
+    <paradigm id="6233" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xE5;lan"/>
+      <inflection value="h&#xE5;lor"/>
+    </paradigm>
+    <synonym value="grotta" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="kyffe" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE5;la||h&#xE5;la..1||h&#xE5;la..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="2669" value="armh&#xE5;la" date="2011-03-03">
+      <translation value="armpit"/>
+    </compound>
+    <compound id="2670" value="sm&#xE5;stadsh&#xE5;la" date="2011-03-03">
+      <translation value="hole"/>
+    </compound>
+    <compound id="2671" value="opiumh&#xE5;la" date="2011-03-03">
+      <translation value="opium den"/>
+    </compound>
+    <compound id="2672" value="h&#xE5;lrum" date="2011-03-03">
+      <translation value="cavity, hollow"/>
+    </compound>
+    <compound id="2673" value="&#xF6;gonh&#xE5;la" date="2011-03-03">
+      <translation value="eye socket"/>
+    </compound>
+    <definition id="6906" value="f&#xF6;rdjupning el. h&#xE5;lighet (i berg el. jord)" date="2011-03-03"/>
+  </word>
+  <word value="lya" lang="sv" class="nn" id="102740" lexinid="10274" origin="lexin" comment="&#xE4;ven bildligt &amp;quot;liten bostad&amp;quot;" date="2011-03-03">
+    <translation id="102740-9902" value="lair" origin="user" date="2012-01-28T23:48:18"/>
+    <translation id="102740-9903" value="den" origin="user" date="2012-01-28T23:48:18"/>
+    <phonetic value="&#xB2;lY:a" soundFile="lya.swf" date="2011-03-03"/>
+    <paradigm id="8945" origin="lexin" date="2011-03-03">
+      <inflection value="lyan"/>
+      <inflection value="lyor"/>
+    </paradigm>
+    <synonym value="bostad" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="hem" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="hus" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="lya||lya..1||lya..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9901" value="bo f&#xF6;r vilda djur, kula, h&#xE5;la" date="2011-03-03"/>
+  </word>
+  <word value="den" lang="en" class="nn" id="124731" origin="lexin" date="2009-02-24">
+    <translation id="124731-1" value="grupp  av miniorscouter" comment="amerikansk engelska; avdelning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="den" lang="en" class="nn" id="124741" origin="lexin" date="2009-02-24">
+    <translation id="124741-1" value="vardagsrum" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="124741-2" value="TV-rum" origin="lexin" date="2009-02-24"/>
+    <translation id="124741-3" value="s&#xE4;llskapsrum" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="den" lang="en" class="nn" id="124751" origin="lexin" date="2009-02-24">
+    <translation id="124751-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-2" value="lya" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-3" value="h&#xE5;la" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-4" value="gryt" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-5" value="kula" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="den" lang="en" class="nn" id="124761" origin="lexin" date="2009-02-24">
+    <translation id="124761-1" value="n&#xE4;ste" origin="lexin" date="2009-02-24"/>
+    <translation id="124761-2" value="tillh&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    <translation id="124761-3" value="h&#xE5;la" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

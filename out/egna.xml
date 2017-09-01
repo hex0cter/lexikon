@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="egen" lang="sv" class="jj" id="37630" lexinid="3763" origin="lexin" date="2011-03-03">
+    <translation id="3708" value="own" date="2011-03-03"/>
+    <phonetic value="&#xB2;E:gen" soundFile="egen.swf" date="2011-03-03"/>
+    <paradigm id="3255" origin="lexin" date="2011-03-03">
+      <inflection value="eget"/>
+      <inflection value="egna"/>
+    </paradigm>
+    <synonym value="personlig" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="egen||egen..1||egen..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="egen||egen..2||egen..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2228" value="hon slutade p&#xE5; egen beg&#xE4;ran" date="2011-03-03">
+      <translation value="she left at her own request"/>
+    </example>
+    <example id="2229" value="f&#xF6;r egen del &#xE4;r jag emot f&#xF6;rslaget" date="2011-03-03">
+      <translation value="I myself am against the proposal"/>
+    </example>
+    <example id="2230" value="hon gjorde det av egen fri vilja" date="2011-03-03">
+      <translation value="she did it of her own free will"/>
+    </example>
+    <example id="2231" value="han gav sig ut p&#xE5; egen hand" date="2011-03-03">
+      <translation value="he set out on his own, he set out alone"/>
+    </example>
+    <compound id="1307" value="egen|namn" date="2011-03-03">
+      <translation value="proper name (noun)"/>
+    </compound>
+    <definition id="3618" value="som man r&#xE5;r om, personlig" date="2011-03-03"/>
+  </word>
+  <word value="egen" lang="sv" class="jj" id="37640" lexinid="3764" origin="lexin" date="2011-03-03">
+    <translation id="3709" value="odd, peculiar, strange, queer" date="2011-03-03"/>
+    <phonetic value="&#xB2;E:gen" soundFile="egen.swf" date="2011-03-03"/>
+    <paradigm id="3256" origin="lexin" date="2011-03-03">
+      <inflection value="eget"/>
+      <inflection value="egna"/>
+    </paradigm>
+    <synonym value="besynnerlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="speciell" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="udda" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="underlig" level="3.6" origin="synlex" date="2011-03-03"/>
+    <see value="egen||egen..1||egen..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="egen||egen..2||egen..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2232" value="han har alltid verkat lite egen" date="2011-03-03">
+      <translation value="he has always seemed a bit odd"/>
+    </example>
+    <definition id="3619" value="underlig, egendomlig" date="2011-03-03"/>
+  </word>
+  <word value="egna" lang="sv" id="247850" origin="user" date="2012-03-30T03:19:59">
+    <translation id="247850-1" value="own" origin="user" date="2012-03-30T03:20:00"/>
+  </word>
+</definition>

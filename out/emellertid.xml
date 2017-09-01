@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="38780" lang="sv" lexinid="3878" origin="lexin" value="emellertid">
+    <translation date="2011-03-03" id="3823" value="however"/>
+    <phonetic date="2011-03-03" soundFile="emellertid.swf" value="emEl:er+ti:d"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="dock"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="emellertid||emellertid..1||emellertid..ab.1"/>
+    <example date="2011-03-03" id="2295" value="det visade sig emellertid att uppgifterna var falska">
+      <translation value="however, the information proved to be false"/>
+    </example>
+    <definition date="2011-03-03" id="3731" value="dock"/>
+  </word>
+  <word value="however" lang="en" class="ab" id="223491" origin="lexin" date="2009-02-24">
+    <translation id="223491-1" value="emellertid" origin="lexin" date="2009-02-24"/>
+    <translation id="223491-2" value="dock" origin="lexin" date="2009-02-24"/>
+    <explanation value="however, for all that, still" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="though" lang="en" class="ab" id="429511" origin="lexin" date="2009-02-24">
+    <translation id="429511-1" value="&#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="429511-2" value="emellertid" origin="lexin" date="2009-02-24"/>
+    <example id="429511-3" value="It is hard work. I enjoy it though." origin="lexin" date="2009-02-24">
+      <translation value="Det &#xE4;r h&#xE5;rt arbete. Jag gillar det, emellertid. (Men jag gillar det &#xE4;nd&#xE5;.)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="in spite of the fact, really!?" origin="lexin" date="2009-02-24"/>
+    <grammar value="inte i b&#xF6;rjan av en sats" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="yet" lang="en" class="ab" id="449491" origin="lexin" date="2009-02-24">
+    <translation id="449491-1" value="dock" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-2" value="i alla fall" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-3" value="men" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-4" value="&#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-5" value="men &#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-6" value="likv&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-7" value="emellertid" origin="lexin" date="2009-02-24"/>
+    <explanation value="however, for all that, still" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="201540" lang="sv" lexinid="20155" origin="lexin" value="utbildning">
+    <translation date="2011-03-03" id="19797" value="education"/>
+    <phonetic date="2011-03-03" soundFile="utbildning.swf" value="&#xB2;U:tbil:dni@"/>
+    <paradigm date="2011-03-03" id="17601" origin="lexin">
+      <inflection value="utbildningen"/>
+      <inflection value="utbildningar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="skolning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="utbildning||utbildning..1||utbildning..nn.1"/>
+    <example date="2011-03-03" id="11299" value="utbildning i svenska">
+      <translation value="education in the Swedish language, Swedish language training"/>
+    </example>
+    <compound date="2011-03-03" id="6631" value="yrkesutbildning">
+      <translation value="vocational training"/>
+    </compound>
+    <compound date="2011-03-03" id="6632" value="l&#xE4;rarutbildning">
+      <translation value="teacher training"/>
+    </compound>
+    <definition date="2011-03-03" id="19486" value="undervisning, skolning"/>
+  </word>
+  <word value="education" lang="en" class="nn" id="151111" lexinid="236" origin="lexin" date="2009-02-24">
+    <translation id="151111-1" value="undervisning" origin="lexin" date="2009-02-24"/>
+    <translation id="151111-2" value="utbildning" origin="lexin" date="2009-02-24"/>
+    <translation id="151111-3" value="uppfostran" origin="lexin" date="2009-02-24"/>
+    <translation id="151111-4" value="bildning" origin="lexin" date="2009-02-24"/>
+    <translation id="151111-5" value="fostran" origin="lexin" date="2009-02-24"/>
+    <explanation value="having a wide range of *knowledge" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="qualification" lang="en" class="nn" id="342271" origin="lexin" date="2009-02-24">
+    <translation id="342271-1" value="beh&#xF6;righet" origin="lexin" date="2009-02-24"/>
+    <translation id="342271-2" value="utbildning" origin="lexin" date="2009-02-24"/>
+    <translation id="342271-3" value="examen" origin="lexin" date="2009-02-24"/>
+    <example id="342271-4" value="a university qualification" origin="lexin" date="2009-02-24">
+      <translation value="en universitetsexamen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="training" lang="en" id="492661" origin="user" date="2013-01-14T01:48:47">
+    <translation id="492661-1" value="utbildning" origin="user" date="2013-01-14T01:48:47"/>
+    <translation id="492661-1" value="tr&#xE4;ning" origin="user" date="2013-05-24T01:03:13"/>
+    <translation id="492661-1" value="&#xF6;vning" origin="user" date="2013-08-27T05:20:40"/>
+    <translation id="492661-1" value="flamboyant" origin="user" date="2013-11-13T03:35:11"/>
+  </word>
+</definition>

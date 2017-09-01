@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="s&#xF6;dra" lang="sv" class="jj" id="183430" lexinid="18344" origin="lexin" date="2011-03-03">
+    <translation id="183430-17737" value="southern" origin="user" date="2011-11-12T00:14:37"/>
+    <translation id="183430-17738" value="south" origin="user" date="2011-11-12T00:14:37"/>
+    <use value="best&#xE4;md form" date="2011-03-03"/>
+    <phonetic value="&#xB2;s&#xD6;:dra" soundFile="s&#xF6;dra.swf" date="2011-03-03"/>
+    <see value="s&#xF6;dra||s&#xF6;dra..1||s&#xF6;dra..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10349" value="de s&#xF6;dra stadsdelarna" date="2011-03-03">
+      <translation value="the southern parts of the town"/>
+    </example>
+    <definition id="17736" value="som ligger i s&#xF6;der" date="2011-03-03"/>
+  </word>
+  <word value="south" lang="en" class="jj" id="390731" origin="lexin" date="2009-02-24">
+    <translation id="390731-1" value="s&#xF6;dra" origin="lexin" date="2009-02-24"/>
+    <translation id="390731-2" value="syd-" origin="lexin" date="2009-02-24"/>
+    <example id="390731-3" value="The south coast of France." origin="lexin" date="2009-02-24">
+      <translation value="Frankrikes sydkust." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="390731-4" value="South Carolina" origin="lexin" date="2009-02-24">
+      <translation value="Sydcarolina." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The part which is toward the south." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

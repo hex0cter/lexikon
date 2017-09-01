@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" date="2011-03-03" id="154220" lang="sv" lexinid="15423" origin="lexin" value="SIDA">
+    <translation date="2011-03-03" id="15149" value="the Swedish International Development Authority"/>
+    <phonetic date="2011-03-03" soundFile="sida.swf" value="&#xB2;sI:da"/>
+    <definition date="2011-03-03" id="14942" value="svenska statens organ f&#xF6;r bist&#xE5;nd till utvecklingsl&#xE4;nder (i tredje v&#xE4;rlden)">
+      <translation value="the Swedish state authority for the provision of aid to the third world"/>
+    </definition>
+  </word>
+  <word value="sida" lang="sv" class="nn" id="154230" lexinid="15424" origin="lexin" comment="bildligt &amp;quot;synpunkt; omr&#xE5;de&amp;quot;" date="2011-03-03">
+    <translation id="154230-14944" value="aspect" origin="user" date="2012-01-24T00:40:53"/>
+    <translation id="154230-14945" value="point of view" origin="user" date="2012-01-24T00:40:53"/>
+    <translation id="154230-14946" value="side" origin="user" date="2012-01-24T00:40:53"/>
+    <translation id="154230-14947" value="part" origin="user" date="2012-01-24T00:40:53"/>
+    <phonetic value="&#xB2;sI:da" soundFile="sida.swf" date="2011-03-03"/>
+    <paradigm id="13447" origin="lexin" date="2011-03-03">
+      <inflection value="sidan"/>
+      <inflection value="sidor"/>
+    </paradigm>
+    <see value="sida||sida..1||sida..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sida||sida..2||sida..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8716" value="vid sidan om det ordinarie utbudet" date="2011-03-03">
+      <translation value="in addition to the standard assortment"/>
+    </example>
+    <example id="8717" value="vara p&#xE5; den s&#xE4;kra sidan" date="2011-03-03">
+      <translation value="be on the safe side"/>
+    </example>
+    <example id="8718" value="fr&#xE5;n allm&#xE4;nhetens sida" date="2011-03-03">
+      <translation value="from the point of view of the general public"/>
+    </example>
+    <example id="8719" value="vid sidan av v&#xE4;gen" date="2011-03-03">
+      <translation value="by the side of the road"/>
+    </example>
+    <example id="8720" value="en annan sida av saken" date="2011-03-03">
+      <translation value="another aspect of the matter"/>
+    </example>
+    <example id="8721" value="ligga p&#xE5; sidan" date="2011-03-03">
+      <translation value="lie on one&amp;#39;s side"/>
+    </example>
+    <example id="8722" value="st&#xE5; sida vid sida" date="2011-03-03">
+      <translation value="stand side by side"/>
+    </example>
+    <compound id="5380" value="personalsida" date="2011-03-03">
+      <translation value="[on the] staffing side"/>
+    </compound>
+    <compound id="5381" value="skuggsida" date="2011-03-03">
+      <translation value="seamy side"/>
+    </compound>
+    <compound id="5382" value="avigsida" date="2011-03-03">
+      <translation value="unpleasant side"/>
+    </compound>
+    <compound id="5383" value="sido|gren" date="2011-03-03">
+      <translation value="collateral branch"/>
+    </compound>
+    <compound id="5384" value="sydsida" date="2011-03-03">
+      <translation value="southern side"/>
+    </compound>
+    <idiom id="1312" value="&#xE5; ena sidan ... &#xE5; andra sidan (&amp;quot;sett fr&#xE5;n en synpunkt ... sett fr&#xE5;n en annan synpunkt&amp;quot;)" date="2011-03-03">
+      <translation value="on one hand ... on the other (&amp;quot;from one point of view ... from another point of view&amp;quot;)"/>
+    </idiom>
+    <definition id="14943" value="gr&#xE4;nsyta, kant, del (som inte &#xE4;r i mitten)" date="2011-03-03"/>
+  </word>
+  <word value="sida" lang="sv" class="nn" id="154240" lexinid="15425" origin="lexin" date="2011-03-03">
+    <translation id="15151" value="page" date="2011-03-03"/>
+    <phonetic value="&#xB2;sI:da" soundFile="sida.swf" date="2011-03-03"/>
+    <paradigm id="13448" origin="lexin" date="2011-03-03">
+      <inflection value="sidan"/>
+      <inflection value="sidor"/>
+    </paradigm>
+    <synonym value="blad" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="sida||sida..1||sida..nn.1" type="saldo" origin="saldo" date="2015-01-14T01:47:06"/>
+    <example id="8723" value="sida upp och sida ner" date="2011-03-03">
+      <translation value="page after page"/>
+    </example>
+    <example id="8724" value="en bok p&#xE5; 300 sidor" date="2011-03-03">
+      <translation value="a book of 300 pages"/>
+    </example>
+    <compound id="5385" value="f&#xF6;rstasida" date="2011-03-03">
+      <translation value="front page"/>
+    </compound>
+    <compound id="5386" value="bildsida" date="2011-03-03">
+      <translation value="pictorial page"/>
+    </compound>
+    <compound id="5387" value="sid|h&#xE4;nvisning" date="2011-03-03">
+      <translation value="page reference"/>
+    </compound>
+    <definition id="14944" value="(en av de tv&#xE5; ytorna hos ett) bokblad" date="2011-03-03"/>
+  </word>
+  <word value="aspect" lang="en" class="nn" id="21071" origin="lexin" date="2009-02-24">
+    <translation id="21071-1" value="aspekt" comment="&#xE4;ven spr&#xE5;kvetenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="21071-2" value="sida" origin="lexin" date="2009-02-24"/>
+    <translation id="21071-3" value="synpunkt" origin="lexin" date="2009-02-24"/>
+    <translation id="21071-4" value="vinkel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="flank" lang="en" class="nn" id="177441" origin="lexin" date="2009-02-24">
+    <translation id="177441-1" value="flygel" origin="lexin" date="2009-02-24"/>
+    <translation id="177441-2" value="sida" origin="lexin" date="2009-02-24"/>
+    <translation id="177441-3" value="flank" comment="milit&#xE4;rterm" origin="lexin" date="2009-02-24"/>
+    <idiom id="177441-4" value="in flank" origin="lexin" date="2009-02-24">
+      <translation value="i flanken" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="page" lang="en" class="nn" id="302681" origin="lexin" date="2009-02-24">
+    <translation id="302681-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <translation id="302681-2" value="blad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="part" lang="en" class="nn" id="306011" origin="lexin" date="2009-02-24">
+    <translation id="306011-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <translation id="306011-2" value="part" origin="lexin" date="2009-02-24"/>
+    <translation id="306011-3" value="parti" origin="lexin" date="2009-02-24"/>
+    <translation id="306011-4" value="kant" origin="lexin" date="2009-02-24"/>
+    <translation id="306011-5" value="h&#xE5;ll" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="point of view" lang="en" class="nn" id="324131" origin="lexin" date="2009-02-24">
+    <translation id="324131-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <example id="324131-3" value="lie on one&amp;#39;s side" origin="lexin" date="2009-02-24">
+      <translation value="ligga p&#xE5; sidan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-4" value="stand side by side" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE5; sida vid sida" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-5" value="by the side of the road" origin="lexin" date="2009-02-24">
+      <translation value="vid sidan av v&#xE4;gen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-6" value="another aspect of the matter" origin="lexin" date="2009-02-24">
+      <translation value="en annan sida av saken" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-7" value="from the point of view of the general public" origin="lexin" date="2009-02-24">
+      <translation value="fr&#xE5;n allm&#xE4;nhetens sida" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-8" value="be on the safe side" origin="lexin" date="2009-02-24">
+      <translation value="vara p&#xE5; den s&#xE4;kra sidan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="324131-9" value="in addition to the standard assortment" origin="lexin" date="2009-02-24">
+      <translation value="vid sidan om det ordinarie utbudet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="324131-2" value="on one hand ... on the other (&amp;quot;from one point of view ... from another point of view&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="&#xE5; ena sidan ... &#xE5; andra sidan (&amp;quot;sett fr&#xE5;n en synpunkt ... set fr&#xE5;n en annan synpunkt&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="gr&#xE4;nsyta, kant, del (som inte &#xE4;r i mitten); aspekt; h&#xE5;ll, kant" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="quarter" lang="en" class="nn" id="342831" origin="lexin" date="2009-02-24">
+    <translation id="342831-1" value="h&#xE5;ll" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="342831-2" value="sida" origin="lexin" date="2009-02-24"/>
+    <example id="342831-3" value="from a good quarter" origin="lexin" date="2009-02-24">
+      <translation value="fr&#xE5;n s&#xE4;ker k&#xE4;lla" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="side" lang="en" class="nn" id="381991" origin="lexin" date="2009-02-24">
+    <translation id="381991-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <example id="381991-2" value="On one side of the door is pot with geraniums." origin="lexin" date="2009-02-24">
+      <translation value="P&#xE5; ena sidan om d&#xF6;rren st&#xE5;r en kruka med pelargoner." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="381991-3" value="your {plural} side" origin="user" date="2012-09-11T02:12:29">
+      <translation value="er sida" origin="user" date="2013-03-22T00:31:00"/>
+    </example>
+    <example id="381991-4" value="your {singular} side" origin="user" date="2012-09-21T03:05:29">
+      <translation value="din sida" origin="user" date="2012-11-14T04:11:04"/>
+    </example>
+    <explanation value="A position to the left or right of something." origin="lexin" date="2009-02-24">
+      <translation value="utrymme vid sidan om" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="side" lang="en" class="nn" id="382001" origin="lexin" date="2009-02-24">
+    <translation id="382001-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <example id="382001-2" value="The sides of the van had signs with the name of the firm" origin="lexin" date="2009-02-24">
+      <translation value="P&#xE5; lastbilens sidor fanns skyltar med firmanamnet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Any of the surfaces other than the front or back of an object." origin="lexin" date="2009-02-24">
+      <translation value="yta annat &#xE4;n framsida/baksida" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="side" lang="en" class="nn" id="382011" origin="lexin" date="2009-02-24">
+    <translation id="382011-1" value="sida" origin="lexin" date="2009-02-24"/>
+    <translation id="382011-2" value="kant" origin="lexin" date="2009-02-24"/>
+    <example id="382011-3" value="You can park on the side of the road." origin="lexin" date="2009-02-24">
+      <translation value="Du kan parkera vid v&#xE4;gkanten." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The edges of a surface or an area" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stringer" lang="en" class="nn" id="402221" origin="lexin" date="2009-02-24">
+    <translation id="402221-1" value="tv&#xE4;rbj&#xE4;lke" origin="lexin" date="2009-02-24"/>
+    <translation id="402221-2" value="sida" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="trait" lang="en" class="nn" id="423811" origin="lexin" date="2009-02-24">
+    <translation id="423811-1" value="drag" origin="lexin" date="2009-02-24"/>
+    <translation id="423811-2" value="karakt&#xE4;rsdrag" origin="lexin" date="2009-02-24"/>
+    <translation id="423811-3" value="inre egenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="423811-4" value="sida" origin="lexin" date="2009-02-24"/>
+    <explanation value="internal quality, aspect" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

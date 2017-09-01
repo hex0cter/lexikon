@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="58790" lang="sv" lexinid="5879" origin="lexin" value="f&#xF6;r&#xE4;lder">
+    <translation date="2011-03-03" id="5781" value="parent"/>
+    <use date="2011-03-03" value="mest i plural"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r&#xE4;lder.swf" value="f&#xF6;rEl:der"/>
+    <paradigm date="2011-03-03" id="5098" origin="lexin">
+      <inflection value="f&#xF6;r&#xE4;ldern"/>
+      <inflection value="f&#xF6;r&#xE4;ldrar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="p&#xE4;ron"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r&#xE4;lder||f&#xF6;r&#xE4;lder..1||f&#xF6;r&#xE4;lder..nn.1"/>
+    <compound date="2011-03-03" id="2075" value="adoptivf&#xF6;r&#xE4;lder"/>
+    <compound date="2011-03-03" id="2076" value="sv&#xE4;rf&#xF6;r&#xE4;lder">
+      <translation value="parent-in-law"/>
+    </compound>
+    <definition date="2011-03-03" id="5666" value="mamma eller pappa"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="1/familj.swf"/>
+  </word>
+  <word value="folk" lang="en" class="nn" id="181111" origin="lexin" date="2009-02-24">
+    <variant value="folks" origin="lexin" date="2009-02-24"/>
+    <translation id="181111-1" value="f&#xF6;r&#xE4;ldrar" origin="lexin" date="2009-02-24"/>
+    <translation id="181111-2" value="n&#xE4;rmaste familj" origin="lexin" date="2009-02-24"/>
+    <example id="181111-3" value="My folks will arrive tomorrow." origin="lexin" date="2009-02-24">
+      <translation value="Mina f&#xF6;r&#xE4;ldrar kommer imorgon." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Parents, immediate family" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Parents" lang="en" id="483261" origin="user" date="2012-10-27T04:23:59">
+    <translation id="483261-1" value="f&#xF6;r&#xE4;ldrar" origin="user" date="2012-10-27T04:23:59"/>
+  </word>
+  <word value="parents&amp;#39;" lang="en" id="549721" origin="user" date="2017-02-27T00:38:22">
+    <translation id="549721-1" value="f&#xF6;r&#xE4;ldrar" origin="user" date="2017-02-27T00:38:22"/>
+    <translation id="549721-2" value="f&#xF6;r&#xE4;ldrars" origin="user" date="2017-02-27T00:38:27"/>
+  </word>
+</definition>

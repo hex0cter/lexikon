@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="67450" lang="sv" lexinid="6745" origin="lexin" value="hans">
+    <translation date="2011-03-03" id="6626" value="his"/>
+    <phonetic date="2011-03-03" soundFile="hans.swf" value="han:s"/>
+    <see date="2011-03-03" id="66880" origin="lexin" value="han"/>
+  </word>
+  <word value="his" lang="en" class="pn" id="219011" origin="lexin" date="2009-02-24">
+    <translation id="219011-1" value="hans" origin="lexin" date="2009-02-24"/>
+    <translation id="219011-2" value="sin" origin="lexin" date="2009-02-24"/>
+    <paradigm id="219011-5" origin="lexin" date="2009-02-24">
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+      <inflection value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="219011-3" value="is this his?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r den/det h&#xE4;r hans?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="219011-4" value="is this coat his?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r det h&#xE4;r hans rock?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="his" lang="en" class="pn" id="219041" origin="lexin" date="2009-02-24">
+    <translation id="219041-1" value="hans" origin="lexin" date="2009-02-24"/>
+    <translation id="219041-2" value="sin" origin="lexin" date="2009-02-24"/>
+    <paradigm id="219041-6" origin="lexin" date="2009-02-24">
+      <inflection value="f&#xF6;renat" origin="lexin" date="2009-02-24"/>
+      <inflection value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="219041-3" value="he saw his chance" origin="lexin" date="2009-02-24">
+      <translation value="han s&#xE5;g sin chans" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="219041-4" value="my son lost his keys" origin="lexin" date="2009-02-24">
+      <translation value="min son har tappat sina nycklar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="219041-5" value="this is his first visit here" origin="lexin" date="2009-02-24">
+      <translation value="detta &#xE4;r hans f&#xF6;rsta bes&#xF6;k h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="their" lang="en" class="pn" id="416961" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="416961-1" value="hans" origin="lexin" date="2009-02-24"/>
+    <grammar value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

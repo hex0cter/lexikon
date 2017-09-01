@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="lag" lang="sv" class="nn" id="97480" lexinid="9748" origin="lexin" comment="bildligt &amp;quot;regelbundet f&#xF6;rlopp&amp;quot;" date="2011-03-03">
+    <translation id="97480-9393" value="act" origin="user" date="2011-12-31T10:30:49"/>
+    <translation id="97480-9394" value="law" origin="user" date="2011-12-31T10:30:49"/>
+    <phonetic value="la:g" soundFile="lag.swf" date="2011-03-03"/>
+    <paradigm id="8475" origin="lexin" date="2011-03-03">
+      <inflection value="lagen"/>
+      <inflection value="lagar"/>
+    </paradigm>
+    <synonym value="regel" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="reglemente" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="lag||lag..1||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..2||lag..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..3||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..4||lag..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5348" value="lagen om medbest&#xE4;mmande" date="2011-03-03">
+      <translation value="Co-determination Act, law concerning right of participation in decision making"/>
+    </example>
+    <example id="5349" value="Sveriges rikes lag" date="2011-03-03">
+      <translation value="the Statute Book of Sweden"/>
+    </example>
+    <compound id="3476" value="naturlag" date="2011-03-03">
+      <translation value="law of nature"/>
+    </compound>
+    <compound id="3477" value="lag|brott" date="2011-03-03">
+      <translation value="violation of the law"/>
+    </compound>
+    <compound id="3478" value="lag|f&#xF6;rslag" date="2011-03-03">
+      <translation value="bill"/>
+    </compound>
+    <definition id="9392" value="allm&#xE4;n r&#xE4;ttsregel (el. samling r&#xE4;ttsregler) i ett land; f&#xF6;rordning" date="2011-03-03"/>
+  </word>
+  <word value="lag" lang="sv" class="nn" id="97490" lexinid="9749" origin="lexin" date="2011-03-03">
+    <translation id="9577" value="team" date="2011-03-03"/>
+    <phonetic value="la:g" soundFile="lag.swf" date="2011-03-03"/>
+    <paradigm id="8476" origin="lexin" date="2011-03-03">
+      <inflection value="laget"/>
+      <inflection value="lag"/>
+      <inflection value="lagen"/>
+    </paradigm>
+    <synonym value="team" level="4.8" origin="synlex" date="2011-03-03"/>
+    <see value="lag||lag..1||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..2||lag..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..3||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..4||lag..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3479" value="arbetslag" date="2011-03-03">
+      <translation value="work group, production team"/>
+    </compound>
+    <compound id="3480" value="fotbollslag" date="2011-03-03">
+      <translation value="football team"/>
+    </compound>
+    <compound id="3481" value="lag|arbete" date="2011-03-03">
+      <translation value="teamwork"/>
+    </compound>
+    <definition id="9393" value="grupp av personer som samarbetar (i arbete, idrott etc)" date="2011-03-03"/>
+  </word>
+  <word value="lag" lang="sv" class="nn" id="97500" lexinid="9750" origin="lexin" comment="i fraser" date="2011-03-03">
+    <phonetic value="la:g" soundFile="lag.swf" date="2011-03-03"/>
+    <paradigm id="8477" origin="lexin" date="2011-03-03">
+      <inflection value="laget"/>
+      <inflection value="lag"/>
+      <inflection value="lagen"/>
+    </paradigm>
+    <synonym value="f&#xF6;rordning" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppst&#xE4;llning" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="lag||lag..1||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..2||lag..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..3||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..4||lag..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <idiom id="820" value="i senaste laget (&amp;quot;lite v&#xE4;l sent&amp;quot;)" date="2011-03-03">
+      <translation value="at the last moment (&amp;quot;too late, really&amp;quot;)"/>
+    </idiom>
+    <idiom id="821" value="i st&#xF6;rsta laget (&amp;quot;lite v&#xE4;l stor&amp;quot;)" date="2011-03-03">
+      <translation value="in a big way (&amp;quot;too big, really&amp;quot;)"/>
+    </idiom>
+    <idiom id="822" value="i l&#xE4;ngsta laget (&amp;quot;lite v&#xE4;l l&#xE5;ng&amp;quot;)" date="2011-03-03">
+      <translation value="the longest possible (&amp;quot;almost too long&amp;quot;)"/>
+    </idiom>
+    <idiom id="823" value="vid det h&#xE4;r laget (&amp;quot;nu&amp;quot;)" date="2011-03-03">
+      <translation value="by this time (&amp;quot;now&amp;quot;)"/>
+    </idiom>
+    <idiom id="824" value="vara el. g&#xF6;ra n&#xE5;gon till lags (&amp;quot;bete sig s&#xE5; att n&#xE5;gon blir n&#xF6;jd&amp;quot;)" date="2011-03-03">
+      <translation value="please or suit sby (&amp;quot;behave to satisfy sby&amp;quot;)"/>
+    </idiom>
+    <definition id="9394" value="ordning, tillst&#xE5;nd" date="2011-03-03">
+      <translation value="order, condition"/>
+    </definition>
+  </word>
+  <word value="lag" lang="sv" class="nn" id="97510" lexinid="9751" origin="lexin" date="2011-03-03">
+    <translation id="97510-9396" value="liquor" origin="user" date="2012-01-21T00:38:50"/>
+    <translation id="97510-9397" value="marinade" origin="user" date="2012-01-21T00:38:50"/>
+    <phonetic value="la:g" soundFile="lag.swf" date="2011-03-03"/>
+    <paradigm id="8478" origin="lexin" date="2011-03-03">
+      <inflection value="lagen"/>
+    </paradigm>
+    <see value="lag||lag..1||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..2||lag..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..3||lag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lag||lag..4||lag..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3482" value="socker|lag" date="2011-03-03">
+      <translation value="syrup"/>
+    </compound>
+    <compound id="3483" value="&#xE4;ttiks|lag" date="2011-03-03">
+      <translation value="vinegar"/>
+    </compound>
+    <definition id="9395" value="spad, marinad" date="2011-03-03">
+      <translation value="liquid marinade"/>
+    </definition>
+  </word>
+  <word value="act" lang="en" class="nn" id="4071" origin="lexin" date="2009-02-24">
+    <translation id="4071-1" value="parlamentariskt beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="4071-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="4071-3" value="laga stadga" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="code" lang="en" class="nn" id="86191" origin="lexin" date="2009-02-24">
+    <translation id="86191-1" value="kodex" origin="lexin" date="2009-02-24"/>
+    <translation id="86191-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="86191-3" value="lagbok" origin="lexin" date="2009-02-24"/>
+    <translation id="86191-4" value="balk" origin="lexin" date="2009-02-24"/>
+    <translation id="86191-5" value="oskrivna lagar" origin="lexin" date="2009-02-24"/>
+    <translation id="86191-6" value="allm&#xE4;nna regler" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="company" lang="en" class="nn" id="91731" origin="lexin" date="2009-02-24">
+    <translation id="91731-1" value="s&#xE4;llskap" origin="lexin" date="2009-02-24"/>
+    <translation id="91731-2" value="umg&#xE4;nge" origin="lexin" date="2009-02-24"/>
+    <translation id="91731-3" value="lag" origin="lexin" date="2009-02-24"/>
+    <example id="91731-4" value="keep a person company" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE5;lla n&#xE5;gon s&#xE4;llskap" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="91731-5" value="part company" origin="lexin" date="2009-02-24">
+      <translation value="skiljas" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="constitution" lang="en" class="nn" id="98951" origin="lexin" date="2009-02-24">
+    <translation id="98951-1" value="f&#xF6;rordning" comment="&#xE5;lderdomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="98951-2" value="lag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="crew" lang="en" class="nn" id="110141" origin="lexin" date="2009-02-24">
+    <translation id="110141-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="110141-2" value="arbetslag" origin="lexin" date="2009-02-24"/>
+    <translation id="110141-3" value="arbetare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="crew" lang="en" class="nn" id="110151" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="110151-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="110151-2" value="band" origin="lexin" date="2009-02-24"/>
+    <translation id="110151-3" value="skara" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="house" lang="en" class="nn" id="223171" origin="lexin" date="2009-02-24">
+    <translation id="223171-1" value="lag" comment="del av skola" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="law" lang="en" class="nn" id="250871" lexinid="90" origin="lexin" date="2009-02-24">
+    <translation id="250871-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="250871-2" value="regel" origin="lexin" date="2009-02-24"/>
+    <translation id="250871-3" value="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="250871-4" value="r&#xE4;ttsvetenskap" origin="lexin" date="2009-02-24"/>
+    <translation id="250871-5" value="lagfarenhet" origin="lexin" date="2009-02-24"/>
+    <explanation value="an office to which *members of the *public may turn for advice in legal matters" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="law" lang="en" class="nn" id="250881" origin="lexin" date="2009-02-24">
+    <variant value="act" origin="lexin" date="2009-02-24"/>
+    <translation id="250881-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <explanation value="A formal written rule passed by a legislative body." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="outfit" lang="en" class="nn" id="298621" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="298621-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="298621-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="298621-3" value="band" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="party" lang="en" class="nn" id="306831" origin="lexin" date="2009-02-24">
+    <translation id="306831-1" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="306831-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="306831-3" value="s&#xE4;llskap" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="platoon" lang="en" class="nn" id="321251" origin="lexin" date="2009-02-24">
+    <translation id="321251-1" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="321251-2" value="grupp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="team" lang="en" class="nn" id="414521" origin="lexin" date="2009-02-24">
+    <translation id="414521-1" value="arbetsgrupp" origin="lexin" date="2009-02-24"/>
+    <translation id="414521-2" value="lag" origin="lexin" date="2009-02-24"/>
+    <explanation value="A group of people working together" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="team" lang="en" class="nn" id="414541" origin="lexin" date="2009-02-24">
+    <translation id="414541-1" value="lag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="unit" lang="en" class="nn" id="432621" lexinid="119" origin="lexin" date="2009-02-24">
+    <translation id="432621-1" value="enhet" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-2" value="avdelning" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-3" value="grupp" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-4" value="lag" origin="lexin" date="2009-02-24"/>
+    <translation id="432621-5" value="f&#xF6;rband" origin="lexin" date="2009-02-24"/>
+    <explanation value="a group of *machines or the like forming a single unit" origin="lexin" date="2009-02-24">
+      <translation value="grupp av sammanbyggda maskiner" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word class="vb" date="2011-03-03" id="164300" lang="sv" lexinid="16431" origin="lexin" value="sl&#xE4;pa efter">
+    <translation date="2011-03-03" id="16145" value="lag [behind]"/>
+    <phonetic date="2011-03-03" soundFile="sl&#xE4;par efter.swf" value="(2)sl&#xE4;:parEf:ter"/>
+    <paradigm date="2011-03-03" id="14339" origin="lexin">
+      <inflection value="sl&#xE4;pade efter"/>
+      <inflection value="sl&#xE4;pat efter"/>
+      <inflection value="sl&#xE4;pa efter"/>
+      <inflection value="sl&#xE4;par efter"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sl&#xE4;pa efter||sl&#xE4;pa_efter..1||sl&#xE4;pa_efter..vbm.1"/>
+    <example date="2011-03-03" id="9290" value="hon sl&#xE4;par efter med hyran">
+      <translation value="she is in arrears with her rent"/>
+    </example>
+    <example date="2011-03-03" id="9291" value="sl&#xE4;pa efter i utvecklingen">
+      <translation value="fall behind developments"/>
+    </example>
+    <definition date="2011-03-03" id="15913" value="vara f&#xF6;rsenad"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp;"/>
+  </word>
+  <word value="lag" lang="en" class="nn" id="248631" origin="lexin" comment="informellt" date="2009-02-24">
+    <variant value="old lag" comment="brittisk engelska" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="248631-1" value="f&#xE4;ngelsekund" origin="lexin" date="2009-02-24"/>
+    <translation id="248631-2" value="k&#xE5;kfarare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lag" lang="en" class="vb" id="248641" origin="lexin" date="2009-02-24">
+    <translation id="248641-1" value="komma p&#xE5; efterk&#xE4;lken" origin="lexin" date="2009-02-24"/>
+    <translation id="248641-2" value="ligga efter" origin="lexin" date="2009-02-24"/>
+    <translation id="248641-3" value="sacka efter" origin="lexin" date="2009-02-24"/>
+    <paradigm id="248641-5" origin="lexin" date="2009-02-24">
+      <inflection value="lagged" origin="lexin" date="2009-02-24"/>
+      <inflection value="lagged" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="248641-4" value="she always lags behind the rest of us" origin="lexin" date="2009-02-24">
+      <translation value="hon sackar alltid efter oss andra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lag" lang="en" class="nn" id="248651" origin="lexin" date="2009-02-24">
+    <variant value="time lag" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="248651-1" value="tidsf&#xF6;rskjutning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lag" lang="en" class="vb" id="248661" origin="lexin" date="2009-02-24">
+    <translation id="248661-1" value="v&#xE4;rmeisolera" origin="lexin" date="2009-02-24"/>
+    <paradigm id="248661-2" origin="lexin" date="2009-02-24">
+      <inflection value="lagged" origin="lexin" date="2009-02-24"/>
+      <inflection value="lagged" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="time lag" lang="en" class="nn" id="419981" origin="lexin" date="2009-02-24">
+    <variant value="lag" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="419981-1" value="tidsf&#xF6;rdr&#xF6;jning" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

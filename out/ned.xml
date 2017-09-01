@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" comment="formellt; ers&#xE4;tts ofta med &amp;quot;ner&amp;quot;" date="2011-03-03" id="116880" lang="sv" lexinid="11688" origin="lexin" value="ned">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="ner"/>
+    <translation comment="formal; often replaced with &amp;quot;ner&amp;quot; except in separable compounds" date="2011-03-03" id="11477" value="down"/>
+    <phonetic date="2011-03-03" soundFile="ned.swf" value="ne:d"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="ner"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ned||ner..1||ned..ab.1"/>
+    <example date="2011-03-03" id="6373" value="sl&#xE5; sig ner">
+      <translation value="sit down"/>
+    </example>
+    <example date="2011-03-03" id="6374" value="h&#xE4;nga upp och ner">
+      <translation value="hang upside-down"/>
+    </example>
+    <example date="2011-03-03" id="6375" value="sitta ner">
+      <translation value="sit down"/>
+    </example>
+    <example date="2011-03-03" id="6376" value="komma ner p&#xE5; f&#xF6;tter">
+      <translation value="fall on one&amp;#39;s feet"/>
+    </example>
+    <example date="2011-03-03" id="6377" value="&#xE5;ka ner till Malm&#xF6;">
+      <translation value="go down to Malm&#xF6;"/>
+    </example>
+    <example date="2011-03-03" id="6378" value="ramla ner i brunnen">
+      <translation value="fall down the well"/>
+    </example>
+    <idiom date="2011-03-03" id="1042" value="l&#xE4;gga ner (&amp;quot;upph&#xF6;ra med driften av&amp;quot;) (en fabrik)">
+      <translation value="close down (&amp;quot;stop production in&amp;quot; (a factory))"/>
+    </idiom>
+    <definition date="2011-03-03" id="11265" value="i riktning mot ett l&#xE4;gre plan"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="116890" lang="sv" lexinid="11689" origin="lexin" value="ned">
+    <translation date="2011-03-03" id="11478" value="down"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="ned.swf" value="ne:d"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="ner"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ned||ner..1||ned..ab.1"/>
+    <example date="2011-03-03" id="6379" value="bl&#xF6;ta ner">
+      <translation value="wet, make wet, soak"/>
+    </example>
+    <example date="2011-03-03" id="6380" value="ringa ner">
+      <translation value="overload with telephone calls"/>
+    </example>
+    <example date="2011-03-03" id="6381" value="smutsa ner">
+      <translation value="make dirty"/>
+    </example>
+    <compound date="2011-03-03" id="4149" value="ned|smutsad"/>
+    <definition date="2011-03-03" id="11266" value="i h&#xF6;g grad, fullst&#xE4;ndigt"/>
+  </word>
+  <word value="down" lang="en" class="ab, jj" id="142551" origin="lexin" date="2009-02-24">
+    <translation id="142551-1" value="ned" origin="lexin" date="2009-02-24"/>
+    <translation id="142551-2" value="ner" comment="i olika betydelser" origin="lexin" date="2009-02-24"/>
+    <translation id="142551-3" value="ned&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="142551-4" value="utf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="142551-5" value="lodr&#xE4;tt" comment="i korsord" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="down" lang="en" class="jj" id="142561" origin="lexin" date="2009-02-24">
+    <translation id="142561-1" value="ned" origin="lexin" date="2009-02-24"/>
+    <translation id="142561-2" value="ned&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="142561-3" value="ned&#xE5;triktad" origin="lexin" date="2009-02-24"/>
+    <translation id="142561-4" value="sjunkande" origin="lexin" date="2009-02-24"/>
+    <translation id="142561-5" value="fallande" origin="lexin" date="2009-02-24"/>
+    <grammar value="attributivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="down" lang="en" class="pp" id="142591" origin="lexin" date="2009-02-24">
+    <translation id="142591-1" value="ner" origin="lexin" date="2009-02-24"/>
+    <translation id="142591-2" value="ned" origin="lexin" date="2009-02-24"/>
+    <translation id="142591-3" value="nerf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <explanation value="to a lower level, towards the ground" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="downwards" lang="en" class="ab" id="142851" origin="lexin" date="2009-02-24">
+    <translation id="142851-1" value="ned&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="142851-2" value="ned" origin="lexin" date="2009-02-24"/>
+    <example id="142851-3" value="the economic trend turned downwards" origin="lexin" date="2009-02-24">
+      <translation value="konjunkturen v&#xE4;nde ned&#xE5;t" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="i riktning ned" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

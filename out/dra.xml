@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="33930" lang="sv" lexinid="3393" origin="lexin" value="dra">
+    <translation date="2011-03-03" id="3349" value="pull"/>
+    <phonetic date="2011-03-03" soundFile="drar.swf" value="dra:r"/>
+    <paradigm date="2011-03-03" id="2959" origin="lexin">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avvika"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dra para"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="draga"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="gitta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pys"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="rycka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sjappa"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="slita"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="sl&#xE4;pa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="stick"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="sticka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="streta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dra||dra..1||dra..vb.1"/>
+    <example date="2011-03-03" id="1934" value="dra ner rullgardinen">
+      <translation value="pull down the blind"/>
+    </example>
+    <example date="2011-03-03" id="1935" value="dra i handbromsen">
+      <translation value="pull the emergency brake"/>
+    </example>
+    <idiom date="2011-03-03" id="250" value="dra &#xF6;ronen &#xE5;t sig (&amp;quot;bli vaksam&amp;quot;)">
+      <translation value="be all ears (&amp;quot;be alert&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="3272" value="f&#xF6;ra till sig (med handen)">
+      <translation value="move sth. toward oneself (with one&amp;#39;s hand)"/>
+    </definition>
+    <see date="2011-03-03" origin="lexin" type="animation" value="drar_ner_rullgardinen.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (i) x"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="33940" lang="sv" lexinid="3394" origin="lexin" value="dra">
+    <translation date="2011-03-03" id="3350" value="haul"/>
+    <phonetic date="2011-03-03" soundFile="drar.swf" value="dra:r"/>
+    <paradigm date="2011-03-03" id="2960" origin="lexin">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avvika"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dra para"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="draga"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="gitta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pys"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="rycka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sjappa"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="slita"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="sl&#xE4;pa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="stick"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="sticka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="streta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dra||dra..1||dra..vb.1"/>
+    <example date="2011-03-03" id="1936" value="dra p&#xE5; en k&#xE4;rra">
+      <translation value="haul a cart"/>
+    </example>
+    <example date="2011-03-03" id="1937" value="g&#xE5; och dra (benen efter sig)">
+      <translation value="hang about"/>
+    </example>
+    <definition date="2011-03-03" id="3273" value="sl&#xE4;pa, bogsera"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (p&#xE5;) x"/>
+  </word>
+  <word value="dra" lang="sv" class="vb" id="33950" lexinid="3395" origin="lexin" date="2011-03-03">
+    <translation id="33950-3275" value="leave" origin="user" date="2012-01-18T00:49:53"/>
+    <translation id="33950-3276" value="go" origin="user" date="2012-01-18T00:49:53"/>
+    <phonetic value="dra:r" soundFile="drar.swf" date="2011-03-03"/>
+    <paradigm id="2961" origin="lexin" date="2011-03-03">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym value="avvika" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="dra para" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="draga" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="gitta" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="pys" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="pysa" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="rycka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sjappa" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="slita" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sl&#xE4;pa" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="stick" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sticka" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="streta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="dra||dra..1||dra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1938" value="l&#xE5;t teet dra i fem minuter" date="2011-03-03"/>
+    <example id="1939" value="dra sig tillbaka" date="2011-03-03">
+      <translation value="withdraw"/>
+    </example>
+    <example id="1940" value="dra sig undan" date="2011-03-03">
+      <translation value="move aside, withdraw"/>
+    </example>
+    <idiom id="251" value="dra &#xE5;t helvete! (&amp;quot;ge dig iv&#xE4;g!&amp;quot;)" date="2011-03-03">
+      <translation value="go to hell! (&amp;quot;go away!&amp;quot;)"/>
+    </idiom>
+    <definition id="3274" value="f&#xF6;rflytta (sig)" date="2011-03-03"/>
+    <grammar value="A &amp; (sig) tillbaka/undan etc" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="dra" lang="sv" class="vb" id="33960" lexinid="3396" origin="lexin" comment="i fraser" date="2011-03-03">
+    <translation id="33960-3276" value="draw" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="33960-3277" value="extract" origin="user" date="2012-02-08T23:49:44"/>
+    <phonetic value="dra:r" soundFile="drar.swf" date="2011-03-03"/>
+    <paradigm id="2962" origin="lexin" date="2011-03-03">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym value="avvika" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="dra para" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="draga" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="gitta" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="pys" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="pysa" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="rycka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sjappa" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="slita" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sl&#xE4;pa" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="stick" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sticka" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="streta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="dra||dra..1||dra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1941" value="dra slutsatser (av n&#xE5;got)" date="2011-03-03">
+      <translation value="draw conclusions (from sth.)"/>
+    </example>
+    <example id="1942" value="dra l&#xE4;rdom (av n&#xE5;got)" date="2011-03-03">
+      <translation value="learn (from sth.)"/>
+    </example>
+    <idiom id="252" value="dra lott om (&amp;quot;l&#xE5;ta slumpen avg&#xF6;ra&amp;quot;)" date="2011-03-03">
+      <translation value="draw straws (&amp;quot;let chance decide&amp;quot;)"/>
+    </idiom>
+    <definition id="3275" value="utvinna, extrahera" date="2011-03-03"/>
+    <grammar value="A &amp; x (ur/av y)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="33970" lang="sv" lexinid="3397" origin="lexin" value="dra">
+    <translation date="2011-03-03" id="3353" value="draw"/>
+    <phonetic date="2011-03-03" soundFile="drar.swf" value="dra:r"/>
+    <paradigm date="2011-03-03" id="2963" origin="lexin">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avvika"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dra para"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="draga"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="gitta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pys"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="rycka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sjappa"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="slita"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="sl&#xE4;pa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="stick"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="sticka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="streta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dra||dra..1||dra..vb.1"/>
+    <example date="2011-03-03" id="1943" value="dra upp riktlinjer (f&#xF6;r)">
+      <translation value="draw up guidelines (for)"/>
+    </example>
+    <idiom date="2011-03-03" id="253" value="dra ett streck &#xF6;ver (&amp;quot;l&#xE5;ta n&#xE5;got falla i gl&#xF6;mska&amp;quot;)">
+      <translation value="let bygones be bygones"/>
+    </idiom>
+    <definition date="2011-03-03" id="3276" value="rita, teckna"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="33980" lang="sv" lexinid="3398" origin="lexin" value="dra">
+    <translation date="2011-03-03" id="3354" value="be draughty"/>
+    <phonetic date="2011-03-03" soundFile="drar.swf" value="dra:r"/>
+    <paradigm date="2011-03-03" id="2964" origin="lexin">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avvika"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="dra para"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="draga"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="gitta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pys"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="rycka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sjappa"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="slita"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="sl&#xE4;pa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="stick"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="sticka"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="streta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dra||dra..1||dra..vb.1"/>
+    <example date="2011-03-03" id="1944" value="det drar fr&#xE5;n f&#xF6;nstret">
+      <translation value="there&amp;#39;s a draught from the window"/>
+    </example>
+    <definition date="2011-03-03" id="3277" value="bl&#xE5;sa, fl&#xE4;kta"/>
+    <grammar date="2011-03-03" origin="lexin" value="det &amp; (fr&#xE5;n x)"/>
+  </word>
+  <word value="dra" lang="sv" class="vb" id="33990" lexinid="3399" origin="lexin" date="2011-03-03">
+    <translation id="33990-3279" value="use" origin="user" date="2012-01-18T00:49:52"/>
+    <translation id="33990-3280" value="consume" origin="user" date="2012-01-18T00:49:52"/>
+    <phonetic value="dra:r" soundFile="drar.swf" date="2011-03-03"/>
+    <paradigm id="2965" origin="lexin" date="2011-03-03">
+      <inflection value="drog"/>
+      <inflection value="dragit"/>
+      <inflection value="drag"/>
+      <inflection value="draga"/>
+      <inflection value="drar"/>
+    </paradigm>
+    <synonym value="avvika" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="dra para" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="draga" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="gitta" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="pys" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="pysa" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="rycka" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sjappa" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="slita" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sl&#xE4;pa" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="stick" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sticka" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="streta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="dra||dra..1||dra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1945" value="min fru drar 38 i skor" date="2011-03-03">
+      <translation value="my wife takes a size 38 shoe"/>
+    </example>
+    <example id="1946" value="bilen drar mycket bensin" date="2011-03-03">
+      <translation value="the car needs a lot of petrol"/>
+    </example>
+    <definition id="3278" value="f&#xF6;rbruka, beh&#xF6;va" date="2011-03-03"/>
+    <grammar value="x/A &amp; y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="bale out" lang="en" class="vb" id="29771" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="29771-1" value="sticka" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="29771-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="29771-3" value="fly" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bugger off" lang="en" class="vb" id="58731" origin="lexin" date="2009-02-24">
+    <translation id="58731-1" value="dra" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="58731-2" value="dra &#xE5;t helvete" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <idiom id="58731-3" value="bugger off!" origin="lexin" date="2009-02-24">
+      <translation value="dra &#xE5;t helvete!/stick!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="divert" lang="en" class="vb" id="138151" lexinid="960" origin="lexin" date="2009-02-24">
+    <translation id="138151-1" value="avleda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-2" value="avv&#xE4;nda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-3" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-5" value="leda bort" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-6" value="l&#xE4;gga om" origin="lexin" date="2009-02-24"/>
+    <translation id="138151-7" value="dirigera om" origin="lexin" date="2009-02-24"/>
+    <example id="138151-8" value="divert somebody&amp;#39;s attention" origin="lexin" date="2009-02-24">
+      <translation value="avleda en persons uppm&#xE4;rksamhet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="move in another direction" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;ra &#xE5;t annat h&#xE5;ll" origin="lexin" date="2009-02-24"/>
+    </explanation>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="drag" lang="en" class="vb" id="143271" origin="lexin" date="2009-02-24">
+    <translation id="143271-1" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="143271-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <idiom id="143271-3" value="drag one&amp;#39;s feet" origin="lexin" date="2009-02-24">
+      <translation value="dra f&#xF6;tterna efter sig, ta tid p&#xE5; sig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144061" origin="lexin" date="2009-02-24">
+    <translation id="144061-1" value="dra" comment="handel" origin="lexin" date="2009-02-24"/>
+    <translation id="144061-2" value="trassera" origin="lexin" date="2009-02-24"/>
+    <translation id="144061-3" value="st&#xE4;lla ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144061-4" value="skriva ut" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144061-5" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144061-6" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144111" origin="lexin" date="2009-02-24">
+    <translation id="144111-1" value="dra" comment="om te och dylikt" origin="lexin" date="2009-02-24"/>
+    <translation id="144111-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144111-3" value="st&#xE5; och dra" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144111-4" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144111-5" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144151" origin="lexin" date="2009-02-24">
+    <translation id="144151-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-2" value="dra lott" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-3" value="utse genom lottdragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-4" value="f&#xF6;rr&#xE4;tta dragning" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-5" value="v&#xE4;lja ut" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-6" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-7" value="r&#xE5;ka f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144151-8" value="vinna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144151-9" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144151-10" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144161" origin="lexin" date="2009-02-24">
+    <translation id="144161-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144161-2" value="insupa" origin="lexin" date="2009-02-24"/>
+    <translation id="144161-3" value="andas in" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144161-4" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144161-5" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144171" origin="lexin" date="2009-02-24">
+    <translation id="144171-1" value="dra" comment="i olika betydelser" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-2" value="draga" comment="i olika betydelser" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-3" value="dra till sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-4" value="dra &#xE5;t sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-5" value="dra med sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-6" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-7" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-8" value="flytta" origin="lexin" date="2009-02-24"/>
+    <translation id="144171-9" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144171-10" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144171-11" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144351" origin="lexin" date="2009-02-24">
+    <translation id="144351-1" value="ta" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-2" value="f&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-3" value="l&#xE5;na" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-4" value="h&#xE4;mta" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-5" value="h&#xE4;rleda" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-6" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144351-7" value="dra ut" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144351-8" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144351-9" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="draw" lang="en" class="vb" id="144371" origin="lexin" date="2009-02-24">
+    <translation id="144371-1" value="attrahera" origin="lexin" date="2009-02-24"/>
+    <translation id="144371-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="144371-3" value="dra till sig" origin="lexin" date="2009-02-24"/>
+    <translation id="144371-4" value="ha dragningskraft" origin="lexin" date="2009-02-24"/>
+    <paradigm id="144371-5" origin="lexin" date="2009-02-24">
+      <inflection value="drew" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="144371-6" origin="lexin" date="2009-02-24">
+      <inflection value="drawn" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fetch" lang="en" class="vb" id="173301" origin="lexin" date="2009-02-24">
+    <translation id="173301-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="173301-2" value="ge till" origin="lexin" date="2009-02-24"/>
+    <translation id="173301-3" value="upph&#xE4;va" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="haul" lang="en" class="vb" id="213491" origin="lexin" date="2009-02-24">
+    <translation id="213491-1" value="hala" origin="lexin" date="2009-02-24"/>
+    <translation id="213491-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="haul" lang="en" class="vb" id="213501" origin="lexin" date="2009-02-24">
+    <translation id="213501-1" value="hala" origin="lexin" date="2009-02-24"/>
+    <translation id="213501-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="213501-3" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="213501-4" value="bogsera" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lug" lang="en" class="vb" id="263121" origin="lexin" date="2009-02-24">
+    <translation id="263121-1" value="k&#xE5;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="263121-2" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="263121-3" value="b&#xE4;ra med m&#xF6;da" origin="lexin" date="2009-02-24"/>
+    <translation id="263121-4" value="dra" origin="lexin" date="2009-02-24"/>
+    <example id="263121-5" value="he lugged his suitcase up the stairs" origin="lexin" date="2009-02-24">
+      <translation value="han sl&#xE4;pade upp sin resv&#xE4;ska f&#xF6;r trappen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lug" lang="en" class="vb" id="263141" origin="lexin" date="2009-02-24">
+    <translation id="263141-1" value="rycka" origin="lexin" date="2009-02-24"/>
+    <translation id="263141-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="move" lang="en" class="vb" id="279841" origin="lexin" date="2009-02-24">
+    <translation id="279841-1" value="s&#xE4;tta i r&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-2" value="r&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-3" value="sv&#xE4;nga med" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-4" value="s&#xE4;tta i g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-5" value="h&#xE5;lla i g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-6" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="279841-7" value="dra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pull" lang="en" class="vb" id="339341" origin="lexin" date="2009-02-24">
+    <translation id="339341-1" value="dra" comment="vapen" origin="lexin" date="2009-02-24"/>
+    <example id="339341-2" value="all of a sudden she pulled a gun on me" origin="lexin" date="2009-02-24">
+      <translation value="pl&#xF6;tsligt tog hon fram en pistol och riktade mot mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pull" lang="en" class="vb" id="339401" origin="lexin" date="2009-02-24">
+    <translation id="339401-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="339401-2" value="draga" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pull" lang="en" class="vb" id="339411" origin="lexin" date="2009-02-24">
+    <translation id="339411-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="339411-2" value="draga" origin="lexin" date="2009-02-24"/>
+    <example id="339411-12" value="the horse was pulling a cart" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE4;sten drog en k&#xE4;rra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="339411-3" value="pull a fast one on somebody" origin="lexin" date="2009-02-24">
+      <translation value="lura n&#xE5;gon (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-4" value="pull one&amp;#39;s finger out" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;gga p&#xE5; ett kol (brittisk engelska; informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-5" value="pull someone&amp;#39;s leg" origin="lexin" date="2009-02-24">
+      <translation value="skoja med n&#xE5;gon (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-6" value="pull to pieces" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra ned, kritisera mycket h&#xE5;rt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-7" value="pull rank" origin="lexin" date="2009-02-24">
+      <translation value="spela &#xF6;versittare, utnyttja sin st&#xE4;llning (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-8" value="pull one&amp;#39;s socks up" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rs&#xF6;ka sk&#xE4;rpa sig (brittisk engelska; informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-9" value="pull strings" origin="lexin" date="2009-02-24">
+      <translation value="anv&#xE4;nda sitt inflytande; mygla" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-10" value="pull one&amp;#39;s weight" origin="lexin" date="2009-02-24">
+      <translation value="dra sin del av lasset" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="339411-11" value="pull the wool over somebody&amp;#39;s eyes" origin="lexin" date="2009-02-24">
+      <translation value="sl&#xE5; bl&#xE5; dunster i &#xF6;gonen p&#xE5; n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="push" lang="en" class="vb" id="341441" origin="lexin" date="2009-02-24">
+    <translation id="341441-1" value="skjuta" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-2" value="f&#xF6;sa" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-3" value="skjuta p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-4" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-5" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-6" value="driva" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-7" value="trycka p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-8" value="tr&#xE4;nga sig p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-9" value="hunsa med" origin="lexin" date="2009-02-24"/>
+    <translation id="341441-10" value="knuffa omkull" origin="lexin" date="2009-02-24"/>
+    <example id="341441-11" value="push a button" origin="lexin" date="2009-02-24">
+      <translation value="trycka p&#xE5; en knapp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341441-12" value="push a pram" origin="lexin" date="2009-02-24">
+      <translation value="dra en barnvagn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="341441-13" value="push somebody around" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) k&#xF6;ra med n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="run" lang="en" class="vb" id="367571" origin="lexin" date="2009-02-24">
+    <translation id="367571-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <paradigm id="367571-3" origin="lexin" date="2009-02-24">
+      <inflection value="ran" origin="lexin" date="2009-02-24"/>
+      <inflection value="run" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="367571-2" value="run a telephone cable" origin="lexin" date="2009-02-24">
+      <translation value="dra en telefonkabel" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="run" lang="en" class="vb" id="367681" origin="lexin" date="2009-02-24">
+    <translation id="367681-1" value="l&#xE5;ta glida" origin="lexin" date="2009-02-24"/>
+    <translation id="367681-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="367681-3" value="k&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="367681-4" value="fara med" origin="lexin" date="2009-02-24"/>
+    <translation id="367681-5" value="r&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="367681-6" value="sticka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="367681-8" origin="lexin" date="2009-02-24">
+      <inflection value="ran" origin="lexin" date="2009-02-24"/>
+      <inflection value="run" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="367681-7" value="he ran his fingers over my hand" origin="lexin" date="2009-02-24">
+      <translation value="han l&#xE4;t sina fingrar glida &#xF6;ver min hand" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tow" lang="en" class="vb" id="422811" origin="lexin" date="2009-02-24">
+    <translation id="422811-1" value="bogsera" origin="lexin" date="2009-02-24"/>
+    <translation id="422811-2" value="sl&#xE4;pa" origin="lexin" date="2009-02-24"/>
+    <translation id="422811-3" value="dra" origin="lexin" date="2009-02-24"/>
+    <explanation value="haul behind, drag" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="trot" lang="en" class="vb" id="426501" origin="lexin" date="2009-02-24">
+    <translation id="426501-1" value="l&#xE5;ta trava" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="426501-2" value="dra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tug" lang="en" class="vb" id="427401" origin="lexin" date="2009-02-24">
+    <translation id="427401-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="427401-2" value="rycka" origin="lexin" date="2009-02-24"/>
+    <translation id="427401-3" value="slita i" origin="lexin" date="2009-02-24"/>
+    <translation id="427401-4" value="streta med" origin="lexin" date="2009-02-24"/>
+    <paradigm id="427401-5" origin="lexin" date="2009-02-24">
+      <inflection value="tugged" origin="lexin" date="2009-02-24"/>
+      <inflection value="tugged" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tug" lang="en" class="vb" id="427411" origin="lexin" date="2009-02-24">
+    <translation id="427411-1" value="dra" origin="lexin" date="2009-02-24"/>
+    <translation id="427411-2" value="rycka" origin="lexin" date="2009-02-24"/>
+    <translation id="427411-3" value="slita" origin="lexin" date="2009-02-24"/>
+    <translation id="427411-4" value="streta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="427411-5" origin="lexin" date="2009-02-24">
+      <inflection value="tugged" origin="lexin" date="2009-02-24"/>
+      <inflection value="tugged" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="135190" lang="sv" lexinid="13520" origin="lexin" value="procent">
+    <translation date="2011-03-03" id="13275" value="per cent"/>
+    <phonetic date="2011-03-03" soundFile="procent.swf" value="prosEn:t"/>
+    <paradigm date="2011-03-03" id="11742" origin="lexin">
+      <inflection value="procenten"/>
+      <inflection value="procent"/>
+      <inflection value="procenten"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="andel"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="procent||procent..1||procent..nn.1"/>
+    <compound date="2011-03-03" id="4758" inflection="procent|enheten" value="procent|enhet">
+      <translation value="percentage point"/>
+    </compound>
+    <compound date="2011-03-03" id="4759" value="volymprocent">
+      <translation value="per cent by volume"/>
+    </compound>
+    <definition date="2011-03-03" id="13057" value="hundradel, %"/>
+  </word>
+  <word value="per cent" lang="en" class="nn" id="312101" origin="lexin" date="2009-02-24">
+    <translation id="312101-1" value="procent" origin="lexin" date="2009-02-24"/>
+    <paradigm id="312101-2" origin="lexin" date="2009-02-24">
+      <inflection value="per cent" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="percentage" lang="en" class="nn" id="312231" origin="lexin" date="2009-02-24">
+    <translation id="312231-1" value="procent" origin="lexin" date="2009-02-24"/>
+    <translation id="312231-2" value="procentandel" origin="lexin" date="2009-02-24"/>
+    <example id="312231-3" value="Butter has a high percentage of saturated fat." origin="lexin" date="2009-02-24">
+      <translation value="Sm&#xF6;r har en h&#xF6;g procentandel m&#xE4;ttat fett." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A particular number of hundreds of an amount" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="percent" lang="en" class="nn" id="458471" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="458471-1" value="procent" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

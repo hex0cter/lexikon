@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="krav" lang="sv" class="nn" id="92380" lexinid="9238" origin="lexin" comment="s&#xE4;rskilt &amp;quot;anmodan att betala pengar&amp;quot;" date="2011-03-03">
+    <translation id="92380-8897" value="demand" origin="user" date="2012-01-21T00:38:50"/>
+    <translation id="92380-8898" value="requirement" origin="user" date="2012-01-21T00:38:50"/>
+    <phonetic value="kra:v" soundFile="krav.swf" date="2011-03-03"/>
+    <paradigm id="8011" origin="lexin" date="2011-03-03">
+      <inflection value="kravet"/>
+      <inflection value="krav"/>
+      <inflection value="kraven"/>
+    </paradigm>
+    <synonym value="anspr&#xE5;k" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="beg&#xE4;ran" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="fordran" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="villkor" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="krav||krav..1||krav..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5154" value="st&#xE4;lla krav p&#xE5; en b&#xE4;ttre service" date="2011-03-03">
+      <translation value="demand better service"/>
+    </example>
+    <compound id="3283" value="krav|brev" date="2011-03-03">
+      <translation value="reminder"/>
+    </compound>
+    <compound id="3284" value="r&#xE4;ttvisekrav" date="2011-03-03">
+      <translation value="demand for justice"/>
+    </compound>
+    <definition id="8896" value="&#xF6;nskem&#xE5;l som man st&#xE4;ller som villkor f&#xF6;r n&#xE5;got" date="2011-03-03"/>
+  </word>
+  <word value="call" lang="en" class="nn" id="64161" origin="lexin" date="2009-02-24">
+    <translation id="64161-1" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="64161-2" value="fordran" origin="lexin" date="2009-02-24"/>
+    <translation id="64161-3" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="64161-4" value="indrivning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="claim" lang="en" class="nn" id="80371" origin="lexin" date="2009-02-24">
+    <translation id="80371-1" value="fordran" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-2" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-3" value="beg&#xE4;ran" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-4" value="yrkande" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-5" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-6" value="r&#xE4;ttsanspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="80371-7" value="p&#xE5;st&#xE5;ende" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="demand" lang="en" class="nn" id="124031" origin="lexin" date="2009-02-24">
+    <translation id="124031-1" value="beg&#xE4;ran" origin="lexin" date="2009-02-24"/>
+    <translation id="124031-2" value="fordran" origin="lexin" date="2009-02-24"/>
+    <translation id="124031-3" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="124031-4" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pretension" lang="en" class="nn" id="332171" lexinid="522" origin="lexin" date="2009-02-24">
+    <translation id="332171-1" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="332171-2" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="332171-3" value="yrkande" origin="lexin" date="2009-02-24"/>
+    <translation id="332171-4" value="aspiration" origin="lexin" date="2009-02-24"/>
+    <explanation value="*demand made on behalf of oneself" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="qualification" lang="en" class="nn" id="342311" origin="lexin" date="2009-02-24">
+    <translation id="342311-1" value="villkor" origin="lexin" date="2009-02-24"/>
+    <translation id="342311-2" value="krav" origin="lexin" date="2009-02-24"/>
+    <example id="342311-3" value="the qualification for citizenship may be a certain income" origin="lexin" date="2009-02-24">
+      <translation value="kravet f&#xF6;r medborgarskap kan vara en s&#xE4;ker inkomst" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="requirement" lang="en" class="nn" id="356831" origin="lexin" date="2009-02-24">
+    <translation id="356831-1" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="356831-2" value="anspr&#xE5;k" origin="lexin" date="2009-02-24"/>
+    <translation id="356831-3" value="fordran" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="requirement" lang="en" class="nn" id="356841" origin="lexin" date="2009-02-24">
+    <variant value="demand" origin="lexin" date="2009-02-24"/>
+    <translation id="356841-1" value="krav" origin="lexin" date="2009-02-24"/>
+    <explanation value="Requirement: A formal qualification an applicant must have in order to get into a certain educational institution or to get a certain job. Demand: A forceful request." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="requisites" lang="en" class="nn" id="356871" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="356871-1" value="krav" origin="lexin" date="2009-02-24"/>
+    <translation id="356871-2" value="behov" origin="lexin" date="2009-02-24"/>
+    <translation id="356871-3" value="f&#xF6;rn&#xF6;denheter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="claims" lang="en" id="531191" origin="user" date="2014-03-19T04:41:18">
+    <translation id="531191-1" value="p&#xE5;st&#xE5;r, krav," origin="user" date="2014-03-19T04:41:18"/>
+  </word>
+</definition>

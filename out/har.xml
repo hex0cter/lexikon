@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="67500" lang="sv" lexinid="6750" origin="lexin" value="ha">
+    <translation date="2011-03-03" id="6631" value="have"/>
+    <use date="2011-03-03" value="hj&#xE4;lpverb f&#xF6;re verbets supinumform"/>
+    <phonetic date="2011-03-03" soundFile="har.swf" value="ha:r"/>
+    <paradigm date="2011-03-03" id="5873" origin="lexin">
+      <inflection value="hade"/>
+      <inflection value="haft"/>
+      <inflection value="ha"/>
+      <inflection value="har"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="hava"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="innehava"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;ga"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ha||ha..1||ha..vb.1"/>
+    <example date="2011-03-03" id="3947" value="hon har gjort det">
+      <translation value="she&amp;#39;s done it"/>
+    </example>
+    <example date="2011-03-03" id="3948" value="jag hade sett henne">
+      <translation value="I had seen her"/>
+    </example>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + SUP; A &amp; x"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="67510" lang="sv" lexinid="6751" origin="lexin" value="ha">
+    <translation date="2011-03-03" id="6632" value="have, possess; be provided with"/>
+    <phonetic date="2011-03-03" soundFile="har.swf" value="ha:r"/>
+    <paradigm date="2011-03-03" id="5874" origin="lexin">
+      <inflection value="hade"/>
+      <inflection value="haft"/>
+      <inflection value="ha"/>
+      <inflection value="har"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="hava"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="innehava"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;ga"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ha||ha..1||ha..vb.1"/>
+    <example date="2011-03-03" id="3949" value="ha bl&#xE5; &#xF6;gon">
+      <translation value="have blue eyes"/>
+    </example>
+    <example date="2011-03-03" id="3950" value="hon har inte tid">
+      <translation value="she hasn&amp;#39;t got time"/>
+    </example>
+    <example date="2011-03-03" id="3951" value="vill du ha en apelsin?">
+      <translation value="would you like an orange?"/>
+    </example>
+    <example date="2011-03-03" id="3952" value="jag har r&#xE4;tt">
+      <translation value="I&amp;#39;m right"/>
+    </example>
+    <idiom date="2011-03-03" id="498" value="jag har sv&#xE5;rt att komma (&amp;quot;jag kan knappast komma&amp;quot;)">
+      <translation value="I&amp;#39;d find it difficult to come (&amp;quot;it&amp;#39;s not likely I&amp;#39;ll be able to come&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="499" value="ha att g&#xF6;ra med (&amp;quot;vara i kontakt med, ang&#xE5;, g&#xE4;lla&amp;quot;)">
+      <translation value="have to do with (&amp;quot;be in contact with, refer to, concern&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="500" value="ha r&#xE5;d (&amp;quot;kunna betala&amp;quot;)">
+      <translation value="afford (&amp;quot;be able to pay&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="6498" value="&#xE4;ga; vara f&#xF6;rsedd med"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word value="folkrik" lang="sv" id="318090" origin="user" date="2013-03-06T04:02:09">
+    <translation id="318090-1" value="populated" origin="user" date="2013-03-06T04:02:09"/>
+    <translation id="318090-2" value="highly populated" origin="user" date="2013-03-06T04:02:13"/>
+    <translation id="318090-1" value="har" origin="user" date="2013-12-05T03:34:47"/>
+    <translation id="318090-3" value="densely populated" origin="user" date="2017-04-20T05:07:42"/>
+  </word>
+</definition>

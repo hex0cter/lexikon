@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="217340" lang="sv" lexinid="21735" origin="lexin" value="&#xF6;">
+    <translation date="2011-03-03" id="21341" value="island"/>
+    <phonetic date="2011-03-03" soundFile="&#xF6;.swf" value="&#xF6;:"/>
+    <paradigm date="2011-03-03" id="18928" origin="lexin">
+      <inflection value="&#xF6;n"/>
+      <inflection value="&#xF6;ar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xF6;||&#xF6;..1||&#xF6;..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xF6;||&#xF6;..2||&#xF6;..nn.2"/>
+    <example date="2011-03-03" id="12311" value="en &#xF6;de &#xF6;">
+      <translation value="a desert island"/>
+    </example>
+    <compound date="2011-03-03" id="7090" value="&#xF6;|bo">
+      <translation value="islander"/>
+    </compound>
+    <compound date="2011-03-03" id="7091" value="halv&#xF6;">
+      <translation value="peninsula"/>
+    </compound>
+    <definition date="2011-03-03" id="20993" value="landomr&#xE5;de med vatten runt omkring"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="21/naturlandskap1.swf"/>
+  </word>
+  <word value="island" lang="en" class="nn" id="239951" origin="lexin" date="2009-02-24">
+    <translation id="239951-1" value="&#xF6;" origin="lexin" date="2009-02-24"/>
+    <example id="239951-2" value="a desert island" origin="lexin" date="2009-02-24">
+      <translation value="en &#xF6;de &#xF6;" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

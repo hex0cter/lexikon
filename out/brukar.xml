@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="bruka" lang="sv" class="vb" id="23960" lexinid="2396" origin="lexin" date="2011-03-03">
+    <translation id="2362" value="be in the habit of" date="2011-03-03"/>
+    <translation id="23960-2363" value="use to" origin="user" date="2015-07-02T03:51:14"/>
+    <phonetic value="&#xB2;brU:kar" soundFile="brukar.swf" date="2011-03-03"/>
+    <paradigm id="2092" origin="lexin" date="2011-03-03">
+      <inflection value="brukade"/>
+      <inflection value="brukat"/>
+      <inflection value="bruka"/>
+      <inflection value="brukar"/>
+    </paradigm>
+    <synonym value="hantera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="nyttja" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="bruka||bruka..1||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..2||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..3||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1460" value="hon brukade aldrig sl&#xE5;ss annars" date="2011-03-03">
+      <translation value="she never used to get into fights otherwise"/>
+    </example>
+    <definition id="2325" value="ha som vana att" date="2011-03-03"/>
+    <grammar value="A/ x &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="bruka" lang="sv" class="vb" id="23970" lexinid="2397" origin="lexin" date="2011-03-03">
+    <translation id="23970-2327" value="cultivate" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="23970-2328" value="till" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="23970-2329" value="farm" origin="user" date="2012-03-14T01:25:35"/>
+    <phonetic value="&#xB2;brU:kar" soundFile="brukar.swf" date="2011-03-03"/>
+    <paradigm id="2093" origin="lexin" date="2011-03-03">
+      <inflection value="brukade"/>
+      <inflection value="brukat"/>
+      <inflection value="bruka"/>
+      <inflection value="brukar"/>
+    </paradigm>
+    <synonym value="hantera" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="nyttja" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="odla" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bruka||bruka..1||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..2||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bruka||bruka..3||bruka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1461" value="han brukade f&#xE4;derneg&#xE5;rden i m&#xE5;nga &#xE5;r" date="2011-03-03">
+      <translation value="he kept the family farm going for many years"/>
+    </example>
+    <definition id="2326" value="anv&#xE4;nda, odla" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="will" lang="en" class="hj&#xE4;lpverb" id="444551" origin="lexin" date="2009-02-24">
+    <translation id="444551-1" value="brukar" origin="lexin" date="2009-02-24"/>
+    <translation id="444551-2" value="kan" origin="lexin" date="2009-02-24"/>
+    <paradigm id="444551-3" origin="lexin" date="2009-02-24">
+      <inflection value="obetonat" origin="lexin" date="2009-02-24"/>
+      <inflection value="i imperfekt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="444551-4" origin="lexin" date="2009-02-24">
+      <inflection value="would" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+</definition>

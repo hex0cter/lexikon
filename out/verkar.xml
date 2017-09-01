@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="verka" lang="sv" class="vb" id="207030" lexinid="20704" origin="lexin" date="2011-03-03">
+    <translation id="20342" value="work" date="2011-03-03"/>
+    <phonetic value="&#xB2;v&#xC4;r:kar" soundFile="verkar.swf" date="2011-03-03"/>
+    <paradigm id="18056" origin="lexin" date="2011-03-03">
+      <inflection value="verkade"/>
+      <inflection value="verkat"/>
+      <inflection value="verka"/>
+      <inflection value="verkar"/>
+    </paradigm>
+    <synonym value="arbeta" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tj&#xE4;nstg&#xF6;ra" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="verka||verka..1||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..2||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..3||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..4||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11621" value="verka f&#xF6;r en fredlig l&#xF6;sning av konflikten" date="2011-03-03">
+      <translation value="work for a peaceful solution to the conflict"/>
+    </example>
+    <definition id="20003" value="arbeta" date="2011-03-03">
+      <translation value="act"/>
+    </definition>
+    <grammar value="A &amp; f&#xF6;r x/att + S" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="verka" lang="sv" class="vb" id="207040" lexinid="20705" origin="lexin" date="2011-03-03">
+    <translation id="20343" value="seem" date="2011-03-03"/>
+    <phonetic value="&#xB2;v&#xC4;r:kar" soundFile="verkar.swf" date="2011-03-03"/>
+    <paradigm id="18057" origin="lexin" date="2011-03-03">
+      <inflection value="verkade"/>
+      <inflection value="verkat"/>
+      <inflection value="verka"/>
+      <inflection value="verkar"/>
+    </paradigm>
+    <synonym value="framst&#xE5;" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;refalla" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tyckas" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="verka||verka..1||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..2||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..3||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..4||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11622" value="det verkar som om du inte var intresserad" date="2011-03-03">
+      <translation value="you don&amp;#39;t seem to be interested"/>
+    </example>
+    <example id="11623" value="hon verkar sn&#xE4;ll" date="2011-03-03">
+      <translation value="she seems to be kind"/>
+    </example>
+    <definition id="20004" value="se ut, tyckas" date="2011-03-03">
+      <translation value="appear"/>
+    </definition>
+    <grammar value="A/x &amp; + PRED; det &amp; som om+SATS" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="verka" lang="sv" class="vb" id="207050" lexinid="20706" origin="lexin" date="2011-03-03">
+    <translation id="20344" value="work" date="2011-03-03"/>
+    <phonetic value="&#xB2;v&#xC4;r:kar" soundFile="verkar.swf" date="2011-03-03"/>
+    <paradigm id="18058" origin="lexin" date="2011-03-03">
+      <inflection value="verkade"/>
+      <inflection value="verkat"/>
+      <inflection value="verka"/>
+      <inflection value="verkar"/>
+    </paradigm>
+    <see value="verka||verka..1||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..2||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..3||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verka||verka..4||verka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11624" value="medicinen verkade snabbt" date="2011-03-03">
+      <translation value="the medicine was fast-acting (soon had an effect, worked quickly)"/>
+    </example>
+    <definition id="20005" value="ha verkan" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

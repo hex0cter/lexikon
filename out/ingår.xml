@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ing&#xE5;" lang="sv" class="vb" id="76630" lexinid="7663" origin="lexin" date="2011-03-03">
+    <translation id="76630-7364" value="be included in" origin="user" date="2012-01-18T00:49:41"/>
+    <translation id="76630-7365" value="form a part of" origin="user" date="2012-01-18T00:49:41"/>
+    <phonetic value="&#xB2;In:g&#xE5;:r" soundFile="ing&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="6626" origin="lexin" date="2011-03-03">
+      <inflection value="ingick"/>
+      <inflection value="ing&#xE5;tt"/>
+      <inflection value="ing&#xE5;"/>
+      <inflection value="ing&#xE5;r"/>
+    </paradigm>
+    <see value="ing&#xE5;||ing&#xE5;..1||ing&#xE5;..vb.1" type="saldo" origin="saldo" date="2015-03-26T03:49:50"/>
+    <example id="4531" value="frakten ing&#xE5;r i priset" date="2011-03-03">
+      <translation value="shipping is included in the price"/>
+    </example>
+    <definition id="7363" value="utg&#xF6;ra en del, vara inr&#xE4;knad" date="2011-03-03"/>
+    <grammar value="x/ A &amp; i y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="ing&#xE5;" lang="sv" class="vb" id="76640" lexinid="7664" origin="lexin" date="2011-03-03">
+    <translation id="76640-7365" value="be part of" origin="user" date="2012-03-16T04:41:26"/>
+    <translation id="76640-7366" value="enter into" origin="user" date="2012-03-16T04:41:26"/>
+    <phonetic value="&#xB2;In:g&#xE5;:r" soundFile="ing&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="6627" origin="lexin" date="2011-03-03">
+      <inflection value="ingick"/>
+      <inflection value="ing&#xE5;tt"/>
+      <inflection value="ing&#xE5;"/>
+      <inflection value="ing&#xE5;r"/>
+    </paradigm>
+    <see value="ing&#xE5;||ing&#xE5;..1||ing&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ing&#xE5;||ing&#xE5;..2||ing&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <idiom id="638" value="ing&#xE5; avtal (&amp;quot;g&#xF6;ra en &#xF6;verenskommelse&amp;quot;)" date="2011-03-03">
+      <translation value="enter into a contract (&amp;quot;make an agreement&amp;quot;)"/>
+    </idiom>
+    <idiom id="639" value="ing&#xE5; &#xE4;ktenskap (&amp;quot;gifta sig&amp;quot;)" date="2011-03-03">
+      <translation value="enter into marriage (&amp;quot;marry&amp;quot;)"/>
+    </idiom>
+    <definition id="7364" value="g&#xE5; in i, komma &#xF6;verens om, bilda" date="2011-03-03"/>
+    <grammar value="A och B &amp; x; A &amp; x med B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="retargete" lang="en" id="550691" origin="user" date="2017-06-06T05:13:16">
+    <translation id="550691-1" value="ing&#xE5;r" origin="user" date="2017-06-06T05:13:20"/>
+  </word>
+</definition>

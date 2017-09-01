@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="allts&#xE5;" lang="sv" class="ab" id="2770" lexinid="277" origin="lexin" comment="vid sammanfattning eller precisering av det som sagts" date="2011-03-03">
+    <translation id="2770-282" value="in other words" origin="user" date="2012-02-18T01:15:03"/>
+    <translation id="2770-283" value="accordingly" origin="user" date="2012-02-18T01:15:03"/>
+    <translation id="2770-284" value="consequently" origin="user" date="2012-02-18T01:15:03"/>
+    <translation id="2770-285" value="that is to say" origin="user" date="2012-02-18T01:15:03"/>
+    <translation id="2770-286" value="thus" origin="user" date="2012-02-18T01:15:03"/>
+    <translation id="2770-287" value="therefore" origin="user" date="2012-02-18T01:15:03"/>
+    <phonetic value="Al:ts&#xE5;" soundFile="allts&#xE5;.swf" date="2011-03-03"/>
+    <synonym value="n&#xE4;mligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="s&#xE5;ledes" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="allts&#xE5;||allts&#xE5;..1||allts&#xE5;..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="163" value="f&#xF6;rsta &#xE5;ret, allts&#xE5; 1974, gick allting bra" date="2011-03-03">
+      <translation value="during our first year, in 1974 that is to say, things went well enough"/>
+    </example>
+    <definition id="281" value="s&#xE5;ledes, f&#xF6;ljaktligen" date="2011-03-03"/>
+  </word>
+  <word value="consequently" lang="en" class="ab" id="97921" origin="lexin" date="2009-02-24">
+    <translation id="97921-1" value="f&#xF6;ljaktligen" origin="lexin" date="2009-02-24"/>
+    <translation id="97921-2" value="d&#xE4;rf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="97921-3" value="allts&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="then" lang="en" class="ab" id="417091" origin="lexin" date="2009-02-24">
+    <translation id="417091-1" value="d&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="417091-2" value="allts&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="417091-3" value="i s&#xE5; fall" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="therefore" lang="en" class="ab" id="417251" origin="lexin" date="2009-02-24">
+    <translation id="417251-1" value="d&#xE4;rf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="417251-2" value="s&#xE5;ledes" origin="lexin" date="2009-02-24"/>
+    <translation id="417251-3" value="f&#xF6;ljaktligen" origin="lexin" date="2009-02-24"/>
+    <translation id="417251-4" value="allts&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thus" lang="en" class="ab" id="418661" origin="lexin" date="2009-02-24">
+    <translation id="418661-1" value="s&#xE5;lunda" origin="lexin" date="2009-02-24"/>
+    <translation id="418661-2" value="s&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="418661-3" value="allts&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="418661-4" value="s&#xE5;ledes" origin="lexin" date="2009-02-24"/>
+    <translation id="418661-5" value="f&#xF6;ljaktligen" origin="lexin" date="2009-02-24"/>
+    <translation id="418661-6" value="d&#xE4;rf&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="bildligt &amp;quot;uppf&#xF6;ra en viss teaterroll&amp;quot;; utvidgat &#xE4;ven &amp;quot;l&#xE5;tsas&amp;quot;" date="2011-03-03" id="169630" lang="sv" lexinid="16964" origin="lexin" value="spela">
+    <translation comment="figuratively &amp;quot;perform a particular r&#xF4;le in a play&amp;quot;; also &amp;quot;pretend&amp;quot;" date="2011-03-03" id="16665" value="play"/>
+    <phonetic date="2011-03-03" soundFile="spelar.swf" value="&#xB2;spE:lar"/>
+    <paradigm date="2011-03-03" id="14811" origin="lexin">
+      <inflection value="spelade"/>
+      <inflection value="spelat"/>
+      <inflection value="spela"/>
+      <inflection value="spelar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="agera"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="gestalta"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="leka"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="lira"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="l&#xE5;tsa"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="l&#xE5;tsas"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="testa"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spela||spela..2||spela..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spela||spela..3||spela..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spela||spela..6||spela..vb.2"/>
+    <example date="2011-03-03" id="9587" value="spela oskyldig">
+      <translation value="pretend to be innocent"/>
+    </example>
+    <example date="2011-03-03" id="9588" value="spela Hamlet">
+      <translation value="play Hamlet"/>
+    </example>
+    <example date="2011-03-03" id="9589" value="spela teater">
+      <translation value="act a part"/>
+    </example>
+    <example date="2011-03-03" id="9590" value="spela tennis">
+      <translation value="play tennis"/>
+    </example>
+    <example date="2011-03-03" id="9591" value="spela schack">
+      <translation value="play chess"/>
+    </example>
+    <idiom date="2011-03-03" id="1452" value="det spelar ingen roll (&amp;quot;har ingen betydelse&amp;quot;)">
+      <translation value="it doesn&amp;#39;t matter (&amp;quot;it isn&amp;#39;t important&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="16426" value="&#xE4;gna sig &#xE5;t spel"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="spelar_spel.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="169640" lang="sv" lexinid="16965" origin="lexin" value="spela">
+    <translation date="2011-03-03" id="16666" value="play"/>
+    <phonetic date="2011-03-03" soundFile="spelar.swf" value="&#xB2;spE:lar"/>
+    <paradigm date="2011-03-03" id="14812" origin="lexin">
+      <inflection value="spelade"/>
+      <inflection value="spelat"/>
+      <inflection value="spela"/>
+      <inflection value="spelar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="lira"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="musicera"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="spela||spela..1||spela..vb.1"/>
+    <example date="2011-03-03" id="9592" value="spela och sjunga">
+      <translation value="play and sing"/>
+    </example>
+    <example date="2011-03-03" id="9593" value="spela i orkester">
+      <translation value="play in an orchestra"/>
+    </example>
+    <example date="2011-03-03" id="9594" value="spela fiol">
+      <translation value="play the violin"/>
+    </example>
+    <definition date="2011-03-03" id="16427" value="framf&#xF6;ra musik (p&#xE5;)"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="spelar_piano.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; ((p&#xE5;) x)"/>
+  </word>
+  <word value="act" lang="en" class="vb" id="4031" origin="lexin" date="2009-02-24">
+    <translation id="4031-1" value="agera" origin="lexin" date="2009-02-24"/>
+    <translation id="4031-2" value="upptr&#xE4;da som" origin="lexin" date="2009-02-24"/>
+    <translation id="4031-3" value="spela" comment="om sk&#xE5;despelare" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="act" lang="en" class="vb" id="4081" origin="lexin" date="2009-02-24">
+    <translation id="4081-1" value="agera" origin="lexin" date="2009-02-24"/>
+    <translation id="4081-2" value="upptr&#xE4;da som" origin="lexin" date="2009-02-24"/>
+    <translation id="4081-3" value="spela" comment="om sk&#xE5;despelare" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="affect" lang="en" class="vb" id="7311" origin="lexin" date="2009-02-24">
+    <translation id="7311-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="7311-2" value="l&#xE5;tsas vara" origin="lexin" date="2009-02-24"/>
+    <translation id="7311-3" value="l&#xE5;tsas k&#xE4;nna" origin="lexin" date="2009-02-24"/>
+    <translation id="7311-4" value="f&#xF6;rege" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="chirp" lang="en" class="vb" id="77501" origin="lexin" date="2009-02-24">
+    <variant value="chirrup" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="77501-1" value="sjunga" origin="lexin" date="2009-02-24"/>
+    <translation id="77501-2" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="77501-3" value="kvittra" origin="lexin" date="2009-02-24"/>
+    <translation id="77501-4" value="pipa" origin="lexin" date="2009-02-24"/>
+    <translation id="77501-5" value="gnissla" origin="lexin" date="2009-02-24"/>
+    <explanation value="det ljud som f&#xE5;glar och vissa insekter frambringar" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="counterfeit" lang="en" class="vb" id="105911" origin="lexin" date="2009-02-24">
+    <translation id="105911-1" value="l&#xE5;tsa" origin="lexin" date="2009-02-24"/>
+    <translation id="105911-2" value="spela" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="execute" lang="en" class="vb" id="163731" origin="lexin" date="2009-02-24">
+    <translation id="163731-1" value="exekvera" origin="lexin" date="2009-02-24"/>
+    <translation id="163731-2" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="163731-3" value="utf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="flicker" lang="en" class="vb" id="178841" origin="lexin" date="2009-02-24">
+    <translation id="178841-1" value="dansa" origin="lexin" date="2009-02-24"/>
+    <translation id="178841-2" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="178841-3" value="vippa" origin="lexin" date="2009-02-24"/>
+    <example id="178841-4" value="scary shadows flickered on the walls" origin="lexin" date="2009-02-24">
+      <translation value="ot&#xE4;cka skuggor dansade p&#xE5; v&#xE4;ggarna" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="flicker" lang="en" class="vb" id="178851" origin="lexin" date="2009-02-24">
+    <translation id="178851-1" value="dansa" origin="lexin" date="2009-02-24"/>
+    <translation id="178851-2" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="178851-3" value="vippa" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gamble" lang="en" class="vb" id="190321" origin="lexin" date="2009-02-24">
+    <translation id="190321-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="190321-2" value="spela hasardspel" origin="lexin" date="2009-02-24"/>
+    <translation id="190321-3" value="spekulera" origin="lexin" date="2009-02-24"/>
+    <example id="190321-5" value="my husband gambles at poker" origin="lexin" date="2009-02-24">
+      <translation value="min man spelar poker" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="190321-4" value="gamble on the stock exchange" origin="lexin" date="2009-02-24">
+      <translation value="spela p&#xE5; b&#xF6;rsmarknaden" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="ta risker genom att satsa pengar p&#xE5; n&#xE5;got med os&#xE4;ker utg&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gamble" lang="en" class="vb" id="190331" origin="lexin" date="2009-02-24">
+    <translation id="190331-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="190331-2" value="spela hasardspel" origin="lexin" date="2009-02-24"/>
+    <translation id="190331-3" value="spekulera" origin="lexin" date="2009-02-24"/>
+    <example id="190331-4" value="she has gambled all her savings away" origin="lexin" date="2009-02-24">
+      <translation value="hon har spelat bort hela sitt sparkapital" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="game" lang="en" class="vb" id="190441" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="190441-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play off" lang="en" class="vb" id="321391" origin="lexin" date="2009-02-24">
+    <translation id="321391-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321391-2" value="spela ut" origin="lexin" date="2009-02-24"/>
+    <example id="321391-3" value="she has been playing them off against one another" origin="lexin" date="2009-02-24">
+      <translation value="hon har spelat ut dem mot varandra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321491" origin="lexin" date="2009-02-24">
+    <translation id="321491-1" value="fladdra" origin="lexin" date="2009-02-24"/>
+    <translation id="321491-2" value="svepa" origin="lexin" date="2009-02-24"/>
+    <translation id="321491-3" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321491-4" value="skimra" comment="ofta litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <example id="321491-5" value="a smile played across his lips" origin="lexin" date="2009-02-24">
+      <translation value="ett leende lekte p&#xE5; hans l&#xE4;ppar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321591" origin="lexin" date="2009-02-24">
+    <translation id="321591-1" value="spela" comment="musikstycke" origin="lexin" date="2009-02-24"/>
+    <example id="321591-2" value="my favourite pianist is playing tonight" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r min favoritpianist som spelar i kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321601" origin="lexin" date="2009-02-24">
+    <translation id="321601-1" value="spela" comment="musikstycke" origin="lexin" date="2009-02-24"/>
+    <example id="321601-2" value="my daughter plays the violin" origin="lexin" date="2009-02-24">
+      <translation value="min dotter spelar fiol" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321611" origin="lexin" date="2009-02-24">
+    <translation id="321611-1" value="spela" comment="producera ljud fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <example id="321611-2" value="the radio is still playing" origin="lexin" date="2009-02-24">
+      <translation value="radion ljuder fortfarande" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321621" origin="lexin" date="2009-02-24">
+    <translation id="321621-1" value="spela" comment="producera ljud fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <example id="321621-2" value="she just plays CDs all day long" origin="lexin" date="2009-02-24">
+      <translation value="hon sitter bara och spelar CD-skivor hela dagarna" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321631" origin="lexin" date="2009-02-24">
+    <translation id="321631-1" value="spela" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="321631-6" value="let&amp;#39;s play a joke on him" origin="lexin" date="2009-02-24">
+      <translation value="vi kan v&#xE4;l spela honom ett spratt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321631-2" value="play it by ear" origin="lexin" date="2009-02-24">
+      <translation value="k&#xE4;nna sig f&#xF6;r, handla p&#xE5; k&#xE4;nn" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321631-3" value="play it cool" origin="lexin" date="2009-02-24">
+      <translation value="ha is i magen, ta det lugnt (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321631-4" value="play (it) safe" origin="lexin" date="2009-02-24">
+      <translation value="ta det s&#xE4;kra f&#xF6;r det os&#xE4;kra (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321631-5" value="play tricks on somebody" origin="lexin" date="2009-02-24">
+      <translation value="lura n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321651" origin="lexin" date="2009-02-24">
+    <translation id="321651-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321651-2" value="agera" comment="om teatergrupp eller sk&#xE5;despelare, &#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="321651-6" value="I&amp;#39;m playing in his play next season" origin="lexin" date="2009-02-24">
+      <translation value="jag ska vara med i hans pj&#xE4;s n&#xE4;sta s&#xE4;song" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321651-3" value="play for time" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rs&#xF6;ka vinna tid" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321651-4" value="play hard to get" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;tsas var sv&#xE5;rfl&#xF6;rtad (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321651-5" value="play into somebody&amp;#39;s hands" origin="lexin" date="2009-02-24">
+      <translation value="spela n&#xE5;gon i h&#xE4;nderna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321661" origin="lexin" date="2009-02-24">
+    <translation id="321661-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321661-2" value="agera" comment="om teatergrupp eller sk&#xE5;despelare, &#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="321661-4" value="my sister has played an important role in pulling this deal off" origin="lexin" date="2009-02-24">
+      <translation value="min syster har spelat en viktig roll vad g&#xE4;ller att f&#xE5; igenom det h&#xE4;r avtalet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321661-3" value="play the field" origin="lexin" date="2009-02-24">
+      <translation value="(informellt; s&#xE4;rskilt amerikansk engelska) g&#xE5; ut med &#xE4;n den ene/ena, &#xE4;n den andre/andra (av motsatt k&#xF6;n)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321671" origin="lexin" date="2009-02-24">
+    <translation id="321671-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321671-2" value="delta i" comment="om idrott eller spel" origin="lexin" date="2009-02-24"/>
+    <example id="321671-4" value="is your team playing tomorrow?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r det ditt lag som spelar i morgon?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321671-3" value="play to the gallery" origin="lexin" date="2009-02-24">
+      <translation value="fria till publiken" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321681" origin="lexin" date="2009-02-24">
+    <translation id="321681-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321681-2" value="delta i" comment="om idrott eller spel" origin="lexin" date="2009-02-24"/>
+    <example id="321681-5" value="I play badminton on Tuesdays" origin="lexin" date="2009-02-24">
+      <translation value="jag spelar badminton p&#xE5; tisdagar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321681-3" value="play the game" origin="lexin" date="2009-02-24">
+      <translation value="uppf&#xF6;ra sig juste (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="321681-4" value="play the market" origin="lexin" date="2009-02-24">
+      <translation value="spekulera p&#xE5; b&#xF6;rsen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321691" origin="lexin" date="2009-02-24">
+    <translation id="321691-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321691-2" value="l&#xE5;tsas vara" origin="lexin" date="2009-02-24"/>
+    <example id="321691-4" value="she always has to play the fool" origin="lexin" date="2009-02-24">
+      <translation value="hon ska d&#xE5; alltid bete sig larvigt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321691-3" value="play the devil with" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; h&#xE5;rt &#xE5;t" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321701" origin="lexin" date="2009-02-24">
+    <translation id="321701-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321701-2" value="sl&#xE5;" comment="om boll i bollspel" origin="lexin" date="2009-02-24"/>
+    <example id="321701-4" value="just play the ball over the net" origin="lexin" date="2009-02-24">
+      <translation value="sl&#xE5; nu bara bollen &#xF6;ver n&#xE4;tet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="321701-3" value="play ball" origin="lexin" date="2009-02-24">
+      <translation value="samarbeta, st&#xE4;lla upp (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="play" lang="en" class="vb" id="321711" origin="lexin" date="2009-02-24">
+    <translation id="321711-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="321711-2" value="visa" comment="om pj&#xE4;s eller film" origin="lexin" date="2009-02-24"/>
+    <example id="321711-3" value="they&amp;#39;re playing my favourite film tomorrow evening" origin="lexin" date="2009-02-24">
+      <translation value="de visar min favoritfilm i morgon kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="show" lang="en" class="vb" id="381061" origin="lexin" date="2009-02-24">
+    <translation id="381061-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="381061-2" value="visa" origin="lexin" date="2009-02-24"/>
+    <paradigm id="381061-4" origin="lexin" date="2009-02-24">
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+      <inflection value="shown" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="381061-5" origin="lexin" date="2009-02-24">
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="381061-3" value="they&amp;#39;re showing Anna Karenina tonight" origin="lexin" date="2009-02-24">
+      <translation value="de spelar Anna Karenina i kv&#xE4;ll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sound" lang="en" class="vb" id="390601" origin="lexin" date="2009-02-24">
+    <translation id="390601-1" value="spela" origin="lexin" date="2009-02-24"/>
+    <translation id="390601-2" value="sl&#xE5; an" origin="lexin" date="2009-02-24"/>
+    <translation id="390601-3" value="bl&#xE5;sa i" origin="lexin" date="2009-02-24"/>
+    <translation id="390601-4" value="ringa p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="390601-5" value="sound a trumpet" origin="lexin" date="2009-02-24">
+      <translation value="bl&#xE5;sa i trumpet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="a play" lang="en" id="545451" origin="user" date="2016-02-15T03:12:59">
+    <translation id="545451-1" value="en teaterpj&#xE4;s" origin="user" date="2016-02-15T03:12:59"/>
+    <translation id="545451-2" value="starta/spela" origin="user" date="2016-02-15T03:12:59"/>
+    <translation id="545451-3" value="en lek" origin="user" date="2016-02-15T03:12:59"/>
+    <translation id="545451-4" value="pj&#xE4;s" origin="user" date="2016-02-15T03:13:00"/>
+    <translation id="545451-5" value="ett spel" origin="user" date="2016-02-15T03:13:01"/>
+    <translation id="545451-6" value="arkitektur" origin="user" date="2016-02-15T03:13:01"/>
+    <translation id="545451-7" value="spela" origin="user" date="2016-02-15T03:13:01"/>
+    <translation id="545451-8" value="en pj&#xE4;s" origin="user" date="2016-02-15T03:13:02"/>
+    <translation id="545451-9" value="en f&#xF6;rest&#xE4;llning" origin="user" date="2016-02-15T03:13:03"/>
+    <translation id="545451-10" value="krydda" origin="user" date="2016-02-15T03:13:04"/>
+  </word>
+</definition>

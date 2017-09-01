@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="26170" lang="sv" lexinid="2617" origin="lexin" value="b&#xE5;da">
+    <translation date="2011-03-03" id="2582" value="both"/>
+    <phonetic date="2011-03-03" soundFile="b&#xE5;da.swf" value="&#xB2;b&#xC5;:da"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="b&#xE4;gge"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="b&#xE5;da||b&#xE5;da..1||b&#xE5;da..pn.1"/>
+    <example date="2011-03-03" id="1571" value="en v&#xE4;g med trafik i b&#xE5;da riktningarna">
+      <translation value="a road with two-way traffic"/>
+    </example>
+    <definition date="2011-03-03" id="2531" value="samtliga av tv&#xE5;, b&#xE4;gge">
+      <translation value="each of two"/>
+    </definition>
+  </word>
+  <word class="vb" date="2011-03-03" id="26190" lang="sv" lexinid="2619" origin="lexin" value="b&#xE5;da">
+    <translation date="2011-03-03" id="2584" value="announce, betoken; bode"/>
+    <phonetic date="2011-03-03" soundFile="b&#xE5;dar.swf" value="&#xB2;b&#xC5;:dar"/>
+    <paradigm date="2011-03-03" id="2296" origin="lexin">
+      <inflection value="b&#xE5;dade"/>
+      <inflection value="b&#xE5;dat"/>
+      <inflection value="b&#xE5;da"/>
+      <inflection value="b&#xE5;dar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="b&#xE4;gge"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="b&#xE5;da||b&#xE5;da..2||b&#xE5;da..vb.1"/>
+    <idiom date="2011-03-03" id="198" value="det b&#xE5;dar (inte) gott f&#xF6;r framtiden (&amp;quot;det &#xE4;r (inget) ett bra tecken&amp;quot;)">
+      <translation value="this augurs ill for the future (&amp;quot;this is not a good sign&amp;quot;)"/>
+    </idiom>
+  </word>
+  <word value="augur" lang="en" class="vb" id="24841" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="24841-1" value="f&#xF6;reb&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="24841-2" value="b&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="24841-3" value="varsla" origin="lexin" date="2009-02-24"/>
+    <translation id="24841-4" value="lova" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="betoken" lang="en" class="vb" id="40221" origin="lexin" date="2009-02-24">
+    <translation id="40221-1" value="b&#xE5;da" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bode" lang="en" class="vb" id="48031" origin="lexin" date="2009-02-24">
+    <translation id="48031-1" value="b&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="48031-2" value="varsla" origin="lexin" date="2009-02-24"/>
+    <translation id="48031-3" value="lova" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="both" lang="en" class="pn" id="50961" origin="lexin" date="2009-02-24">
+    <translation id="50961-1" value="b&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="50961-2" value="b&#xE4;gge" origin="lexin" date="2009-02-24"/>
+    <translation id="50961-3" value="b&#xE5;dadera" origin="lexin" date="2009-02-24"/>
+    <explanation value="each of two" origin="lexin" date="2009-02-24">
+      <translation value="samtliga av tv&#xE5;" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="either" lang="en" class="pn" id="152231" origin="lexin" date="2009-02-24">
+    <translation id="152231-1" value="vardera" origin="lexin" date="2009-02-24"/>
+    <translation id="152231-2" value="vartdera" origin="lexin" date="2009-02-24"/>
+    <translation id="152231-3" value="b&#xE5;da" origin="lexin" date="2009-02-24"/>
+    <translation id="152231-4" value="b&#xE4;gge" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

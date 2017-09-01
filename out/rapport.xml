@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="139910" lang="sv" lexinid="13992" origin="lexin" value="rapport">
+    <translation date="2011-03-03" id="13740" value="report"/>
+    <phonetic date="2011-03-03" soundFile="rapport.swf" value="rap&#xC5;r+t:"/>
+    <paradigm date="2011-03-03" id="12171" origin="lexin">
+      <inflection value="rapporten"/>
+      <inflection value="rapporter"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="redog&#xF6;relse"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="redovisning"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="rapport||rapport..1||rapport..nn.1"/>
+    <example date="2011-03-03" id="7843" value="en rapport om syssels&#xE4;ttningen">
+      <translation value="a report on employment"/>
+    </example>
+    <example date="2011-03-03" id="7844" value="enligt en rapport fr&#xE5;n Amnesty International">
+      <translation value="according to a report from Amnesty International"/>
+    </example>
+    <compound date="2011-03-03" id="4902" value="v&#xE4;derleksrapport">
+      <translation value="weather report"/>
+    </compound>
+    <compound date="2011-03-03" id="4903" value="larmrapport">
+      <translation value="alarming report, scare"/>
+    </compound>
+    <compound date="2011-03-03" id="4904" value="&#xE5;rsrapport">
+      <translation value="annual report"/>
+    </compound>
+    <definition date="2011-03-03" id="13525" value="redog&#xF6;relse"/>
+  </word>
+  <word value="bulletin" lang="en" class="nn" id="59361" origin="lexin" date="2009-02-24">
+    <translation id="59361-1" value="bulletin" origin="lexin" date="2009-02-24"/>
+    <translation id="59361-2" value="rapport" origin="lexin" date="2009-02-24"/>
+    <explanation value="regular report" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dispatch" lang="en" class="nn" id="135641" origin="lexin" date="2009-02-24">
+    <translation id="135641-1" value="rapport" comment="journalists" origin="lexin" date="2009-02-24"/>
+    <translation id="135641-2" value="depesch" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="notification" lang="en" class="nn" id="289151" lexinid="464" origin="lexin" date="2009-02-24">
+    <translation id="289151-1" value="tillk&#xE4;nnagivande" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-2" value="kung&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-3" value="anm&#xE4;lan" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-4" value="underr&#xE4;ttelse" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-5" value="meddelande" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-6" value="rapport" origin="lexin" date="2009-02-24"/>
+    <translation id="289151-7" value="anm&#xE4;lt fall" origin="lexin" date="2009-02-24"/>
+    <explanation value="report (to an authority), notification (of participation)" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="report" lang="en" class="nn" id="355861" origin="lexin" date="2009-02-24">
+    <translation id="355861-1" value="rapport" origin="lexin" date="2009-02-24"/>
+    <translation id="355861-2" value="redog&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <translation id="355861-3" value="ber&#xE4;ttelse" origin="lexin" date="2009-02-24"/>
+    <translation id="355861-4" value="bet&#xE4;nkande" origin="lexin" date="2009-02-24"/>
+    <translation id="355861-5" value="utl&#xE5;tande" origin="lexin" date="2009-02-24"/>
+    <translation id="355861-6" value="anm&#xE4;lan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="statement" lang="en" class="nn" id="397391" origin="lexin" date="2009-02-24">
+    <translation id="397391-1" value="redovisning" origin="lexin" date="2009-02-24"/>
+    <translation id="397391-2" value="rapport" origin="lexin" date="2009-02-24"/>
+    <example id="397391-3" value="A bank statement." origin="lexin" date="2009-02-24">
+      <translation value="Ett kontoutdrag." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An account of transactions." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="110450" lang="sv" lexinid="11045" origin="lexin" value="min">
+    <translation date="2011-03-03" id="10851" value="my"/>
+    <use date="2011-03-03" value="possessiv form av &amp;quot;jag&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="min.swf" value="min:"/>
+    <paradigm date="2011-03-03" id="9615" origin="lexin">
+      <inflection value="mitt"/>
+      <inflection value="mina"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="grimas"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="uppsyn"/>
+    <example date="2011-03-03" id="5980" value="enligt min mening">
+      <translation value="in my opinion"/>
+    </example>
+    <example date="2011-03-03" id="5981" value="mina barn">
+      <translation value="my children"/>
+    </example>
+    <idiom date="2011-03-03" id="976" value="min herre (&amp;quot;ni&amp;quot;)">
+      <translation value="sir ([formal] &amp;quot;you&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="10648" value="som tillh&#xF6;r mig"/>
+  </word>
+  <word class="" date="2011-03-03" id="111390" lang="sv" lexinid="11139" origin="lexin" value="mitt">
+    <translation date="2011-03-03" id="10944" value="my"/>
+    <phonetic date="2011-03-03" soundFile="mitt.swf" value="mit:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="centrum"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="k&#xE4;rna"/>
+    <see date="2011-03-03" id="110450" origin="lexin" value="min"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="111400" lang="sv" lexinid="11140" origin="lexin" value="mitt">
+    <phonetic date="2011-03-03" soundFile="mitt.swf" value="mit:"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="centrum"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="k&#xE4;rna"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="mitt||mitt..1||mitt..ab.1"/>
+    <example date="2011-03-03" id="6062" value="vi bodde mitt emot kyrkan">
+      <translation value="we lived just opposite the church"/>
+    </example>
+    <example date="2011-03-03" id="6063" value="mitt i natten">
+      <translation value="in the middle (dead) of the night"/>
+    </example>
+    <example date="2011-03-03" id="6064" value="mitt i skogen">
+      <translation value="in the middle (depths) of the forest"/>
+    </example>
+    <definition date="2011-03-03" id="10740" value="i el. p&#xE5; mitten"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="111410" lang="sv" lexinid="11141" origin="lexin" value="mitt">
+    <translation date="2011-03-03" id="10945" value="centre"/>
+    <phonetic date="2011-03-03" soundFile="mitt.swf" value="mit:"/>
+    <paradigm date="2011-03-03" id="9698" origin="lexin">
+      <inflection value="mitten"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="centrum"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="k&#xE4;rna"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="mitt||mitt..2||mitt..nn.1"/>
+    <example date="2011-03-03" id="6065" value="i mitten av (p&#xE5;) november">
+      <translation value="mid-November"/>
+    </example>
+    <example date="2011-03-03" id="6066" value="k&#xE4;ppen gick av p&#xE5; mitten">
+      <translation value="the cane broke in two"/>
+    </example>
+    <compound date="2011-03-03" id="3945" inflection="mitt|linjen" value="mitt|linje">
+      <translation value="centre (halfway) line"/>
+    </compound>
+    <compound date="2011-03-03" id="3946" inflection="mitt|benan" value="mitt|bena">
+      <translation value="(the hair) parted down the middle"/>
+    </compound>
+    <compound date="2011-03-03" id="3947" inflection="mitt|punkten" value="mitt|punkt">
+      <translation value="centre"/>
+    </compound>
+    <definition date="2011-03-03" id="10741" value="medelpunkt, centrum"/>
+  </word>
+  <word value="middle" lang="en" class="nn" id="272361" origin="lexin" date="2009-02-24">
+    <translation id="272361-1" value="mitt" origin="lexin" date="2009-02-24"/>
+    <translation id="272361-2" value="mitten" origin="lexin" date="2009-02-24"/>
+    <example id="272361-3" value="He is the one in the middle." origin="lexin" date="2009-02-24">
+      <translation value="Han &#xE4;r den som st&#xE5;r i mitten." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The part of something that is in its center." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mine" lang="en" class="pn" id="273521" origin="lexin" date="2009-02-24">
+    <translation id="273521-1" value="min" origin="lexin" date="2009-02-24"/>
+    <translation id="273521-2" value="mitt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="273521-4" origin="lexin" date="2009-02-24">
+      <inflection value="possessivt" origin="lexin" date="2009-02-24"/>
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="273521-3" value="That book belongs to me,It is mine." origin="lexin" date="2009-02-24">
+      <translation value="Den d&#xE4;r boken tillh&#xF6;r mig. Den &#xE4;r min." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to something that belongs to the speaker or writer." origin="lexin" date="2009-02-24"/>
+    <grammar value="f&#xF6;rsta person singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="karda" lang="sv" class="nn" id="83370" lexinid="8337" origin="lexin" comment="vardagligt" date="2011-03-03">
+    <translation id="8185" value="mitt" comment="informal" date="2011-03-03"/>
+    <phonetic value="&#xB2;kA:r+da" soundFile="karda.swf" date="2011-03-03"/>
+    <paradigm id="7172" origin="lexin" date="2011-03-03">
+      <inflection value="kardan"/>
+      <inflection value="kardor"/>
+    </paradigm>
+    <see value="karda||karda..3||karda..nn.1" type="saldo" origin="saldo" date="2014-12-19T04:26:50"/>
+    <definition id="8005" value="hand" date="2011-03-03"/>
+  </word>
+  <word value="labb" lang="sv" class="nn" id="97240" lexinid="9724" origin="lexin" comment="vardagligt" date="2011-03-03">
+    <translation id="97240-9371" value="mitt" origin="user" date="2012-03-10T00:55:37"/>
+    <translation id="97240-9372" value="paw" origin="user" date="2012-03-10T00:55:37"/>
+    <phonetic value="lab:" soundFile="labb.swf" date="2011-03-03"/>
+    <paradigm id="8452" origin="lexin" date="2011-03-03">
+      <inflection value="labben"/>
+      <inflection value="labbar"/>
+    </paradigm>
+    <see value="labb||labb..2||labb..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="labb||labb..3||labb..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9370" value="stor tass p&#xE5; djur &#xE4;ven (stor) hand" date="2011-03-03"/>
+  </word>
+  <word value="mitt" lang="en" class="nn" id="275311" origin="lexin" date="2009-02-24">
+    <translation id="275311-1" value="karda" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-2" value="labb" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-3" value="n&#xE4;ve" origin="lexin" date="2009-02-24"/>
+    <translation id="275311-4" value="hand" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mitt" lang="en" class="nn" id="275321" origin="lexin" date="2009-02-24">
+    <translation id="275321-1" value="baseballhandske" origin="lexin" date="2009-02-24"/>
+    <translation id="275321-2" value="boxhandske" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mitt" lang="en" class="nn" id="275331" origin="lexin" date="2009-02-24">
+    <translation id="275331-1" value="tumvante" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="205210" lang="sv" lexinid="20522" origin="lexin" value="vann">
+    <translation date="2011-03-03" id="20164" value="won"/>
+    <phonetic date="2011-03-03" soundFile="vann.swf" value="van:"/>
+    <see date="2011-03-03" origin="lexin" value="vinna"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="208950" lang="sv" lexinid="20896" origin="lexin" value="vinna">
+    <translation date="2011-03-03" id="20527" value="win"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18218" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11770" value="vi vann &#xF6;ver norrm&#xE4;nnen">
+      <translation value="we beat the Norwegians"/>
+    </example>
+    <example date="2011-03-03" id="11771" value="vinna en match">
+      <translation value="win a match"/>
+    </example>
+    <example date="2011-03-03" id="11772" value="vinna ett val">
+      <translation value="win an election"/>
+    </example>
+    <definition date="2011-03-03" id="20184" value="bli b&#xE4;st (i en t&#xE4;vling etc), segra"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="vinner.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; ((i) x); A &amp; &#xF6;ver B"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="208960" lang="sv" lexinid="20897" origin="lexin" value="vinna">
+    <translation date="2011-03-03" id="20528" value="win"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18219" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11773" value="vad skulle Sverige vinna p&#xE5; att g&#xE5; med i EG?">
+      <translation value="what would Sweden gain by joining the EU?"/>
+    </example>
+    <example date="2011-03-03" id="11774" value="vinna 100 000 p&#xE5; lotteri">
+      <translation value="win a 100 000 kronor prize in the lottery"/>
+    </example>
+    <definition date="2011-03-03" id="20185" value="f&#xE5; (som) vinst; f&#xE5; f&#xF6;rdel, tj&#xE4;na"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x; A &amp; p&#xE5; att+SATS/att+INF"/>
+  </word>
+  <word class="vb" comment="mest i fraser" date="2011-03-03" id="208970" lang="sv" lexinid="20898" origin="lexin" value="vinna">
+    <translation comment="most in phrases" date="2011-03-03" id="20529" value="gain"/>
+    <phonetic date="2011-03-03" soundFile="vinner.swf" value="vIn:er"/>
+    <paradigm date="2011-03-03" id="18220" origin="lexin">
+      <inflection value="vann"/>
+      <inflection value="vunnit"/>
+      <inflection value="vinn"/>
+      <inflection value="vinna"/>
+      <inflection value="vinner"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="besegra"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="segra"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="segrar"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="sl&#xE5;"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vinna||vinna..1||vinna..vb.1"/>
+    <example date="2011-03-03" id="11775" value="vinna tid">
+      <translation value="gain time"/>
+    </example>
+    <example date="2011-03-03" id="11776" value="vinna geh&#xF6;r">
+      <translation value="gain a hearing"/>
+    </example>
+    <definition date="2011-03-03" id="20186" value="skaffa sig"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+</definition>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="r&#xE4;cka" lang="sv" class="vb" id="147950" lexinid="14796" origin="lexin" comment="&#xE4;ven &amp;quot;&#xF6;verl&#xE4;mna&amp;quot; (med en s&#xE5;dan r&#xF6;relse)" date="2011-03-03">
+    <translation id="147950-14331" value="pass" origin="user" date="2012-02-14T22:56:57"/>
+    <translation id="147950-14332" value="hold out" origin="user" date="2012-02-14T22:56:57"/>
+    <translation id="147950-14333" value="reach" origin="user" date="2012-02-14T22:56:57"/>
+    <phonetic value="rEk:er" soundFile="r&#xE4;cker.swf" date="2011-03-03"/>
+    <paradigm id="12913" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;ckte"/>
+      <inflection value="r&#xE4;ckt"/>
+      <inflection value="r&#xE4;ck"/>
+      <inflection value="r&#xE4;cka"/>
+      <inflection value="r&#xE4;cker"/>
+    </paradigm>
+    <see value="r&#xE4;cka||r&#xE4;cka..1||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..3||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..4||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8381" value="r&#xE4;ck ut tungan!" date="2011-03-03">
+      <translation value="stick (put) out your tongue!"/>
+    </example>
+    <example id="8382" value="r&#xE4;ck upp h&#xE4;nderna!" date="2011-03-03">
+      <translation value="put up your hands!"/>
+    </example>
+    <example id="8383" value="r&#xE4;ck mig saltet!" date="2011-03-03">
+      <translation value="pass me the salt, please!"/>
+    </example>
+    <definition id="14330" value="str&#xE4;cka ut" date="2011-03-03"/>
+    <grammar value="A r&#xE4;cker ut/upp/fram etc x; A &amp; B x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;cka" lang="sv" class="vb" id="147960" lexinid="14797" origin="lexin" date="2011-03-03">
+    <translation id="14535" value="reach" date="2011-03-03"/>
+    <phonetic value="rEk:er" soundFile="r&#xE4;cker.swf" date="2011-03-03"/>
+    <paradigm id="12914" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;ckte"/>
+      <inflection value="r&#xE4;ckt"/>
+      <inflection value="r&#xE4;ck"/>
+      <inflection value="r&#xE4;cka"/>
+      <inflection value="r&#xE4;cker"/>
+    </paradigm>
+    <see value="r&#xE4;cka||r&#xE4;cka..1||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..3||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..4||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8384" value="jag r&#xE4;cker inte upp till &#xF6;versta hyllan" date="2011-03-03">
+      <translation value="I can&amp;#39;t reach the top shelf"/>
+    </example>
+    <definition id="14331" value="n&#xE5;" date="2011-03-03"/>
+    <grammar value="A &amp; (upp)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;cka" lang="sv" class="vb" id="147970" lexinid="14798" origin="lexin" comment="&#xE4;ven &amp;quot;vara, p&#xE5;g&#xE5;&amp;quot;" date="2011-03-03">
+    <translation id="14536" value="be enough" comment="also &amp;quot;last&amp;quot;" date="2011-03-03"/>
+    <phonetic value="rEk:er" soundFile="r&#xE4;cker.swf" date="2011-03-03"/>
+    <paradigm id="12915" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;ckte"/>
+      <inflection value="r&#xE4;ckt"/>
+      <inflection value="r&#xE4;ck"/>
+      <inflection value="r&#xE4;cka"/>
+      <inflection value="r&#xE4;cker"/>
+    </paradigm>
+    <see value="r&#xE4;cka||r&#xE4;cka..1||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..3||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="r&#xE4;cka||r&#xE4;cka..4||r&#xE4;cka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8385" value="pengarna r&#xE4;cker inte till" date="2011-03-03">
+      <translation value="there is not enough money"/>
+    </example>
+    <example id="8386" value="nu f&#xE5;r det r&#xE4;cka med of&#xF6;rsk&#xE4;mdheter!" date="2011-03-03">
+      <translation value="now that&amp;#39;s enough of your insolence!"/>
+    </example>
+    <example id="8387" value="maten r&#xE4;cker inte till mer &#xE4;n fyra" date="2011-03-03">
+      <translation value="the food will not be enough for more than four people"/>
+    </example>
+    <definition id="14332" value="vara tillr&#xE4;cklig, f&#xF6;rsl&#xE5;" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

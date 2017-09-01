@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="beslut" lang="sv" class="nn" id="16500" lexinid="1650" origin="lexin" date="2011-03-03">
+    <translation id="16500-1607" value="decision" origin="user" date="2011-11-12T00:14:45"/>
+    <translation id="16500-1608" value="resolution" origin="user" date="2011-11-12T00:14:45"/>
+    <phonetic value="beslU:t" soundFile="beslut.swf" date="2011-03-03"/>
+    <paradigm id="1423" origin="lexin" date="2011-03-03">
+      <inflection value="beslutet"/>
+      <inflection value="beslut"/>
+      <inflection value="besluten"/>
+    </paradigm>
+    <synonym value="dom" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fastst&#xE4;llande" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="beslut||beslut..1||beslut..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1055" value="fatta beslut" date="2011-03-03">
+      <translation value="come to a decision"/>
+    </example>
+    <example id="1056" value="beslut om sanktioner" date="2011-03-03">
+      <translation value="decision on sanctions"/>
+    </example>
+    <example id="1057" value="driva igenom ett beslut" date="2011-03-03">
+      <translation value="force through a decision"/>
+    </example>
+    <example id="1058" value="&#xE4;garen har &#xF6;verklagat h&#xE4;lsov&#xE5;rdsn&#xE4;mndens beslut att st&#xE4;nga krogen" date="2011-03-03">
+      <translation value="the proprietor has appealed against the health authorities&amp;#39; decision to close the restaurant"/>
+    </example>
+    <compound id="502" value="principbeslut" date="2011-03-03">
+      <translation value="decision in principle"/>
+    </compound>
+    <compound id="503" value="majoritetsbeslut" date="2011-03-03">
+      <translation value="majority decision"/>
+    </compound>
+    <compound id="504" value="besluts|fattare" date="2011-03-03">
+      <translation value="decision-maker"/>
+    </compound>
+    <definition id="1606" value="n&#xE5;got som &#xE4;r best&#xE4;mt, avg&#xF6;rande, utslag" date="2011-03-03">
+      <translation value="that which is decided, judgement, etc."/>
+    </definition>
+  </word>
+  <word value="conclusion" lang="en" class="nn" id="94901" origin="lexin" date="2009-02-24">
+    <translation id="94901-1" value="slutledning" origin="lexin" date="2009-02-24"/>
+    <translation id="94901-2" value="slutsats" origin="lexin" date="2009-02-24"/>
+    <translation id="94901-3" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="94901-4" value="resultat" origin="lexin" date="2009-02-24"/>
+    <translation id="94901-5" value="slutresultat" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decision" lang="en" class="nn" id="120761" origin="lexin" date="2009-02-24">
+    <translation id="120761-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-2" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-3" value="utslag" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-4" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-5" value="domslut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decision" lang="en" class="nn" id="120781" origin="lexin" date="2009-02-24">
+    <variant value="resolution" origin="lexin" date="2009-02-24"/>
+    <translation id="120781-1" value="beslut" origin="lexin" date="2009-02-24"/>
+    <explanation value="Moving power away from the centre to smaller units within the same body or organisation." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="determination" lang="en" class="nn" id="128241" origin="lexin" date="2009-02-24">
+    <translation id="128241-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="128241-2" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="128241-3" value="utslag" comment="juridik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="determination" lang="en" class="nn" id="128251" origin="lexin" date="2009-02-24">
+    <translation id="128251-1" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="128251-2" value="fast f&#xF6;resats" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="resolution" lang="en" class="nn" id="357851" origin="lexin" date="2009-02-24">
+    <translation id="357851-1" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-2" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-3" value="utslag" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-4" value="resolution" origin="lexin" date="2009-02-24"/>
+    <explanation value="that which is decided, judgement, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="resolve" lang="en" class="nn" id="357901" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="357901-1" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="357901-2" value="f&#xF6;resats" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="finalize" lang="en" id="468561" origin="user" date="2012-05-12T03:22:01">
+    <translation id="468561-1" value="beslut" origin="user" date="2012-05-12T03:22:01"/>
+  </word>
+</definition>

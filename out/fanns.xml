@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="42350" lang="sv" lexinid="4235" origin="lexin" value="fanns">
+    <translation date="2011-03-03" id="4174" value="was"/>
+    <phonetic date="2011-03-03" soundFile="fanns.swf" value="fan:s"/>
+    <see date="2011-03-03" origin="lexin" value="finnas"/>
+  </word>
+  <word value="finnas" lang="sv" class="vb" id="44830" lexinid="4483" origin="lexin" date="2011-03-03">
+    <translation id="44830-4317" value="am" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="44830-4318" value="is" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="44830-4319" value="are" origin="user" date="2012-01-28T23:48:23"/>
+    <phonetic value="fin:s" soundFile="finns.swf" date="2011-03-03"/>
+    <paradigm id="3870" origin="lexin" date="2011-03-03">
+      <inflection value="fanns"/>
+      <inflection value="funnits"/>
+      <inflection value="finnas"/>
+      <inflection value="finns"/>
+    </paradigm>
+    <synonym value="existens" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="existera" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rekomma" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;religga" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="vara" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="finnas||finnas..1||finnas..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="finnas||finnas_till..1||finnas..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2614" value="det finns ingen anledning att misst&#xE4;nka henne" date="2011-03-03">
+      <translation value="there is no reason to suspect her"/>
+    </example>
+    <example id="2615" value="det finns lite br&#xF6;d kvar" date="2011-03-03">
+      <translation value="there is a little bread left"/>
+    </example>
+    <definition id="4316" value="vara, existera, f&#xF6;rekomma" date="2011-03-03"/>
+    <grammar value="A/x/det &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

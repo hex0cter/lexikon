@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="lopp" lang="sv" class="nn" id="101590" lexinid="10159" origin="lexin" date="2011-03-03">
+    <translation id="9976" value="race" date="2011-03-03"/>
+    <phonetic value="l&#xE5;p:" soundFile="lopp.swf" date="2011-03-03"/>
+    <paradigm id="8840" origin="lexin" date="2011-03-03">
+      <inflection value="loppet"/>
+      <inflection value="lopp"/>
+      <inflection value="loppen"/>
+    </paradigm>
+    <synonym value="t&#xE4;vling" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="lopp||lopp..1||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..2||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..3||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..4||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3614" value="t&#xE4;vlingslopp" date="2011-03-03">
+      <translation value="race"/>
+    </compound>
+    <definition id="9786" value="l&#xF6;pning" date="2011-03-03"/>
+  </word>
+  <word value="lopp" lang="sv" class="nn" id="101600" lexinid="10160" origin="lexin" date="2011-03-03">
+    <translation id="9977" value="period" date="2011-03-03"/>
+    <phonetic value="l&#xE5;p:" soundFile="lopp.swf" date="2011-03-03"/>
+    <paradigm id="8841" origin="lexin" date="2011-03-03">
+      <inflection value="loppet"/>
+      <inflection value="lopp"/>
+      <inflection value="loppen"/>
+    </paradigm>
+    <synonym value="l&#xF6;part&#xE4;vling" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="lopp||lopp..1||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..2||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..3||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..4||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5523" value="under dagens lopp" date="2011-03-03">
+      <translation value="during the course of the day"/>
+    </example>
+    <example id="5524" value="inom loppet av fem minuter" date="2011-03-03">
+      <translation value="within five minutes"/>
+    </example>
+    <idiom id="873" value="i (det) l&#xE5;nga loppet (&amp;quot;i l&#xE4;ngden&amp;quot;)" date="2011-03-03">
+      <translation value="in the long run (&amp;quot;in the end&amp;quot;)"/>
+    </idiom>
+    <definition id="9787" value="(tidens) g&#xE5;ng, f&#xF6;rlopp" date="2011-03-03"/>
+  </word>
+  <word value="lopp" lang="sv" class="nn" id="101610" lexinid="10161" origin="lexin" date="2011-03-03">
+    <translation id="9978" value="bore" date="2011-03-03"/>
+    <phonetic value="l&#xE5;p:" soundFile="lopp.swf" date="2011-03-03"/>
+    <paradigm id="8842" origin="lexin" date="2011-03-03">
+      <inflection value="loppet"/>
+      <inflection value="lopp"/>
+      <inflection value="loppen"/>
+    </paradigm>
+    <synonym value="l&#xF6;part&#xE4;vling" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="lopp||lopp..1||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..2||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..3||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..4||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9788" value="insidan av gev&#xE4;rspipa" date="2011-03-03">
+      <translation value="bore of a rifle"/>
+    </definition>
+  </word>
+  <word value="lopp" lang="sv" class="nn" id="101620" lexinid="10162" origin="lexin" date="2011-03-03">
+    <translation id="101620-9790" value="extent" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="101620-9791" value="reaches" origin="user" date="2012-01-14T23:15:24"/>
+    <phonetic value="l&#xE5;p:" soundFile="lopp.swf" date="2011-03-03"/>
+    <paradigm id="8843" origin="lexin" date="2011-03-03">
+      <inflection value="loppet"/>
+      <inflection value="lopp"/>
+      <inflection value="loppen"/>
+    </paradigm>
+    <see value="lopp||lopp..1||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..2||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..3||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="lopp||lopp..4||lopp..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5525" value="flodens nedre lopp" date="2011-03-03">
+      <translation value="the lower reaches of the river"/>
+    </example>
+    <definition id="9789" value="utstr&#xE4;ckning av vattendrag" date="2011-03-03"/>
+  </word>
+  <word value="bore" lang="en" class="nn" id="50561" origin="lexin" date="2009-02-24">
+    <translation id="50561-1" value="r&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="50561-2" value="lopp" origin="lexin" date="2009-02-24"/>
+    <translation id="50561-3" value="gev&#xE4;rslopp" origin="lexin" date="2009-02-24"/>
+    <translation id="50561-4" value="cylinderdiameter" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="course" lang="en" class="nn" id="106571" origin="lexin" date="2009-02-24">
+    <translation id="106571-1" value="lopp" origin="lexin" date="2009-02-24"/>
+    <translation id="106571-2" value="bana" origin="lexin" date="2009-02-24"/>
+    <example id="106571-3" value="the course of the river" origin="lexin" date="2009-02-24">
+      <translation value="flodens lopp" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="current" lang="en" class="nn" id="114951" origin="lexin" date="2009-02-24">
+    <translation id="114951-1" value="elstr&#xF6;m" origin="lexin" date="2009-02-24"/>
+    <translation id="114951-2" value="str&#xF6;mstyrka" origin="lexin" date="2009-02-24"/>
+    <translation id="114951-3" value="str&#xF6;m" origin="lexin" date="2009-02-24"/>
+    <translation id="114951-4" value="str&#xF6;mdrag" origin="lexin" date="2009-02-24"/>
+    <translation id="114951-5" value="lopp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="heat" lang="en" class="nn" id="215841" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="215841-1" value="heat" origin="lexin" date="2009-02-24"/>
+    <translation id="215841-2" value="lopp" origin="lexin" date="2009-02-24"/>
+    <translation id="215841-3" value="uttagningslopp" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="run" lang="en" class="nn" id="367731" origin="lexin" date="2009-02-24">
+    <translation id="367731-1" value="l&#xF6;pning" origin="lexin" date="2009-02-24"/>
+    <translation id="367731-2" value="lopp" origin="lexin" date="2009-02-24"/>
+    <translation id="367731-3" value="spr&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="367731-4" value="spr&#xE5;ngmarsch" origin="lexin" date="2009-02-24"/>
+    <example id="367731-5" value="have a run" origin="lexin" date="2009-02-24">
+      <translation value="springa en runda" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

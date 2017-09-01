@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pp" date="2011-03-03" id="48410" lang="sv" lexinid="4841" origin="lexin" value="framf&#xF6;r">
+    <translation date="2011-03-03" id="4763" value="in front of"/>
+    <phonetic date="2011-03-03" soundFile="framf&#xF6;r.swf" value="&#xB2;frAm:f&#xF6;(:)r"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;re"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="snarare"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="framf&#xF6;r||framf&#xF6;r..1||framf&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="2755" value="sitta framf&#xF6;r teven">
+      <translation value="sit in front of the TV"/>
+    </example>
+    <compound date="2011-03-03" id="1714" value="framf&#xF6;r|h&#xE5;llning">
+      <translation value="advance planning"/>
+    </compound>
+    <idiom date="2011-03-03" id="350" value="framf&#xF6;r allt (&amp;quot;i f&#xF6;rsta hand&amp;quot;)">
+      <translation value="above all (&amp;quot;in the first place&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="4667" value="f&#xF6;re, i spetsen f&#xF6;r"/>
+  </word>
+  <word value="framf&#xF6;ra" lang="sv" class="vb" id="48420" lexinid="4842" origin="lexin" date="2011-03-03">
+    <translation id="48420-4669" value="present" origin="user" date="2012-02-25T16:22:17"/>
+    <translation id="48420-4670" value="give" origin="user" date="2012-02-25T16:22:17"/>
+    <translation id="48420-4671" value="convey" origin="user" date="2012-02-25T16:22:17"/>
+    <phonetic value="&#xB2;frAm:f&#xF6;:r" soundFile="framf&#xF6;r.swf" date="2011-03-03"/>
+    <paradigm id="4196" origin="lexin" date="2011-03-03">
+      <inflection value="framf&#xF6;rde"/>
+      <inflection value="framf&#xF6;rt"/>
+      <inflection value="framf&#xF6;r"/>
+      <inflection value="framf&#xF6;ra"/>
+      <inflection value="framf&#xF6;r"/>
+    </paradigm>
+    <synonym value="delge" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="presentera" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="upptr&#xE4;da" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="visa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="framf&#xF6;ra||framf&#xF6;ra..1||framf&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="framf&#xF6;ra||framf&#xF6;ra..2||framf&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2756" value="hon framf&#xF6;rde hans s&#xE5;nger" date="2011-03-03">
+      <translation value="she performed (sang) his songs"/>
+    </example>
+    <example id="2757" value="framf&#xF6;ra sina krav" date="2011-03-03">
+      <translation value="present one&amp;#39;s demands"/>
+    </example>
+    <derivation id="255" value="framf&#xF6;rande" date="2011-03-03">
+      <translation value="delivery, performance"/>
+    </derivation>
+    <definition id="4668" value="uttala; uppf&#xF6;ra" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="ahead of" lang="en" class="pp" id="9051" origin="lexin" date="2009-02-24">
+    <translation id="9051-1" value="framf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="9051-2" value="f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    <example id="9051-3" value="The other runners stayed ahead of me." origin="lexin" date="2009-02-24">
+      <translation value="De andra l&#xF6;parna h&#xF6;ll sig f&#xF6;re mig." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="In front of (and moving in the same direction)" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="before" lang="en" class="pp" id="37521" origin="lexin" date="2009-02-24">
+    <translation id="37521-1" value="framf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="37521-2" value="f&#xF6;re" origin="lexin" date="2009-02-24"/>
+    <example id="37521-3" value="why should your needs always be placed before mine?" origin="lexin" date="2009-02-24">
+      <translation value="varf&#xF6;r ska dina behov alltid g&#xE5; f&#xF6;re mina?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="before" lang="en" class="pp" id="37541" origin="lexin" date="2009-02-24">
+    <translation id="37541-1" value="inf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="37541-2" value="framf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="37541-3" value="ansikte mot ansikte med" origin="lexin" date="2009-02-24"/>
+    <example id="37541-6" value="standing before his teacher, he all of a sudden felt ashamed of what he had done" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;r han stod ansikte mot ansikte med sin l&#xE4;rare sk&#xE4;mdes han pl&#xF6;tsligt f&#xF6;r vad han hade gjort" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="37541-4" value="be brought before the court" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE4;llas inf&#xF6;r r&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="37541-5" value="before long" origin="lexin" date="2009-02-24">
+      <translation value="inom kort" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

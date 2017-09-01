@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="52640" lang="sv" lexinid="5264" origin="lexin" value="f&#xF6;r">
+    <translation date="2011-03-03" id="5180" value="too"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..3||f&#xF6;r..ab.1"/>
+    <example date="2011-03-03" id="2999" value="f&#xF6;r sn&#xE5;l">
+      <translation value="too mean"/>
+    </example>
+    <example date="2011-03-03" id="3000" value="f&#xF6;r gammal">
+      <translation value="too old"/>
+    </example>
+    <definition date="2011-03-03" id="5079" value="i v&#xE4;l h&#xF6;g grad, alltf&#xF6;r"/>
+  </word>
+  <word class="ab" comment="anger l&#xE4;ge framf&#xF6;r" date="2011-03-03" id="52650" lang="sv" lexinid="5265" origin="lexin" value="f&#xF6;r">
+    <translation comment="denotes the position &amp;quot;before&amp;quot;" date="2011-03-03" id="5181" value="in front of"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..3||f&#xF6;r..ab.1"/>
+    <example date="2011-03-03" id="3001" value="dra f&#xF6;r gardinen"/>
+  </word>
+  <word class="kn" date="2011-03-03" id="52660" lang="sv" lexinid="5266" origin="lexin" value="f&#xF6;r">
+    <translation date="2011-03-03" id="5182" value="because"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..2||f&#xF6;r..kn.1"/>
+    <example date="2011-03-03" id="3002" value="skynda dig nu, f&#xF6;r klockan &#xE4;r mycket!">
+      <translation value="hurry up now, because it is late!"/>
+    </example>
+    <definition date="2011-03-03" id="5080" value="ty"/>
+  </word>
+  <word class="pp" comment="anger avsikt eller m&#xE5;l" date="2011-03-03" id="52670" lang="sv" lexinid="5267" origin="lexin" value="f&#xF6;r">
+    <translation comment="denotes intention or purpose" date="2011-03-03" id="5183" value="to"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="3003" value="arbeta f&#xF6;r fred">
+      <translation value="work for peace"/>
+    </example>
+    <example date="2011-03-03" id="3004" value="b&#xF6;cker f&#xF6;r barn">
+      <translation value="books for children"/>
+    </example>
+    <example date="2011-03-03" id="3005" value="avsedd f&#xF6;r export">
+      <translation value="for exportation"/>
+    </example>
+    <example date="2011-03-03" id="3006" value="han gick ut f&#xF6;r att leta efter hunden">
+      <translation value="he went out to look for the dog"/>
+    </example>
+  </word>
+  <word class="pp" comment="anger orsak" date="2011-03-03" id="52680" lang="sv" lexinid="5268" origin="lexin" value="f&#xF6;r">
+    <translation comment="denotes reason" date="2011-03-03" id="5184" value="for"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="3007" value="tack f&#xF6;r hj&#xE4;lpen!">
+      <translation value="thanks for your help!"/>
+    </example>
+  </word>
+  <word value="f&#xF6;r" lang="sv" class="pp" id="52690" lexinid="5269" origin="lexin" date="2011-03-03">
+    <translation id="52690-5082" value="of" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="52690-5083" value="for" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="f&#xF6;:r" soundFile="f&#xF6;r.swf" date="2011-03-03"/>
+    <synonym value="pro" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ty" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3008" value="handla i st&#xE4;llet f&#xF6;r att prata" date="2011-03-03">
+      <translation value="action instead of words"/>
+    </example>
+    <example id="3009" value="k&#xF6;pa godis f&#xF6;r fem kronor" date="2011-03-03">
+      <translation value="buy sweets for five kronor"/>
+    </example>
+    <definition id="5081" value="i utbyte mot" date="2011-03-03"/>
+  </word>
+  <word class="pp" comment="anger sammanhang med" date="2011-03-03" id="52700" lang="sv" lexinid="5270" origin="lexin" value="f&#xF6;r">
+    <translation comment="denotes context" date="2011-03-03" id="5186" value="of"/>
+    <use date="2011-03-03" value="i uttryck som motsvarar genitiv"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="3010" value="i centrum f&#xF6;r intresset">
+      <translation value="in the focus of interest"/>
+    </example>
+    <example date="2011-03-03" id="3011" value="chefen f&#xF6;r flottan">
+      <translation value="the commander of the fleet"/>
+    </example>
+    <example date="2011-03-03" id="3012" value="ha ansvar f&#xF6;r kassan">
+      <translation value="be responsible for the petty cash"/>
+    </example>
+  </word>
+  <word value="f&#xF6;r" lang="sv" class="pp" id="52710" lexinid="5271" origin="lexin" date="2011-03-03">
+    <translation id="5187" value="by" date="2011-03-03"/>
+    <phonetic value="f&#xF6;:r" soundFile="f&#xF6;r.swf" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3013" value="f&#xF6;r full maskin" date="2011-03-03">
+      <translation value="at full speed, in top gear"/>
+    </example>
+    <example id="3014" value="arbeta f&#xF6;r hand" date="2011-03-03">
+      <translation value="do work by hand"/>
+    </example>
+    <definition id="5082" value="med hj&#xE4;lp av" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;r" lang="sv" class="pp" id="52720" lexinid="5272" origin="lexin" date="2011-03-03">
+    <translation id="5188" value="for" date="2011-03-03"/>
+    <phonetic value="f&#xF6;:r" soundFile="f&#xF6;r.swf" date="2011-03-03"/>
+    <synonym value="ty" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3015" value="intressera sig f&#xF6;r politik" date="2011-03-03">
+      <translation value="get interested in politics"/>
+    </example>
+    <example id="3016" value="f&#xF6;r en tid" date="2011-03-03">
+      <translation value="for a while"/>
+    </example>
+    <example id="3017" value="f&#xF6;r tv&#xE5; &#xE5;r fram&#xE5;t" date="2011-03-03">
+      <translation value="for the next two years"/>
+    </example>
+    <definition id="5083" value="avseende" date="2011-03-03"/>
+  </word>
+  <word class="pp" comment="i vissa fraser" date="2011-03-03" id="52730" lang="sv" lexinid="5273" origin="lexin" value="f&#xF6;r">
+    <translation comment="in some phrases" date="2011-03-03" id="5189" value="for"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="f&#xF6;rut"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="pro"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="st&#xE4;v"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ty"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_skull..1||f&#xF6;r..pp.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;r||f&#xF6;r_vidkommande..1||f&#xF6;r..pp.1"/>
+    <example date="2011-03-03" id="3018" value="f&#xF6;r det mesta">
+      <translation value="mostly, for the most part"/>
+    </example>
+    <example date="2011-03-03" id="3019" value="f&#xF6;r all del">
+      <translation value="not at all"/>
+    </example>
+    <example date="2011-03-03" id="3020" value="f&#xF6;r &#xF6;vrigt">
+      <translation value="besides, incidentally"/>
+    </example>
+    <example date="2011-03-03" id="3021" value="f&#xF6;r resten">
+      <translation value="for that matter, besides"/>
+    </example>
+    <example date="2011-03-03" id="3022" value="i och f&#xF6;r sig">
+      <translation value="in and of itself"/>
+    </example>
+  </word>
+  <word class="vb" date="2011-03-03" id="52740" lang="sv" lexinid="5274" origin="lexin" value="f&#xF6;ra">
+    <translation date="2011-03-03" id="5190" value="transport"/>
+    <phonetic date="2011-03-03" soundFile="f&#xF6;r.swf" value="f&#xF6;:r"/>
+    <paradigm date="2011-03-03" id="4555" origin="lexin">
+      <inflection value="f&#xF6;rde"/>
+      <inflection value="f&#xF6;rt"/>
+      <inflection value="f&#xF6;r"/>
+      <inflection value="f&#xF6;ra"/>
+      <inflection value="f&#xF6;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="bringa"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="driva"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="forsla"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="leda"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ledsaga"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="lotsa"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="styra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xF6;ra||f&#xF6;ra..1||f&#xF6;ra..vb.1"/>
+    <example date="2011-03-03" id="3023" value="f&#xF6;ra olja fr&#xE5;n Persiska viken">
+      <translation value="transport oil from the Persian Gulf"/>
+    </example>
+    <definition date="2011-03-03" id="5084" value="frakta, f&#xF6;rflytta"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; B/x"/>
+  </word>
+  <word value="f&#xF6;ra" lang="sv" class="vb" id="52750" lexinid="5275" origin="lexin" date="2011-03-03">
+    <translation id="52750-5086" value="lead" origin="user" date="2012-03-04T00:30:19"/>
+    <translation id="52750-5087" value="conduct" origin="user" date="2012-03-04T00:30:19"/>
+    <phonetic value="f&#xF6;:r" soundFile="f&#xF6;r.swf" date="2011-03-03"/>
+    <paradigm id="4556" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rde"/>
+      <inflection value="f&#xF6;rt"/>
+      <inflection value="f&#xF6;r"/>
+      <inflection value="f&#xF6;ra"/>
+      <inflection value="f&#xF6;r"/>
+    </paradigm>
+    <synonym value="bringa" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="driva" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="forsla" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="leda" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="ledsaga" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="lotsa" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="styra" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;ra||f&#xF6;ra..1||f&#xF6;ra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3024" value="f&#xF6;ra en debatt" date="2011-03-03">
+      <translation value="conduct a debate"/>
+    </example>
+    <idiom id="391" value="f&#xF6;ra n&#xE5;gon bakom ljuset (&amp;quot;lura n&#xE5;gon&amp;quot;)" date="2011-03-03">
+      <translation value="lead someone up the garden path"/>
+    </idiom>
+    <definition id="5085" value="leda, styra" date="2011-03-03">
+      <translation value="lead, direct, rule" origin="user" date="2012-10-17T02:16:18"/>
+    </definition>
+    <grammar value="A &amp; B/x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="at" lang="en" class="pp" id="23201" origin="lexin" date="2009-02-24">
+    <translation id="23201-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-2" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-3" value="till ett pris av" origin="lexin" date="2009-02-24"/>
+    <translation id="23201-4" value="&#xE0;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bow" lang="en" class="nn" id="51781" origin="lexin" date="2009-02-24">
+    <translation id="51781-1" value="bog" comment="sj&#xF6;fart" origin="lexin" date="2009-02-24"/>
+    <translation id="51781-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="51781-3" value="st&#xE4;v" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="for" lang="en" class="pp" id="181721" origin="lexin" date="2009-02-24">
+    <translation id="181721-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="181721-2" value="good for the complexion" origin="lexin" date="2009-02-24">
+      <translation value="bra f&#xF6;r hyn" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181731" origin="lexin" date="2009-02-24">
+    <translation id="181731-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="181731-2" value="mot" origin="lexin" date="2009-02-24"/>
+    <example id="181731-3" value="he&amp;#39;s trading his car in for a new model" origin="lexin" date="2009-02-24">
+      <translation value="han byter sin bil mot en ny modell" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181761" origin="lexin" date="2009-02-24">
+    <translation id="181761-1" value="s&#xE5;som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-3" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-4" value="till" origin="lexin" date="2009-02-24"/>
+    <example id="181761-5" value="for one thing" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r det f&#xF6;rsta" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="pp" id="181781" origin="lexin" date="2009-02-24">
+    <translation id="181781-1" value="till" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-2" value="&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="181781-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="181781-4" value="I&amp;#39;m doing this for you" origin="lexin" date="2009-02-24">
+      <translation value="jag g&#xF6;r det h&#xE4;r f&#xF6;r dig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="for" lang="en" class="kn" id="181801" origin="lexin" date="2009-02-24">
+    <translation id="181801-1" value="ty" origin="lexin" date="2009-02-24"/>
+    <translation id="181801-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="181801-3" value="for I had something to show you" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r jag hade n&#xE5;got att visa f&#xF6;r dig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="fore" lang="en" class="nn" id="182231" origin="lexin" date="2009-02-24">
+    <translation id="182231-1" value="fr&#xE4;mre del" origin="lexin" date="2009-02-24"/>
+    <translation id="182231-2" value="f&#xF6;r" comment="p&#xE5; b&#xE5;t" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292631" origin="lexin" date="2009-02-24">
+    <translation id="292631-1" value="av" comment="i uttryck med objektiv genitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-2" value="efter" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-3" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-4" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-5" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="292631-6" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292681" origin="lexin" date="2009-02-24">
+    <translation id="292681-1" value="f&#xF6;r" comment="i uttryck som betecknar orsak, anledning" origin="lexin" date="2009-02-24"/>
+    <translation id="292681-2" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="292681-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="292681-4" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="292681-5" value="i" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="on" lang="en" class="pp" id="294241" origin="lexin" date="2009-02-24">
+    <translation id="294241-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="294241-2" value="that&amp;#39;s a new one on me" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) det var nytt f&#xF6;r mig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="per" lang="en" class="pp" id="312181" origin="lexin" date="2009-02-24">
+    <translation id="312181-1" value="per" origin="lexin" date="2009-02-24"/>
+    <translation id="312181-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="312181-3" value="f&#xF6;r varje" origin="lexin" date="2009-02-24"/>
+    <example id="312181-9" value="one case per thousand inhabitants" origin="lexin" date="2009-02-24">
+      <translation value="ett fall per tusen inv&#xE5;nare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="312181-4" value="per annum" origin="lexin" date="2009-02-24">
+      <translation value="per &#xE5;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-5" value="per cent" origin="lexin" date="2009-02-24">
+      <translation value="procent" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-6" value="per capita" origin="lexin" date="2009-02-24">
+      <translation value="per capita, per man" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-7" value="per diem" origin="lexin" date="2009-02-24">
+      <translation value="per dag, dagligen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="312181-8" value="per head" origin="lexin" date="2009-02-24">
+      <translation value="per person" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="to" lang="en" class="pp" id="420801" origin="lexin" date="2009-02-24">
+    <translation id="420801-1" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="too" lang="en" class="ab" id="421621" lexinid="262" origin="lexin" date="2009-02-24">
+    <translation id="421621-1" value="alltf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="421621-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <example id="421621-3" value="much too large" origin="lexin" date="2009-02-24">
+      <translation value="alltf&#xF6;r stor" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="421621-4" value="altogether too fast" origin="lexin" date="2009-02-24">
+      <translation value="alltf&#xF6;r snabbt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="421621-5" value="far too close" origin="lexin" date="2009-02-24">
+      <translation value="alltf&#xF6;r n&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="to an *excessive degree" origin="lexin" date="2009-02-24">
+      <translation value="mer &#xE4;n nog, mer &#xE4;n n&#xF6;dv&#xE4;ndigt" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="toward" lang="en" class="pp" id="422841" origin="lexin" date="2009-02-24">
+    <translation id="422841-1" value="f&#xF6;r" comment="i synnerhet amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="422841-2" value="med...i sikte" origin="lexin" date="2009-02-24"/>
+    <translation id="422841-3" value="med...f&#xF6;r &#xF6;gonen" origin="lexin" date="2009-02-24"/>
+    <translation id="422841-4" value="med tanke p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="towards" lang="en" class="pp" id="422871" origin="lexin" date="2009-02-24">
+    <translation id="422871-1" value="f&#xF6;r" comment="i synnerhet brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="422871-2" value="med...i sikte" origin="lexin" date="2009-02-24"/>
+    <translation id="422871-3" value="med...f&#xF6;r &#xF6;gonen" origin="lexin" date="2009-02-24"/>
+    <translation id="422871-4" value="med tanke p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

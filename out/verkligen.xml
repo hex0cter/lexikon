@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="verkligen" lang="sv" class="ab" id="207080" lexinid="20709" origin="lexin" comment="f&#xF6;rst&#xE4;rkande" date="2011-03-03">
+    <translation id="20347" value="really" comment="intensifier" date="2011-03-03"/>
+    <phonetic value="&#xB2;v&#xC4;r:kligen" soundFile="verkligen.swf" date="2011-03-03"/>
+    <synonym value="absolut" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="faktiskt" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="minsann" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="sannerligen" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="synnerligen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="verkligen||verkligen..1||verkligen..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11628" value="jag hoppas verkligen att du kan komma" date="2011-03-03">
+      <translation value="I really hope that you can come" origin="user" date="2015-05-22T00:27:44"/>
+    </example>
+    <definition id="20008" value="sannerligen" date="2011-03-03">
+      <translation value="certainly, indeed"/>
+    </definition>
+  </word>
+  <word class="ab" date="2011-03-03" id="207090" lang="sv" lexinid="20710" origin="lexin" value="verkligen">
+    <translation date="2011-03-03" id="20348" value="really"/>
+    <use date="2011-03-03" value="(i fr&#xE5;gor) f&#xF6;r att uttrycka tvivel, f&#xF6;rv&#xE5;ning etc"/>
+    <phonetic date="2011-03-03" soundFile="verkligen.swf" value="&#xB2;v&#xC4;r:kligen"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="absolut"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="faktiskt"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="minsann"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="sannerligen"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="synnerligen"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="verkligen||verkligen..1||verkligen..ab.1"/>
+    <example date="2011-03-03" id="11629" value="har du verkligen inga pengar?">
+      <translation value="do you really have no money?"/>
+    </example>
+  </word>
+  <word value="actually" lang="en" class="ab" id="4301" origin="lexin" date="2009-02-24">
+    <translation id="4301-1" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-2" value="i sj&#xE4;lva verket" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-4" value="verkligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="indeed" lang="en" class="ab" id="230351" origin="lexin" date="2009-02-24">
+    <translation id="230351-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-2" value="riktigt" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-3" value="minsann" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-4" value="ja" origin="lexin" date="2009-02-24"/>
+    <translation id="230351-5" value="i sanning" origin="lexin" date="2009-02-24"/>
+    <explanation value="minsann" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="indeed" lang="en" class="in" id="230361" origin="lexin" date="2009-02-24">
+    <translation id="230361-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="230361-2" value="ser man p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="230361-3" value="&#xE4;r det m&#xF6;jligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244211" origin="lexin" date="2009-02-24">
+    <translation id="244211-1" value="minsann" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-2" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-3" value="egentligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="really" lang="en" class="ab" id="347721" origin="lexin" date="2009-02-24">
+    <translation id="347721-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-2" value="sannerligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-4" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <idiom id="347721-5" value="not really" origin="lexin" date="2009-02-24">
+      <translation value="inte precis, inte direkt, egentligen inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="347721-6" value="really and truly" origin="lexin" date="2009-02-24">
+      <translation value="verkligen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="such" lang="en" class="pn" id="405811" origin="lexin" date="2009-02-24">
+    <translation id="405811-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <example id="405811-2" value="She is such a good story teller." origin="lexin" date="2009-02-24">
+      <translation value="Hon &#xE4;r verkligen en god ber&#xE4;ttare." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="emphasizes something" origin="lexin" date="2009-02-24"/>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="truly" lang="en" class="ab" id="426911" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="426911-1" value="uppriktigt" origin="lexin" date="2009-02-24"/>
+    <translation id="426911-2" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <example id="426911-3" value="I am truly happy for you" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r verkligen glad f&#xF6;r din skull" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

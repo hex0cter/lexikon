@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="stad" lang="sv" class="nn" id="171770" lexinid="17178" origin="lexin" date="2011-03-03">
+    <translation id="171770-16623" value="city" origin="user" date="2012-01-09T23:36:38"/>
+    <translation id="171770-16624" value="town" origin="user" date="2012-01-09T23:36:38"/>
+    <phonetic value="sta:d" soundFile="stad.swf" date="2011-03-03"/>
+    <paradigm id="14999" origin="lexin" date="2011-03-03">
+      <inflection value="staden"/>
+      <inflection value="st&#xE4;der"/>
+    </paradigm>
+    <synonym value="city" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="stan" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="stad||stad..1||stad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9710" value="staden G&#xF6;teborg" date="2011-03-03">
+      <translation value="the city of G&#xF6;teborg"/>
+    </example>
+    <compound id="5872" value="stads|milj&#xF6;" date="2011-03-03">
+      <translation value="urban environment"/>
+    </compound>
+    <compound id="5873" value="storstad" date="2011-03-03">
+      <translation value="metropolis, big city"/>
+    </compound>
+    <compound id="5874" value="stadsbebyggelse" date="2011-03-03">
+      <translation value="built-up area"/>
+    </compound>
+    <definition id="16622" value="t&#xE4;tort med stor, samlad bebyggelse" date="2011-03-03"/>
+    <url value="16/stad1.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <url value="16/stad2.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="borough" lang="en" class="nn" id="50631" origin="lexin" date="2009-02-24">
+    <translation id="50631-1" value="stad" origin="lexin" date="2009-02-24"/>
+    <translation id="50631-2" value="del av stad med visst sj&#xE4;lvstyre" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="city" lang="en" class="nn" id="79911" origin="lexin" date="2009-02-24">
+    <translation id="79911-1" value="stad" origin="lexin" date="2009-02-24"/>
+    <translation id="79911-2" value="stor stad" origin="lexin" date="2009-02-24"/>
+    <example id="79911-3" value="the city of G&#xF6;teborg" origin="lexin" date="2009-02-24">
+      <translation value="staden G&#xF6;teborg" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="t&#xE4;tort med stor, samlad bebyggelse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="society" lang="en" class="nn" id="389211" origin="lexin" date="2009-02-24">
+    <translation id="389211-1" value="stad" origin="lexin" date="2009-02-24"/>
+    <translation id="389211-2" value="land" comment="specifikt" origin="lexin" date="2009-02-24"/>
+    <example id="389211-3" value="London is now a multi-cultural society." origin="lexin" date="2009-02-24">
+      <translation value="London &#xE4;r numera en multikulturell stad." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A particular group of people with laws etc. in common, such as a city, a country, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="town" lang="en" class="nn" id="430061" origin="lexin" date="2009-02-24">
+    <translation id="430061-1" value="stad" origin="lexin" date="2009-02-24"/>
+    <example id="430061-2" value="I live in a small town called Dunoon." origin="lexin" date="2009-02-24">
+      <translation value="Jag bor i en liten stad som heter Dunoon." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="430061-3" value="Is he in still in town or has he gone on holiday?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r han fortfarande i stan eller har han &#xE5;kt p&#xE5; semester?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An area where people live and work. Smaller than a city but larger than a village." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="town" lang="en" class="nn" id="430071" origin="lexin" date="2009-02-24">
+    <translation id="430071-1" value="stad" origin="lexin" date="2009-02-24"/>
+    <translation id="430071-2" value="stads befolkning" origin="lexin" date="2009-02-24"/>
+    <example id="430071-3" value="The whole town is celebrating." origin="lexin" date="2009-02-24">
+      <translation value="Hela staden firar." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The people who live in the town." origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

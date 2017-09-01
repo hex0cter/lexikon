@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="32950" lang="sv" lexinid="3295" origin="lexin" value="dock">
+    <translation date="2011-03-03" id="3252" value="yet, nevertheless, still; however"/>
+    <phonetic date="2011-03-03" soundFile="dock.swf" value="d&#xE5;k:"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="emellertid"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="fast &#xE4;n"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="fasten"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="likv&#xE4;l"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="dock||dock..1||dock..ab.1"/>
+    <example date="2011-03-03" id="1889" value="t&#xE5;get g&#xE5;r dock inte p&#xE5; torsdagar">
+      <translation value="the train does not go on Thursdays, however"/>
+    </example>
+    <definition date="2011-03-03" id="3178" value="i alla fall, &#xE4;nd&#xE5;, likv&#xE4;l">
+      <translation value="however, for all that, still"/>
+    </definition>
+  </word>
+  <word value="however" lang="en" class="ab" id="223491" origin="lexin" date="2009-02-24">
+    <translation id="223491-1" value="emellertid" origin="lexin" date="2009-02-24"/>
+    <translation id="223491-2" value="dock" origin="lexin" date="2009-02-24"/>
+    <explanation value="however, for all that, still" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="still" lang="en" class="kn" id="399151" origin="lexin" date="2009-02-24">
+    <translation id="399151-1" value="&#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="399151-2" value="dock" origin="lexin" date="2009-02-24"/>
+    <translation id="399151-3" value="likv&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <translation id="399151-4" value="men &#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="yet" lang="en" class="ab" id="449491" origin="lexin" date="2009-02-24">
+    <translation id="449491-1" value="dock" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-2" value="i alla fall" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-3" value="men" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-4" value="&#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-5" value="men &#xE4;nd&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-6" value="likv&#xE4;l" origin="lexin" date="2009-02-24"/>
+    <translation id="449491-7" value="emellertid" origin="lexin" date="2009-02-24"/>
+    <explanation value="however, for all that, still" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="docka" lang="sv" class="nn" id="32970" lexinid="3297" origin="lexin" date="2011-03-03">
+    <translation id="3254" value="dock" date="2011-03-03"/>
+    <phonetic value="&#xB2;d&#xC5;k:a" soundFile="docka.swf" date="2011-03-03"/>
+    <paradigm id="2873" origin="lexin" date="2011-03-03">
+      <inflection value="dockan"/>
+      <inflection value="dockor"/>
+    </paradigm>
+    <see value="docka||docka..2||docka..nn.1" type="saldo" origin="saldo" date="2014-08-15T03:27:57"/>
+    <compound id="1165" value="flytdocka" date="2011-03-03">
+      <translation value="floating dock"/>
+    </compound>
+    <compound id="1166" value="torrdocka" date="2011-03-03">
+      <translation value="dry dock"/>
+    </compound>
+    <definition id="3180" value="anordning f&#xF6;r att lyfta fartyg ur vattnet vid reparation" date="2011-03-03">
+      <translation value="facilities for lifting vessels from the water for repairs; dry dock"/>
+    </definition>
+  </word>
+  <word class="vb" date="2011-03-03" id="32980" lang="sv" lexinid="3298" origin="lexin" value="docka">
+    <translation date="2011-03-03" id="3255" value="dock"/>
+    <phonetic date="2011-03-03" soundFile="dockar.swf" value="&#xB2;d&#xC5;k:ar"/>
+    <paradigm date="2011-03-03" id="2874" origin="lexin">
+      <inflection value="dockade"/>
+      <inflection value="dockat"/>
+      <inflection value="docka"/>
+      <inflection value="dockar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="docka||docka..3||docka..vb.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="docka||docka..4||docka..vb.1"/>
+    <definition date="2011-03-03" id="3181" value="ta in i docka">
+      <translation value="haul or guide into dock; come into dock"/>
+    </definition>
+    <see date="2011-03-03" id="32970" origin="lexin" type="compare" value="docka"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="81900" lang="sv" lexinid="8190" origin="lexin" value="kaj">
+    <translation date="2011-03-03" id="8039" value="quay, dock"/>
+    <phonetic date="2011-03-03" soundFile="kaj.swf" value="kaj:"/>
+    <paradigm date="2011-03-03" id="7036" origin="lexin">
+      <inflection value="kajen"/>
+      <inflection value="kajer"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="kaj||kaj..1||kaj..nn.1"/>
+    <definition date="2011-03-03" id="7864" value="till&#xE4;ggsplats f&#xF6;r b&#xE5;tar, brygga"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="21/naturlandskap2.swf"/>
+  </word>
+  <word value="varmblod" lang="sv" class="nn" id="342790" origin="user" date="2013-10-02T05:17:22">
+    <translation id="342790-1" value="warmbreed" origin="user" date="2013-10-02T05:17:23"/>
+    <translation id="342790-2" value="warm blooded" origin="user" date="2013-10-02T05:17:29"/>
+    <translation id="342790-1" value="warm blood" origin="user" date="2013-11-07T04:38:06"/>
+    <translation id="342790-3" value="hotblood" origin="user" date="2015-01-15T05:14:50"/>
+    <translation id="342790-4" value="perpendicular" origin="user" date="2015-02-10T00:51:44"/>
+    <translation id="342790-5" value="dock" origin="user" date="2016-02-12T02:41:56"/>
+  </word>
+  <word value="f&#xF6;rt&#xF6;jningsplats" lang="sv" class="nn" id="355310" origin="user" date="2014-01-25T00:32:23">
+    <translation id="355310-1" value="seen" origin="user" date="2014-01-25T00:32:24"/>
+    <translation id="355310-1" value="dock" origin="user" date="2014-03-04T03:04:55"/>
+    <translation id="355310-1" value="anchoring site" origin="user" date="2014-04-04T03:52:07"/>
+    <translation id="355310-2" value="tapet" origin="user" date="2017-01-30T02:16:20"/>
+  </word>
+  <word value="ombordl&#xE4;ggning" lang="sv" class="nn" id="380490" origin="user" date="2016-10-11T02:58:37">
+    <translation id="380490-1" value="Refered" origin="user" date="2016-10-11T02:58:37"/>
+    <translation id="380490-2" value="dock" origin="user" date="2016-10-11T02:58:38"/>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139251" origin="lexin" date="2009-02-24">
+    <translation id="139251-1" value="lastkaj" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139261" origin="lexin" comment="botaniskt" date="2009-02-24">
+    <translation id="139261-1" value="syra" origin="lexin" date="2009-02-24"/>
+    <translation id="139261-2" value="skr&#xE4;ppa" origin="lexin" date="2009-02-24"/>
+    <explanation value="v&#xE4;xt med tjocka gr&#xF6;na blad, av sl&#xE4;ktet Rumex" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139271" origin="lexin" date="2009-02-24">
+    <translation id="139271-1" value="f&#xF6;rh&#xF6;rsb&#xE5;s" comment="i r&#xE4;ttssal" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="vb" id="139281" origin="lexin" date="2009-02-24">
+    <translation id="139281-1" value="kupera" comment="om djurs svans" origin="lexin" date="2009-02-24"/>
+    <translation id="139281-2" value="stubba" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="vb" id="139291" origin="lexin" date="2009-02-24">
+    <translation id="139291-1" value="docka" comment="&#xE4;ven om rymdskepp" origin="lexin" date="2009-02-24"/>
+    <translation id="139291-2" value="ta in i docka" origin="lexin" date="2009-02-24"/>
+    <explanation value="haul or guide into dock; come into dock" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="vb" id="139301" origin="lexin" date="2009-02-24">
+    <translation id="139301-1" value="docka" origin="lexin" date="2009-02-24"/>
+    <translation id="139301-2" value="g&#xE5; in i docka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139311" origin="lexin" date="2009-02-24">
+    <translation id="139311-1" value="docka" origin="lexin" date="2009-02-24"/>
+    <translation id="139311-2" value="hamn" origin="lexin" date="2009-02-24"/>
+    <translation id="139311-3" value="hamnbass&#xE4;ng" origin="lexin" date="2009-02-24"/>
+    <idiom id="139311-4" value="be in dock" origin="lexin" date="2009-02-24">
+      <translation value="vara p&#xE5; (under) reparation" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="facilities for lifting vessels from the water for repairs; dry dock" origin="lexin" date="2009-02-24">
+      <translation value="anordning f&#xF6;r att lyfta fartyg ur vattnet vid reparation" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139321" origin="lexin" date="2009-02-24">
+    <translation id="139321-1" value="kaj" origin="lexin" date="2009-02-24"/>
+    <translation id="139321-2" value="hamn" origin="lexin" date="2009-02-24"/>
+    <translation id="139321-3" value="varv" origin="lexin" date="2009-02-24"/>
+    <translation id="139321-4" value="till&#xE4;ggsplats f&#xF6;r b&#xE5;tar" origin="lexin" date="2009-02-24"/>
+    <translation id="139321-5" value="brygga" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="vb" id="139331" origin="lexin" date="2009-02-24">
+    <translation id="139331-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="139331-2" value="f&#xF6;rminska" origin="lexin" date="2009-02-24"/>
+    <translation id="139331-3" value="besk&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="nn" id="139341" origin="lexin" date="2009-02-24">
+    <translation id="139341-1" value="stubbsvans" origin="lexin" date="2009-02-24"/>
+    <translation id="139341-2" value="svansrem" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

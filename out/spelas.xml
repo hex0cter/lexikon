@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="play" lang="en" class="vb" id="321721" origin="lexin" date="2009-02-24">
+    <translation id="321721-1" value="spelas" origin="lexin" date="2009-02-24"/>
+    <translation id="321721-2" value="visas" comment="om pj&#xE4;s eller film" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="show" lang="en" class="vb" id="381071" origin="lexin" date="2009-02-24">
+    <translation id="381071-1" value="spelas" origin="lexin" date="2009-02-24"/>
+    <translation id="381071-2" value="visas" origin="lexin" date="2009-02-24"/>
+    <paradigm id="381071-4" origin="lexin" date="2009-02-24">
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+      <inflection value="shown" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="381071-5" origin="lexin" date="2009-02-24">
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+      <inflection value="showed" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="381071-3" value="his newest film is showing now" origin="lexin" date="2009-02-24">
+      <translation value="hans senaste film visas just nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

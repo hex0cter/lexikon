@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183210" lexinid="18322" origin="lexin" date="2011-03-03">
+    <translation id="183210-17715" value="place" origin="user" date="2011-12-17T19:49:38"/>
+    <translation id="183210-17716" value="put" origin="user" date="2011-12-17T19:49:38"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16000" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <synonym value="placera" level="3.8" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..1||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..2||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..4||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="satter_in.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="10341" value="hon satte blomkrukan i f&#xF6;nstret" date="2011-03-03">
+      <translation value="she put the flower pot in the window"/>
+    </example>
+    <idiom id="1568" value="s&#xE4;tta n&#xE5;got i fr&#xE5;ga (&amp;quot;ifr&#xE5;gas&#xE4;tta&amp;quot;)" date="2011-03-03">
+      <translation value="bring sth. into question (&amp;quot;question sth.&amp;quot;)"/>
+    </idiom>
+    <idiom id="1569" value="s&#xE4;tta livet till (&amp;quot;d&#xF6;&amp;quot;)" date="2011-03-03">
+      <translation value="give one&amp;#39;s life (&amp;quot;die&amp;quot;)"/>
+    </idiom>
+    <idiom id="1570" value="s&#xE4;tta bo (&amp;quot;ordna ett hem&amp;quot;)" date="2011-03-03">
+      <translation value="make a nest (&amp;quot;start a home&amp;quot;)"/>
+    </idiom>
+    <idiom id="1571" value="s&#xE4;tta eld p&#xE5; (&amp;quot;t&#xE4;nda&amp;quot;)" date="2011-03-03">
+      <translation value="set fire to (&amp;quot;light&amp;quot;)"/>
+    </idiom>
+    <idiom id="1572" value="s&#xE4;tta fart (&amp;quot;starta, &#xF6;ka farten&amp;quot;)" date="2011-03-03">
+      <translation value="get going (&amp;quot;start, increase speed&amp;quot;)"/>
+    </idiom>
+    <definition id="17714" value="placera" date="2011-03-03"/>
+    <grammar value="A &amp; x i/p&#xE5; y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183220" lexinid="18323" origin="lexin" date="2011-03-03">
+    <translation id="183220-17716" value="set" origin="user" date="2012-02-12T00:08:02"/>
+    <translation id="183220-17717" value="plant" origin="user" date="2012-02-12T00:08:02"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16001" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <synonym value="plantera" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..1||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..2||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="s&#xE4;tta||s&#xE4;tta..4||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10342" value="s&#xE4;tta l&#xF6;kar" date="2011-03-03">
+      <translation value="set (plant) bulbs"/>
+    </example>
+    <definition id="17715" value="plantera" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;tta" lang="sv" class="vb" id="183230" lexinid="18324" origin="lexin" date="2011-03-03">
+    <translation id="183230-17717" value="compose" origin="user" date="2012-03-17T04:00:49"/>
+    <translation id="183230-17718" value="set" origin="user" date="2012-03-17T04:00:49"/>
+    <phonetic value="sEt:er" soundFile="s&#xE4;tter.swf" date="2011-03-03"/>
+    <paradigm id="16002" origin="lexin" date="2011-03-03">
+      <inflection value="satte"/>
+      <inflection value="satt"/>
+      <inflection value="s&#xE4;tt"/>
+      <inflection value="s&#xE4;tta"/>
+      <inflection value="s&#xE4;tter"/>
+    </paradigm>
+    <see value="s&#xE4;tta||s&#xE4;tta..3||s&#xE4;tta..vb.1" type="saldo" origin="saldo" date="2014-11-17T05:11:40"/>
+    <compound id="6226" value="s&#xE4;ttmaskin" date="2011-03-03">
+      <translation value="typesetting (composing) machine"/>
+    </compound>
+    <definition id="17716" value="f&#xF6;rbereda text till tryckning" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="put" lang="en" class="vb" id="341891" origin="lexin" date="2009-02-24">
+    <translation id="341891-1" value="s&#xE4;tter" origin="lexin" date="2009-02-24"/>
+    <example id="341891-7" value="she put the flower pot in the window" origin="lexin" date="2009-02-24">
+      <translation value="hon satte blomkrukan i f&#xF6;nstret" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="341891-2" value="set fire to (&amp;quot;light&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta eld p&#xE5; (&amp;quot;t&#xE4;nda&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341891-3" value="get going (&amp;quot;start, increase speed&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta fart (&amp;quot;starta, &#xF6;ka farten&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341891-4" value="give one&amp;#39;s life (&amp;quot;die&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta livet till (&amp;quot;d&#xF6;&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341891-5" value="make a nest (&amp;quot;start a home&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta bo (&amp;quot;ordna ett hem&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="341891-6" value="bring sth. into question (&amp;quot;question sth.&amp;quot;)" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;tta n&#xE5;got i fr&#xE5;ga (&amp;quot;ifr&#xE5;gas&#xE4;tta&amp;quot;)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="placera" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

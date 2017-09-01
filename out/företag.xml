@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;retag" lang="sv" class="nn" id="54060" lexinid="5406" origin="lexin" date="2011-03-03">
+    <translation id="5322" value="company" date="2011-03-03"/>
+    <phonetic value="&#xB2;f&#xD6;:reta:g" soundFile="f&#xF6;retag.swf" date="2011-03-03"/>
+    <paradigm id="4672" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;retaget"/>
+      <inflection value="f&#xF6;retag"/>
+      <inflection value="f&#xF6;retagen"/>
+    </paradigm>
+    <synonym value="bolag" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="firma" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="n&#xE4;ringsverksamhet" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..1||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..2||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3133" value="multinationella f&#xF6;retag" date="2011-03-03">
+      <translation value="multinational companies"/>
+    </example>
+    <compound id="1934" value="f&#xF6;retags|demokrati" date="2011-03-03">
+      <translation value="industrial democracy"/>
+    </compound>
+    <compound id="1935" value="aff&#xE4;rsf&#xF6;retag" date="2011-03-03">
+      <translation value="business company (concern)"/>
+    </compound>
+    <compound id="1936" value="f&#xF6;retags|ledning" date="2011-03-03">
+      <translation value="company management"/>
+    </compound>
+    <compound id="1937" value="f&#xF6;retags|nedl&#xE4;ggelse" date="2011-03-03">
+      <translation value="company closure"/>
+    </compound>
+    <definition id="5204" value="r&#xF6;relse, firma" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;retag" lang="sv" class="nn" id="54070" lexinid="5407" origin="lexin" date="2011-03-03">
+    <translation id="54070-5206" value="business" origin="user" date="2012-02-08T23:49:41"/>
+    <translation id="54070-5207" value="enterprise" origin="user" date="2012-02-08T23:49:41"/>
+    <translation id="54070-5208" value="undertaking" origin="user" date="2012-02-08T23:49:41"/>
+    <phonetic value="&#xB2;f&#xD6;:reta:g" soundFile="f&#xF6;retag.swf" date="2011-03-03"/>
+    <paradigm id="4673" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;retaget"/>
+      <inflection value="f&#xF6;retag"/>
+      <inflection value="f&#xF6;retagen"/>
+    </paradigm>
+    <see value="f&#xF6;retag||f&#xF6;retag..1||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;retag||f&#xF6;retag..2||f&#xF6;retag..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3134" value="det &#xE4;r ett helt f&#xF6;retag att byta avgassystem" date="2011-03-03">
+      <translation value="it is a real business to change an exhaust system"/>
+    </example>
+    <definition id="5205" value="f&#xF6;rehavande; tilltag" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;reta" lang="sv" class="vb" id="54130" lexinid="5413" origin="lexin" date="2011-03-03">
+    <translation id="54130-5212" value="perform" origin="user" date="2012-02-27T00:44:33"/>
+    <translation id="54130-5213" value="carry out" origin="user" date="2012-02-27T00:44:33"/>
+    <translation id="54130-5214" value="undertake" origin="user" date="2012-02-27T00:44:33"/>
+    <use value="ofta reflexivt" date="2011-03-03"/>
+    <phonetic value="&#xB2;f&#xD6;:reta:r" soundFile="f&#xF6;retar.swf" date="2011-03-03"/>
+    <paradigm id="4679" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;retog"/>
+      <inflection value="f&#xF6;retagit"/>
+      <inflection value="f&#xF6;retag"/>
+      <inflection value="f&#xF6;retaga"/>
+      <inflection value="f&#xF6;retar"/>
+    </paradigm>
+    <synonym value="g&#xF6;ra" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="utr&#xE4;tta" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;reta||f&#xF6;reta..1||f&#xF6;reta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3137" value="f&#xF6;reta en unders&#xF6;kning" date="2011-03-03">
+      <translation value="carry out an investigation"/>
+    </example>
+    <example id="3138" value="hon hade ingenting att f&#xF6;reta sig" date="2011-03-03">
+      <translation value="she had nothing to get on with"/>
+    </example>
+    <definition id="5211" value="g&#xF6;ra" date="2011-03-03"/>
+    <grammar value="A &amp; x/sig" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="business" lang="en" class="nn" id="61491" origin="lexin" date="2009-02-24">
+    <translation id="61491-1" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="61491-2" value="firma" origin="lexin" date="2009-02-24"/>
+    <translation id="61491-3" value="aff&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="61491-4" value="butik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="card" lang="en" class="nn" id="67101" origin="lexin" date="2009-02-24">
+    <translation id="67101-1" value="f&#xF6;retag" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="67101-2" value="satsning" origin="lexin" date="2009-02-24"/>
+    <example id="67101-3" value="a dubious card" origin="lexin" date="2009-02-24">
+      <translation value="en tveksam satsning" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="Co." lang="en" class="abbrev" id="84801" lexinid="17" origin="lexin" date="2009-02-24">
+    <translation id="84801-1" value="bolag" origin="lexin" date="2009-02-24"/>
+    <translation id="84801-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <example id="84801-3" value="Jones &amp; Co." origin="lexin" date="2009-02-24">
+      <translation value="(ungef&#xE4;r) Firma Jones och Co" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*limited *company, *joint-stock *company" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="concern" lang="en" class="nn" id="94531" origin="lexin" date="2009-02-24">
+    <translation id="94531-1" value="f&#xF6;retag" comment="handel" origin="lexin" date="2009-02-24"/>
+    <translation id="94531-2" value="r&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <translation id="94531-3" value="aff&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="94531-4" value="koncern" origin="lexin" date="2009-02-24"/>
+    <translation id="94531-5" value="firma" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="establishment" lang="en" class="nn" id="160601" origin="lexin" date="2009-02-24">
+    <translation id="160601-1" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-2" value="handelshus" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-3" value="butik" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-4" value="fabrik" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-5" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-6" value="anl&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-7" value="arbetsplats" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-8" value="etablissemang" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="firm" lang="en" class="nn" id="176311" origin="lexin" date="2009-02-24">
+    <translation id="176311-1" value="firma" origin="lexin" date="2009-02-24"/>
+    <translation id="176311-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="176311-3" value="bolag" origin="lexin" date="2009-02-24"/>
+    <example id="176311-4" value="we have a firm together" origin="lexin" date="2009-02-24">
+      <translation value="vi har en firma ihop" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="operation" lang="en" class="nn" id="295451" origin="lexin" date="2009-02-24">
+    <translation id="295451-1" value="operation" comment="milit&#xE4;rterm" origin="lexin" date="2009-02-24"/>
+    <translation id="295451-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="operation" lang="en" class="nn" id="295461" origin="lexin" date="2009-02-24">
+    <translation id="295461-1" value="operation" comment="om f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="295461-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="organization" lang="en" class="nn" id="297031" origin="lexin" date="2009-02-24">
+    <translation id="297031-1" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="297031-2" value="organism" origin="lexin" date="2009-02-24"/>
+    <translation id="297031-3" value="struktur" origin="lexin" date="2009-02-24"/>
+    <translation id="297031-4" value="organisatioon" origin="lexin" date="2009-02-24"/>
+    <translation id="297031-5" value="komposition" origin="lexin" date="2009-02-24"/>
+    <translation id="297031-6" value="arrangemang" comment="amerikansk engelska, i brittisk engelska organisation" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="project" lang="en" class="nn" id="335311" origin="lexin" date="2009-02-24">
+    <translation id="335311-1" value="projekt" origin="lexin" date="2009-02-24"/>
+    <translation id="335311-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="show" lang="en" class="nn" id="381001" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="381001-1" value="historia" origin="lexin" date="2009-02-24"/>
+    <translation id="381001-2" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <example id="381001-3" value="she&amp;#39;s running the whole show" origin="lexin" date="2009-02-24">
+      <translation value="hon h&#xE5;ller i hela f&#xF6;retaget" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="undertaking" lang="en" class="nn" id="431911" origin="lexin" date="2009-02-24">
+    <translation id="431911-1" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="431911-2" value="arbete" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="venture" lang="en" class="nn" id="436261" origin="lexin" date="2009-02-24">
+    <translation id="436261-1" value="v&#xE5;gspel" origin="lexin" date="2009-02-24"/>
+    <translation id="436261-2" value="risk" origin="lexin" date="2009-02-24"/>
+    <translation id="436261-3" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="436261-4" value="riskabelt f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

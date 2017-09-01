@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="in" comment="utrop av f&#xF6;rv&#xE5;ning, gl&#xE4;dje, ilska" date="2011-03-03" id="214410" lang="sv" lexinid="21442" origin="lexin" value="&#xE5;">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="&#xE5;h"/>
+    <translation comment="an exclamation of surprise, pleasure, anger" date="2011-03-03" id="21058" value="oh!"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;.swf" value="&#xE5;:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;||&#xE5;..4||&#xE5;..in.1"/>
+  </word>
+  <word class="in" comment="anv&#xE4;nds f&#xF6;r att f&#xF6;rst&#xE4;rka (eller uttrycka reservation) vid &amp;quot;ja, nej, jo&amp;quot;; ofta samskrivet" date="2011-03-03" id="214420" lang="sv" lexinid="21443" origin="lexin" value="&#xE5;">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="&#xE5;h"/>
+    <translation comment="used to intensify (or express reservations) with &amp;quot;ja, nej," date="2011-03-03" id="21059" value="oh"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;.swf" value="&#xE5;:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;||&#xE5;..4||&#xE5;..in.1"/>
+  </word>
+  <word value="&#xE5;" lang="sv" class="pp" id="214430" lexinid="21444" origin="lexin" comment="&#xE5;lderdomligt utom i vissa fraser" date="2011-03-03">
+    <translation id="21060" value="on" comment="archaic except in some phrases" date="2011-03-03"/>
+    <phonetic value="&#xE5;:" soundFile="&#xE5;.swf" date="2011-03-03"/>
+    <see value="&#xE5;||&#xE5;..3||&#xE5;..pp.1" type="saldo" origin="saldo" date="2015-01-13T02:20:26"/>
+    <idiom id="1885" value="&#xE5; ena sidan ... &#xE5; andra sidan (&amp;quot;dels ... dels&amp;quot;)" date="2011-03-03">
+      <translation value="on the one hand... on the other hand (&amp;quot;partly ... partly&amp;quot;)"/>
+    </idiom>
+    <definition id="20713" value="p&#xE5;" date="2011-03-03"/>
+  </word>
+  <word value="&#xE5;" lang="sv" class="nn" id="214440" lexinid="21445" origin="lexin" date="2011-03-03">
+    <translation id="214440-20715" value="small river" origin="user" date="2012-04-12T01:56:29"/>
+    <translation id="214440-20716" value="stream" origin="user" date="2012-04-12T01:56:29"/>
+    <phonetic value="&#xE5;:" soundFile="&#xE5;.swf" date="2011-03-03"/>
+    <paradigm id="18687" origin="lexin" date="2011-03-03">
+      <inflection value="&#xE5;n"/>
+      <inflection value="&#xE5;ar"/>
+    </paradigm>
+    <see value="&#xE5;||&#xE5;..1||&#xE5;..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="&#xE5;||&#xE5;..2||&#xE5;..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <idiom id="1886" value="g&#xE5; &#xF6;ver &#xE5;n efter vatten (&amp;quot;s&#xF6;ka n&#xE5;got l&#xE4;ngre bort &#xE4;n n&#xF6;dv&#xE4;ndigt&amp;quot;)" date="2011-03-03">
+      <translation value="cross the stream to fetch water (&amp;quot;give oneself a lot of unnecessary trouble&amp;quot;)"/>
+    </idiom>
+    <definition id="20714" value="mindre vattendrag; str&#xF6;m" date="2011-03-03"/>
+    <url value="21/naturlandskap1.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="on" lang="en" class="pp" id="294331" origin="lexin" date="2009-02-24">
+    <translation id="294331-1" value="&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="294331-2" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <idiom id="294331-3" value="on the one hand... on the other hand" origin="lexin" date="2009-02-24">
+      <translation value="&#xE5; ena sidan ... &#xE5; andra sidan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

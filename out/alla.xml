@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="2070" lang="sv" lexinid="207" origin="lexin" value="all">
+    <translation date="2011-03-03" id="201" value="all"/>
+    <use date="2011-03-03" value="ob&#xF6;jligt, kollektivt"/>
+    <phonetic date="2011-03-03" soundFile="all.swf" value="al:"/>
+    <paradigm date="2011-03-03" id="172" origin="lexin">
+      <inflection value="allt"/>
+      <inflection value="alla"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="alla"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="varenda"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="all||all..1||all..pn.1"/>
+    <example date="2011-03-03" id="99" value="allt br&#xF6;det">
+      <translation value="all the bread"/>
+    </example>
+    <example date="2011-03-03" id="100" value="all mj&#xF6;lken">
+      <translation value="all the milk"/>
+    </example>
+    <compound date="2011-03-03" id="81" value="all|&#xE4;tare">
+      <translation value="omnivore"/>
+    </compound>
+    <compound date="2011-03-03" id="82" value="all|omfattande">
+      <translation value="all-embracing, all-encompassing"/>
+    </compound>
+    <compound date="2011-03-03" id="83" value="all|vetare">
+      <translation value="walking encyclopaedia"/>
+    </compound>
+    <idiom date="2011-03-03" id="14" value="med all r&#xE4;tt (&amp;quot;helt riktigt&amp;quot;)">
+      <translation value="very rightly, with perfect justice"/>
+    </idiom>
+    <idiom date="2011-03-03" id="15" value="(ha) all (&amp;quot;stor&amp;quot;) anledning att">
+      <translation value="have every reason for"/>
+    </idiom>
+    <idiom date="2011-03-03" id="16" value="vad i all v&#xE4;rlden? (&amp;quot;vad betyder det h&#xE4;r?&amp;quot;)">
+      <translation value="what on earth? (&amp;quot;what on earth does this mean?&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="17" value="med all s&#xE4;kerhet (el. sannolikhet) (&amp;quot;(n&#xE4;stan) helt s&#xE4;kert&amp;quot;)">
+      <translation value="certainly, doubtlessly, in all probability"/>
+    </idiom>
+    <idiom date="2011-03-03" id="18" value="vad i all sin dar? (&amp;quot;vad betyder det h&#xE4;r?&amp;quot;)">
+      <translation value="what on earth? (&amp;quot;what on earth does this mean?&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="19" value="f&#xF6;r all framtid (&amp;quot;alltid i framtiden&amp;quot;)">
+      <translation value="for ever more, for all time"/>
+    </idiom>
+    <idiom date="2011-03-03" id="20" value="f&#xF6;r all del (&amp;quot;ingenting att tacka f&#xF6;r&amp;quot;)">
+      <translation value="don&amp;#39;t mention it"/>
+    </idiom>
+    <definition date="2011-03-03" id="210" value="hela (m&#xE4;ngden av)"/>
+  </word>
+  <word class="pn" date="2011-03-03" id="2080" lang="sv" lexinid="208" origin="lexin" value="all">
+    <translation date="2011-03-03" id="202" value="all"/>
+    <phonetic date="2011-03-03" soundFile="all.swf" value="al:"/>
+    <paradigm date="2011-03-03" id="173" origin="lexin">
+      <inflection value="allt"/>
+      <inflection value="alla"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="alla"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="varenda"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="all||all..1||all..pn.1"/>
+    <example date="2011-03-03" id="101" value="alla som vill kan g&#xE5;">
+      <translation value="everyone who wants to can leave"/>
+    </example>
+    <example date="2011-03-03" id="102" value="alla b&#xF6;ckerna">
+      <translation value="all the books"/>
+    </example>
+    <idiom date="2011-03-03" id="21" value="alla tiders! (&amp;quot;j&#xE4;ttebra!&amp;quot;)">
+      <translation value="fantastic!, great!"/>
+    </idiom>
+    <idiom date="2011-03-03" id="22" value="i alla avseenden (&amp;quot;p&#xE5; alla punkter&amp;quot;)">
+      <translation value="in all respects"/>
+    </idiom>
+    <idiom date="2011-03-03" id="23" value="i alla fall (&amp;quot;&#xE4;nd&#xE5;, trots allt&amp;quot;)">
+      <translation value="anyway, nevertheless"/>
+    </idiom>
+    <idiom date="2011-03-03" id="24" value="under alla f&#xF6;rh&#xE5;llanden (&amp;quot;under vilka omst&#xE4;ndigheter som helst&amp;quot;)">
+      <translation value="in any case"/>
+    </idiom>
+    <idiom date="2011-03-03" id="25" value="med alla medel (&amp;quot;med vilka medel som helst&amp;quot;)">
+      <translation value="with all the means at one&amp;#39;s disposal"/>
+    </idiom>
+    <idiom date="2011-03-03" id="26" value="allt m&#xF6;jligt (&amp;quot;allt som man kan t&#xE4;nka sig&amp;quot;)">
+      <translation value="all sorts of things"/>
+    </idiom>
+    <idiom date="2011-03-03" id="27" value="en g&#xE5;ng f&#xF6;r alla (&amp;quot;slutgiltigt&amp;quot;)">
+      <translation value="once and for all"/>
+    </idiom>
+    <idiom date="2011-03-03" id="28" value="framf&#xF6;r allt (&amp;quot;f&#xF6;rst och fr&#xE4;mst&amp;quot;)">
+      <translation value="above all"/>
+    </idiom>
+    <idiom date="2011-03-03" id="29" value="av allt att d&#xF6;ma (&amp;quot;s&#xE5;vitt man kan bed&#xF6;ma&amp;quot;)">
+      <translation value="to all appearances, judging by appearances"/>
+    </idiom>
+    <idiom date="2011-03-03" id="30" value="minst av allt (&amp;quot;inte alls&amp;quot;)">
+      <translation value="least of all"/>
+    </idiom>
+    <idiom date="2011-03-03" id="31" value="trots allt (&amp;quot;&#xE4;nd&#xE5;&amp;quot;)">
+      <translation value="after all, all the same, for all that"/>
+    </idiom>
+    <definition date="2011-03-03" id="211" value="varje, vilken (vilket, vad) som helst"/>
+  </word>
+  <word value="alla" lang="sv" id="240170" origin="user" date="2012-02-25T16:22:06">
+    <translation id="240170-1" value="everyone, all, everybody" origin="user" date="2012-02-25T16:22:06"/>
+  </word>
+  <word value="all" lang="en" class="nn" id="10271" origin="lexin" date="2009-02-24">
+    <translation id="10271-1" value="allt" origin="lexin" date="2009-02-24"/>
+    <translation id="10271-2" value="alltihop" origin="lexin" date="2009-02-24"/>
+    <translation id="10271-3" value="alltsammans" origin="lexin" date="2009-02-24"/>
+    <translation id="10271-4" value="allting" origin="lexin" date="2009-02-24"/>
+    <translation id="10271-5" value="alla" origin="lexin" date="2009-02-24"/>
+    <translation id="10271-6" value="helhet" origin="lexin" date="2009-02-24"/>
+    <idiom id="10271-7" value="give one&amp;#39;s all" origin="lexin" date="2009-02-24">
+      <translation value="ge allt man &#xE4;ger och har (s&#xE4;rskilt litter&#xE4;rt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="all" lang="en" class="pn" id="10291" origin="lexin" date="2009-02-24">
+    <translation id="10291-1" value="all" origin="lexin" date="2009-02-24"/>
+    <translation id="10291-2" value="allt" origin="lexin" date="2009-02-24"/>
+    <translation id="10291-3" value="alla" origin="lexin" date="2009-02-24"/>
+    <translation id="10291-4" value="all m&#xF6;jlig" origin="lexin" date="2009-02-24"/>
+    <translation id="10291-5" value="hela" origin="lexin" date="2009-02-24"/>
+    <translation id="10291-6" value="hel-" origin="lexin" date="2009-02-24"/>
+    <example id="10291-19" value="all the books" origin="lexin" date="2009-02-24">
+      <translation value="alla b&#xF6;ckerna" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="10291-7" value="be all ears" origin="lexin" date="2009-02-24">
+      <translation value="lyssna uppm&#xE4;rksamt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-8" value="be all thumbs" origin="lexin" date="2009-02-24">
+      <translation value="vara klumpig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-9" value="by all acounts" origin="lexin" date="2009-02-24">
+      <translation value="efter vad alla s&#xE4;ger" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-10" value="in all respects" origin="lexin" date="2009-02-24">
+      <translation value="i alla avseenden" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-11" value="with all the means at one&amp;#39;s disposal" origin="lexin" date="2009-02-24">
+      <translation value="med alla till buds st&#xE5;ende medel" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-12" value="all sorts of things" origin="lexin" date="2009-02-24">
+      <translation value="allt m&#xF6;jligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-13" value="to all appearances, judging by appearances" origin="lexin" date="2009-02-24">
+      <translation value="av allt att d&#xF6;ma" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-14" value="above all" origin="lexin" date="2009-02-24">
+      <translation value="framf&#xF6;r allt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-15" value="after all, all the same, for all that" origin="lexin" date="2009-02-24">
+      <translation value="trots allt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-16" value="least of all" origin="lexin" date="2009-02-24">
+      <translation value="minst av allt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-17" value="for all time" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r all framtid" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="10291-18" value="in all probability" origin="lexin" date="2009-02-24">
+      <translation value="med all s&#xE4;kerhet (eller sannolikhet)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="everybody" lang="en" class="pn" id="162231" origin="lexin" date="2009-02-24">
+    <translation id="162231-1" value="var och en" origin="lexin" date="2009-02-24"/>
+    <translation id="162231-2" value="envar" origin="lexin" date="2009-02-24"/>
+    <translation id="162231-3" value="alla" origin="lexin" date="2009-02-24"/>
+    <translation id="162231-4" value="varje m&#xE4;nniska" origin="lexin" date="2009-02-24"/>
+    <translation id="162231-5" value="alla m&#xE4;nniskor" origin="lexin" date="2009-02-24"/>
+    <translation id="162231-6" value="allesammans" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="everyone" lang="en" class="pn" id="162251" origin="lexin" date="2009-02-24">
+    <translation id="162251-1" value="var och en" origin="lexin" date="2009-02-24"/>
+    <translation id="162251-2" value="envar" origin="lexin" date="2009-02-24"/>
+    <translation id="162251-3" value="alla" origin="lexin" date="2009-02-24"/>
+    <translation id="162251-4" value="varje m&#xE4;nniska" origin="lexin" date="2009-02-24"/>
+    <translation id="162251-5" value="alla m&#xE4;nniskor" origin="lexin" date="2009-02-24"/>
+    <translation id="162251-6" value="allesammans" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="what" lang="en" class="pn" id="443031" origin="lexin" date="2009-02-24">
+    <translation id="443031-1" value="alla" origin="lexin" date="2009-02-24"/>
+    <translation id="443031-2" value="alla som" origin="lexin" date="2009-02-24"/>
+    <translation id="443031-3" value="de som s&#xE5; mycket som" origin="lexin" date="2009-02-24"/>
+    <paradigm id="443031-5" origin="lexin" date="2009-02-24">
+      <inflection value="relativt" origin="lexin" date="2009-02-24"/>
+      <inflection value="f&#xF6;renat pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="443031-4" value="I gave her what money I had." origin="lexin" date="2009-02-24">
+      <translation value="Jag gav henne s&#xE5; mycket pengar som jag hade." origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="deemed" lang="en" id="542801" origin="user" date="2015-09-26T03:15:21">
+    <translation id="542801-1" value="f&#xF6;rslogs" origin="user" date="2015-09-26T03:15:22"/>
+    <translation id="542801-2" value="en l&#xF6;rdageftermiddag " origin="user" date="2015-10-16T02:22:57"/>
+    <translation id="542801-3" value="alla" origin="user" date="2015-12-05T02:08:17"/>
+    <translation id="542801-4" value="bed&#xF6;md" origin="user" date="2017-05-04T05:13:29"/>
+  </word>
+</definition>

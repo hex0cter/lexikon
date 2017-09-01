@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="kn" comment="&#xE4;ven vid j&#xE4;mf&#xF6;relse" date="2011-03-03" id="168190" lang="sv" lexinid="16820" origin="lexin" value="som">
+    <translation comment="also in comparisons" date="2011-03-03" id="16531" value="as"/>
+    <phonetic date="2011-03-03" soundFile="som.swf" value="s&#xE5;m:"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="s&#xE5;som"/>
+    <example date="2011-03-03" id="9503" value="arbeta som guide">
+      <translation value="work as a guide"/>
+    </example>
+    <example date="2011-03-03" id="9504" value="det var som om hon inte s&#xE5;g mig">
+      <translation value="it was as if she hadn&amp;#39;t even seen me"/>
+    </example>
+    <example date="2011-03-03" id="9505" value="om jag vore som du">
+      <translation value="if I were you"/>
+    </example>
+    <example date="2011-03-03" id="9506" value="han &#xE4;r lika gammal som sin fru">
+      <translation value="he is the same age as his wife"/>
+    </example>
+    <idiom date="2011-03-03" id="1434" value="s&#xE5; gott som (f&#xE4;rdig) (&amp;quot;n&#xE4;stan (f&#xE4;rdig)&amp;quot;)">
+      <translation value="as good as ready (&amp;quot;almost (ready)&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1435" value="f&#xF6;rst som sist (&amp;quot;ju f&#xF6;rr dess b&#xE4;ttre, p&#xE5; en g&#xE5;ng&amp;quot;)">
+      <translation value="once and for all"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1436" value="som sagt var (&amp;quot;som jag tidigare sade&amp;quot;)">
+      <translation value="as I said before"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1437" value="s&#xE5; snart som m&#xF6;jligt (&amp;quot;s&#xE5; snart som det &#xE4;r m&#xF6;jligt&amp;quot;)">
+      <translation value="as soon as possible"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1438" value="g&#xF6;r som (&amp;quot;vad&amp;quot;) du vill">
+      <translation value="do what you want"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1439" value="som vanligt (&amp;quot;of&#xF6;r&#xE4;ndrat&amp;quot;)">
+      <translation value="as usual (&amp;quot;unchanged&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1440" value="n&#xE4;r som helst (&amp;quot;mycket snart, vid en godtycklig tidpunkt&amp;quot;)">
+      <translation value="at any time (&amp;quot;very soon, at an unknown time&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="16287" value="i egenskap av, s&#xE5;som"/>
+  </word>
+  <word class="pn" date="2011-03-03" id="168200" lang="sv" lexinid="16821" origin="lexin" value="som">
+    <translation date="2011-03-03" id="16532" value="who, whom"/>
+    <use date="2011-03-03" value="inleder relativsats"/>
+    <phonetic date="2011-03-03" soundFile="som.swf" value="s&#xE5;m:"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="s&#xE5;som"/>
+    <example date="2011-03-03" id="9507" value="pojken som gick f&#xF6;rbi &#xE4;r min bror">
+      <translation value="the boy who walked past is my brother"/>
+    </example>
+    <example date="2011-03-03" id="9508" value="kl&#xE4;nningen, som var gul, kostade 150 kronor">
+      <translation value="the dress, which was yellow, cost 150 kronor"/>
+    </example>
+  </word>
+  <word value="as" lang="en" class="ab" id="20481" origin="lexin" date="2009-02-24">
+    <translation id="20481-1" value="som" comment="anv&#xE4;nds vid beskrivningar" origin="lexin" date="2009-02-24"/>
+    <example id="20481-6" value="I work as a secretary" origin="lexin" date="2009-02-24">
+      <translation value="jag arbetar som sekreterare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="20481-7" value="he was dressed as a woman" origin="lexin" date="2009-02-24">
+      <translation value="han var kl&#xE4;dd som kvinna" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="20481-8" value="I like her as a friend, but she is no good as a colleague at work" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker om henne som v&#xE4;n, men hon &#xE4;r inte n&#xE5;gon bra arbetskamrat" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="20481-2" value="as for" origin="lexin" date="2009-02-24">
+      <translation value="vad g&#xE4;ller; betr&#xE4;ffande (oftast nedl&#xE5;tande)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="20481-3" value="as it were" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; att s&#xE4;ga" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="20481-4" value="as regards" origin="lexin" date="2009-02-24">
+      <translation value="vad g&#xE4;ller; betr&#xE4;ffande" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="20481-5" value="as yet" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;nnu (oftast vid negativa satser)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="as" lang="en" class="kn" id="20491" origin="lexin" date="2009-02-24">
+    <translation id="20491-1" value="som" comment="anv&#xE4;nds vid j&#xE4;mf&#xF6;relser" origin="lexin" date="2009-02-24"/>
+    <example id="20491-2" value="she is not as good a writer as she used to be" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r inte en lika bra f&#xF6;rfattare som hon var f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="as" lang="en" class="kn" id="20501" origin="lexin" date="2009-02-24">
+    <translation id="20501-1" value="som" comment="j&#xE4;mf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <example id="20501-3" value="as I just said" origin="lexin" date="2009-02-24">
+      <translation value="som jag just sade" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="20501-2" value="do as I say" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;r som jag s&#xE4;ger" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="as" lang="en" class="ab, pp" id="20511" origin="lexin" date="2009-02-24">
+    <translation id="20511-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="20511-2" value="s&#xE5;som" comment="anv&#xE4;nds vid j&#xE4;mf&#xF6;relser och vid exemplifiering" origin="lexin" date="2009-02-24"/>
+    <example id="20511-4" value="she&amp;#39;s not quite as tall as me" origin="lexin" date="2009-02-24">
+      <translation value="hon &#xE4;r inte riktigt lika l&#xE5;ng som jag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="20511-5" value="that shampoo is just as effective as this one" origin="lexin" date="2009-02-24">
+      <translation value="det d&#xE4;r schampot &#xE4;r precis lika effektivt som det h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="20511-3" value="as good as" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;stan; s&#xE5; gott som" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="for" lang="en" class="pp" id="181761" origin="lexin" date="2009-02-24">
+    <translation id="181761-1" value="s&#xE5;som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-2" value="f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-3" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="181761-4" value="till" origin="lexin" date="2009-02-24"/>
+    <example id="181761-5" value="for one thing" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;r det f&#xF6;rsta" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="in" lang="en" class="pp" id="228741" origin="lexin" date="2009-02-24">
+    <translation id="228741-1" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="228741-2" value="som" origin="lexin" date="2009-02-24"/>
+    <example id="228741-3" value="what did he say in reply?" origin="lexin" date="2009-02-24">
+      <translation value="vad svarade han?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="228741-4" value="what did they give you in return?" origin="lexin" date="2009-02-24">
+      <translation value="vad gav de dig i sin tur?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="like" lang="en" class="pp" id="257231" origin="lexin" date="2009-02-24">
+    <translation id="257231-1" value="som" comment="uttrycker sannolikheten f&#xF6;r n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    <example id="257231-2" value="it looks like rain" origin="lexin" date="2009-02-24">
+      <translation value="det ser ut att bli regn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257231-3" value="she sounds like the right person for the job" origin="lexin" date="2009-02-24">
+      <translation value="hon verkar vara r&#xE4;tt person f&#xF6;r jobbet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="bildas s&#xE4;rskilt med look och sound" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="like" lang="en" class="kn" id="257251" origin="lexin" date="2009-02-24">
+    <translation id="257251-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="257251-2" value="p&#xE5; samma s&#xE4;tt som" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <example id="257251-3" value="do you play tennis like you play badminton?" origin="lexin" date="2009-02-24">
+      <translation value="spelar man tennis p&#xE5; samma s&#xE4;tt som man spelar badminton?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257251-4" value="like I said, I can&amp;#39;t come tomorrow" origin="lexin" date="2009-02-24">
+      <translation value="som jag sade kan jag inte komma i morgon" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="inleder fullst&#xE4;ndig sats" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="like" lang="en" class="pp" id="257261" origin="lexin" date="2009-02-24">
+    <translation id="257261-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="257261-2" value="p&#xE5; samma s&#xE4;tt som" origin="lexin" date="2009-02-24"/>
+    <example id="257261-4" value="I did it like this" origin="lexin" date="2009-02-24">
+      <translation value="jag gjorde s&#xE5; h&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257261-5" value="she laughed like crazy" origin="lexin" date="2009-02-24">
+      <translation value="hon skrattade som en tokig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="257261-3" value="something like" origin="lexin" date="2009-02-24">
+      <translation value="ungef&#xE4;r, omkring" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="like" lang="en" class="pp" id="257271" origin="lexin" date="2009-02-24">
+    <translation id="257271-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="257271-2" value="till exempel" origin="lexin" date="2009-02-24"/>
+    <example id="257271-3" value="there were several people we know at the party, like Jack and Daniel" origin="lexin" date="2009-02-24">
+      <translation value="det var flera personer som vi k&#xE4;nner p&#xE5; festen, till exempel Jack och Daniel" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="like" lang="en" class="pp" id="257331" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="257331-1" value="som" comment="anv&#xE4;nds f&#xF6;rst&#xE4;rkande" origin="lexin" date="2009-02-24"/>
+    <example id="257331-2" value="it hurts like hell" origin="lexin" date="2009-02-24">
+      <translation value="det g&#xF6;r fruktansv&#xE4;rt ont" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257331-3" value="we swam like crazy" origin="lexin" date="2009-02-24">
+      <translation value="vi simmade som galningar" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="that" lang="en" class="kn" id="416591" origin="lexin" date="2009-02-24">
+    <translation id="416591-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="416591-2" value="n&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="416591-3" value="d&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="that" lang="en" class="pn" id="416601" origin="lexin" date="2009-02-24">
+    <translation id="416601-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-2" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-3" value="vilket" origin="lexin" date="2009-02-24"/>
+    <translation id="416601-4" value="vilka" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416601-5" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="which" lang="en" class="pn" id="443281" origin="lexin" date="2009-02-24">
+    <variant value="that" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="443281-1" value="som" comment="i n&#xF6;dv&#xE4;ndiga relativbisatser" origin="lexin" date="2009-02-24"/>
+    <example id="443281-2" value="did you see the package which/that came today?" origin="lexin" date="2009-02-24">
+      <translation value="har du sett paketet som kom i dag?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="which" lang="en" class="pn" id="443291" origin="lexin" date="2009-02-24">
+    <translation id="443291-1" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-2" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-3" value="vilka" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-4" value="n&#xE5;got som" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-5" value="vilket" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-6" value="och det" origin="lexin" date="2009-02-24"/>
+    <translation id="443291-7" value="men det" origin="lexin" date="2009-02-24"/>
+    <example id="443291-8" value="was the book that you were reading a novel?" origin="lexin" date="2009-02-24">
+      <translation value="var boken som du l&#xE4;ste en roman?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443291-9" value="he said he was there, which was a lie" origin="lexin" date="2009-02-24">
+      <translation value="han sa att han var d&#xE4;r, men det var l&#xF6;gn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443291-10" value="among which" origin="lexin" date="2009-02-24">
+      <translation value="varibland, bland vilka" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443291-11" value="at which" origin="lexin" date="2009-02-24">
+      <translation value="varvid" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="which" lang="en" class="pn" id="443321" origin="lexin" date="2009-02-24">
+    <translation id="443321-1" value="som" comment="i icke-n&#xF6;dv&#xE4;ndiga relativbisatser" origin="lexin" date="2009-02-24"/>
+    <example id="443321-2" value="the book, which I bought yesterday, is quite good" origin="lexin" date="2009-02-24">
+      <translation value="boken som jagk&#xF6;pte i g&#xE5;r &#xE4;r ganska bra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="who" lang="en" class="pn" id="443821" origin="lexin" date="2009-02-24">
+    <translation id="443821-1" value="som" comment="efter kommatecken, f&#xF6;r att l&#xE4;mna ytterligare information, s&#xE4;rskilt i skrift" origin="lexin" date="2009-02-24"/>
+    <example id="443821-2" value="I&amp;#39;ll ask my sister, who is a nurse" origin="lexin" date="2009-02-24">
+      <translation value="jag ska fr&#xE5;ga min syster som &#xE4;r sjuksk&#xF6;terska" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="who" lang="en" class="pn" id="443841" origin="lexin" date="2009-02-24">
+    <translation id="443841-1" value="som" origin="lexin" date="2009-02-24"/>
+    <example id="443841-2" value="do you know the person who lives in that house?" origin="lexin" date="2009-02-24">
+      <translation value="k&#xE4;nner du den som bor i det d&#xE4;r huset?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whom" lang="en" class="pn" id="443941" origin="lexin" comment="formellt; skriftspr&#xE5;k" date="2009-02-24">
+    <translation id="443941-1" value="vem" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-2" value="vilken" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-3" value="vilka" origin="lexin" date="2009-02-24"/>
+    <translation id="443941-4" value="som" origin="lexin" date="2009-02-24"/>
+    <example id="443941-5" value="To whom did you speak?" origin="lexin" date="2009-02-24">
+      <translation value="Vem talade du med?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443941-6" value="She introduced four of her friends, none of whom I had ever seen before." origin="lexin" date="2009-02-24">
+      <translation value="Hon presenterade fyra av sina v&#xE4;nner, av vilka jag inte hade sett n&#xE5;gon f&#xF6;rut." origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="objektsform av who" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whom" lang="en" class="pn" id="443951" origin="lexin" date="2009-02-24">
+    <translation id="443951-1" value="vem" origin="lexin" date="2009-02-24"/>
+    <translation id="443951-2" value="som" origin="lexin" date="2009-02-24"/>
+    <translation id="443951-3" value="vilken" comment="objektsformen till who" origin="lexin" date="2009-02-24"/>
+    <example id="443951-4" value="along the road came two men, one of whom was bald" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; v&#xE4;gen kom tv&#xE5; personer varav en var flintskallig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="av vilket, av vilka" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

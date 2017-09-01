@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ligga" lang="sv" class="vb" id="99820" lexinid="9982" origin="lexin" comment="f&#xF6;rsvagat &amp;quot;finnas&amp;quot;" date="2011-03-03">
+    <translation id="9806" value="lie" comment="down-toned, &amp;quot;be situated&amp;quot;" date="2011-03-03"/>
+    <phonetic value="lIg:er" soundFile="ligger.swf" date="2011-03-03"/>
+    <paradigm id="8688" origin="lexin" date="2011-03-03">
+      <inflection value="l&#xE5;g"/>
+      <inflection value="legat"/>
+      <inflection value="ligg"/>
+      <inflection value="ligga"/>
+      <inflection value="ligger"/>
+    </paradigm>
+    <see value="ligga||ligga..1||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligga||ligga..2||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligga||ligga..3||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligger.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="5435" value="ligga i s&#xE4;ngen" date="2011-03-03">
+      <translation value="lie in bed"/>
+    </example>
+    <example id="5436" value="boken ligger p&#xE5; bordet" date="2011-03-03">
+      <translation value="the book is on the table"/>
+    </example>
+    <example id="5437" value="gatan ligger i G&#xF6;teborg" date="2011-03-03">
+      <translation value="that street is in G&#xF6;teborg"/>
+    </example>
+    <example id="5438" value="hon ligger trea i t&#xE4;vlingen" date="2011-03-03">
+      <translation value="she is lying third in the competition"/>
+    </example>
+    <example id="5439" value="det ligger mycket i vad du s&#xE4;ger" date="2011-03-03">
+      <translation value="there&amp;#39;s a lot to what you say"/>
+    </example>
+    <idiom id="846" value="ligga i luften (&amp;quot;kunna anas el. k&#xE4;nnas&amp;quot;)" date="2011-03-03">
+      <translation value="be in the air (&amp;quot;be able to anticipate or feel&amp;quot;)"/>
+    </idiom>
+    <idiom id="847" value="ligga l&#xE5;gt (&amp;quot;vara passiv, avvakta&amp;quot;)" date="2011-03-03">
+      <translation value="lie low (&amp;quot;bide one&amp;#39;s time, remain secretly ready for action&amp;quot;)"/>
+    </idiom>
+    <idiom id="848" value="ligga i blodet (&amp;quot;vara naturligt, typiskt&amp;quot;)" date="2011-03-03">
+      <translation value="be part of one&amp;#39;s character (&amp;quot;be of one&amp;#39;s nature, typical&amp;quot;)"/>
+    </idiom>
+    <idiom id="849" value="vad ligger bakom beslutet? (&amp;quot;vad beror beslutet p&#xE5;?&amp;quot;)" date="2011-03-03">
+      <translation value="what is behind the decision? (&amp;quot;what is the reason for the decision?&amp;quot;)"/>
+    </idiom>
+    <idiom id="850" value="ligga med n&#xE5;gon (&amp;quot;ha samlag med n&#xE5;gon&amp;quot;)" date="2011-03-03">
+      <translation value="sleep with sby, go to bed with sby (&amp;quot;have sexual intercourse with sby&amp;quot;)"/>
+    </idiom>
+    <idiom id="851" value="du ligger illa till (&amp;quot;du &#xE4;r illa ute&amp;quot;)" date="2011-03-03">
+      <translation value="you&amp;#39;re in a pickle (&amp;quot;you are in an unfortunate situation&amp;quot;)"/>
+    </idiom>
+    <definition id="9616" value="vara i v&#xE5;gr&#xE4;tt l&#xE4;ge, vila; vara placerad" date="2011-03-03"/>
+    <grammar value="A/x &amp; + PLATS" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="" date="2011-03-03" id="103290" lang="sv" lexinid="10329" origin="lexin" value="l&#xE5;g">
+    <translation date="2011-03-03" id="10142" value="lay"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;g.swf" value="l&#xE5;:g"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ledsen"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="nedst&#xE4;md"/>
+    <see date="2011-03-03" origin="lexin" value="ligga"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="103300" lang="sv" lexinid="10330" origin="lexin" value="l&#xE5;g">
+    <translation date="2011-03-03" id="10143" value="low"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;g.swf" value="l&#xE5;:g"/>
+    <paradigm date="2011-03-03" id="8995" origin="lexin">
+      <inflection value="l&#xE5;gt"/>
+      <inflection value="l&#xE5;ga"/>
+      <inflection value="l&#xE4;gre"/>
+      <inflection value="l&#xE4;gst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ledsen"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="nedst&#xE4;md"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE5;g||l&#xE5;g..1||l&#xE5;g..av.1"/>
+    <example date="2011-03-03" id="5603" value="ett l&#xE5;gt bord">
+      <translation value="a low table"/>
+    </example>
+    <related origin="lexin" type="antonym" value="h&#xF6;g">
+      <translation date="2011-03-03" origin="lexin" value="high"/>
+    </related>
+    <definition date="2011-03-03" id="9954" value="som har en h&#xF6;jd under det normala"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="103310" lang="sv" lexinid="10331" origin="lexin" value="l&#xE5;g">
+    <translation date="2011-03-03" id="10144" value="low"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE5;g.swf" value="l&#xE5;:g"/>
+    <paradigm date="2011-03-03" id="8996" origin="lexin">
+      <inflection value="l&#xE5;gt"/>
+      <inflection value="l&#xE5;ga"/>
+      <inflection value="l&#xE4;gre"/>
+      <inflection value="l&#xE4;gst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ledsen"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="nedst&#xE4;md"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE5;g||l&#xE5;g..1||l&#xE5;g..av.1"/>
+    <example date="2011-03-03" id="5604" value="l&#xE5;g r&#xF6;st">
+      <translation value="low voice"/>
+    </example>
+    <example date="2011-03-03" id="5605" value="l&#xE5;ga l&#xF6;ner">
+      <translation value="low salaries"/>
+    </example>
+    <example date="2011-03-03" id="5606" value="l&#xE5;ga betyg">
+      <translation value="low grades"/>
+    </example>
+    <compound date="2011-03-03" id="3660" value="l&#xE5;g|s&#xE4;song">
+      <translation value="off-season"/>
+    </compound>
+    <compound date="2011-03-03" id="3661" value="l&#xE5;gstadium">
+      <translation value="the first three years of compulsory school"/>
+    </compound>
+    <idiom date="2011-03-03" id="899" value="ligga l&#xE5;gt (&amp;quot;vara avvaktande, inte agera&amp;quot;)">
+      <translation value="lie low (&amp;quot;bide one&amp;#39;s time, not act&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="9955" value="som ligger l&#xE5;ngt ner p&#xE5; en skala"/>
+  </word>
+  <word value="base" lang="en" class="jj" id="33531" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="33531-1" value="simpel" comment="neds&#xE4;ttande" origin="lexin" date="2009-02-24"/>
+    <translation id="33531-2" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="33531-3" value="usel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bass" lang="en" class="jj" id="34121" origin="lexin" date="2009-02-24">
+    <translation id="34121-1" value="bas-" origin="lexin" date="2009-02-24"/>
+    <translation id="34121-2" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="34121-3" value="djup" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="blue" lang="en" class="jj" id="46901" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="46901-1" value="deppig" origin="lexin" date="2009-02-24"/>
+    <translation id="46901-2" value="nere" origin="lexin" date="2009-02-24"/>
+    <translation id="46901-3" value="dyster" origin="lexin" date="2009-02-24"/>
+    <translation id="46901-4" value="nedslagen" origin="lexin" date="2009-02-24"/>
+    <translation id="46901-5" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="conservative" lang="en" class="jj" id="98041" origin="lexin" date="2009-02-24">
+    <translation id="98041-1" value="f&#xF6;rsiktig" origin="lexin" date="2009-02-24"/>
+    <translation id="98041-2" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="deep" lang="en" class="jj" id="121801" origin="lexin" date="2009-02-24">
+    <translation id="121801-1" value="djup" comment="om ljud" origin="lexin" date="2009-02-24"/>
+    <translation id="121801-2" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="121801-3" value="dov" origin="lexin" date="2009-02-24"/>
+    <example id="121801-4" value="the deep voice was slightly mocking" origin="lexin" date="2009-02-24">
+      <translation value="det fanns ett l&#xE4;tt retsamt tonfall i den djupa r&#xF6;sten" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="humble" lang="en" class="jj" id="223951" origin="lexin" date="2009-02-24">
+    <translation id="223951-1" value="enkel" origin="lexin" date="2009-02-24"/>
+    <translation id="223951-2" value="ringa" origin="lexin" date="2009-02-24"/>
+    <translation id="223951-3" value="blygsam" origin="lexin" date="2009-02-24"/>
+    <translation id="223951-4" value="oansenlig" origin="lexin" date="2009-02-24"/>
+    <translation id="223951-5" value="anspr&#xE5;ksl&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="223951-6" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <example id="223951-8" value="a man of humble origin" origin="lexin" date="2009-02-24">
+      <translation value="en anspr&#xE5;ksl&#xF6;s man" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="223951-7" value="eat humble pie" origin="lexin" date="2009-02-24">
+      <translation value="sv&#xE4;lja f&#xF6;r&#xF6;dmjukelsen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="humble" lang="en" class="jj" id="223971" origin="lexin" date="2009-02-24">
+    <translation id="223971-1" value="ringa" origin="lexin" date="2009-02-24"/>
+    <translation id="223971-2" value="blygsam" origin="lexin" date="2009-02-24"/>
+    <translation id="223971-3" value="anspr&#xE5;ksl&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="223971-4" value="oansenlig" origin="lexin" date="2009-02-24"/>
+    <translation id="223971-5" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="low" lang="en" class="jj" id="262481" origin="lexin" date="2009-02-24">
+    <translation id="262481-1" value="l&#xE5;g" comment="motortekniskt" origin="lexin" date="2009-02-24"/>
+    <example id="262481-2" value="use a low gear now" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE4;gg in en l&#xE4;gre v&#xE4;xel nu" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="jj" id="262491" origin="lexin" date="2009-02-24">
+    <translation id="262491-1" value="l&#xE5;g" comment="musikaliskt" origin="lexin" date="2009-02-24"/>
+    <example id="262491-2" value="this is too low for me; after all I am a tenor" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xE4;r &#xE4;r f&#xF6;r l&#xE5;gt f&#xF6;r mig; jag &#xE4;r ju trots allt tenor" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="jj" id="262501" origin="lexin" date="2009-02-24">
+    <translation id="262501-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262501-2" value="inte h&#xF6;g" origin="lexin" date="2009-02-24"/>
+    <example id="262501-3" value="see that low building over there?" origin="lexin" date="2009-02-24">
+      <translation value="ser du den l&#xE5;ga byggnaden d&#xE4;r borta?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="ab" id="262511" origin="lexin" date="2009-02-24">
+    <translation id="262511-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262511-2" value="inte h&#xF6;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262511-3" value="n&#xE4;ra marken" origin="lexin" date="2009-02-24"/>
+    <example id="262511-4" value="the plane was flying low" origin="lexin" date="2009-02-24">
+      <translation value="planet fl&#xF6;g l&#xE5;gt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="jj" id="262521" origin="lexin" date="2009-02-24">
+    <translation id="262521-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262521-2" value="inte h&#xF6;gt ovan marken" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="262521-4" value="the clouds are low today" origin="lexin" date="2009-02-24">
+      <translation value="molnen ligger tungt i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="262521-3" value="be of low birth" origin="lexin" date="2009-02-24">
+      <translation value="vara av l&#xE5;g b&#xF6;rd" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="low" lang="en" class="jj" id="262531" origin="lexin" date="2009-02-24">
+    <translation id="262531-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262531-2" value="liten i storlek" origin="lexin" date="2009-02-24"/>
+    <translation id="262531-3" value="v&#xE4;rde" origin="lexin" date="2009-02-24"/>
+    <translation id="262531-4" value="grad etcetera" origin="lexin" date="2009-02-24"/>
+    <example id="262531-6" value="a low temperature" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;g temperatur" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="262531-7" value="the price is low" origin="lexin" date="2009-02-24">
+      <translation value="priset &#xE4;r l&#xE5;gt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="262531-5" value="low income" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;g inkomst" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="low" lang="en" class="jj" id="262541" origin="lexin" date="2009-02-24">
+    <translation id="262541-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262541-2" value="negativ" origin="lexin" date="2009-02-24"/>
+    <example id="262541-3" value="she has a very low opinion of me, it seems" origin="lexin" date="2009-02-24">
+      <translation value="hon verkar tycka ganska illa om mig" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="jj" id="262551" origin="lexin" date="2009-02-24">
+    <translation id="262551-1" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262551-2" value="svag" origin="lexin" date="2009-02-24"/>
+    <example id="262551-3" value="there was a low noise" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xF6;rdes ett svagt ov&#xE4;sen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="low" lang="en" class="jj" id="262611" origin="lexin" date="2009-02-24">
+    <translation id="262611-1" value="nedrig" origin="lexin" date="2009-02-24"/>
+    <translation id="262611-2" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="262611-3" value="gemen" origin="lexin" date="2009-02-24"/>
+    <example id="262611-4" value="that was a low thing to do" origin="lexin" date="2009-02-24">
+      <translation value="det var nedrigt gjort" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="mean" lang="en" class="jj" id="269991" origin="lexin" date="2009-02-24">
+    <translation id="269991-1" value="ringa" origin="lexin" date="2009-02-24"/>
+    <translation id="269991-2" value="oansenlig" origin="lexin" date="2009-02-24"/>
+    <translation id="269991-3" value="enkel" origin="lexin" date="2009-02-24"/>
+    <translation id="269991-4" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="short" lang="en" class="jj" id="380411" origin="lexin" date="2009-02-24">
+    <translation id="380411-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-2" value="kort-" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-3" value="kortvarig" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-4" value="kortfattad" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-5" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-6" value="liten" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="waft" lang="en" id="549701" origin="user" date="2017-02-24T01:34:51">
+    <translation id="549701-1" value="l&#xE5;g" origin="user" date="2017-02-24T01:34:51"/>
+  </word>
+</definition>

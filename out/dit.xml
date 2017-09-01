@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="dit" lang="sv" class="ab" id="32550" lexinid="3255" origin="lexin" date="2011-03-03">
+    <translation id="32550-3149" value="that way" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="32550-3150" value="there" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="32550-3151" value="in that direction" origin="user" date="2012-01-26T00:06:51"/>
+    <phonetic value="di:t" soundFile="dit.swf" date="2011-03-03"/>
+    <synonym value="d&#xE4;r&#xE5;t" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dit||dit..1||dit..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1846" value="han vinglade hit och dit" date="2011-03-03">
+      <translation value="he staggered all over the place"/>
+    </example>
+    <example id="1847" value="det h&#xF6;r inte dit" date="2011-03-03">
+      <translation value="that&amp;#39;s irrelevant"/>
+    </example>
+    <example id="1848" value="titta inte dit!" date="2011-03-03">
+      <translation value="don&amp;#39;t look there!"/>
+    </example>
+    <example id="1849" value="resa dit" date="2011-03-03">
+      <translation value="travel there"/>
+    </example>
+    <definition id="3148" value="till det st&#xE4;llet" date="2011-03-03">
+      <translation value="to that place"/>
+    </definition>
+  </word>
+  <word value="dit" lang="sv" class="ab" id="32560" lexinid="3256" origin="lexin" date="2011-03-03">
+    <translation id="32560-3150" value="where" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="32560-3151" value="there" origin="user" date="2012-01-26T00:06:51"/>
+    <phonetic value="di:t" soundFile="dit.swf" date="2011-03-03"/>
+    <synonym value="d&#xE4;r&#xE5;t" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dit||dit..1||dit..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1850" value="hon kom till Stockholm dit hennes familj just hade anl&#xE4;nt" date="2011-03-03">
+      <translation value="she came to Stockholm, where her family had just arrived"/>
+    </example>
+    <definition id="3149" value="till vilken plats; till vilket st&#xE4;lle" date="2011-03-03">
+      <translation value="to which place"/>
+    </definition>
+  </word>
+  <word value="there" lang="en" class="ab" id="417161" origin="lexin" date="2009-02-24">
+    <translation id="417161-1" value="dit" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="thither" lang="en" class="ab" id="417861" origin="lexin" date="2009-02-24">
+    <translation id="417861-1" value="dit" comment="gammaldags" origin="lexin" date="2009-02-24"/>
+    <idiom id="417861-2" value="hither and thither" origin="lexin" date="2009-02-24">
+      <translation value="hit och dit" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

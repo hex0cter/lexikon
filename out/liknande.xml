@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="100020" lang="sv" lexinid="10002" origin="lexin" value="liknande">
+    <translation date="2011-03-03" id="9826" value="similar"/>
+    <phonetic date="2011-03-03" soundFile="liknande.swf" value="&#xB2;lI:knande"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="dylik"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="likartad"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="motsvarighet"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="snarlika"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="liknande||liknande..1||liknande..av.1"/>
+    <example date="2011-03-03" id="5453" value="p&#xE5; liknande s&#xE4;tt">
+      <translation value="in a similar manner"/>
+    </example>
+    <example date="2011-03-03" id="5454" value="jag har aldrig sett n&#xE5;got liknande">
+      <translation value="I&amp;#39;ve never seen anything like it"/>
+    </example>
+    <definition date="2011-03-03" id="9636" value="(n&#xE4;stan) likadan, likartad"/>
+  </word>
+  <word value="akin" lang="en" class="jj" id="9571" origin="lexin" date="2009-02-24">
+    <translation id="9571-1" value="liknande" origin="lexin" date="2009-02-24"/>
+    <translation id="9571-2" value="besl&#xE4;ktad med" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="analogous" lang="en" class="jj" id="13091" lexinid="336" origin="lexin" date="2009-02-24">
+    <translation id="13091-1" value="analog" origin="lexin" date="2009-02-24"/>
+    <translation id="13091-2" value="j&#xE4;mf&#xF6;rbar" origin="lexin" date="2009-02-24"/>
+    <translation id="13091-3" value="likartad" origin="lexin" date="2009-02-24"/>
+    <translation id="13091-4" value="liknande" origin="lexin" date="2009-02-24"/>
+    <translation id="13091-5" value="motsvarande" origin="lexin" date="2009-02-24"/>
+    <example id="13091-6" value="in similar fashion, in like manner" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; analogt s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="*corresponding to, *resembling, *similar" origin="lexin" date="2009-02-24">
+      <translation value="motsvarande, likartad" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="kindred" lang="en" class="jj" id="245971" origin="lexin" date="2009-02-24">
+    <translation id="245971-1" value="befryntad" origin="lexin" date="2009-02-24"/>
+    <translation id="245971-2" value="besl&#xE4;ktad" origin="lexin" date="2009-02-24"/>
+    <translation id="245971-3" value="liknande" origin="lexin" date="2009-02-24"/>
+    <example id="245971-5" value="his ideas are kindred to mine" origin="lexin" date="2009-02-24">
+      <translation value="hans id&#xE9;er p&#xE5;minner om mina" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="245971-4" value="kindred spirits" origin="lexin" date="2009-02-24">
+      <translation value="sj&#xE4;lsfr&#xE4;nder" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="like" lang="en" class="jj" id="257141" origin="lexin" date="2009-02-24">
+    <translation id="257141-1" value="av samma typ" origin="lexin" date="2009-02-24"/>
+    <translation id="257141-2" value="av samma sort" origin="lexin" date="2009-02-24"/>
+    <translation id="257141-3" value="liknande" comment="formellt" origin="lexin" date="2009-02-24"/>
+    <example id="257141-5" value="she used to play badminton, tennis and like games" origin="lexin" date="2009-02-24">
+      <translation value="hon brukade spela badminton, tennis och liknande spel" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="257141-4" value="as like as two peas (in a pod)" origin="lexin" date="2009-02-24">
+      <translation value="lika som tv&#xE5; b&#xE4;r (informellt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="like" lang="en" class="pp" id="257181" origin="lexin" date="2009-02-24">
+    <translation id="257181-1" value="med samma egenskaper som" origin="lexin" date="2009-02-24"/>
+    <translation id="257181-2" value="liknande" origin="lexin" date="2009-02-24"/>
+    <example id="257181-3" value="I think I am very like my father" origin="lexin" date="2009-02-24">
+      <translation value="jag tror att jag &#xE4;r v&#xE4;ldigt lik min far" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257181-4" value="it looks like new now" origin="lexin" date="2009-02-24">
+      <translation value="den ser ut som ny nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="257181-5" value="there&amp;#39;s nothing like a nice cup of tea" origin="lexin" date="2009-02-24">
+      <translation value="ingenting g&#xE5;r upp mot en h&#xE4;rlig kopp te" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="similar" lang="en" class="jj" id="382821" origin="lexin" date="2009-02-24">
+    <translation id="382821-1" value="liknande" origin="lexin" date="2009-02-24"/>
+    <example id="382821-2" value="This film is similar to the one we saw last week." origin="lexin" date="2009-02-24">
+      <translation value="Den h&#xE4;r filmen liknar den vi s&#xE5;g f&#xF6;rra veckan." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="382821-3" value="The two cars have similar performance, but differ a great deal in price." origin="lexin" date="2009-02-24">
+      <translation value="De tv&#xE5; bilarna har liknande prestanda men skiljer sig mycket i pris." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="having some features in common with something" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

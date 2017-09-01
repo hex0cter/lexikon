@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="s&#xE4;rskild" lang="sv" class="jj" id="183090" lexinid="18310" origin="lexin" date="2011-03-03">
+    <translation id="183090-17702" value="particular" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="183090-17703" value="special" origin="user" date="2012-03-19T05:00:13"/>
+    <phonetic value="&#xB2;s&#xC4;:r$il:d" soundFile="s&#xE4;rskild.swf" date="2011-03-03"/>
+    <paradigm id="15989" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;rskilt"/>
+      <inflection value="s&#xE4;rskilda"/>
+    </paradigm>
+    <synonym value="specifik" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;rskild||s&#xE4;rskild..1||s&#xE4;rskild..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10331" value="s&#xE4;rskilda &#xE5;tg&#xE4;rder" date="2011-03-03">
+      <translation value="special measures"/>
+    </example>
+    <example id="10332" value="&#xE4;gna s&#xE4;rskild uppm&#xE4;rksamhet &#xE5;t n&#xE5;got" date="2011-03-03">
+      <translation value="give particular attention to sth."/>
+    </example>
+    <definition id="17701" value="speciell" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;rskild" lang="sv" class="jj" id="183100" lexinid="18311" origin="lexin" date="2011-03-03">
+    <translation id="183100-17703" value="particular" origin="user" date="2012-02-02T00:55:04"/>
+    <translation id="183100-17704" value="special" origin="user" date="2012-02-02T00:55:04"/>
+    <phonetic value="&#xB2;s&#xC4;:r$il:d" soundFile="s&#xE4;rskild.swf" date="2011-03-03"/>
+    <paradigm id="15990" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;rskilt"/>
+      <inflection value="s&#xE4;rskilda"/>
+    </paradigm>
+    <synonym value="specifik" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;rskild||s&#xE4;rskild..1||s&#xE4;rskild..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10333" value="har du t&#xE4;nkt dig n&#xE5;gon s&#xE4;rskild f&#xE4;rg?" date="2011-03-03">
+      <translation value="have you any particular colour in mind?"/>
+    </example>
+    <definition id="17702" value="viss best&#xE4;md (person el. sak)" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;rskilja" lang="sv" class="vb" id="183110" lexinid="18312" origin="lexin" date="2011-03-03">
+    <translation id="183110-17704" value="separate" origin="user" date="2012-04-16T04:30:09"/>
+    <translation id="183110-17705" value="keep separate" origin="user" date="2012-04-16T04:30:09"/>
+    <phonetic value="&#xB2;s&#xC4;:r$il:jer" soundFile="s&#xE4;rskiljer.swf" date="2011-03-03"/>
+    <paradigm id="15991" origin="lexin" date="2011-03-03">
+      <inflection value="s&#xE4;rskilde"/>
+      <inflection value="s&#xE4;rskilt"/>
+      <inflection value="s&#xE4;rskilj"/>
+      <inflection value="s&#xE4;rskilja"/>
+      <inflection value="s&#xE4;rskiljer"/>
+    </paradigm>
+    <synonym value="separera" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;rskilja||s&#xE4;rskilja..1||s&#xE4;rskilja..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10334" value="det gick inte att s&#xE4;rskilja v&#xE4;n och fiende i m&#xF6;rkret" date="2011-03-03">
+      <translation value="it was impossible to separate friend from foe in the darkness"/>
+    </example>
+    <definition id="17703" value="h&#xE5;lla is&#xE4;r" date="2011-03-03">
+      <translation value="distinguish between"/>
+    </definition>
+    <grammar value="A &amp; x och y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="s&#xE4;rskilt" lang="sv" class="ab" id="183120" lexinid="18313" origin="lexin" date="2011-03-03">
+    <translation id="183120-17705" value="particularly" origin="user" date="2012-02-02T00:55:04"/>
+    <translation id="183120-17706" value="especially" origin="user" date="2012-02-02T00:55:04"/>
+    <phonetic value="&#xB2;s&#xC4;:r$il:t" soundFile="s&#xE4;rskilt.swf" date="2011-03-03"/>
+    <synonym value="i synnerhet" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="speciellt" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="s&#xE4;rskilt||s&#xE4;rskilt..1||s&#xE4;rskilt..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10335" value="alla klarade skrivningen bra, s&#xE4;rskilt flickorna" date="2011-03-03">
+      <translation value="everyone, especially the girls, did well in the examination (the written text)"/>
+    </example>
+    <definition id="17704" value="i synnerhet" date="2011-03-03"/>
+  </word>
+  <word value="especially" lang="en" class="ab" id="160351" origin="lexin" date="2009-02-24">
+    <translation id="160351-1" value="s&#xE4;rskilt" origin="lexin" date="2009-02-24"/>
+    <translation id="160351-2" value="speciellt" origin="lexin" date="2009-02-24"/>
+    <translation id="160351-3" value="i synnerhet" origin="lexin" date="2009-02-24"/>
+    <translation id="160351-4" value="synnerligen" origin="lexin" date="2009-02-24"/>
+    <example id="160351-5" value="everyone, especially the girls, did well in the examination" origin="lexin" date="2009-02-24">
+      <translation value="alla klarade skrivningen bra, s&#xE4;rskilt flickorna" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="particularly" lang="en" class="ab" id="306351" origin="lexin" date="2009-02-24">
+    <translation id="306351-1" value="s&#xE4;rskilt" origin="lexin" date="2009-02-24"/>
+    <translation id="306351-2" value="i synnerhet" origin="lexin" date="2009-02-24"/>
+    <example id="306351-3" value="everyone, and particularly the girls, did well in the examination" origin="lexin" date="2009-02-24">
+      <translation value="alla klarade skrivningen bra och s&#xE4;rskilt d&#xE5; flickorna" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="peculiarly" lang="en" class="ab" id="310391" origin="lexin" date="2009-02-24">
+    <translation id="310391-1" value="speciellt" origin="lexin" date="2009-02-24"/>
+    <translation id="310391-2" value="s&#xE4;rskilt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="nicety" lang="en" id="531251" origin="user" date="2014-03-21T04:44:13">
+    <translation id="531251-1" value="s&#xE4;rskilt" origin="user" date="2014-03-21T04:44:13"/>
+  </word>
+</definition>

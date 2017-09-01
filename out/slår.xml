@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="sl&#xE5;" lang="sv" class="vb" id="163940" lexinid="16395" origin="lexin" comment="i fraser f&#xF6;rsvagat &amp;quot;g&#xF6;ra&amp;quot;" date="2011-03-03">
+    <translation id="163940-15878" value="hit" origin="user" date="2012-03-20T03:55:31"/>
+    <translation id="163940-15879" value="beat" origin="user" date="2012-03-20T03:55:31"/>
+    <translation id="163940-15880" value="knock" origin="user" date="2012-03-20T03:55:31"/>
+    <translation id="163940-15881" value="strike" origin="user" date="2012-03-20T03:55:31"/>
+    <translation id="163940-15882" value="smite" origin="user" date="2012-03-20T03:55:31"/>
+    <phonetic value="sl&#xE5;:r" soundFile="sl&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="14303" origin="lexin" date="2011-03-03">
+      <inflection value="slog"/>
+      <inflection value="slagit"/>
+      <inflection value="sl&#xE5;"/>
+      <inflection value="sl&#xE5;r"/>
+    </paradigm>
+    <synonym value="aga" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="banka" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="bulta" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="daska" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="dr&#xE4;mma till" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="d&#xE4;nga" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="kl&#xE5; upp" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="mangla" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="nita" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="puckla" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="smiska" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="sp&#xF6;a" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="sl&#xE5;||sl&#xE5;..1||sl&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="sl&#xE5;||sl&#xE5;..9||sl&#xE5;..vb.1" type="saldo" origin="saldo" date="2014-06-28"/>
+    <example id="9248" value="hon slog till honom och han slog tillbaka" date="2011-03-03">
+      <translation value="she hit him and he hit back"/>
+    </example>
+    <example id="9249" value="sl&#xE5; n&#xE5;gon p&#xE5; k&#xE4;ften" date="2011-03-03">
+      <translation value="punch sby on the jaw"/>
+    </example>
+    <example id="9250" value="blixten slog ner" date="2011-03-03">
+      <translation value="be struck by lightning"/>
+    </example>
+    <idiom id="1403" value="sl&#xE5; d&#xF6;v&#xF6;rat till (&amp;quot;v&#xE4;gra lyssna&amp;quot;)" date="2011-03-03">
+      <translation value="turn a deaf ear to (&amp;quot;refuse to listen&amp;quot;)"/>
+    </idiom>
+    <idiom id="1404" value="sl&#xE5; p&#xE5; stort (&amp;quot;bjuda p&#xE5; ett storslaget s&#xE4;tt&amp;quot;)" date="2011-03-03">
+      <translation value="go in for sth. in a big way (&amp;quot;do sth. in a grandiose fashion&amp;quot;)"/>
+    </idiom>
+    <idiom id="1405" value="sl&#xE5; vad (&amp;quot;t&#xE4;vla om vem som har r&#xE4;tt o dyl&amp;quot;)" date="2011-03-03">
+      <translation value="bet (&amp;quot;wager as to the outcome of&amp;quot;)"/>
+    </idiom>
+    <idiom id="1406" value="sl&#xE5; vakt om (&amp;quot;v&#xE4;rna&amp;quot;)" date="2011-03-03">
+      <translation value="stand up for (&amp;quot;protect&amp;quot;)"/>
+    </idiom>
+    <idiom id="1407" value="sl&#xE5; l&#xE4;ger (&amp;quot;uppr&#xE4;tta l&#xE4;ger&amp;quot;)" date="2011-03-03">
+      <translation value="pitch camp"/>
+    </idiom>
+    <idiom id="1408" value="sl&#xE5; fel (&amp;quot;misslyckas&amp;quot;)" date="2011-03-03">
+      <translation value="go wrong (&amp;quot;fail&amp;quot;)"/>
+    </idiom>
+    <definition id="15877" value="ge (ett) slag, sm&#xE4;lla till" date="2011-03-03"/>
+    <grammar value="A &amp; B" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="sl&#xE5;" lang="sv" class="vb" id="163950" lexinid="16396" origin="lexin" date="2011-03-03">
+    <translation id="163950-15879" value="strike" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="163950-15880" value="cross one&amp;#39;s mind" origin="user" date="2012-03-14T01:25:35"/>
+    <phonetic value="sl&#xE5;:r" soundFile="sl&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="14304" origin="lexin" date="2011-03-03">
+      <inflection value="slog"/>
+      <inflection value="slagit"/>
+      <inflection value="sl&#xE5;"/>
+      <inflection value="sl&#xE5;r"/>
+    </paradigm>
+    <see value="sl&#xE5;||sl&#xE5;..3||sl&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9251" value="det slog mig att jag hade fel" date="2011-03-03">
+      <translation value="it struck me that I was wrong"/>
+    </example>
+    <definition id="15878" value="ge insikt" date="2011-03-03"/>
+    <grammar value="x &amp; A" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="sl&#xE5;" lang="sv" class="vb" id="163960" lexinid="16397" origin="lexin" date="2011-03-03">
+    <translation id="163960-15880" value="cut" origin="user" date="2011-12-31T10:30:50"/>
+    <translation id="163960-15881" value="reap" origin="user" date="2011-12-31T10:30:50"/>
+    <phonetic value="sl&#xE5;:r" soundFile="sl&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="14305" origin="lexin" date="2011-03-03">
+      <inflection value="slog"/>
+      <inflection value="slagit"/>
+      <inflection value="sl&#xE5;"/>
+      <inflection value="sl&#xE5;r"/>
+    </paradigm>
+    <see value="sl&#xE5;||sl&#xE5;..2||sl&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9252" value="sl&#xE5; h&#xF6;et" date="2011-03-03">
+      <translation value="make hay"/>
+    </example>
+    <definition id="15879" value="sk&#xE4;ra, meja" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="sl&#xE5;" lang="sv" class="vb" id="163970" lexinid="16398" origin="lexin" date="2011-03-03">
+    <translation id="163970-15881" value="defeat" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="163970-15882" value="beat" origin="user" date="2012-03-14T01:25:35"/>
+    <phonetic value="sl&#xE5;:r" soundFile="sl&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="14306" origin="lexin" date="2011-03-03">
+      <inflection value="slog"/>
+      <inflection value="slagit"/>
+      <inflection value="sl&#xE5;"/>
+      <inflection value="sl&#xE5;r"/>
+    </paradigm>
+    <synonym value="besegra" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="kl&#xE5;" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="sp&#xF6;a" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="vinna" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="sl&#xE5;||sl&#xE5;..4||sl&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9253" value="pj&#xE4;sen slog an hos publiken" date="2011-03-03">
+      <translation value="the play was highly popular with the audience"/>
+    </example>
+    <example id="9254" value="sl&#xE5;s ut fr&#xE5;n arbetsmarknaden" date="2011-03-03">
+      <translation value="be knocked out of the labour market"/>
+    </example>
+    <example id="9255" value="hemmalaget blev slaget med 4--0" date="2011-03-03">
+      <translation value="the home team lost 4--0"/>
+    </example>
+    <example id="9256" value="sl&#xE5; rekord" date="2011-03-03">
+      <translation value="break a record"/>
+    </example>
+    <example id="9257" value="sl&#xE5; ut svagare individer" date="2011-03-03">
+      <translation value="knock the more vulnerable individuals out of the running"/>
+    </example>
+    <definition id="15880" value="vinna &#xF6;ver, besegra" date="2011-03-03"/>
+    <grammar value="A &amp; B/x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="163980" lang="sv" lexinid="16399" origin="lexin" value="sl&#xE5;">
+    <translation date="2011-03-03" id="16113" value="pour"/>
+    <phonetic date="2011-03-03" soundFile="sl&#xE5;r.swf" value="sl&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="14307" origin="lexin">
+      <inflection value="slog"/>
+      <inflection value="slagit"/>
+      <inflection value="sl&#xE5;"/>
+      <inflection value="sl&#xE5;r"/>
+    </paradigm>
+    <example date="2011-03-03" id="9258" value="sl&#xE5; upp en kopp kaffe">
+      <translation value="pour a cup of coffee"/>
+    </example>
+    <example date="2011-03-03" id="9259" value="sl&#xE5; ut diskvattnet">
+      <translation value="pour out the dishwater"/>
+    </example>
+    <example date="2011-03-03" id="9260" value="sl&#xE5; p&#xE5; kokande mj&#xF6;lk">
+      <translation value="pour in the boiling milk"/>
+    </example>
+    <definition date="2011-03-03" id="15881" value="h&#xE4;lla"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; upp/i/ut etc x"/>
+  </word>
+</definition>

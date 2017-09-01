@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="30750" lang="sv" lexinid="3075" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3035" value="it, he, she"/>
+    <use date="2011-03-03" value="anger n&#xE5;got tidigare omtalat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2692" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1749" value="Var &#xE4;r boken? -- Den &#xE4;r h&#xE4;r">
+      <translation value="Where is the book? It is here"/>
+    </example>
+    <example date="2011-03-03" id="1750" value="de klarade sig">
+      <translation value="they made it"/>
+    </example>
+  </word>
+  <word class="pn" date="2011-03-03" id="30760" lang="sv" lexinid="3076" origin="lexin" value="den">
+    <translation date="2011-03-03" id="3036" value="that"/>
+    <use date="2011-03-03" value="utpekande och ibland betonat"/>
+    <phonetic date="2011-03-03" soundFile="den.swf" value="den:"/>
+    <paradigm date="2011-03-03" id="2693" origin="lexin">
+      <inflection value="det"/>
+      <inflection value="dess"/>
+      <inflection value="de"/>
+      <inflection value="dom"/>
+      <inflection value="deras"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="saken d&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="den||den..2||den..pn.1"/>
+    <example date="2011-03-03" id="1751" value="den boken har jag inte l&#xE4;st">
+      <translation value="I have not read that book"/>
+    </example>
+    <idiom date="2011-03-03" id="236" value="de d&#xE4;r (skorna)">
+      <translation value="those (shoes)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="237" value="den h&#xE4;r (boken)">
+      <translation value="this (book)"/>
+    </idiom>
+  </word>
+  <word value="deras" lang="sv" id="30900" lexinid="3090" origin="lexin" date="2011-03-03">
+    <translation id="30900-1" value="theirs" origin="user" date="2012-02-02T00:55:07"/>
+    <translation id="30900-2" value="their" origin="user" date="2012-02-02T00:55:07"/>
+    <phonetic value="&#xB2;dE:ras" soundFile="deras.swf" date="2011-03-03"/>
+    <see id="30750,30760" value="den" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="their" lang="en" class="pn" id="416971" origin="lexin" date="2009-02-24">
+    <translation id="416971-1" value="deras" origin="lexin" date="2009-02-24"/>
+    <translation id="416971-2" value="dess" origin="lexin" date="2009-02-24"/>
+    <grammar value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="theirs" lang="en" class="pn" id="416981" origin="lexin" date="2009-02-24">
+    <translation id="416981-1" value="deras" origin="lexin" date="2009-02-24"/>
+    <translation id="416981-2" value="sin" origin="lexin" date="2009-02-24"/>
+    <grammar value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="their" lang="en" class="pn" id="429281" origin="lexin" date="2009-02-24">
+    <translation id="429281-1" value="deras" origin="lexin" date="2009-02-24"/>
+    <translation id="429281-2" value="sina" origin="lexin" date="2009-02-24"/>
+    <translation id="429281-3" value="sin" origin="lexin" date="2009-02-24"/>
+    <paradigm id="429281-7" origin="lexin" date="2009-02-24">
+      <inflection value="f&#xF6;renat" origin="lexin" date="2009-02-24"/>
+      <inflection value="possessivt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="429281-4" value="These are their tickets." origin="user" date="2012-11-20T02:05:00"/>
+    <example id="429281-5" value="They washed their hands." origin="lexin" date="2009-02-24">
+      <translation value="De tv&#xE4;ttade sina h&#xE4;nder." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="429281-6" value="They had to sell their house." origin="lexin" date="2009-02-24">
+      <translation value="De var tvungna att s&#xE4;lja sitt hus." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to something owned by or relating to a group of people, animals or things." origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person plural" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

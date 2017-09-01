@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="h&#xE5;lla" lang="sv" class="vb" id="71830" lexinid="7183" origin="lexin" date="2011-03-03">
+    <translation id="71830-6915" value="grasp" origin="user" date="2011-11-12T00:14:38"/>
+    <translation id="71830-6916" value="hold" origin="user" date="2011-11-12T00:14:38"/>
+    <translation id="71830-6917" value="grip" origin="user" date="2011-11-12T00:14:38"/>
+    <phonetic value="h&#xC5;l:er" soundFile="h&#xE5;ller.swf" date="2011-03-03"/>
+    <paradigm id="6241" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xF6;ll"/>
+      <inflection value="h&#xE5;llit"/>
+      <inflection value="h&#xE5;ll"/>
+      <inflection value="h&#xE5;lla"/>
+      <inflection value="h&#xE5;ller"/>
+    </paradigm>
+    <see value="h&#xE5;lla||h&#xE5;lla..1||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..2||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..3||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..4||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..5||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4217" value="h&#xE5;ll i handtaget!" date="2011-03-03">
+      <translation value="hold onto the handle!"/>
+    </example>
+    <example id="4218" value="h&#xE5;lla (i) en spade" date="2011-03-03">
+      <translation value="hold a spade"/>
+    </example>
+    <definition id="6914" value="ha i handen, gripa, fatta" date="2011-03-03"/>
+    <grammar value="A &amp; (i) x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE5;lla" lang="sv" class="vb" id="71840" lexinid="7184" origin="lexin" comment="bildligt &amp;quot;bibeh&#xE5;lla, bevara&amp;quot;" date="2011-03-03">
+    <translation id="71840-6916" value="hold" origin="user" date="2012-03-10T00:55:38"/>
+    <translation id="71840-6917" value="keep" origin="user" date="2012-03-10T00:55:38"/>
+    <phonetic value="h&#xC5;l:er" soundFile="h&#xE5;ller.swf" date="2011-03-03"/>
+    <paradigm id="6242" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xF6;ll"/>
+      <inflection value="h&#xE5;llit"/>
+      <inflection value="h&#xE5;ll"/>
+      <inflection value="h&#xE5;lla"/>
+      <inflection value="h&#xE5;ller"/>
+    </paradigm>
+    <see value="h&#xE5;lla||h&#xE5;lla..1||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..2||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..3||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..4||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..5||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4219" value="h&#xE5;ll hunden tills jag kommer!" date="2011-03-03"/>
+    <idiom id="560" value="h&#xE5;lla i sig (&amp;quot;forts&#xE4;tta&amp;quot;)" date="2011-03-03">
+      <translation value="keep on (&amp;quot;continue&amp;quot;)"/>
+    </idiom>
+    <idiom id="561" value="h&#xE5;lla (&amp;quot;infria&amp;quot;) ett l&#xF6;fte" date="2011-03-03">
+      <translation value="keep (&amp;quot;fulfil&amp;quot;) a promise"/>
+    </idiom>
+    <idiom id="562" value="h&#xE5;lla ett &#xF6;ga p&#xE5; n&#xE5;gon (&amp;quot;vakta n&#xE5;gon&amp;quot;)" date="2011-03-03">
+      <translation value="keep an eye on sby (&amp;quot;guard sby&amp;quot;)"/>
+    </idiom>
+    <idiom id="563" value="h&#xE5;lla i minnet (&amp;quot;komma ih&#xE5;g&amp;quot;)" date="2011-03-03">
+      <translation value="keep in mind (&amp;quot;remember&amp;quot;)"/>
+    </idiom>
+    <idiom id="564" value="h&#xE5;lla andan (&amp;quot;l&#xE5;ta bli att andas&amp;quot;)" date="2011-03-03">
+      <translation value="hold one&amp;#39;s breath (&amp;quot;refrain from breathing&amp;quot;)"/>
+    </idiom>
+    <definition id="6915" value="hindra fr&#xE5;n att &#xE4;ndra l&#xE4;ge; kvarh&#xE5;lla" date="2011-03-03"/>
+    <grammar value="A/x &amp; B/y" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE5;lla" lang="sv" class="vb" id="71850" lexinid="7185" origin="lexin" date="2011-03-03">
+    <translation id="7051" value="keep" date="2011-03-03"/>
+    <phonetic value="h&#xC5;l:er" soundFile="h&#xE5;ller.swf" date="2011-03-03"/>
+    <paradigm id="6243" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xF6;ll"/>
+      <inflection value="h&#xE5;llit"/>
+      <inflection value="h&#xE5;ll"/>
+      <inflection value="h&#xE5;lla"/>
+      <inflection value="h&#xE5;ller"/>
+    </paradigm>
+    <see value="h&#xE5;lla||h&#xE5;lla..1||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..2||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..3||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..4||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..5||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4220" value="tyget har h&#xE5;llit i m&#xE5;nga &#xE5;r" date="2011-03-03">
+      <translation value="the cloth has worn well for many years"/>
+    </example>
+    <example id="4221" value="mj&#xF6;lken h&#xE5;ller sig en vecka" date="2011-03-03">
+      <translation value="the milk will keep for a week"/>
+    </example>
+    <compound id="2679" value="h&#xE5;ll|bar" date="2011-03-03">
+      <translation value="durable"/>
+    </compound>
+    <idiom id="565" value="det h&#xE5;ller inte (&amp;quot;det &#xE4;r inte rimligt i l&#xE4;ngden&amp;quot;) att forts&#xE4;tta s&#xE5; h&#xE4;r" date="2011-03-03">
+      <translation value="we can&amp;#39;t go on like this (&amp;quot;it won&amp;#39;t work out in the long run&amp;quot;)"/>
+    </idiom>
+    <idiom id="566" value="(springa) allt vad tygen h&#xE5;ller (&amp;quot;s&#xE5; fort man kan&amp;quot;)" date="2011-03-03">
+      <translation value="(run) for one&amp;#39;s life (&amp;quot;as fast as possible&amp;quot;)"/>
+    </idiom>
+    <definition id="6916" value="inte bli f&#xF6;rst&#xF6;rd, inte g&#xE5; s&#xF6;nder, vara stark nog" date="2011-03-03">
+      <translation value="not become destroyed or broken, be sufficiently strong"/>
+    </definition>
+    <grammar value="x &amp;; x &amp; sig" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE5;lla" lang="sv" class="vb" id="71860" lexinid="7186" origin="lexin" date="2011-03-03">
+    <translation id="7052" value="stop" date="2011-03-03"/>
+    <phonetic value="h&#xC5;l:er" soundFile="h&#xE5;ller.swf" date="2011-03-03"/>
+    <paradigm id="6244" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xF6;ll"/>
+      <inflection value="h&#xE5;llit"/>
+      <inflection value="h&#xE5;ll"/>
+      <inflection value="h&#xE5;lla"/>
+      <inflection value="h&#xE5;ller"/>
+    </paradigm>
+    <synonym value="greppa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..1||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..2||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..3||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..4||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..5||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="2680" value="h&#xE5;ll|plats" date="2011-03-03">
+      <translation value="bus stop"/>
+    </compound>
+    <definition id="6917" value="stanna" date="2011-03-03"/>
+    <grammar value="A/x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="h&#xE5;lla" lang="sv" class="vb" id="71870" lexinid="7187" origin="lexin" comment="f&#xF6;rsvagat &amp;quot;ha&amp;quot;" date="2011-03-03">
+    <translation id="7053" value="hold" comment="weaker, &amp;quot;have&amp;quot;" date="2011-03-03"/>
+    <phonetic value="h&#xC5;l:er" soundFile="h&#xE5;ller.swf" date="2011-03-03"/>
+    <paradigm id="6245" origin="lexin" date="2011-03-03">
+      <inflection value="h&#xF6;ll"/>
+      <inflection value="h&#xE5;llit"/>
+      <inflection value="h&#xE5;ll"/>
+      <inflection value="h&#xE5;lla"/>
+      <inflection value="h&#xE5;ller"/>
+    </paradigm>
+    <see value="h&#xE5;lla||h&#xE5;lla..1||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..2||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..3||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..4||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="h&#xE5;lla||h&#xE5;lla..5||h&#xE5;lla..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4222" value="h&#xE5;lla f&#xF6;redrag" date="2011-03-03">
+      <translation value="give a talk"/>
+    </example>
+    <example id="4223" value="h&#xE5;lla br&#xF6;llop" date="2011-03-03">
+      <translation value="arrange a wedding"/>
+    </example>
+    <definition id="6918" value="utf&#xF6;ra; anordna" date="2011-03-03">
+      <translation value="perform, arrange"/>
+    </definition>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

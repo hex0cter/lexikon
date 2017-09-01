@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ie" date="2011-03-03" id="8310" lang="sv" lexinid="831" origin="lexin" value="att">
+    <translation date="2011-03-03" id="819" value="to"/>
+    <use date="2011-03-03" value="endast framf&#xF6;r infinitiv"/>
+    <phonetic date="2011-03-03" soundFile="att.swf" value="at:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="att||att..1||att..ie.1"/>
+    <example date="2011-03-03" id="529" value="han steg in utan att knacka">
+      <translation value="he entered without knocking"/>
+    </example>
+    <example date="2011-03-03" id="530" value="vi har kommit f&#xF6;r att se kungen">
+      <translation value="we&amp;#39;ve come to see the king"/>
+    </example>
+    <example date="2011-03-03" id="531" value="jag har inte lust att komma">
+      <translation value="I don&amp;#39;t want to come"/>
+    </example>
+    <example date="2011-03-03" id="532" value="kursen kommer att inst&#xE4;llas">
+      <translation value="the course is going to be cancelled"/>
+    </example>
+    <example date="2011-03-03" id="533" value="hon kom f&#xF6;r att h&#xE4;mta bilen">
+      <translation value="she came to get the car"/>
+    </example>
+  </word>
+  <word class="kn" date="2011-03-03" id="8320" lang="sv" lexinid="832" origin="lexin" value="att">
+    <translation date="2011-03-03" id="820" value="that"/>
+    <use date="2011-03-03" value="allm&#xE4;n bisatsinledare"/>
+    <phonetic date="2011-03-03" soundFile="att.swf" value="at:"/>
+    <example date="2011-03-03" id="534" value="&#xE4;r du s&#xE4;ker p&#xE5; att han kommer?">
+      <translation value="are you sure he will be coming"/>
+    </example>
+    <example date="2011-03-03" id="535" value="jag s&#xE5;g att han kom">
+      <translation value="I saw him arriving"/>
+    </example>
+    <example date="2011-03-03" id="536" value="hon blev utsk&#xE4;lld f&#xF6;r att hon hade gl&#xF6;mt maten">
+      <translation value="she got a real telling-off for forgetting the food"/>
+    </example>
+    <example date="2011-03-03" id="537" value="att du inte sk&#xE4;ms!">
+      <translation value="shame on you!"/>
+    </example>
+    <example date="2011-03-03" id="538" value="vi somnade trots att musiken d&#xE5;nade">
+      <translation value="we fell asleep even though the music was blasting away"/>
+    </example>
+    <example date="2011-03-03" id="539" value="g&#xE5; nu, s&#xE5; att du hinner med t&#xE5;get!">
+      <translation value="off you go, so you won&amp;#39;t miss your train!"/>
+    </example>
+    <example date="2011-03-03" id="540" value="att du &#xE4;r tr&#xF6;tt kan jag f&#xF6;rst&#xE5;">
+      <translation value="I can understand that you&amp;#39;re tired"/>
+    </example>
+    <example date="2011-03-03" id="541" value="flickan spelade piano d&#xE4;rf&#xF6;r att hennes f&#xF6;r&#xE4;ldrar ville det">
+      <translation value="the girl played the piano because her parents wanted her to"/>
+    </example>
+    <example date="2011-03-03" id="542" value="jag tycker (att) du &#xE4;r s&#xF6;t">
+      <translation value="I think (that) you&amp;#39;re very pretty"/>
+    </example>
+  </word>
+  <word value="how" lang="en" class="kn" id="223461" origin="lexin" date="2009-02-24">
+    <translation id="223461-1" value="att" origin="lexin" date="2009-02-24"/>
+    <translation id="223461-2" value="det faktum att" origin="lexin" date="2009-02-24"/>
+    <example id="223461-3" value="I remember how he used to get so angry whenever someone mentioned her name" origin="lexin" date="2009-02-24">
+      <translation value="jag minns att han brukade bli s&#xE5; arg n&#xE4;r n&#xE5;gon n&#xE4;mnde hennes namn" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="lest" lang="en" class="kn" id="254151" origin="lexin" date="2009-02-24">
+    <translation id="254151-1" value="att" comment="formellt eller gammaldags" origin="lexin" date="2009-02-24"/>
+    <translation id="254151-2" value="f&#xF6;r att" comment="tillsammans med ord som uttrycker r&#xE4;dsla, fruktan och dylikt" origin="lexin" date="2009-02-24"/>
+    <example id="254151-3" value="I was afraid lest he should be upset" origin="lexin" date="2009-02-24">
+      <translation value="jag var r&#xE4;dd att han skulle bli uppr&#xF6;rd" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="that" lang="en" class="kn" id="416641" origin="lexin" date="2009-02-24">
+    <translation id="416641-1" value="att" origin="lexin" date="2009-02-24"/>
+    <translation id="416641-2" value="f&#xF6;r att" comment="litter&#xE4;r stil" origin="lexin" date="2009-02-24"/>
+    <translation id="416641-3" value="s&#xE5; att" origin="lexin" date="2009-02-24"/>
+    <example id="416641-4" value="I can understand that you&amp;#39;re tired" origin="lexin" date="2009-02-24">
+      <translation value="att du &#xE4;r tr&#xF6;tt kan jag f&#xF6;rst&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="to" lang="en" class="ie" id="420921" origin="lexin" date="2009-02-24">
+    <translation id="420921-1" value="att" comment="ofta utel&#xE4;mnat i svenska spr&#xE5;ket" origin="lexin" date="2009-02-24"/>
+    <example id="420921-2" value="I don&amp;#39;t want to come" origin="lexin" date="2009-02-24">
+      <translation value="jag har inte lust att komma" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="420921-3" value="she came to get the car" origin="lexin" date="2009-02-24">
+      <translation value="hon kom f&#xF6;r att h&#xE4;mta bilen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="420921-4" value="the course is going to be cancelled" origin="lexin" date="2009-02-24">
+      <translation value="kursen kommer att inst&#xE4;llas" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="420921-5" value="we&amp;#39;ve come to see the king" origin="lexin" date="2009-02-24">
+      <translation value="vi har kommit f&#xF6;r att se kungen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

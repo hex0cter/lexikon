@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" comment="anger manlig individ" date="2011-03-03" id="66880" lang="sv" lexinid="6688" origin="lexin" value="han">
+    <translation comment="indicates a male individual" date="2011-03-03" id="6572" value="he"/>
+    <use date="2011-03-03" value="b&#xF6;jd form anv&#xE4;nds som objekt och efter preposition"/>
+    <phonetic date="2011-03-03" soundFile="han.swf" value="han:"/>
+    <paradigm date="2011-03-03" id="5817" origin="lexin">
+      <inflection value="honom"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="han||han..1||han..pn.1"/>
+    <example date="2011-03-03" id="3910" value="jag s&#xE5;g honom ig&#xE5;r">
+      <translation value="I saw him yesterday"/>
+    </example>
+    <example date="2011-03-03" id="3911" value="han kommer i morgon">
+      <translation value="he&amp;#39;ll be arriving tomorrow"/>
+    </example>
+    <example date="2011-03-03" id="3912" value="detta &#xE4;r hans bok">
+      <translation value="this is his book"/>
+    </example>
+  </word>
+  <word class="" date="2011-03-03" id="70010" lang="sv" lexinid="7001" origin="lexin" value="honom">
+    <translation date="2011-03-03" id="6874" value="him"/>
+    <phonetic date="2011-03-03" soundFile="honom.swf" value="&#xB2;h&#xC5;n:&#xE5;m"/>
+    <see date="2011-03-03" id="66880" origin="lexin" value="han"/>
+  </word>
+  <word value="him" lang="en" class="pn" id="218681" origin="lexin" date="2009-02-24">
+    <translation id="218681-1" value="honom" origin="lexin" date="2009-02-24"/>
+    <example id="218681-2" value="Can you see him?" origin="lexin" date="2009-02-24">
+      <translation value="Kan du se honom?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to a male object of a clause." origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="tredje person singular, objektform av he." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="them" lang="en" class="pn" id="417021" origin="lexin" date="2009-02-24">
+    <translation id="417021-1" value="honom" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

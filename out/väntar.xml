@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="v&#xE4;nta" lang="sv" class="vb" id="212270" lexinid="21228" origin="lexin" date="2011-03-03">
+    <translation id="20848" value="wait" date="2011-03-03"/>
+    <phonetic value="&#xB2;vEn:tar" soundFile="v&#xE4;ntar.swf" date="2011-03-03"/>
+    <paradigm id="18508" origin="lexin" date="2011-03-03">
+      <inflection value="v&#xE4;ntade"/>
+      <inflection value="v&#xE4;ntat"/>
+      <inflection value="v&#xE4;nta"/>
+      <inflection value="v&#xE4;ntar"/>
+    </paradigm>
+    <synonym value="k&#xF6;a" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="v&#xE4;nta||v&#xE4;nta..1||v&#xE4;nta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="v&#xE4;nta||v&#xE4;nta..2||v&#xE4;nta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vantar.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="11982" value="v&#xE4;nta p&#xE5; besked" date="2011-03-03">
+      <translation value="wait for an answer (information, instructions)"/>
+    </example>
+    <example id="11983" value="v&#xE4;nta p&#xE5; bussen" date="2011-03-03">
+      <translation value="wait for the bus"/>
+    </example>
+    <derivation id="986" value="v&#xE4;ntan" date="2011-03-03">
+      <translation value="waiting"/>
+    </derivation>
+    <idiom id="1865" value="v&#xE4;nta barn (&amp;quot;vara gravid&amp;quot;)" date="2011-03-03">
+      <translation value="expect a baby (&amp;quot;be pregnant&amp;quot;)"/>
+    </idiom>
+    <definition id="20501" value="l&#xE5;ta tiden g&#xE5; tills n&#xE5;got intr&#xE4;ffar" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5;) B/x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="v&#xE4;nta" lang="sv" class="vb" id="212280" lexinid="21229" origin="lexin" date="2011-03-03">
+    <translation id="20849" value="expect" date="2011-03-03"/>
+    <phonetic value="&#xB2;vEn:tar" soundFile="v&#xE4;ntar.swf" date="2011-03-03"/>
+    <paradigm id="18509" origin="lexin" date="2011-03-03">
+      <inflection value="v&#xE4;ntade"/>
+      <inflection value="v&#xE4;ntat"/>
+      <inflection value="v&#xE4;nta"/>
+      <inflection value="v&#xE4;ntar"/>
+    </paradigm>
+    <see value="v&#xE4;nta||v&#xE4;nta..1||v&#xE4;nta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="v&#xE4;nta||v&#xE4;nta..2||v&#xE4;nta..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11984" value="jag v&#xE4;ntade mig inte att du skulle vara intresserad" date="2011-03-03">
+      <translation value="I didn&amp;#39;t think you would be interested (expect you to be interested)"/>
+    </example>
+    <example id="11985" value="kostnaderna v&#xE4;ntas &#xF6;ka" date="2011-03-03">
+      <translation value="costs are expected to rise"/>
+    </example>
+    <definition id="20502" value="tro att n&#xE5;got ska h&#xE4;nda" date="2011-03-03"/>
+    <grammar value="A &amp; x/att + S" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="on hold" lang="en" id="505921" origin="user" date="2013-05-21T01:22:41">
+    <translation id="505921-1" value="v&#xE4;ntar" origin="user" date="2013-05-21T01:22:41"/>
+  </word>
+</definition>

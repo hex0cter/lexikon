@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="parti" lang="sv" class="nn" id="128700" lexinid="12871" origin="lexin" date="2011-03-03">
+    <translation id="12636" value="part" date="2011-03-03"/>
+    <phonetic value="par+tI:" soundFile="parti.swf" date="2011-03-03"/>
+    <paradigm id="11149" origin="lexin" date="2011-03-03">
+      <inflection value="partiet"/>
+      <inflection value="partier"/>
+    </paradigm>
+    <synonym value="avsnitt" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="spel" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="stycke" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="parti||parti..1||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..2||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..3||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..4||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..5||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7188" value="ett parti av boken &#xE4;r f&#xE4;rdigt" date="2011-03-03">
+      <translation value="a part of the book is complete"/>
+    </example>
+    <compound id="4455" value="skogsparti" date="2011-03-03">
+      <translation value="area (stretch, piece) of woodland"/>
+    </compound>
+    <definition id="12394" value="avgr&#xE4;nsad del, stycke" date="2011-03-03"/>
+  </word>
+  <word value="parti" lang="sv" class="nn" id="128710" lexinid="12872" origin="lexin" date="2011-03-03">
+    <translation id="12637" value="party" date="2011-03-03"/>
+    <phonetic value="par+tI:" soundFile="parti.swf" date="2011-03-03"/>
+    <paradigm id="11150" origin="lexin" date="2011-03-03">
+      <inflection value="partiet"/>
+      <inflection value="partier"/>
+    </paradigm>
+    <see value="parti||parti..1||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..2||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..3||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..4||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..5||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7189" value="riksdagens st&#xF6;rsta parti" date="2011-03-03">
+      <translation value="the biggest parliamentary party"/>
+    </example>
+    <example id="7190" value="de borgerliga partierna" date="2011-03-03">
+      <translation value="the non-socialist parties"/>
+    </example>
+    <compound id="4456" value="parti|grupp" date="2011-03-03">
+      <translation value="party group"/>
+    </compound>
+    <compound id="4457" value="parti|distrikt" date="2011-03-03">
+      <translation value="party district (organization)"/>
+    </compound>
+    <compound id="4458" value="oppositionsparti" date="2011-03-03">
+      <translation value="opposition party"/>
+    </compound>
+    <compound id="4459" value="majoritetsparti" date="2011-03-03">
+      <translation value="party with a majority"/>
+    </compound>
+    <compound id="4460" value="parti|ledning" date="2011-03-03">
+      <translation value="party leadership"/>
+    </compound>
+    <compound id="4461" value="parti|medlem" date="2011-03-03">
+      <translation value="party member"/>
+    </compound>
+    <compound id="4462" value="parti|kongress" date="2011-03-03">
+      <translation value="party congress"/>
+    </compound>
+    <compound id="4463" value="parti|ledare" date="2011-03-03">
+      <translation value="party leader"/>
+    </compound>
+    <compound id="4464" value="arbetarparti" date="2011-03-03">
+      <translation value="labour party"/>
+    </compound>
+    <idiom id="1146" value="ta parti f&#xF6;r (n&#xE5;got el. n&#xE5;gon) (&amp;quot;ta st&#xE4;llning f&#xF6;r&amp;quot;)" date="2011-03-03">
+      <translation value="take (sby&amp;#39;s part) (&amp;quot;be in favour of, support&amp;quot;)"/>
+    </idiom>
+    <definition id="12395" value="politisk sammanslutning" date="2011-03-03"/>
+  </word>
+  <word value="parti" lang="sv" class="nn" id="128720" lexinid="12873" origin="lexin" date="2011-03-03">
+    <translation id="12638" value="game" date="2011-03-03"/>
+    <phonetic value="par+tI:" soundFile="parti.swf" date="2011-03-03"/>
+    <paradigm id="11151" origin="lexin" date="2011-03-03">
+      <inflection value="partiet"/>
+      <inflection value="partier"/>
+    </paradigm>
+    <synonym value="omg&#xE5;ng" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="parti||parti..1||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..2||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..3||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..4||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="parti||parti..5||parti..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="7191" value="ett parti schack" date="2011-03-03">
+      <translation value="a game of chess"/>
+    </example>
+    <definition id="12396" value="omg&#xE5;ng, spel" date="2011-03-03"/>
+  </word>
+  <word value="parti" lang="sv" class="nn" id="128730" lexinid="12874" origin="lexin" date="2011-03-03">
+    <translation id="12639" value="consignment" date="2011-03-03"/>
+    <phonetic value="par+tI:" soundFile="parti.swf" date="2011-03-03"/>
+    <paradigm id="11152" origin="lexin" date="2011-03-03">
+      <inflection value="partiet"/>
+      <inflection value="partier"/>
+    </paradigm>
+    <synonym value="spel" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="parti||parti..4||parti..nn.1" type="saldo" origin="saldo" date="2015-08-10T03:54:16"/>
+    <example id="7192" value="ett st&#xF6;rre parti herrstrumpor" date="2011-03-03">
+      <translation value="a large consignment of men&amp;#39;s socks"/>
+    </example>
+    <compound id="4465" value="partihandel" date="2011-03-03">
+      <translation value="wholesale trade"/>
+    </compound>
+    <definition id="12397" value="m&#xE4;ngd av en viss vara" date="2011-03-03"/>
+  </word>
+</definition>

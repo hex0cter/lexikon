@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="full" lang="sv" class="jj" id="50690" lexinid="5069" origin="lexin" date="2011-03-03">
+    <translation id="4989" value="full" date="2011-03-03"/>
+    <phonetic value="ful:" soundFile="full.swf" date="2011-03-03"/>
+    <paradigm id="4385" origin="lexin" date="2011-03-03">
+      <inflection value="fullt"/>
+      <inflection value="fulla"/>
+    </paradigm>
+    <synonym value="dragen" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dyngrak" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="rund om f&#xF6;tterna" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="tankad" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="full||full..1||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="full||full..2||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2884" value="full tank" date="2011-03-03">
+      <translation value="full tank"/>
+    </example>
+    <example id="2885" value="gatan var full av folk" date="2011-03-03">
+      <translation value="the street was full of people"/>
+    </example>
+    <compound id="1789" value="full|god" date="2011-03-03">
+      <translation value="satisfactory"/>
+    </compound>
+    <idiom id="365" value="full tid (&amp;quot;tid d&#xE5; n&#xE5;got avslutas&amp;quot;)" date="2011-03-03">
+      <translation value="full time (&amp;quot;the time at which something ends&amp;quot;)"/>
+    </idiom>
+    <idiom id="366" value="fullt hus (&amp;quot;uts&#xE5;lt&amp;quot;)" date="2011-03-03">
+      <translation value="full house (&amp;quot;sold out&amp;quot;)"/>
+    </idiom>
+    <definition id="4892" value="som inte rymmer mer, fylld" date="2011-03-03"/>
+    <grammar value="&amp; (av y); &amp; (med y)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="full" lang="sv" class="jj" id="50700" lexinid="5070" origin="lexin" date="2011-03-03">
+    <translation id="50700-4894" value="complete" origin="user" date="2012-01-14T23:15:25"/>
+    <translation id="50700-4895" value="whole" origin="user" date="2012-01-14T23:15:25"/>
+    <phonetic value="ful:" soundFile="full.swf" date="2011-03-03"/>
+    <paradigm id="4386" origin="lexin" date="2011-03-03">
+      <inflection value="fullt"/>
+      <inflection value="fulla"/>
+    </paradigm>
+    <synonym value="aprak" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dragen" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="komplett" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="packad" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="total" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="full||full..1||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="full||full..2||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2886" value="p&#xE5; fullt allvar" date="2011-03-03">
+      <translation value="quite seriously, in earnest"/>
+    </example>
+    <example id="2887" value="full syssels&#xE4;ttning" date="2011-03-03">
+      <translation value="full employment"/>
+    </example>
+    <definition id="4893" value="hel, fullst&#xE4;ndig" date="2011-03-03"/>
+  </word>
+  <word value="full" lang="sv" class="jj" id="50710" lexinid="5071" origin="lexin" date="2011-03-03">
+    <translation id="50710-4895" value="intoxicated" origin="user" date="2012-02-14T22:56:56"/>
+    <translation id="50710-4896" value="drunk" origin="user" date="2012-02-14T22:56:56"/>
+    <phonetic value="ful:" soundFile="full.swf" date="2011-03-03"/>
+    <paradigm id="4387" origin="lexin" date="2011-03-03">
+      <inflection value="fullt"/>
+      <inflection value="fulla"/>
+    </paradigm>
+    <synonym value="alkoholp&#xE5;verkad" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="aprak" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dragen" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="dyngrak" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="packad" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="p&#xE5; kanelen" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="p&#xE5; lyset" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="p&#xE5; pickalurven" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="rund under f&#xF6;tterna" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="full||full..1||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="full||full..2||full..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <related value="nykter" type="antonym" origin="lexin">
+      <translation value="sober " origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="4894" value="berusad, drucken" date="2011-03-03"/>
+  </word>
+  <word value="broad" lang="en" class="jj" id="56161" origin="lexin" date="2009-02-24">
+    <translation id="56161-1" value="klar" origin="lexin" date="2009-02-24"/>
+    <translation id="56161-2" value="full" origin="lexin" date="2009-02-24"/>
+    <idiom id="56161-3" value="in broad daylight" origin="lexin" date="2009-02-24">
+      <translation value="mitt p&#xE5; ljusa dagen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="canned" lang="en" class="jj" id="65451" origin="lexin" date="2009-02-24">
+    <translation id="65451-1" value="full" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="65451-2" value="berusad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81791" origin="lexin" date="2009-02-24">
+    <translation id="81791-1" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="81791-2" value="hel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="drunk" lang="en" class="jj" id="147231" origin="lexin" date="2009-02-24">
+    <translation id="147231-1" value="berusad" origin="lexin" date="2009-02-24"/>
+    <translation id="147231-2" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="147231-3" value="onykter" origin="lexin" date="2009-02-24"/>
+    <translation id="147231-4" value="drucken" origin="lexin" date="2009-02-24"/>
+    <idiom id="147231-5" value="drunk and disorderly (conduct)" origin="lexin" date="2009-02-24">
+      <translation value="(juridik) f&#xF6;rargelsev&#xE4;ckande beteende" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="147231-6" value="drunk as a lord" origin="lexin" date="2009-02-24">
+      <translation value="full som en kaja" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="147231-7" value="drunk as a skunk" origin="lexin" date="2009-02-24">
+      <translation value="full som en kaja" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="under the influence of alcohol" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5;verkad av alkohol" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="drunken" lang="en" class="jj" id="147261" origin="lexin" date="2009-02-24">
+    <translation id="147261-1" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="147261-2" value="berusad" origin="lexin" date="2009-02-24"/>
+    <explanation value="under the influence of alcohol" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5;verkad av alkohol" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="high" lang="en" class="jj" id="218011" origin="lexin" date="2009-02-24">
+    <translation id="218011-1" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="218011-2" value="berusad" comment="informellt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="impregnate" lang="en" class="jj" id="228241" origin="lexin" date="2009-02-24">
+    <translation id="228241-1" value="genomdr&#xE4;nkt" origin="lexin" date="2009-02-24"/>
+    <translation id="228241-2" value="genomsyrad" origin="lexin" date="2009-02-24"/>
+    <translation id="228241-3" value="full" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="perfect" lang="en" class="jj" id="312551" origin="lexin" date="2009-02-24">
+    <translation id="312551-1" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="312551-2" value="fullst&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    <example id="312551-4" value="let&amp;#39;s make a perfect circle" origin="lexin" date="2009-02-24">
+      <translation value="vi bildar en exakt cirkel" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="312551-3" value="perfect rhyme" origin="lexin" date="2009-02-24">
+      <translation value="homonymrim, identiskt rim" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="pissed" lang="en" class="jj" id="318871" origin="lexin" date="2009-02-24">
+    <translation id="318871-1" value="full" comment="tabu, slanguttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="318871-2" value="onykter" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="318871-4" value="are you pissed?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r du full?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="318871-3" value="pissed as a newt, pissed out of one&amp;#39;s head/mind" origin="lexin" date="2009-02-24">
+      <translation value="stupfull (brittisk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="plenary" lang="en" class="jj" id="322261" origin="lexin" date="2009-02-24">
+    <translation id="322261-1" value="obegr&#xE4;nsad" origin="lexin" date="2009-02-24"/>
+    <translation id="322261-2" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="322261-3" value="absolut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="plump" lang="en" class="jj" id="323251" origin="lexin" date="2009-02-24">
+    <translation id="323251-1" value="full" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="323251-2" value="fet" origin="lexin" date="2009-02-24"/>
+    <translation id="323251-3" value="stor" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pregnant" lang="en" class="jj" id="330421" origin="lexin" date="2009-02-24">
+    <translation id="330421-1" value="rik" origin="lexin" date="2009-02-24"/>
+    <translation id="330421-2" value="fylld" origin="lexin" date="2009-02-24"/>
+    <translation id="330421-3" value="full" origin="lexin" date="2009-02-24"/>
+    <example id="330421-4" value="pregnant with meaning" origin="lexin" date="2009-02-24">
+      <translation value="inneh&#xE5;llsm&#xE4;ttad" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="replete" lang="en" class="jj" id="355751" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="355751-1" value="m&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="355751-2" value="full" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="round" lang="en" class="jj" id="365601" origin="lexin" date="2009-02-24">
+    <translation id="365601-1" value="j&#xE4;mn" origin="lexin" date="2009-02-24"/>
+    <translation id="365601-2" value="avrundad" origin="lexin" date="2009-02-24"/>
+    <translation id="365601-3" value="rund" origin="lexin" date="2009-02-24"/>
+    <translation id="365601-4" value="hel" origin="lexin" date="2009-02-24"/>
+    <translation id="365601-5" value="full" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tanked" lang="en" class="jj" id="412951" origin="lexin" date="2009-02-24">
+    <translation id="412951-1" value="packad" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="412951-2" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="412951-3" value="berusad" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tanked-up" lang="en" class="jj" id="412961" origin="lexin" date="2009-02-24">
+    <translation id="412961-1" value="packad" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="412961-2" value="full" origin="lexin" date="2009-02-24"/>
+    <translation id="412961-3" value="berusad" comment="slanguttryck" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="51270" lang="sv" lexinid="5127" origin="lexin" value="fylld">
+    <translation date="2011-03-03" id="5045" value="full, filled"/>
+    <phonetic date="2011-03-03" soundFile="fylld.swf" value="fyl:d"/>
+    <paradigm date="2011-03-03" id="4437" origin="lexin">
+      <inflection value="fyllt"/>
+      <inflection value="fyllda"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="fullproppad"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="fullsatt"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fylld||fylld..1||fylld..av.1"/>
+    <example date="2011-03-03" id="2913" value="rummet var fyllt av folk">
+      <translation value="the room was full of people"/>
+    </example>
+    <example date="2011-03-03" id="2914" value="fylld av vrede">
+      <translation value="full of anger"/>
+    </example>
+    <definition date="2011-03-03" id="4946" value="full av"/>
+  </word>
+  <word value="hel" lang="sv" class="jj" id="68060" lexinid="6806" origin="lexin" date="2011-03-03">
+    <translation id="68060-6551" value="full" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6552" value="whole" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6553" value="entire" origin="user" date="2012-03-19T05:00:13"/>
+    <translation id="68060-6554" value="complete" origin="user" date="2012-03-19T05:00:13"/>
+    <use value="endast attributivt" date="2011-03-03"/>
+    <phonetic value="he:l" soundFile="hel.swf" date="2011-03-03"/>
+    <paradigm id="5921" origin="lexin" date="2011-03-03">
+      <inflection value="helt"/>
+      <inflection value="hela"/>
+    </paradigm>
+    <synonym value="fullst&#xE4;ndig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="fullst&#xE4;ndigt" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="intakt" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="komplett" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="oskadad" level="4.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="total" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="hel||hel..1||hel..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="hel||hel..2||hel..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3986" value="hela det svenska samh&#xE4;llet" date="2011-03-03">
+      <translation value="Swedish society as a whole"/>
+    </example>
+    <example id="3987" value="en hel vecka" date="2011-03-03">
+      <translation value="an entire week"/>
+    </example>
+    <example id="3988" value="hela avtalsr&#xF6;relsen" date="2011-03-03">
+      <translation value="the entire structure of wage negotiations"/>
+    </example>
+    <compound id="2475" value="hel|tid" date="2011-03-03">
+      <translation value="full-time"/>
+    </compound>
+    <idiom id="506" value="en hel del (el. rad) (&amp;quot;mycket, m&#xE5;nga&amp;quot;)" date="2011-03-03">
+      <translation value="quite a few (&amp;quot;many, numerous&amp;quot;)"/>
+    </idiom>
+    <idiom id="507" value="p&#xE5; det hela taget (&amp;quot;i stort sett&amp;quot;)" date="2011-03-03">
+      <translation value="on the whole"/>
+    </idiom>
+    <definition id="6550" value="odelad, fullst&#xE4;ndig" date="2011-03-03">
+      <translation value="undivided, complete"/>
+    </definition>
+  </word>
+  <word value="full" lang="en" class="jj" id="187891" origin="lexin" date="2009-02-24">
+    <translation id="187891-1" value="hel" origin="lexin" date="2009-02-24"/>
+    <translation id="187891-2" value="hela" origin="lexin" date="2009-02-24"/>
+    <example id="187891-5" value="give me the full story" origin="lexin" date="2009-02-24">
+      <translation value="ber&#xE4;tta hela historien f&#xF6;r mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="187891-3" value="in full view of" origin="lexin" date="2009-02-24">
+      <translation value="fullt synlig f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="187891-4" value="lead a full life" origin="lexin" date="2009-02-24">
+      <translation value="leva ett rikt liv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="full" lang="en" class="jj" id="187901" origin="lexin" date="2009-02-24">
+    <translation id="187901-1" value="h&#xF6;gst" origin="lexin" date="2009-02-24"/>
+    <translation id="187901-2" value="h&#xF6;gsta" origin="lexin" date="2009-02-24"/>
+    <example id="187901-3" value="he came running towards me at full speed" origin="lexin" date="2009-02-24">
+      <translation value="han kom springande emot mig i full fart" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="full" lang="en" class="ab" id="187911" origin="lexin" date="2009-02-24">
+    <translation id="187911-1" value="mycket" origin="lexin" date="2009-02-24"/>
+    <translation id="187911-2" value="helt" origin="lexin" date="2009-02-24"/>
+    <example id="187911-3" value="I know full well that he is arriving today" origin="lexin" date="2009-02-24">
+      <translation value="jag vet mycket v&#xE4;l att han kommer i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="full" lang="en" class="jj" id="187921" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="187921-1" value="m&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <example id="187921-3" value="I am very full now" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r mycket m&#xE4;tt nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="187921-2" value="on a full stomach" origin="lexin" date="2009-02-24">
+      <translation value="precis efter att ha &#xE4;tit" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="full" lang="en" class="ab" id="187931" origin="lexin" date="2009-02-24">
+    <translation id="187931-1" value="rakt" origin="lexin" date="2009-02-24"/>
+    <example id="187931-2" value="the ball hit me full in the face" origin="lexin" date="2009-02-24">
+      <translation value="bollen tr&#xE4;ffade mig rakt i ansiktet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="full" lang="en" class="jj" id="187941" origin="lexin" date="2009-02-24">
+    <translation id="187941-1" value="uppfylld av" origin="lexin" date="2009-02-24"/>
+    <example id="187941-3" value="he is full of his impressions from the trip" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r uppfylld av sina intryck fr&#xE5;n resan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="187941-2" value="be full of oneself" origin="lexin" date="2009-02-24">
+      <translation value="helt g&#xE5; upp i sig sj&#xE4;lv; vara uppfylld av sig sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

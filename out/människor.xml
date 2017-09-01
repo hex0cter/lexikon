@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="m&#xE4;nniska" lang="sv" class="nn" id="115090" lexinid="11509" origin="lexin" date="2011-03-03">
+    <variant value="m&#xE4;nska" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="115090-11093" value="human being" origin="user" date="2012-01-28T23:48:19"/>
+    <translation id="115090-11094" value="person" origin="user" date="2012-01-28T23:48:19"/>
+    <phonetic value="&#xB2;mEn:i$a" soundFile="m&#xE4;nniska.swf" date="2011-03-03"/>
+    <paradigm id="10017" origin="lexin" date="2011-03-03">
+      <inflection value="m&#xE4;nniskan"/>
+      <inflection value="m&#xE4;nniskor"/>
+    </paradigm>
+    <synonym value="individ" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="person" level="3.2" origin="synlex" date="2011-03-03"/>
+    <see value="m&#xE4;nniska||m&#xE4;nniska..1||m&#xE4;nniska..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6268" value="den moderna m&#xE4;nniskans situation" date="2011-03-03">
+      <translation value="the plight of the modern man"/>
+    </example>
+    <example id="6269" value="&#xE4;ldre m&#xE4;nniskor" date="2011-03-03">
+      <translation value="elderly people"/>
+    </example>
+    <compound id="4063" value="m&#xE4;nnisko|v&#xE4;rde" date="2011-03-03">
+      <translation value="human dignity"/>
+    </compound>
+    <compound id="4064" value="medm&#xE4;nniska" date="2011-03-03">
+      <translation value="fellow creature"/>
+    </compound>
+    <compound id="4065" value="m&#xE4;nnisko|liv" date="2011-03-03">
+      <translation value="human life"/>
+    </compound>
+    <compound id="4066" value="m&#xE4;nnisko|kropp" date="2011-03-03">
+      <translation value="human body"/>
+    </compound>
+    <definition id="11092" value="individ av sl&#xE4;ktet Homo sapiens; man el. kvinna el. barn" date="2011-03-03"/>
+  </word>
+  <word class="nn" comment="i antalsuppgifter" date="2011-03-03" id="115100" lang="sv" lexinid="11510" origin="lexin" value="m&#xE4;nniska">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="m&#xE4;nska"/>
+    <translation comment="in amounts" date="2011-03-03" id="11305" value="person"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE4;nniska.swf" value="&#xB2;mEn:i$a"/>
+    <paradigm date="2011-03-03" id="10018" origin="lexin">
+      <inflection value="m&#xE4;nniskan"/>
+      <inflection value="m&#xE4;nniskor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="individ"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="person"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE4;nniska||m&#xE4;nniska..1||m&#xE4;nniska..nn.1"/>
+    <example date="2011-03-03" id="6270" value="tre m&#xE4;nniskor skadades vid olyckan">
+      <translation value="three persons were injured in the accident"/>
+    </example>
+    <definition date="2011-03-03" id="11093" value="person"/>
+  </word>
+  <word value="people" lang="en" class="nn" id="311971" origin="lexin" date="2009-02-24">
+    <translation id="311971-1" value="m&#xE4;nniskor" origin="lexin" date="2009-02-24"/>
+    <translation id="311971-2" value="m&#xE4;nniskorna" origin="lexin" date="2009-02-24"/>
+    <translation id="311971-3" value="folk" origin="lexin" date="2009-02-24"/>
+    <translation id="311971-4" value="personer" origin="lexin" date="2009-02-24"/>
+    <grammar value="ej i plural" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

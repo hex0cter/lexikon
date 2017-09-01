@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ska" lang="sv" class="vb" id="156420" lexinid="15643" origin="lexin" comment="anger framtid" date="2011-03-03">
+    <variant value="skall" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="156420-15160" value="shall" origin="user" date="2012-01-09T23:36:47"/>
+    <translation id="156420-15161" value="will" origin="user" date="2012-01-09T23:36:47"/>
+    <phonetic value="ska: el. sk:Al" soundFile="ska.swf" date="2011-03-03"/>
+    <paradigm id="13632" origin="lexin" date="2011-03-03">
+      <inflection value="skulle"/>
+      <inflection value="skolat"/>
+      <inflection value="skola"/>
+    </paradigm>
+    <synonym value="skall" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;mna" level="4.0" origin="synlex" date="2011-03-03"/>
+    <example id="8844" value="huset ska rivas" date="2011-03-03">
+      <translation value="the building is going to be pulled down"/>
+    </example>
+    <definition id="15159" value="komma att" date="2011-03-03"/>
+    <grammar value="A/x &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="ska" lang="sv" class="vb" id="156430" lexinid="15644" origin="lexin" comment="anger plikt eller n&#xF6;dv&#xE4;ndighet" date="2011-03-03">
+    <variant value="skall" alt="also" origin="lexin" date="2011-03-03"/>
+    <translation id="156430-15161" value="have to" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="156430-15162" value="shall" origin="user" date="2012-02-08T23:49:44"/>
+    <translation id="156430-15163" value="must" origin="user" date="2012-02-08T23:49:44"/>
+    <phonetic value="ska:" soundFile="ska.swf" date="2011-03-03"/>
+    <paradigm id="13633" origin="lexin" date="2011-03-03">
+      <inflection value="skulle"/>
+      <inflection value="skolat"/>
+      <inflection value="skola"/>
+    </paradigm>
+    <synonym value="skall" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;mna" level="4.0" origin="synlex" date="2011-03-03"/>
+    <example id="8845" value="du ska komma i tid" date="2011-03-03">
+      <translation value="you must come on time"/>
+    </example>
+    <definition id="15160" value="vara tvungen; m&#xE5;ste" date="2011-03-03"/>
+    <grammar value="A &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="skulle" lang="sv" id="160590" lexinid="16060" origin="lexin" date="2011-03-03">
+    <translation id="160590-1" value="would" origin="user" date="2012-03-07T01:31:14"/>
+    <translation id="160590-2" value="should" origin="user" date="2012-03-07T01:31:14"/>
+    <phonetic value="&#xB2;skUl:e" soundFile="skulle.swf" date="2011-03-03"/>
+    <see value="ska" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="might" lang="en" class="vb" id="272511" origin="lexin" date="2009-02-24">
+    <translation id="272511-1" value="kunde" origin="lexin" date="2009-02-24"/>
+    <translation id="272511-2" value="skulle" origin="lexin" date="2009-02-24"/>
+    <paradigm id="272511-4" origin="lexin" date="2009-02-24">
+      <inflection value="modalverb" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="272511-3" value="I thought it might rain." origin="lexin" date="2009-02-24">
+      <translation value="Jag trodde att det skulle regna." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Describes &amp;quot;may&amp;quot; in the past" origin="lexin" date="2009-02-24"/>
+    <grammar value="imperfekt av may" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ought" lang="en" class="hj&#xE4;lpverb" id="297911" origin="lexin" date="2009-02-24">
+    <translation id="297911-1" value="b&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="297911-2" value="borde" origin="lexin" date="2009-02-24"/>
+    <translation id="297911-3" value="skall" origin="lexin" date="2009-02-24"/>
+    <translation id="297911-4" value="skulle" origin="lexin" date="2009-02-24"/>
+    <translation id="297911-5" value="torde" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="should" lang="en" class="hj&#xE4;lpverb" id="380691" origin="lexin" date="2009-02-24">
+    <translation id="380691-1" value="borde" origin="lexin" date="2009-02-24"/>
+    <translation id="380691-2" value="skulle" origin="lexin" date="2009-02-24"/>
+    <example id="380691-3" value="You should see a dentist." origin="lexin" date="2009-02-24">
+      <translation value="Du borde g&#xE5; till tandl&#xE4;karen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="expresses a well-meaning advice" origin="lexin" date="2009-02-24"/>
+    <grammar value="imperfekt av shall." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="should" lang="en" class="hj&#xE4;lpverb" id="380721" origin="lexin" date="2009-02-24">
+    <translation id="380721-1" value="skulle" origin="lexin" date="2009-02-24"/>
+    <example id="380721-2" value="Should you experience any pain, take an aspirin and call me in the morning." origin="lexin" date="2009-02-24">
+      <translation value="Om du skulle f&#xE5; ont s&#xE5; ta en v&#xE4;rktablett och ring mig i morgon." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="indicates conditionality" origin="lexin" date="2009-02-24"/>
+    <grammar value="i konditionala satser" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="should" lang="en" class="hj&#xE4;lpverb" id="380731" origin="lexin" date="2009-02-24">
+    <translation id="380731-1" value="skulle" origin="lexin" date="2009-02-24"/>
+    <example id="380731-2" value="How should I know?" origin="lexin" date="2009-02-24">
+      <translation value="hur skulle jag kunna veta det?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="imperfekt av shall" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="would" lang="en" class="hj&#xE4;lpverb" id="448011" origin="lexin" date="2009-02-24">
+    <translation id="448011-1" value="skulle" origin="lexin" date="2009-02-24"/>
+    <example id="448011-2" value="I would do it if i could." origin="lexin" date="2009-02-24">
+      <translation value="Jag skulle g&#xF6;ra det om jag bara kunde." origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

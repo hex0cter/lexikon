@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="val" lang="sv" class="nn" id="204510" lexinid="20452" origin="lexin" date="2011-03-03">
+    <translation id="20094" value="whale" date="2011-03-03"/>
+    <phonetic value="va:l" soundFile="val.swf" date="2011-03-03"/>
+    <paradigm id="17857" origin="lexin" date="2011-03-03">
+      <inflection value="valen"/>
+      <inflection value="valar"/>
+    </paradigm>
+    <synonym value="r&#xF6;stning" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="val||val..1||val..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..2||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..3||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="6699" value="bl&#xE5;val" date="2011-03-03">
+      <translation value="blue whale"/>
+    </compound>
+    <definition id="19777" value="stort fiskliknande d&#xE4;ggdjur i havet" date="2011-03-03"/>
+  </word>
+  <word value="val" lang="sv" class="nn" id="204520" lexinid="20453" origin="lexin" date="2011-03-03">
+    <translation id="20095" value="choice" date="2011-03-03"/>
+    <phonetic value="va:l" soundFile="val.swf" date="2011-03-03"/>
+    <paradigm id="17858" origin="lexin" date="2011-03-03">
+      <inflection value="valet"/>
+      <inflection value="val"/>
+      <inflection value="valen"/>
+    </paradigm>
+    <synonym value="option" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="val||val..1||val..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..2||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..3||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11484" value="ett sv&#xE5;rt val" date="2011-03-03">
+      <translation value="a difficult choice"/>
+    </example>
+    <idiom id="1755" value="vara i valet och kvalet (&amp;quot;ha sv&#xE5;rt att best&#xE4;mma sig&amp;quot;)" date="2011-03-03">
+      <translation value="be facing a difficult choice, be on the horns of a dilemma (&amp;quot;have difficulty in making up one&amp;#39;s mind&amp;quot;)"/>
+    </idiom>
+    <definition id="19778" value="det att v&#xE4;lja" date="2011-03-03"/>
+  </word>
+  <word value="val" lang="sv" class="nn" id="204530" lexinid="20454" origin="lexin" comment="p&#xE5; kandidat till befattning el. f&#xF6;rtroendepost" date="2011-03-03">
+    <translation id="20096" value="election" comment="by vote of candidates to an office or position of trust" date="2011-03-03"/>
+    <phonetic value="va:l" soundFile="val.swf" date="2011-03-03"/>
+    <paradigm id="17859" origin="lexin" date="2011-03-03">
+      <inflection value="valet"/>
+      <inflection value="val"/>
+      <inflection value="valen"/>
+    </paradigm>
+    <synonym value="r&#xF6;stning" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="val||val..1||val..nn.1" type="saldo" origin="saldo" date="2015-05-18T02:49:24"/>
+    <example id="11485" value="allm&#xE4;nna val" date="2011-03-03">
+      <translation value="general election"/>
+    </example>
+    <example id="11486" value="val av ordf&#xF6;rande" date="2011-03-03">
+      <translation value="election of chairman (president)"/>
+    </example>
+    <compound id="6700" value="val|beredning" date="2011-03-03">
+      <translation value="election committee"/>
+    </compound>
+    <compound id="6701" value="riksdagsval" date="2011-03-03">
+      <translation value="general election"/>
+    </compound>
+    <compound id="6702" value="val|hemlighet" date="2011-03-03">
+      <translation value="election secret"/>
+    </compound>
+    <compound id="6703" value="val|fusk" date="2011-03-03">
+      <translation value="electoral (ballot) rigging"/>
+    </compound>
+    <compound id="6704" value="kommunalval" date="2011-03-03">
+      <translation value="local government (municipal) election"/>
+    </compound>
+    <compound id="6705" value="nyval" date="2011-03-03">
+      <translation value="new election"/>
+    </compound>
+    <compound id="6706" value="val|kampanj" date="2011-03-03">
+      <translation value="election campaign"/>
+    </compound>
+    <definition id="19779" value="offentlig r&#xF6;stning" date="2011-03-03"/>
+  </word>
+  <word value="choice" lang="en" class="nn" id="77731" origin="lexin" date="2009-02-24">
+    <translation id="77731-1" value="alternativ" origin="lexin" date="2009-02-24"/>
+    <translation id="77731-2" value="val" origin="lexin" date="2009-02-24"/>
+    <translation id="77731-3" value="den eller det man v&#xE4;ljer" origin="lexin" date="2009-02-24"/>
+    <example id="77731-5" value="not give somebody much choice" origin="lexin" date="2009-02-24">
+      <translation value="inte ge n&#xE5;gon s&#xE4;rskilt mycket att v&#xE4;lja p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="77731-6" value="that&amp;#39;s a possible choice" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r ett m&#xF6;jligt alternativ" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="77731-4" value="take your choice" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE4;lj sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="choice" lang="en" class="nn" id="77761" origin="lexin" date="2009-02-24">
+    <translation id="77761-1" value="val" origin="lexin" date="2009-02-24"/>
+    <translation id="77761-2" value="det att v&#xE4;lja" origin="lexin" date="2009-02-24"/>
+    <example id="77761-4" value="make your choice" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;r ditt val, v&#xE4;lj" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="77761-3" value="by choice" origin="lexin" date="2009-02-24">
+      <translation value="av eget val" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="election" lang="en" class="nn" id="152641" origin="lexin" date="2009-02-24">
+    <translation id="152641-1" value="val" comment="i synnerhet genom r&#xF6;stning" origin="lexin" date="2009-02-24"/>
+    <translation id="152641-2" value="inval" origin="lexin" date="2009-02-24"/>
+    <example id="152641-3" value="election of chairman" origin="lexin" date="2009-02-24">
+      <translation value="val av ordf&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="152641-4" value="general election" origin="lexin" date="2009-02-24">
+      <translation value="allm&#xE4;nna val" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="option" lang="en" class="nn" id="296271" origin="lexin" date="2009-02-24">
+    <translation id="296271-1" value="val" origin="lexin" date="2009-02-24"/>
+    <translation id="296271-2" value="valm&#xF6;jlighet" origin="lexin" date="2009-02-24"/>
+    <translation id="296271-3" value="alternativ" origin="lexin" date="2009-02-24"/>
+    <example id="296271-4" value="What are your options?" origin="lexin" date="2009-02-24">
+      <translation value="Vad har du f&#xF6;r alternativ?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A possibility which can be chosen, or not." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pick" lang="en" class="nn" id="316331" origin="lexin" date="2009-02-24">
+    <translation id="316331-1" value="val" origin="lexin" date="2009-02-24"/>
+    <idiom id="316331-2" value="take your pick!" origin="lexin" date="2009-02-24">
+      <translation value="vars&#xE5;god och v&#xE4;lj!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="poll" lang="en" class="nn" id="325131" origin="lexin" date="2009-02-24">
+    <translation id="325131-1" value="val" origin="lexin" date="2009-02-24"/>
+    <translation id="325131-2" value="r&#xF6;stning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="selection" lang="en" class="nn" id="375361" origin="lexin" date="2009-02-24">
+    <translation id="375361-1" value="val" origin="lexin" date="2009-02-24"/>
+    <translation id="375361-2" value="det att v&#xE4;lja" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whale" lang="en" id="464461" origin="user" date="2012-01-03T00:05:37">
+    <translation id="464461-1" value="val" origin="user" date="2012-01-03T00:05:37"/>
+  </word>
+  <word value="selektering" lang="sv" id="368040" origin="user" date="2015-03-07T03:03:46">
+    <translation id="368040-1" value="val " origin="user" date="2015-03-07T03:03:46"/>
+  </word>
+</definition>

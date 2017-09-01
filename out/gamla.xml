@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="59390" lang="sv" lexinid="5939" origin="lexin" value="gammal">
+    <translation date="2011-03-03" id="5841" value="old"/>
+    <phonetic date="2011-03-03" soundFile="gammal.swf" value="&#xB2;gAm:al"/>
+    <paradigm date="2011-03-03" id="5152" origin="lexin">
+      <inflection value="gammalt"/>
+      <inflection value="gamla"/>
+      <inflection value="&#xE4;ldre"/>
+      <inflection value="&#xE4;ldst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="antik"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="forntida"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="f&#xF6;rlegad"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="mossig"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="&#xE5;lderstigen"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="&#xE5;ldrad"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="&#xE5;ldrig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="gammal||gammal..1||gammal..av.1"/>
+    <example date="2011-03-03" id="3485" value="en gammal kvinna">
+      <translation value="an old woman"/>
+    </example>
+    <example date="2011-03-03" id="3486" value="ett gammalt hus">
+      <translation value="an old house"/>
+    </example>
+    <example date="2011-03-03" id="3487" value="hon &#xE4;r 14 &#xE5;r gammal">
+      <translation value="she is 14 years old"/>
+    </example>
+    <related origin="lexin" type="antonym" value="ung">
+      <translation date="2011-03-03" origin="lexin" value="young"/>
+    </related>
+    <derivation date="2011-03-03" id="324" value="urgammal">
+      <translation value="ancient"/>
+    </derivation>
+    <idiom date="2011-03-03" id="425" value="en gammal bekant (&amp;quot;en person som jag k&#xE4;nt l&#xE4;nge&amp;quot;)">
+      <translation value="an old friend (&amp;quot;a person one has known for a long time&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="5726" value="som har en viss &#xE5;lder; som har h&#xF6;g &#xE5;lder; som har existerat l&#xE4;nge">
+      <translation value="having a certain age; aged; having existed for a long time"/>
+    </definition>
+  </word>
+</definition>

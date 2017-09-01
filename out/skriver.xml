@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="159810" lang="sv" lexinid="15983" origin="lexin" value="skriva">
+    <translation date="2011-03-03" id="15700" value="write"/>
+    <phonetic date="2011-03-03" soundFile="skriver.swf" value="skrI:ver"/>
+    <paradigm date="2011-03-03" id="13931" origin="lexin">
+      <inflection value="skrev"/>
+      <inflection value="skrivit"/>
+      <inflection value="skriv"/>
+      <inflection value="skriva"/>
+      <inflection value="skriver"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="anteckna"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ber&#xE4;tta"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="f&#xF6;rfatta"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="notera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="plita"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="pr&#xE4;nta"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="uppge"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="skriva||skriva..1||skriva..vb.1"/>
+    <example date="2011-03-03" id="9035" value="barnen l&#xE4;r sig skriva i skolan">
+      <translation value="children learn to write at school"/>
+    </example>
+    <definition date="2011-03-03" id="15482" value="forma bokst&#xE4;ver, anv&#xE4;nda skrift"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="skriver.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="skriver_ett_dokument.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="skriver_ut.swf"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="skriver_ut_recept.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp;"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="159820" lang="sv" lexinid="15984" origin="lexin" value="skriva">
+    <translation date="2011-03-03" id="15701" value="write"/>
+    <phonetic date="2011-03-03" soundFile="skriver.swf" value="skrI:ver"/>
+    <paradigm date="2011-03-03" id="13932" origin="lexin">
+      <inflection value="skrev"/>
+      <inflection value="skrivit"/>
+      <inflection value="skriv"/>
+      <inflection value="skriva"/>
+      <inflection value="skriver"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="anteckna"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ber&#xE4;tta"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="f&#xF6;rfatta"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="notera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="plita"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="pr&#xE4;nta"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="uppge"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="skriva||skriva..1||skriva..vb.1"/>
+    <example date="2011-03-03" id="9036" value="skriva (p&#xE5;) maskin">
+      <translation value="type"/>
+    </example>
+    <example date="2011-03-03" id="9037" value="skriva brev">
+      <translation value="write letters"/>
+    </example>
+    <example date="2011-03-03" id="9038" value="skriva uppsats">
+      <translation value="write an essay"/>
+    </example>
+    <example date="2011-03-03" id="9039" value="skriva en bok">
+      <translation value="write a book"/>
+    </example>
+    <example date="2011-03-03" id="9040" value="skriva ner (el. upp) n&#xE5;got p&#xE5; en lapp">
+      <translation value="write sth. down on a piece of paper"/>
+    </example>
+    <idiom date="2011-03-03" id="1368" value="skriva in sig (&amp;quot;registrera sig&amp;quot;)">
+      <translation value="enrol oneself (&amp;quot;register&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1369" value="skriva p&#xE5; (el. under) (&amp;quot;skriva sin namnteckning&amp;quot;)">
+      <translation value="sign (&amp;quot;put one&amp;#39;s name to&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1370" value="skriva kontrakt (&amp;quot;komma &#xF6;verens om ett kontrakt&amp;quot;)">
+      <translation value="sign a contract (&amp;quot;reach an agreement&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="15483" value="formulera i skrift"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x/att + SATS"/>
+  </word>
+  <word value="Printing" lang="en" id="508481" origin="user" date="2013-06-24T05:22:59">
+    <translation id="508481-1" value="utskrift" origin="user" date="2013-06-24T05:23:02"/>
+    <translation id="508481-1" value="tryckning, tryckeri" origin="user" date="2014-01-30T01:17:22"/>
+    <translation id="508481-1" value="skriver" origin="user" date="2014-02-06T03:42:26"/>
+    <translation id="508481-2" value="Trycker" origin="user" date="2015-07-29T02:01:01"/>
+  </word>
+</definition>

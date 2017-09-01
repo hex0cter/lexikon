@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="seger" lang="sv" class="nn" id="152650" lexinid="15266" origin="lexin" date="2011-03-03">
+    <translation id="152650-14785" value="conquest" origin="user" date="2012-01-14T23:15:27"/>
+    <translation id="152650-14786" value="win" origin="user" date="2012-01-14T23:15:27"/>
+    <translation id="152650-14787" value="success" origin="user" date="2012-01-14T23:15:27"/>
+    <translation id="152650-14788" value="victory" origin="user" date="2012-01-14T23:15:27"/>
+    <phonetic value="sE:ger" soundFile="seger.swf" date="2011-03-03"/>
+    <paradigm id="13313" origin="lexin" date="2011-03-03">
+      <inflection value="segern"/>
+      <inflection value="segrar"/>
+    </paradigm>
+    <synonym value="triumf" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="vinst" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="seger||seger..1||seger..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8652" value="hon &#xE4;r favorit till segern" date="2011-03-03">
+      <translation value="she&amp;#39;s the favourite for this match"/>
+    </example>
+    <example id="8653" value="en viktig seger f&#xF6;r hemmalaget" date="2011-03-03">
+      <translation value="an important win for the home team"/>
+    </example>
+    <compound id="5324" value="seger|rik" date="2011-03-03">
+      <translation value="triumphant"/>
+    </compound>
+    <compound id="5325" value="seger|herre" date="2011-03-03">
+      <translation value="victor"/>
+    </compound>
+    <compound id="5326" value="seger|chans" date="2011-03-03">
+      <translation value="chance of winning"/>
+    </compound>
+    <compound id="5327" value="valseger" date="2011-03-03">
+      <translation value="election victory"/>
+    </compound>
+    <compound id="5328" value="slutseger" date="2011-03-03">
+      <translation value="final victory"/>
+    </compound>
+    <definition id="14784" value="vinst i t&#xE4;vling" date="2011-03-03"/>
+  </word>
+  <word value="battle" lang="en" class="nn" id="35051" origin="lexin" date="2009-02-24">
+    <translation id="35051-1" value="seger" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="day" lang="en" class="nn" id="118931" origin="lexin" date="2009-02-24">
+    <translation id="118931-1" value="seger" origin="lexin" date="2009-02-24"/>
+    <translation id="118931-2" value="slag" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="triumph" lang="en" class="nn" id="430301" origin="lexin" date="2009-02-24">
+    <translation id="430301-1" value="triumf" origin="lexin" date="2009-02-24"/>
+    <translation id="430301-2" value="seger" origin="lexin" date="2009-02-24"/>
+    <example id="430301-3" value="The election was a triumph for the republican party." origin="lexin" date="2009-02-24">
+      <translation value="Valet blev en triumf f&#xF6;r det republikanska partiet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A victory or success." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="victory" lang="en" class="nn" id="436991" origin="lexin" date="2009-02-24">
+    <translation id="436991-1" value="seger" origin="lexin" date="2009-02-24"/>
+    <example id="436991-2" value="It was a narrow victory for Sweden." origin="lexin" date="2009-02-24">
+      <translation value="Det blev en knapp seger f&#xF6;r Sverige." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="the act of winning or of having won" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="win" lang="en" class="nn" id="444721" origin="lexin" date="2009-02-24">
+    <translation id="444721-1" value="seger" comment="vardagligt, inom sport" origin="lexin" date="2009-02-24"/>
+    <translation id="444721-2" value="vinst" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

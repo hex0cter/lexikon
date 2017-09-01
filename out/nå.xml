@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="in" comment="som sammanfattning eller n&#xE4;r man v&#xE4;ntar p&#xE5; svar" date="2011-03-03" id="119270" lang="sv" lexinid="11928" origin="lexin" value="n&#xE5;">
+    <translation comment="as a summary or when waiting for an answer" date="2011-03-03" id="11713" value="well!"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;.swf" value="n&#xE5;:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE5;||n&#xE5;..2||n&#xE5;..in.1"/>
+    <example date="2011-03-03" id="6535" value="n&#xE5;, vad s&#xE4;jer du?">
+      <translation value="well, what do you say?"/>
+    </example>
+  </word>
+  <word class="vb" comment="om saker &amp;quot;r&#xE4;cka (till)&amp;quot;" date="2011-03-03" id="119480" lang="sv" lexinid="11949" origin="lexin" value="n&#xE5;">
+    <translation comment="of things, &amp;quot;stretch (to)&amp;quot;" date="2011-03-03" id="11734" value="reach"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;r.swf" value="n&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="10366" origin="lexin">
+      <inflection value="n&#xE5;dde"/>
+      <inflection value="n&#xE5;tt"/>
+      <inflection value="n&#xE5;"/>
+      <inflection value="n&#xE5;r"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE5;||n&#xE5;..1||n&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="6554" value="julgranen n&#xE5;dde till taket">
+      <translation value="the Christmas tree reached up to the ceiling"/>
+    </example>
+    <example date="2011-03-03" id="6555" value="jag n&#xE5;r inte v&#xE4;skan p&#xE5; hyllan">
+      <translation value="I cannot reach the bag on the shelf"/>
+    </example>
+    <definition date="2011-03-03" id="11508" value="f&#xE5; tag i (genom att str&#xE4;cka ut h&#xE4;nderna)"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x/B; x &amp; (till) y"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="119490" lang="sv" lexinid="11950" origin="lexin" value="n&#xE5;">
+    <translation date="2011-03-03" id="11735" value="reach"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE5;r.swf" value="n&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="10367" origin="lexin">
+      <inflection value="n&#xE5;dde"/>
+      <inflection value="n&#xE5;tt"/>
+      <inflection value="n&#xE5;"/>
+      <inflection value="n&#xE5;r"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE5;||n&#xE5;..1||n&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="6556" value="vi n&#xE5;dde Stockholm sent p&#xE5; kv&#xE4;llen">
+      <translation value="we reached Stockholm late in the evening"/>
+    </example>
+    <definition date="2011-03-03" id="11509" value="komma fram till, anl&#xE4;nda till"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + PLATS"/>
+  </word>
+  <word value="achieve" lang="en" class="vb" id="3591" origin="lexin" date="2009-02-24">
+    <translation id="3591-1" value="uppn&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-2" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-3" value="f&#xF6;rv&#xE4;rva" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-4" value="vinna" origin="lexin" date="2009-02-24"/>
+    <translation id="3591-5" value="ern&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="carry" lang="en" class="vb" id="68151" origin="lexin" date="2009-02-24">
+    <translation id="68151-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="68151-2" value="g&#xE5;" comment="om skjutvapen &#xE4;ven" origin="lexin" date="2009-02-24"/>
+    <translation id="68151-3" value="skjuta" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="come up to" lang="en" class="vb" id="89381" origin="lexin" date="2009-02-24">
+    <translation id="89381-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="89381-2" value="motsvara" origin="lexin" date="2009-02-24"/>
+    <example id="89381-3" value="I&amp;#39;m afraid your most recent novel doesn&amp;#39;t quite come up to your usual standards" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r r&#xE4;dd att din senaste roman inte riktigt motsvarar din vanligtvis h&#xF6;ga standard" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="come" lang="en" class="vb" id="89491" origin="lexin" date="2009-02-24">
+    <translation id="89491-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="89491-2" value="r&#xE4;cka till" origin="lexin" date="2009-02-24"/>
+    <example id="89491-4" value="my hair comes down to my shoulders now" origin="lexin" date="2009-02-24">
+      <translation value="mitt h&#xE5;r &#xE4;r axell&#xE5;ngt nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="89491-3" value="you certainly have grown: you come up to my nose now" origin="lexin" date="2009-02-24">
+      <translation value="du har verkligen vuxit, f&#xF6;r nu n&#xE5;r du upp till n&#xE4;san p&#xE5; mig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fetch" lang="en" class="vb" id="173261" origin="lexin" date="2009-02-24">
+    <translation id="173261-1" value="n&#xE5;" comment="sj&#xF6;term" origin="lexin" date="2009-02-24"/>
+    <translation id="173261-2" value="uppn&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="173261-3" value="s&#xE4;tta kurs mot" origin="lexin" date="2009-02-24"/>
+    <translation id="173261-4" value="ligga upp" origin="lexin" date="2009-02-24"/>
+    <translation id="173261-5" value="knipa" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="find" lang="en" class="vb" id="175381" origin="lexin" date="2009-02-24">
+    <translation id="175381-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="175381-2" value="tr&#xE4;ffa" origin="lexin" date="2009-02-24"/>
+    <paradigm id="175381-3" origin="lexin" date="2009-02-24">
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+      <inflection value="found" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gain" lang="en" class="vb" id="189661" origin="lexin" date="2009-02-24">
+    <translation id="189661-1" value="n&#xE5;" comment="inte utan viss anstr&#xE4;ngning eller sv&#xE5;righet!, formellt eller litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get at" lang="en" class="vb" id="193811" origin="lexin" date="2009-02-24">
+    <translation id="193811-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="193811-2" value="komma &#xE5;t" origin="lexin" date="2009-02-24"/>
+    <paradigm id="193811-4" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="193811-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="193811-3" value="I&amp;#39;ve put his gift in a safe place where he can&amp;#39;t get at it" origin="lexin" date="2009-02-24">
+      <translation value="jag har lagt hans present p&#xE5; ett s&#xE4;kert st&#xE4;lle d&#xE4;r han inte kan komma &#xE5;t den" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get through" lang="en" class="vb" id="194641" origin="lexin" date="2009-02-24">
+    <translation id="194641-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194641-2" value="etablera kontakt med" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194641-4" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194641-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194641-3" value="he is so depressed, and I can&amp;#39;t seem to get through to him" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r mycket deprimerad, och jag tycks inte kunna f&#xE5; kontakt med honom" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="get through" lang="en" class="vb" id="194651" origin="lexin" date="2009-02-24">
+    <translation id="194651-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="194651-2" value="f&#xE5; att f&#xF6;rst&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="194651-4" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="got" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="194651-5" origin="lexin" date="2009-02-24">
+      <inflection value="got" origin="lexin" date="2009-02-24"/>
+      <inflection value="gotten" comment="amerikansk engelska" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="194651-3" value="how can I get it through to you that it is very dangerous to use drugs" origin="lexin" date="2009-02-24">
+      <translation value="hur ska jag f&#xE5; dig att fatta att det &#xE4;r mycket farligt att anv&#xE4;nda droger" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go down" lang="en" class="vb" id="198611" origin="lexin" date="2009-02-24">
+    <translation id="198611-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="198611-3" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="198611-2" value="this road goes all the way down to the beach" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r v&#xE4;gen n&#xE5;r &#xE4;nda fram till stranden" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go up" lang="en" class="vb" id="199401" origin="lexin" date="2009-02-24">
+    <translation id="199401-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="199401-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <paradigm id="199401-4" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="199401-3" value="this road leads up to the cottage" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r v&#xE4;gen g&#xE5;r upp till stugan" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="go" lang="en" class="vb" id="199611" origin="lexin" date="2009-02-24">
+    <translation id="199611-1" value="g&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="199611-2" value="leda" origin="lexin" date="2009-02-24"/>
+    <translation id="199611-3" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="199611-7" origin="lexin" date="2009-02-24">
+      <inflection value="went" origin="lexin" date="2009-02-24"/>
+      <inflection value="gone" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="199611-6" value="this path goes to the lake" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r stigen leder till sj&#xF6;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="199611-4" value="go far" origin="lexin" date="2009-02-24">
+      <translation value="g&#xE5; l&#xE5;ngt; n&#xE5; l&#xE5;ngt, lyckas" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="199611-5" value="go far" origin="lexin" date="2009-02-24">
+      <translation value="r&#xE4;cka till mycket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hit" lang="en" class="vb" id="219221" origin="lexin" date="2009-02-24">
+    <translation id="219221-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="219221-2" value="komma upp till" origin="lexin" date="2009-02-24"/>
+    <translation id="219221-3" value="komma upp p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="219221-5" origin="lexin" date="2009-02-24">
+      <inflection value="hit" origin="lexin" date="2009-02-24"/>
+      <inflection value="hit" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="219221-4" value="hit the road" origin="lexin" date="2009-02-24">
+      <translation value="lifta, ge sig ut p&#xE5; luffen, ge sig iv&#xE4;g" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="make" lang="en" class="vb" id="265241" origin="lexin" date="2009-02-24">
+    <translation id="265241-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="265241-2" value="hinna" comment="informellt" origin="lexin" date="2009-02-24"/>
+    <example id="265241-5" value="did you make it home all right?" origin="lexin" date="2009-02-24">
+      <translation value="kom du/ni hem ordentligt?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="265241-6" value="this scandal has made the tabloids" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r skandalen har hamnat i tabloidpressen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="265241-7" value="will you make it to my party?" origin="lexin" date="2009-02-24">
+      <translation value="hinner du komma p&#xE5; min fest?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="265241-3" value="make it" origin="lexin" date="2009-02-24">
+      <translation value="hinna i tid" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="265241-4" value="make it" origin="lexin" date="2009-02-24">
+      <translation value="lyckas, ha framg&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="made, made" origin="lexin" date="2009-02-24">
+      <translation value="vary, modulate" origin="lexin" date="2009-02-24"/>
+    </explanation>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="now" lang="en" class="ab" id="289421" origin="lexin" date="2009-02-24">
+    <translation id="289421-1" value="nu" origin="lexin" date="2009-02-24"/>
+    <translation id="289421-2" value="n&#xE5;" comment="med f&#xF6;rsvagad tidsbetydelse, anv&#xE4;nds f&#xF6;r att understryka en befallning, ett p&#xE5;st&#xE5;ende och dylikt" origin="lexin" date="2009-02-24"/>
+    <example id="289421-5" value="be careful, now!" origin="lexin" date="2009-02-24">
+      <translation value="var f&#xF6;rsiktig nu!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="289421-6" value="now then, what are we going to do about this situation?" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;, vad ska vi nu g&#xF6;ra &#xE5;t den h&#xE4;r situationen?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="289421-3" value="now, now, stop that nagging!" origin="lexin" date="2009-02-24">
+      <translation value="ses&#xE5;, sluta tjata nu!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="289421-4" value="now then" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; d&#xE4;r ja" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="reach" lang="en" class="vb" id="347071" origin="lexin" date="2009-02-24">
+    <translation id="347071-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="347071-2" value="n&#xE5; upp till" origin="lexin" date="2009-02-24"/>
+    <translation id="347071-3" value="komma fram till" origin="lexin" date="2009-02-24"/>
+    <translation id="347071-4" value="hinna fram till" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reach" lang="en" class="vb" id="347101" origin="lexin" date="2009-02-24">
+    <translation id="347101-1" value="r&#xE4;cka" origin="lexin" date="2009-02-24"/>
+    <translation id="347101-2" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="347101-3" value="g&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reach" lang="en" class="vb" id="347151" origin="lexin" date="2009-02-24">
+    <translation id="347151-1" value="uppg&#xE5; till" origin="lexin" date="2009-02-24"/>
+    <translation id="347151-2" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reach" lang="en" class="vb" id="347161" origin="lexin" date="2009-02-24">
+    <translation id="347161-1" value="breda ut sig" origin="lexin" date="2009-02-24"/>
+    <translation id="347161-2" value="str&#xE4;cka ut sig" origin="lexin" date="2009-02-24"/>
+    <translation id="347161-3" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="strike" lang="en" class="vb" id="401961" origin="lexin" date="2009-02-24">
+    <translation id="401961-1" value="tilltala" origin="lexin" date="2009-02-24"/>
+    <translation id="401961-2" value="f&#xE5;nga" origin="lexin" date="2009-02-24"/>
+    <translation id="401961-3" value="f&#xE4;ngsla" origin="lexin" date="2009-02-24"/>
+    <translation id="401961-4" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="401961-5" value="falla p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="401961-6" origin="lexin" date="2009-02-24">
+      <inflection value="struck" origin="lexin" date="2009-02-24"/>
+      <inflection value="struck" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="touch" lang="en" class="vb" id="422481" origin="lexin" date="2009-02-24">
+    <translation id="422481-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="422481-2" value="n&#xE5; fram till" origin="lexin" date="2009-02-24"/>
+    <translation id="422481-3" value="stiga till" origin="lexin" date="2009-02-24"/>
+    <translation id="422481-4" value="sjunka till" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="well" lang="en" class="vb" id="442601" origin="lexin" date="2009-02-24">
+    <translation id="442601-1" value="n&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="442601-3" origin="lexin" date="2009-02-24">
+      <inflection value="interjektion" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="442601-2" value="well, then she finally made the phone call" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE5;, sedan ringde hon &#xE4;ntligen samtalet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="anv&#xE4;nds f&#xF6;r att forts&#xE4;tta ber&#xE4;ttandet av en historia" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

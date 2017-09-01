@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" date="2011-03-03" id="210060" lang="sv" lexinid="21007" origin="lexin" value="VM">
+    <translation date="2011-03-03" id="20633" value="world championship"/>
+    <phonetic date="2011-03-03" soundFile="VM.swf" value="&#xB2;vE:em:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="VM||v&#xE4;rldsm&#xE4;sterskap..1||VM..nna.1"/>
+    <definition date="2011-03-03" id="20289" value="v&#xE4;rldsm&#xE4;sterskap"/>
+  </word>
+</definition>

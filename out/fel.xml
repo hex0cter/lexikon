@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="fel" lang="sv" class="nn" id="43410" lexinid="4341" origin="lexin" date="2011-03-03">
+    <translation id="4277" value="wrong" date="2011-03-03"/>
+    <phonetic value="fe:l" soundFile="fel.swf" date="2011-03-03"/>
+    <synonym value="felaktigt" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="inkorrekt" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="mankemang" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="misstag" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="oriktig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="or&#xE4;tt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym id="43410-4278" value="d&#xE5;lig" origin="user" date="2016-12-25T00:51:09"/>
+    <see value="fel||fel..2||fel..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2553" value="g&#xE5; in genom fel d&#xF6;rr" date="2011-03-03">
+      <translation value="go through the wrong door"/>
+    </example>
+    <related value="r&#xE4;tt" type="antonym" origin="lexin">
+      <translation value="right" origin="lexin" date="2011-03-03"/>
+    </related>
+    <idiom id="325" value="satsa p&#xE5; fel h&#xE4;st (&amp;quot;g&#xF6;ra en felaktig bed&#xF6;mning&amp;quot;)" date="2011-03-03">
+      <translation value="bet on the wrong horse"/>
+    </idiom>
+    <definition id="4175" value="inte r&#xE4;tt, felaktig" date="2011-03-03"/>
+  </word>
+  <word class="ab" comment="anger misstag; i fraser" date="2011-03-03" id="43420" lang="sv" lexinid="4342" origin="lexin" value="fel">
+    <translation comment="indicating a mistake, used in phrases" date="2011-03-03" id="4278" value="mistake, mis-"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="fel.swf" value="fe:l"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="felaktigt"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="inkorrekt"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="mankemang"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="misstag"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="oriktig"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="or&#xE4;tt"/>
+    <example date="2011-03-03" id="2554" value="sk&#xF6;rden har slagit fel">
+      <translation value="the crop failed"/>
+    </example>
+    <example date="2011-03-03" id="2555" value="ta fel p&#xE5; tiden">
+      <translation value="make a mistake about the time"/>
+    </example>
+    <example date="2011-03-03" id="2556" value="r&#xE4;kna fel">
+      <translation value="miscount, miscalculate"/>
+    </example>
+  </word>
+  <word value="fel" lang="sv" class="nn" id="43430" lexinid="4343" origin="lexin" date="2011-03-03">
+    <translation id="4279" value="mistake, mis-" date="2011-03-03"/>
+    <phonetic value="fe:l" soundFile="fel.swf" date="2011-03-03"/>
+    <paradigm id="3747" origin="lexin" date="2011-03-03">
+      <inflection value="felet"/>
+      <inflection value="fel"/>
+      <inflection value="felen"/>
+    </paradigm>
+    <synonym value="inkorrekt" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="misstag" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="oriktig" level="4.6" origin="synlex" date="2011-03-03"/>
+    <see value="fel||fel..1||fel..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fel||fel..3||fel..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2557" value="g&#xF6;ra ett fel" date="2011-03-03">
+      <translation value="make a mistake"/>
+    </example>
+    <compound id="1493" value="fel|grepp" date="2011-03-03">
+      <translation value="mistake, slip, error"/>
+    </compound>
+    <compound id="1494" value="fel|bed&#xF6;mning" date="2011-03-03">
+      <translation value="miscalculation, misjudgement"/>
+    </compound>
+    <compound id="1495" value="fel|steg" date="2011-03-03">
+      <translation value="false step, slip-up"/>
+    </compound>
+    <compound id="1496" value="fel|marginal" date="2011-03-03">
+      <translation value="margin of error"/>
+    </compound>
+    <compound id="1497" value="tj&#xE4;nstefel" date="2011-03-03">
+      <translation value="official misconduct, malpractice"/>
+    </compound>
+    <compound id="1498" value="fel|parkering" date="2011-03-03">
+      <translation value="parking offence"/>
+    </compound>
+    <definition id="4176" value="handling som inte &#xE4;r korrekt, misstag" date="2011-03-03"/>
+  </word>
+  <word value="fel" lang="sv" class="nn" id="43440" lexinid="4344" origin="lexin" date="2011-03-03">
+    <translation id="4280" value="fault" date="2011-03-03"/>
+    <phonetic value="fe:l" soundFile="fel.swf" date="2011-03-03"/>
+    <paradigm id="3748" origin="lexin" date="2011-03-03">
+      <inflection value="felet"/>
+      <inflection value="fel"/>
+      <inflection value="felen"/>
+    </paradigm>
+    <synonym value="felaktigt" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="or&#xE4;tt" level="3.5" origin="synlex" date="2011-03-03"/>
+    <see value="fel||fel..1||fel..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fel||fel..3||fel..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2558" value="det var inte mitt fel" date="2011-03-03">
+      <translation value="it was not my fault"/>
+    </example>
+    <definition id="4177" value="ansvar f&#xF6;r ett misstag, skuld" date="2011-03-03">
+      <translation value="responsibility for a mistake"/>
+    </definition>
+  </word>
+  <word value="fel" lang="sv" class="nn" id="43450" lexinid="4345" origin="lexin" date="2011-03-03">
+    <translation id="4281" value="wrong" date="2011-03-03"/>
+    <phonetic value="fe:l" soundFile="fel.swf" date="2011-03-03"/>
+    <paradigm id="3749" origin="lexin" date="2011-03-03">
+      <inflection value="felet"/>
+      <inflection value="fel"/>
+      <inflection value="felen"/>
+    </paradigm>
+    <synonym value="felaktigt" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="fel||fel..1||fel..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fel||fel..3||fel..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2559" value="det &#xE4;r inget fel p&#xE5; mig" date="2011-03-03">
+      <translation value="there is nothing wrong with me"/>
+    </example>
+    <compound id="1499" value="fel|fri" date="2011-03-03">
+      <translation value="faultless"/>
+    </compound>
+    <definition id="4178" value="skada, brist, skavank" date="2011-03-03"/>
+  </word>
+  <word value="blemish" lang="en" class="nn" id="44281" origin="lexin" date="2009-02-24">
+    <translation id="44281-1" value="sk&#xF6;nhetsfl&#xE4;ck" origin="lexin" date="2009-02-24"/>
+    <translation id="44281-2" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="44281-3" value="brist" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="blunder" lang="en" class="nn" id="47241" origin="lexin" date="2009-02-24">
+    <translation id="47241-1" value="blunder" origin="lexin" date="2009-02-24"/>
+    <translation id="47241-2" value="misstag" origin="lexin" date="2009-02-24"/>
+    <translation id="47241-3" value="tabbe" origin="lexin" date="2009-02-24"/>
+    <translation id="47241-4" value="fel" origin="lexin" date="2009-02-24"/>
+    <explanation value="mistake, error" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bug" lang="en" class="nn" id="58581" origin="lexin" date="2009-02-24">
+    <translation id="58581-1" value="fel" comment="data" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-2" value="maskinfel" comment="data" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-3" value="defekt" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-4" value="lus" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-5" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-6" value="fabrikationsfel" origin="lexin" date="2009-02-24"/>
+    <translation id="58581-7" value="programfel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="culpa" lang="en" class="nn" id="113961" origin="lexin" date="2009-02-24">
+    <translation id="113961-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="113961-2" value="skuld" comment="latin" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="defect" lang="en" class="nn" id="122071" origin="lexin" date="2009-02-24">
+    <translation id="122071-1" value="defekt" origin="lexin" date="2009-02-24"/>
+    <translation id="122071-2" value="brist" origin="lexin" date="2009-02-24"/>
+    <translation id="122071-3" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="122071-4" value="felaktighet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="error" lang="en" class="nn" id="160031" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="160031-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="160031-2" value="misstag" origin="lexin" date="2009-02-24"/>
+    <example id="160031-4" value="You are in error, Sir." origin="lexin" date="2009-02-24">
+      <translation value="Ni misstar er, min herre." origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="160031-3" value="An error of judgement." origin="lexin" date="2009-02-24">
+      <translation value="En felbed&#xF6;mning." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="mistake" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="failure" lang="en" class="nn" id="168751" origin="lexin" date="2009-02-24">
+    <translation id="168751-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="168751-2" value="brist" origin="lexin" date="2009-02-24"/>
+    <translation id="168751-3" value="strejkande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fault" lang="en" class="nn" id="170981" origin="lexin" date="2009-02-24">
+    <translation id="170981-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="170981-2" value="brist" origin="lexin" date="2009-02-24"/>
+    <translation id="170981-3" value="skavank" origin="lexin" date="2009-02-24"/>
+    <translation id="170981-4" value="misstag" origin="lexin" date="2009-02-24"/>
+    <translation id="170981-5" value="f&#xF6;rseelse" origin="lexin" date="2009-02-24"/>
+    <translation id="170981-6" value="felsteg" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fault" lang="en" class="nn" id="171011" origin="lexin" date="2009-02-24">
+    <translation id="171011-1" value="skuld" origin="lexin" date="2009-02-24"/>
+    <translation id="171011-2" value="fel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="matter" lang="en" class="nn" id="269541" origin="lexin" date="2009-02-24">
+    <translation id="269541-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <example id="269541-2" value="what&amp;#39;s the matter?" origin="lexin" date="2009-02-24">
+      <translation value="vad &#xE4;r det?/vad &#xE4;r det f&#xF6;r fel?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="mistake" lang="en" class="nn" id="275071" origin="lexin" date="2009-02-24">
+    <translation id="275071-1" value="misstag" origin="lexin" date="2009-02-24"/>
+    <translation id="275071-2" value="fel" origin="lexin" date="2009-02-24"/>
+    <explanation value="Something which is incorrect." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out" lang="en" class="ab" id="298411" origin="lexin" date="2009-02-24">
+    <translation id="298411-1" value="fel" comment="om gissning eller den person som gissar" origin="lexin" date="2009-02-24"/>
+    <example id="298411-2" value="your guess is $100 out" origin="lexin" date="2009-02-24">
+      <translation value="du gissade fel p&#xE5; 100 dollar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="outside, out-of-doors" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="trip" lang="en" class="nn" id="426191" origin="lexin" date="2009-02-24">
+    <translation id="426191-1" value="blunder" origin="lexin" date="2009-02-24"/>
+    <translation id="426191-2" value="fel" comment="ovanligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wrong" lang="en" class="jj" id="448991" origin="lexin" date="2009-02-24">
+    <translation id="448991-1" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="448991-2" value="felaktig" origin="lexin" date="2009-02-24"/>
+    <translation id="448991-3" value="galen" origin="lexin" date="2009-02-24"/>
+    <translation id="448991-4" value="or&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="448991-5" value="oriktig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wrong" lang="en" class="ab" id="449011" origin="lexin" date="2009-02-24">
+    <translation id="449011-1" value="or&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="449011-2" value="oriktig" origin="lexin" date="2009-02-24"/>
+    <translation id="449011-3" value="fel" origin="lexin" date="2009-02-24"/>
+    <translation id="449011-4" value="galet" origin="lexin" date="2009-02-24"/>
+    <translation id="449011-5" value="vilse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mistakes" lang="en" id="466301" origin="user" date="2012-03-19T05:00:08">
+    <translation id="466301-1" value="fel" origin="user" date="2012-03-19T05:00:08"/>
+    <translation id="466301-1" value="misstag" origin="user" date="2012-04-27T04:35:05"/>
+  </word>
+  <word value="awkwardness" lang="en" id="501721" origin="user" date="2013-04-10T01:43:00">
+    <translation id="501721-1" value="fel" origin="user" date="2013-04-10T01:43:00"/>
+    <translation id="501721-2" value="obekv&#xE4;mdhet" origin="user" date="2013-04-10T01:43:00"/>
+  </word>
+</definition>

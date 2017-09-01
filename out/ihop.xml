@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ihop" lang="sv" class="ab" id="74920" lexinid="7492" origin="lexin" date="2011-03-03">
+    <translation id="74920-7201" value="together" origin="user" date="2012-02-25T16:22:14"/>
+    <translation id="74920-7202" value="together" comment="American English" origin="user" date="2015-04-17T00:53:02"/>
+    <use value="verbpartikel" date="2011-03-03"/>
+    <phonetic value="ihO:p" soundFile="ihop.swf" date="2011-03-03"/>
+    <synonym value="f&#xF6;rbund" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillsammans" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="ihop||ihop..1||ihop..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4445" value="hur h&#xE4;nger det h&#xE4;r ihop?" date="2011-03-03">
+      <translation value="how does this work?"/>
+    </example>
+    <example id="4446" value="plocka ihop sina saker" date="2011-03-03">
+      <translation value="get one&amp;#39;s things together"/>
+    </example>
+    <example id="4447" value="sl&#xE5; ihop tv&#xE5; f&#xF6;retag" date="2011-03-03">
+      <translation value="merge two companies"/>
+    </example>
+    <example id="4448" value="vara ihop med barnen" date="2011-03-03">
+      <translation value="be with one&amp;#39;s children"/>
+    </example>
+    <idiom id="616" value="ekonomin g&#xE5;r inte ihop (&amp;quot;utgifterna &#xE4;r st&#xF6;rre &#xE4;n inkomsterna&amp;quot;)" date="2011-03-03">
+      <translation value="both ends don&amp;#39;t meet (&amp;quot;expenses are greater than income&amp;quot;)"/>
+    </idiom>
+    <definition id="7200" value="tillsammans, samman" date="2011-03-03"/>
+  </word>
+</definition>

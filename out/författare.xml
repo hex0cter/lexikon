@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;rfattare" lang="sv" class="nn" id="54340" lexinid="5434" origin="lexin" comment="s&#xE4;rskilt sk&#xF6;nlitteratur" date="2011-03-03">
+    <translation id="54340-5233" value="writer" origin="user" date="2012-02-02T00:55:03"/>
+    <translation id="54340-5234" value="author" origin="user" date="2012-02-02T00:55:03"/>
+    <phonetic value="f&#xF6;rfAt:are" soundFile="f&#xF6;rfattare.swf" date="2011-03-03"/>
+    <paradigm id="4699" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rfattaren"/>
+      <inflection value="f&#xF6;rfattare"/>
+      <inflection value="f&#xF6;rfattarna"/>
+    </paradigm>
+    <synonym value="f&#xF6;rfattarinna" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="skribent" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rfattare||f&#xF6;rfattare..1||f&#xF6;rfattare..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="1941" value="prosaf&#xF6;rfattare" date="2011-03-03">
+      <translation value="prose writer"/>
+    </compound>
+    <compound id="1942" value="manusf&#xF6;rfattare" date="2011-03-03">
+      <translation value="scriptwriter"/>
+    </compound>
+    <derivation id="286" value="f&#xF6;rfattarskap" date="2011-03-03">
+      <translation value="authorship"/>
+    </derivation>
+    <definition id="5232" value="person som (yrkesm&#xE4;ssigt) skriver l&#xE4;ngre texter" date="2011-03-03"/>
+  </word>
+  <word value="author" lang="en" class="nn" id="25091" origin="lexin" date="2009-02-24">
+    <translation id="25091-1" value="f&#xF6;rfattare" origin="lexin" date="2009-02-24"/>
+    <example id="25091-2" value="do you know the name of the author?" origin="lexin" date="2009-02-24">
+      <translation value="vet du namnet p&#xE5; f&#xF6;rfattaren?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="drawer" lang="en" class="nn" id="144391" origin="lexin" date="2009-02-24">
+    <translation id="144391-1" value="f&#xF6;rfattare" origin="lexin" date="2009-02-24"/>
+    <translation id="144391-2" value="nedtecknare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="writer" lang="en" class="nn" id="448891" origin="lexin" date="2009-02-24">
+    <translation id="448891-1" value="f&#xF6;rfattare" origin="lexin" date="2009-02-24"/>
+    <translation id="448891-2" value="skribent" origin="lexin" date="2009-02-24"/>
+    <example id="448891-3" value="He is a speech writer." origin="lexin" date="2009-02-24">
+      <translation value="Han &#xE4;r talskrivare." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="448891-4" value="She was also the writer of Emma." origin="lexin" date="2009-02-24">
+      <translation value="Hon var ocks&#xE5; f&#xF6;rfattaren till Emma." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="a person who writes" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="authors" lang="en" id="475511" origin="user" date="2012-08-29T03:09:06">
+    <translation id="475511-1" value="f&#xF6;rfattare" origin="user" date="2012-08-29T03:09:06"/>
+  </word>
+</definition>

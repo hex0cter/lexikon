@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="fri" lang="sv" class="jj" id="49180" lexinid="4918" origin="lexin" date="2011-03-03">
+    <translation id="49180-4745" value="free" origin="user" date="2011-12-17T19:49:38"/>
+    <translation id="49180-4746" value="independent" origin="user" date="2011-12-17T19:49:38"/>
+    <phonetic value="fri:" soundFile="fri.swf" date="2011-03-03"/>
+    <paradigm id="4260" origin="lexin" date="2011-03-03">
+      <inflection value="fritt"/>
+      <inflection value="fria"/>
+    </paradigm>
+    <synonym value="ledig" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="obehindrad" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="obunden" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="fri||fri..1||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fri||fri..2||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2797" value="fri fr&#xE5;n bekymmer" date="2011-03-03">
+      <translation value="problem-free"/>
+    </example>
+    <idiom id="355" value="fri fr&#xE5;n humor (&amp;quot;utan humor&amp;quot;)" date="2011-03-03">
+      <translation value="humourless (&amp;quot;without humour&amp;quot;)"/>
+    </idiom>
+    <idiom id="356" value="p&#xE5; fri fot (&amp;quot;fri(given)&amp;quot;)" date="2011-03-03">
+      <translation value="free, at large (&amp;quot;released from custody or escaped&amp;quot;)"/>
+    </idiom>
+    <definition id="4744" value="l&#xF6;s, obunden, ledig" date="2011-03-03"/>
+    <grammar value="&amp; (fr&#xE5;n x); &amp; (att+INF)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="fri" lang="sv" class="jj" id="49190" lexinid="4919" origin="lexin" date="2011-03-03">
+    <translation id="4841" value="independent, free" date="2011-03-03"/>
+    <phonetic value="fri:" soundFile="fri.swf" date="2011-03-03"/>
+    <paradigm id="4261" origin="lexin" date="2011-03-03">
+      <inflection value="fritt"/>
+      <inflection value="fria"/>
+    </paradigm>
+    <synonym value="obunden" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="of&#xF6;rhindrad" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="ohejdad" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="otvungen" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="fri||fri..1||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fri||fri..2||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2798" value="ett fritt land" date="2011-03-03">
+      <translation value="a free country, an independent nation"/>
+    </example>
+    <example id="2799" value="en fri kvinna" date="2011-03-03">
+      <translation value="an independent (free) woman"/>
+    </example>
+    <definition id="4745" value="sj&#xE4;lvst&#xE4;ndig, oberoende" date="2011-03-03"/>
+  </word>
+  <word value="fri" lang="sv" class="jj" id="49200" lexinid="4920" origin="lexin" date="2011-03-03">
+    <translation id="4842" value="free (of charge)" date="2011-03-03"/>
+    <phonetic value="fri:" soundFile="fri.swf" date="2011-03-03"/>
+    <paradigm id="4262" origin="lexin" date="2011-03-03">
+      <inflection value="fritt"/>
+      <inflection value="fria"/>
+    </paradigm>
+    <synonym value="l&#xF6;ssl&#xE4;ppt" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="obunden" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="ohejdad" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="fri||fri..1||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="fri||fri..2||fri..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2800" value="fri hemresa" date="2011-03-03">
+      <translation value="free return ticket"/>
+    </example>
+    <example id="2801" value="fritt intr&#xE4;de" date="2011-03-03">
+      <translation value="free entry"/>
+    </example>
+    <definition id="4746" value="gratis" date="2011-03-03"/>
+  </word>
+  <word value="clear" lang="en" class="jj" id="81761" origin="lexin" date="2009-02-24">
+    <translation id="81761-1" value="fri" origin="lexin" date="2009-02-24"/>
+    <translation id="81761-2" value="ledig" origin="lexin" date="2009-02-24"/>
+    <translation id="81761-3" value="&#xF6;ppen" origin="lexin" date="2009-02-24"/>
+    <translation id="81761-4" value="l&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="81761-5" value="oh&#xE4;mmad" origin="lexin" date="2009-02-24"/>
+    <translation id="81761-6" value="ohindrad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="clear" lang="en" class="ab" id="81771" origin="lexin" date="2009-02-24">
+    <translation id="81771-1" value="fri" origin="lexin" date="2009-02-24"/>
+    <translation id="81771-2" value="l&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="81771-3" value="ur v&#xE4;gen" origin="lexin" date="2009-02-24"/>
+    <idiom id="81771-4" value="get clear away/off" origin="lexin" date="2009-02-24">
+      <translation value="komma lyckligt undan, lyckas komma undan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81771-5" value="keep clear of somebody" origin="lexin" date="2009-02-24">
+      <translation value="undvika n&#xE5;gon, h&#xE5;lla sig undan fr&#xE5;n n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81771-6" value="stand clear of somebody" origin="lexin" date="2009-02-24">
+      <translation value="se upp f&#xF6;r n&#xE5;gon, inte g&#xE5; iv&#xE4;gen f&#xF6;r n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81771-7" value="stay clear of somebody" origin="lexin" date="2009-02-24">
+      <translation value="undvika n&#xE5;gon, h&#xE5;lla sig ifr&#xE5;n n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81771-8" value="steer clear of somebody" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE5;lla sig undan fr&#xE5;n n&#xE5;gon, undvika n&#xE5;gon" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="disengaged" lang="en" class="jj" id="134481" origin="lexin" date="2009-02-24">
+    <translation id="134481-1" value="frist&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="134481-2" value="fri" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fancy-free" lang="en" class="jj" id="170021" origin="lexin" date="2009-02-24">
+    <translation id="170021-1" value="obunden" origin="lexin" date="2009-02-24"/>
+    <translation id="170021-2" value="fri" origin="lexin" date="2009-02-24"/>
+    <idiom id="170021-3" value="footloose and fancy-free" origin="lexin" date="2009-02-24">
+      <translation value="fri och obunden" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="free" lang="en" class="jj" id="185521" origin="lexin" date="2009-02-24">
+    <translation id="185521-1" value="fri" origin="lexin" date="2009-02-24"/>
+    <translation id="185521-2" value="gratis" origin="lexin" date="2009-02-24"/>
+    <idiom id="185521-3" value="Free of charge" origin="lexin" date="2009-02-24">
+      <translation value="Utan kostnad" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="When something is free it can be had without paying for it." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="independent" lang="en" class="jj" id="230691" origin="lexin" date="2009-02-24">
+    <translation id="230691-1" value="oberoende" origin="lexin" date="2009-02-24"/>
+    <translation id="230691-2" value="fri" comment="ekonomiskt" origin="lexin" date="2009-02-24"/>
+    <example id="230691-3" value="a person of independent means" origin="lexin" date="2009-02-24">
+      <translation value="en person med egna pengar, en ekonomiskt oberoende person" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="ingen komparering" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="liberal" lang="en" class="jj" id="255211" origin="lexin" date="2009-02-24">
+    <translation id="255211-1" value="fri" origin="lexin" date="2009-02-24"/>
+    <translation id="255211-2" value="ej s&#xE4;rskilt exakt" origin="lexin" date="2009-02-24"/>
+    <example id="255211-3" value="a liberal interpretation" origin="lexin" date="2009-02-24">
+      <translation value="en fri tolkning" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="loose" lang="en" class="jj" id="261611" origin="lexin" date="2009-02-24">
+    <translation id="261611-1" value="fri" origin="lexin" date="2009-02-24"/>
+    <example id="261611-2" value="a loose translation" origin="lexin" date="2009-02-24">
+      <translation value="en fri &#xF6;vers&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="off" lang="en" class="jj" id="292771" origin="lexin" date="2009-02-24">
+    <translation id="292771-1" value="ledig" origin="lexin" date="2009-02-24"/>
+    <translation id="292771-2" value="fri" origin="lexin" date="2009-02-24"/>
+    <grammar value="attributivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="214590" lang="sv" lexinid="21460" origin="lexin" value="&#xE5;ka">
+    <translation date="2011-03-03" id="21076" value="go, ride, drive"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;ker.swf" value="&#xC5;:ker"/>
+    <paradigm date="2011-03-03" id="18701" origin="lexin">
+      <inflection value="&#xE5;kte"/>
+      <inflection value="&#xE5;kt"/>
+      <inflection value="&#xE5;k"/>
+      <inflection value="&#xE5;ka"/>
+      <inflection value="&#xE5;ker"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="bege"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="fara"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xE4;rdas"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="kuska"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="resa"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;ka||&#xE5;ka..1||&#xE5;ka..vb.1"/>
+    <example date="2011-03-03" id="12106" value="&#xE5;ka skidor">
+      <translation value="ski, go skiing"/>
+    </example>
+    <example date="2011-03-03" id="12107" value="&#xE5;ka bil">
+      <translation value="drive, go by car"/>
+    </example>
+    <example date="2011-03-03" id="12108" value="&#xE5;ka till Stockholm">
+      <translation value="go to Stockholm"/>
+    </example>
+    <definition date="2011-03-03" id="20729" value="f&#xE4;rdas (med fordon)"/>
+    <see date="2011-03-03" origin="lexin" type="animation" value="aker_buss.swf"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (med) x"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="214600" lang="sv" lexinid="21461" origin="lexin" value="&#xE5;ka">
+    <translation date="2011-03-03" id="21077" value="fall, slip, slide"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;ker.swf" value="&#xC5;:ker"/>
+    <paradigm date="2011-03-03" id="18702" origin="lexin">
+      <inflection value="&#xE5;kte"/>
+      <inflection value="&#xE5;kt"/>
+      <inflection value="&#xE5;k"/>
+      <inflection value="&#xE5;ka"/>
+      <inflection value="&#xE5;ker"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="bege"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="fara"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="f&#xE4;rdas"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="kuska"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="pysa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="resa"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;ka||&#xE5;ka..1||&#xE5;ka..vb.1"/>
+    <example date="2011-03-03" id="12109" value="boken &#xE5;kte i golvet">
+      <translation value="the book fell (slid) to the floor"/>
+    </example>
+    <definition date="2011-03-03" id="20730" value="f&#xF6;rflyttas (oavsiktligt)"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp;"/>
+  </word>
+  <word value="drive" lang="en" class="vb" id="145861" origin="lexin" date="2009-02-24">
+    <translation id="145861-1" value="k&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="145861-2" value="&#xE5;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="145861-3" value="fara" origin="lexin" date="2009-02-24"/>
+    <paradigm id="145861-5" origin="lexin" date="2009-02-24">
+      <inflection value="drove" origin="lexin" date="2009-02-24"/>
+      <inflection value="driven" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="145861-4" value="drive on the left" origin="lexin" date="2009-02-24">
+      <translation value="ha v&#xE4;nstertrafik" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="drive" lang="en" class="vb" id="145871" origin="lexin" date="2009-02-24">
+    <translation id="145871-1" value="k&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="145871-2" value="&#xE5;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="145871-3" value="skjutsa" origin="lexin" date="2009-02-24"/>
+    <translation id="145871-4" value="fara" origin="lexin" date="2009-02-24"/>
+    <paradigm id="145871-5" origin="lexin" date="2009-02-24">
+      <inflection value="drove" origin="lexin" date="2009-02-24"/>
+      <inflection value="driven" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="track" lang="en" class="vb" id="423161" origin="lexin" date="2009-02-24">
+    <translation id="423161-1" value="&#xE5;ka" comment="film och TV; om kamera" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="travel" lang="en" class="vb" id="424751" origin="lexin" date="2009-02-24">
+    <translation id="424751-1" value="resa" origin="lexin" date="2009-02-24"/>
+    <translation id="424751-2" value="fara" origin="lexin" date="2009-02-24"/>
+    <translation id="424751-3" value="&#xE5;ka" origin="lexin" date="2009-02-24"/>
+    <translation id="424751-4" value="f&#xE4;rdas" origin="lexin" date="2009-02-24"/>
+    <idiom id="424751-5" value="travel light" origin="lexin" date="2009-02-24">
+      <translation value="resa med l&#xE4;tt packning, resa med lite baggage" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="interest" lang="en" class="nn" id="236641" origin="lexin" date="2009-02-24">
+    <translation id="236641-1" value="b&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    <translation id="236641-2" value="egen f&#xF6;rdel" origin="lexin" date="2009-02-24"/>
+    <translation id="236641-3" value="intresse" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="only" lang="en" class="jj" id="294681" origin="lexin" date="2009-02-24">
+    <translation id="294681-1" value="enda r&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <translation id="294681-2" value="enda verkliga" origin="lexin" date="2009-02-24"/>
+    <translation id="294681-3" value="b&#xE4;sta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="top" lang="en" class="jj" id="421741" origin="lexin" date="2009-02-24">
+    <translation id="421741-1" value="fr&#xE4;msta" origin="lexin" date="2009-02-24"/>
+    <translation id="421741-2" value="b&#xE4;sta" origin="lexin" date="2009-02-24"/>
+    <translation id="421741-3" value="topp-" origin="lexin" date="2009-02-24"/>
+    <grammar value="attributivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

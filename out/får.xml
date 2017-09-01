@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="51700" lang="sv" lexinid="5170" origin="lexin" value="f&#xE5;r">
+    <translation date="2011-03-03" id="5088" value="sheep"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;r.swf" value="f&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="4474" origin="lexin">
+      <inflection value="f&#xE5;ret"/>
+      <inflection value="f&#xE5;r"/>
+      <inflection value="f&#xE5;ren"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="till&#xE5;ts"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;r||f&#xE5;r..1||f&#xE5;r..nn.1"/>
+    <compound date="2011-03-03" id="1831" value="f&#xE5;ra|herde">
+      <translation value="shepherd"/>
+    </compound>
+    <compound date="2011-03-03" id="1832" inflection="f&#xE5;r|ullen" value="f&#xE5;r|ull">
+      <translation value="sheep&amp;#39;s wool"/>
+    </compound>
+    <compound date="2011-03-03" id="1833" value="p&#xE4;lsf&#xE5;r">
+      <translation value="wool sheep"/>
+    </compound>
+    <idiom date="2011-03-03" id="374" value="svart f&#xE5;r (&amp;quot;misslyckad person&amp;quot;)">
+      <translation value="black sheep"/>
+    </idiom>
+    <definition date="2011-03-03" id="4988" value="ullh&#xE5;rigt gr&#xE4;s&#xE4;tande djur av sl&#xE4;ktet Ovis"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="26/husdjur1.swf"/>
+  </word>
+  <word value="f&#xE5;" lang="sv" class="vb" id="51710" lexinid="5171" origin="lexin" date="2011-03-03">
+    <translation id="51710-4990" value="receive" origin="user" date="2012-02-25T16:22:17"/>
+    <translation id="51710-4991" value="get" origin="user" date="2012-02-25T16:22:17"/>
+    <phonetic value="f&#xE5;:r" soundFile="f&#xE5;r.swf" date="2011-03-03"/>
+    <paradigm id="4475" origin="lexin" date="2011-03-03">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym value="erh&#xE5;lla" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="lite" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ringa" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE5;tnjuta" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="2936" value="f&#xE5; en helt annan uppfattning" date="2011-03-03">
+      <translation value="get a completely different impression"/>
+    </example>
+    <example id="2937" value="f&#xE5; arbete" date="2011-03-03">
+      <translation value="get work"/>
+    </example>
+    <example id="2938" value="f&#xE5; bort (en fl&#xE4;ck)" date="2011-03-03">
+      <translation value="remove, get rid of (a stain)"/>
+    </example>
+    <example id="2939" value="f&#xE5; en present" date="2011-03-03">
+      <translation value="get a present"/>
+    </example>
+    <example id="2940" value="f&#xE5; fram (fakta)" date="2011-03-03">
+      <translation value="produce, elicit (facts)"/>
+    </example>
+    <example id="2941" value="jag fick se en bil" date="2011-03-03">
+      <translation value="I got to see a car"/>
+    </example>
+    <idiom id="375" value="f&#xE5; syn p&#xE5; (&amp;quot;pl&#xF6;tsligt se&amp;quot;)" date="2011-03-03">
+      <translation value="catch sight of"/>
+    </idiom>
+    <idiom id="376" value="f&#xE5; lov att (&amp;quot;vara tvungen att&amp;quot;)" date="2011-03-03">
+      <translation value="have to, be forced to"/>
+    </idiom>
+    <idiom id="377" value="f&#xE5; tillf&#xE4;lle att (&amp;quot;kunna g&#xF6;ra (n&#xE5;got) vid l&#xE4;mpligt tillf&#xE4;lle&amp;quot;)" date="2011-03-03">
+      <translation value="get the chance to, have the opportunity to"/>
+    </idiom>
+    <idiom id="378" value="f&#xE5; (&amp;quot;ta&amp;quot;) med sig (tandborsten)" date="2011-03-03">
+      <translation value="have (&amp;quot;take&amp;quot;) (your toothbrush) with you"/>
+    </idiom>
+    <idiom id="379" value="f&#xE5; med (&amp;quot;publicera&amp;quot;) en artikel i en tidning" date="2011-03-03">
+      <translation value="get (&amp;quot;publish&amp;quot;) an article in a paper"/>
+    </idiom>
+    <idiom id="380" value="f&#xE5; bukt med (&amp;quot;lyckas klara av&amp;quot;)" date="2011-03-03">
+      <translation value="get the better of, manage"/>
+    </idiom>
+    <idiom id="381" value="f&#xE5; tag p&#xE5; (&amp;quot;lyckas skaffa eller hitta&amp;quot;)" date="2011-03-03">
+      <translation value="get hold of (&amp;quot;manage to obtain or find&amp;quot;)"/>
+    </idiom>
+    <idiom id="382" value="f&#xE5; tag i (&amp;quot;lyckas h&#xE5;lla fast, f&#xE5;nga&amp;quot;)" date="2011-03-03">
+      <translation value="get hold of"/>
+    </idiom>
+    <idiom id="383" value="f&#xE5; p&#xE5; k&#xF6;pet (&amp;quot;f&#xE5; n&#xE5;got gratis n&#xE4;r man k&#xF6;per en annan vara&amp;quot;)" date="2011-03-03">
+      <translation value="get into the bargain (&amp;quot;get something free when buying another item&amp;quot;)"/>
+    </idiom>
+    <definition id="4989" value="ta emot, erh&#xE5;lla" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="51720" lang="sv" lexinid="5172" origin="lexin" value="f&#xE5;">
+    <translation date="2011-03-03" id="5090" value="may"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;r.swf" value="f&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="4476" origin="lexin">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="erh&#xE5;lla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lite"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xE5;tnjuta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="2942" value="f&#xE5;r jag stiga in?">
+      <translation value="may I come in?"/>
+    </example>
+    <definition date="2011-03-03" id="4990" value="ha till&#xE5;telse att"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="51730" lang="sv" lexinid="5173" origin="lexin" value="f&#xE5;">
+    <translation date="2011-03-03" id="5091" value="have"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;r.swf" value="f&#xE5;:r"/>
+    <paradigm date="2011-03-03" id="4477" origin="lexin">
+      <inflection value="fick"/>
+      <inflection value="f&#xE5;tt"/>
+      <inflection value="f&#xE5;"/>
+      <inflection value="f&#xE5;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="erh&#xE5;lla"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="lite"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xE5;tnjuta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;||f&#xE5;..1||f&#xE5;..vb.1"/>
+    <example date="2011-03-03" id="2943" value="nu f&#xE5;r du g&#xF6;ra som jag s&#xE4;ger!">
+      <translation value="now you have to (must) do as I say!"/>
+    </example>
+    <definition date="2011-03-03" id="4991" value="vara tvungen"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word value="can" lang="en" class="hj&#xE4;lpverb" id="64871" origin="lexin" date="2009-02-24">
+    <translation id="64871-1" value="kan" origin="lexin" date="2009-02-24"/>
+    <translation id="64871-2" value="f&#xE5;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mutton" lang="en" id="484471" origin="user" date="2012-11-04T00:53:33">
+    <translation id="484471-1" value="F&#xE5;rk&#xF6;tt" origin="user" date="2012-11-04T00:53:33"/>
+    <translation id="484471-1" value="f&#xE5;r" origin="user" date="2014-03-03T01:55:03"/>
+  </word>
+  <word value="sheep" lang="en" id="515851" origin="user" date="2013-09-25T05:04:21">
+    <translation id="515851-1" value="f&#xE5;r" origin="user" date="2013-09-25T05:04:22"/>
+  </word>
+</definition>

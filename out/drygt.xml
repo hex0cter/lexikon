@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="dryg" lang="sv" class="jj" id="34780" lexinid="3478" origin="lexin" comment="om tid, m&#xE5;tt och vikt" date="2011-03-03">
+    <translation id="34780-3353" value="ample" origin="user" date="2011-12-07T22:20:41"/>
+    <translation id="34780-3354" value="more than" origin="user" date="2011-12-07T22:20:41"/>
+    <translation id="34780-3355" value="heaped" origin="user" date="2011-12-07T22:20:41"/>
+    <phonetic value="dry:g" soundFile="dryg.swf" date="2011-03-03"/>
+    <paradigm id="3037" origin="lexin" date="2011-03-03">
+      <inflection value="drygt"/>
+      <inflection value="dryga"/>
+    </paradigm>
+    <synonym value="r&#xE4;cka l&#xE4;nge" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="segdragen" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="tyken" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dryg||dryg..1||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dryg||dryg..2||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1987" value="en dryg timme" date="2011-03-03">
+      <translation value="over an hour"/>
+    </example>
+    <example id="1988" value="ett drygt kilo" date="2011-03-03">
+      <translation value="just over a kilo"/>
+    </example>
+    <definition id="3352" value="riklig, rundlig" date="2011-03-03">
+      <translation value="ample, heaped"/>
+    </definition>
+  </word>
+  <word value="dryg" lang="sv" class="jj" id="34790" lexinid="3479" origin="lexin" date="2011-03-03">
+    <translation id="3433" value="economical" date="2011-03-03"/>
+    <phonetic value="dry:g" soundFile="dryg.swf" date="2011-03-03"/>
+    <paradigm id="3038" origin="lexin" date="2011-03-03">
+      <inflection value="drygt"/>
+      <inflection value="dryga"/>
+    </paradigm>
+    <synonym value="nonchalant" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="tyken" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dryg||dryg..1||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dryg||dryg..2||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1989" value="mj&#xF6;let &#xE4;r drygt" date="2011-03-03">
+      <translation value="the flour goes a long way"/>
+    </example>
+    <definition id="3353" value="som r&#xE4;cker l&#xE4;nge" date="2011-03-03"/>
+  </word>
+  <word value="dryg" lang="sv" class="jj" id="34800" lexinid="3480" origin="lexin" date="2011-03-03">
+    <translation id="3434" value="overbearing, heavy" date="2011-03-03"/>
+    <phonetic value="dry:g" soundFile="dryg.swf" date="2011-03-03"/>
+    <paradigm id="3039" origin="lexin" date="2011-03-03">
+      <inflection value="drygt"/>
+      <inflection value="dryga"/>
+    </paradigm>
+    <synonym value="sj&#xE4;lvgod" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tyken" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dryg||dryg..1||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="dryg||dryg..2||dryg..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1990" value="ett drygt arbete" date="2011-03-03">
+      <translation value="a tough job"/>
+    </example>
+    <example id="1991" value="dryga skatter" date="2011-03-03">
+      <translation value="excessive taxes"/>
+    </example>
+    <definition id="3354" value="besv&#xE4;rlig, betungande" date="2011-03-03"/>
+  </word>
+  <word value="dryg" lang="sv" class="jj" id="34810" lexinid="3481" origin="lexin" date="2011-03-03">
+    <translation id="3435" value="haughty" date="2011-03-03"/>
+    <phonetic value="dry:g" soundFile="dryg.swf" date="2011-03-03"/>
+    <paradigm id="3040" origin="lexin" date="2011-03-03">
+      <inflection value="drygt"/>
+      <inflection value="dryga"/>
+    </paradigm>
+    <synonym value="nonchalant" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE4;cka l&#xE4;nge" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="tyken" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="dryg||dryg..2||dryg..av.1" type="saldo" origin="saldo" date="2015-01-11T05:14:56"/>
+    <compound id="1224" value="dumdryg" date="2011-03-03">
+      <translation value="pompous"/>
+    </compound>
+    <definition id="3355" value="h&#xF6;gf&#xE4;rdig, mallig" date="2011-03-03"/>
+  </word>
+  <word class="ab" comment="om tid, m&#xE5;tt och vikt" date="2011-03-03" id="34820" lang="sv" lexinid="3482" origin="lexin" value="drygt">
+    <translation comment="of times, weights and measures" date="2011-03-03" id="3436" value="amply"/>
+    <phonetic date="2011-03-03" soundFile="drygt.swf" value="dry:kt"/>
+    <synonym date="2011-03-03" level="4.4" origin="synlex" value="lite mer &#xE4;n"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ungef&#xE4;r"/>
+    <example date="2011-03-03" id="1992" value="drygt en miljon ton">
+      <translation value="over one million tonnes"/>
+    </example>
+    <example date="2011-03-03" id="1993" value="drygt en halvtimme">
+      <translation value="just over half an hour"/>
+    </example>
+    <definition date="2011-03-03" id="3356" value="gott och v&#xE4;l"/>
+  </word>
+  <word value="amply" lang="en" class="ab" id="12641" origin="lexin" date="2009-02-24">
+    <translation id="12641-1" value="mer &#xE4;n nog" origin="lexin" date="2009-02-24"/>
+    <translation id="12641-2" value="rikligt" origin="lexin" date="2009-02-24"/>
+    <translation id="12641-3" value="drygt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="gone" lang="en" class="pp" id="200741" origin="lexin" date="2009-02-24">
+    <translation id="200741-1" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="200741-2" value="drygt" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <example id="200741-3" value="it&amp;#39;s gone two o&amp;#39;clock already" origin="lexin" date="2009-02-24">
+      <translation value="klockan &#xE4;r redan &#xF6;ver tv&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="200741-4" value="my father is gone seventy" origin="lexin" date="2009-02-24">
+      <translation value="min far &#xE4;r &#xF6;ver sjuttio &#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="haughtily" lang="en" class="ab" id="213421" origin="lexin" date="2009-02-24">
+    <translation id="213421-1" value="h&#xF6;gf&#xE4;rdigt" origin="lexin" date="2009-02-24"/>
+    <translation id="213421-2" value="h&#xF6;gdraget" origin="lexin" date="2009-02-24"/>
+    <translation id="213421-3" value="malligt" origin="lexin" date="2009-02-24"/>
+    <translation id="213421-4" value="drygt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

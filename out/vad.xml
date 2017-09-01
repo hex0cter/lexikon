@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" comment="i utrop f&#xF6;r att ange h&#xF6;g grad" date="2011-03-03" id="204150" lang="sv" lexinid="20416" origin="lexin" value="vad">
+    <translation comment="in exclamations, to denote a high degree" date="2011-03-03" id="20058" value="how"/>
+    <phonetic date="2011-03-03" soundFile="vad.swf" value="va:(d)"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="baksida av underben"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="hur sa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="underben"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="va"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..6||vad..ab.1"/>
+    <example date="2011-03-03" id="11459" value="vad sn&#xE4;llt av dig!">
+      <translation value="how kind of you!"/>
+    </example>
+    <example date="2011-03-03" id="11460" value="vad dum jag &#xE4;r!">
+      <translation value="how silly I am!"/>
+    </example>
+  </word>
+  <word class="pn" comment="anv&#xE4;nds i fr&#xE5;gor" date="2011-03-03" id="204160" lang="sv" lexinid="20417" origin="lexin" value="vad">
+    <translation comment="used in questions" date="2011-03-03" id="20059" value="what"/>
+    <use date="2011-03-03" value="neutral form"/>
+    <phonetic date="2011-03-03" soundFile="vad.swf" value="va:(d)"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="baksida av underben"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="hur sa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="underben"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="va"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..1||vad..pn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad_&#xE4;n..1||vad..pn.1"/>
+    <example date="2011-03-03" id="11461" value="vad &#xE4;r klockan?">
+      <translation value="what time is it?"/>
+    </example>
+    <example date="2011-03-03" id="11462" value="vad kostar fisken?">
+      <translation value="how much is the fish?"/>
+    </example>
+    <example date="2011-03-03" id="11463" value="vad heter du?">
+      <translation value="what is your name?"/>
+    </example>
+    <idiom date="2011-03-03" id="1750" value="va (el. vad&#xE5;)? (&amp;quot;vad s&#xE4;ger du?, hursa?&amp;quot;)">
+      <translation value="what? (&amp;quot;what are you saying?, what do you mean?&amp;quot;)"/>
+    </idiom>
+    <see date="2011-03-03" id="206820" origin="lexin" type="compare" value="vem"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="vilken"/>
+  </word>
+  <word value="vad" lang="sv" class="pn" id="204170" lexinid="20418" origin="lexin" date="2011-03-03">
+    <translation id="20060" value="what" date="2011-03-03"/>
+    <use value="neutral form; relativt" date="2011-03-03"/>
+    <phonetic value="va:(d)" soundFile="vad.swf" date="2011-03-03"/>
+    <see value="vad||vad..1||vad..pn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad_&#xE4;n..1||vad..pn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11464" value="jag f&#xF6;rst&#xE5;r inte vad du s&#xE4;ger" date="2011-03-03">
+      <translation value="I don&amp;#39;t understand what you are saying"/>
+    </example>
+    <idiom id="1751" value="vad som helst (&amp;quot;allt m&#xF6;jligt&amp;quot;)" date="2011-03-03">
+      <translation value="whatever (&amp;quot;anything at all&amp;quot;)"/>
+    </idiom>
+    <definition id="19744" value="det som, vilket" date="2011-03-03"/>
+  </word>
+  <word value="vad" lang="sv" class="nn" id="204180" lexinid="20419" origin="lexin" date="2011-03-03">
+    <translation id="20061" value="calf" origin="user" date="2014-04-17T04:04:27"/>
+    <phonetic value="va:d" soundFile="vad.swf" date="2011-03-03"/>
+    <paradigm id="17825" origin="lexin" date="2011-03-03">
+      <inflection value="vaden"/>
+      <inflection value="vader"/>
+    </paradigm>
+    <synonym value="baksida av underben" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="vad||vad..2||vad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..3||vad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..4||vad..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..5||vad..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="19745" value="bakre (muskul&#xF6;s) del av underbenet" date="2011-03-03"/>
+    <url value="3/skelett.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <url value="2/kropp.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="vad" lang="sv" class="nn" id="204190" lexinid="20420" origin="lexin" comment="&#xE4;ven om den summa pengar som satsas" date="2011-03-03">
+    <translation id="20062" value="bet" comment="also of the sum of money that is bet" date="2011-03-03"/>
+    <phonetic value="va:d" soundFile="vad.swf" date="2011-03-03"/>
+    <paradigm id="17826" origin="lexin" date="2011-03-03">
+      <inflection value="vadet"/>
+      <inflection value="vad"/>
+      <inflection value="vaden"/>
+    </paradigm>
+    <see value="vad||vad..2||vad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..3||vad..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..4||vad..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="vad||vad..5||vad..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11465" value="vinna ett vad" date="2011-03-03">
+      <translation value="win a bet"/>
+    </example>
+    <compound id="6684" value="vad|slagning" date="2011-03-03">
+      <translation value="betting, wagering"/>
+    </compound>
+    <idiom id="1752" value="ska vi sl&#xE5; vad? (&amp;quot;v&#xE5;gar du satsa pengar p&#xE5; att du har r&#xE4;tt?&amp;quot;)" date="2011-03-03">
+      <translation value="do you want to bet on it? (&amp;quot;dare you bet that you are right?&amp;quot;)"/>
+    </idiom>
+    <definition id="19746" value="en slags t&#xE4;vling d&#xE4;r man satsar pengar p&#xE5; att man har r&#xE4;tt i en viss fr&#xE5;ga (som kommer att avg&#xF6;ras senare)" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="204200" lang="sv" lexinid="20421" origin="lexin" value="vad">
+    <translation date="2011-03-03" id="20063" value="appeal"/>
+    <phonetic date="2011-03-03" soundFile="vad.swf" value="va:d"/>
+    <paradigm date="2011-03-03" id="17827" origin="lexin">
+      <inflection value="vadet"/>
+      <inflection value="vad"/>
+      <inflection value="vaden"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="baksida av underben"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="hur sa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="underben"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="va"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..2||vad..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..3||vad..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..4||vad..nn.2"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vad||vad..5||vad..nn.3"/>
+    <definition date="2011-03-03" id="19747" value="&#xF6;verklagande till hovr&#xE4;tten av en dom i tingsr&#xE4;tten"/>
+  </word>
+  <word value="appeal" lang="en" class="nn" id="16131" origin="lexin" date="2009-02-24">
+    <translation id="16131-1" value="&#xF6;verklagande" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="16131-2" value="besv&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="16131-3" value="appell" origin="lexin" date="2009-02-24"/>
+    <translation id="16131-4" value="vad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bet" lang="en" class="nn" id="40161" origin="lexin" date="2009-02-24">
+    <translation id="40161-1" value="vad" origin="lexin" date="2009-02-24"/>
+    <example id="40161-2" value="we made a bet yesterday" origin="lexin" date="2009-02-24">
+      <translation value="vi ingick ett vad/slog vad i g&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="calf" lang="en" class="nn" id="63971" origin="lexin" date="2009-02-24">
+    <translation id="63971-1" value="vad" comment="kroppsdel" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="how" lang="en" class="ab" id="223441" origin="lexin" date="2009-02-24">
+    <translation id="223441-1" value="hur" origin="lexin" date="2009-02-24"/>
+    <translation id="223441-2" value="vad" comment="anv&#xE4;nds f&#xF6;r att uttrycka stark sinnesr&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <example id="223441-3" value="how wonderful to see you again!" origin="lexin" date="2009-02-24">
+      <translation value="vad underbart att tr&#xE4;ffa dig igen!" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="that" lang="en" class="pn" id="416631" origin="lexin" date="2009-02-24">
+    <translation id="416631-1" value="s&#xE5;vitt" origin="lexin" date="2009-02-24"/>
+    <translation id="416631-2" value="vad" origin="lexin" date="2009-02-24"/>
+    <paradigm id="416631-3" origin="lexin" date="2009-02-24">
+      <inflection value="lika" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wager" lang="en" class="nn" id="439231" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="439231-1" value="vad" origin="lexin" date="2009-02-24"/>
+    <translation id="439231-2" value="insats" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="what" lang="en" class="pn" id="443041" origin="lexin" date="2009-02-24">
+    <translation id="443041-1" value="vad" origin="lexin" date="2009-02-24"/>
+    <translation id="443041-2" value="vad f&#xF6;r n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <example id="443041-3" value="You did what?" origin="lexin" date="2009-02-24">
+      <translation value="Du gjorde vad f&#xF6;r n&#xE5;got?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Used to ask for a repetition or clarification." origin="lexin" date="2009-02-24"/>
+    <grammar value="fr&#xE5;gepronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="what" lang="en" class="pn" id="443051" origin="lexin" date="2009-02-24">
+    <translation id="443051-1" value="vad" origin="lexin" date="2009-02-24"/>
+    <translation id="443051-2" value="det de (som)" origin="lexin" date="2009-02-24"/>
+    <translation id="443051-3" value="det som de (som)" origin="lexin" date="2009-02-24"/>
+    <paradigm id="443051-6" origin="lexin" date="2009-02-24">
+      <inflection value="relativt" origin="lexin" date="2009-02-24"/>
+      <inflection value="sj&#xE4;lvst&#xE4;ndigt pronomen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="443051-4" value="I listened to what he said." origin="lexin" date="2009-02-24">
+      <translation value="Jag lyssnade till vad (det) han hade att s&#xE4;ga." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443051-5" value="Here is what she asked for." origin="lexin" date="2009-02-24">
+      <translation value="H&#xE4;r &#xE4;r det som hon fr&#xE5;gade efter." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The thing or things that" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="what" lang="en" class="pn" id="443061" origin="lexin" date="2009-02-24">
+    <translation id="443061-1" value="vad" origin="lexin" date="2009-02-24"/>
+    <translation id="443061-2" value="vilken,vilket" origin="lexin" date="2009-02-24"/>
+    <translation id="443061-3" value="vilka" origin="lexin" date="2009-02-24"/>
+    <example id="443061-4" value="What do you mean?" origin="lexin" date="2009-02-24">
+      <translation value="Vad menar du?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443061-5" value="What time will he arrive?" origin="lexin" date="2009-02-24">
+      <translation value="Vilken tid kommer han?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443061-6" value="What colours do you prefer for this room?" origin="lexin" date="2009-02-24">
+      <translation value="Vilka f&#xE4;rger f&#xF6;redrar du till det h&#xE4;r rummet?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Used in questions about an unknown thing." origin="lexin" date="2009-02-24"/>
+    <grammar value="fr&#xE5;gepronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="double-hulled" lang="en" id="529421" origin="user" date="2014-02-14T04:59:26">
+    <translation id="529421-1" value="dubbelt skrov" origin="user" date="2014-02-14T04:59:26"/>
+    <translation id="529421-2" value="dubbelskrovig" origin="user" date="2014-02-14T04:59:26"/>
+    <translation id="529421-3" value="tv&#xE5;skrovs" origin="user" date="2014-06-27T04:30:35"/>
+    <translation id="529421-4" value="med dubbla skrov" origin="user" date="2016-04-12T01:33:22"/>
+    <translation id="529421-5" value="dubbelmantlad" origin="user" date="2016-06-11T04:06:21"/>
+    <translation id="529421-6" value="vad" origin="user" date="2017-01-25T02:33:33"/>
+  </word>
+</definition>

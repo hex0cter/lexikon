@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="109760" lang="sv" lexinid="10976" origin="lexin" value="mer">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="mera"/>
+    <translation date="2011-03-03" id="10783" value="more"/>
+    <use date="2011-03-03" value="komparativ"/>
+    <phonetic date="2011-03-03" soundFile="mer.swf" value="me:r el. -a"/>
+    <example date="2011-03-03" id="5932" value="ha mera tid f&#xF6;r barnen">
+      <translation value="have more time for the children"/>
+    </example>
+    <example date="2011-03-03" id="5933" value="tj&#xE4;na mer pengar">
+      <translation value="earn more money"/>
+    </example>
+    <definition date="2011-03-03" id="10584" value="som har st&#xF6;rre utstr&#xE4;ckning"/>
+    <see date="2011-03-03" origin="lexin" type="phonetic" value="mera.swf"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="109770" lang="sv" lexinid="10977" origin="lexin" value="mer">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="mera"/>
+    <translation date="2011-03-03" id="10784" value="more, additional"/>
+    <use date="2011-03-03" value="s&#xE4;rskilt som komparationsord; variantform: &amp;quot;mera&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="mer.swf" value="me:r el. -a"/>
+    <example date="2011-03-03" id="5934" value="jag v&#xE4;ntar inte mer &#xE4;n fem minuter">
+      <translation value="I won&amp;#39;t wait more than five minutes"/>
+    </example>
+    <example date="2011-03-03" id="5935" value="tj&#xE4;na en krona mer i timmen">
+      <translation value="earn one krona more per hour"/>
+    </example>
+    <example date="2011-03-03" id="5936" value="han &#xE4;r mer musikalisk &#xE4;n sin fru">
+      <translation value="he is more musically inclined than his wife"/>
+    </example>
+    <example date="2011-03-03" id="5937" value="vi s&#xE5;g henne aldrig mera">
+      <translation value="we didn&amp;#39;t see her any more"/>
+    </example>
+    <example date="2011-03-03" id="5938" value="vill du veta mera?">
+      <translation value="would you like to know more?"/>
+    </example>
+    <idiom date="2011-03-03" id="969" value="mer &#xE4;n n&#xE5;nsin (&amp;quot;som aldrig f&#xF6;rut&amp;quot;)">
+      <translation value="more than ever (&amp;quot;as never before&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="970" value="jag blev mer och mer (&amp;quot;alltmer&amp;quot;) irriterad">
+      <translation value="I became more and more (&amp;quot;increasingly&amp;quot;) irritated"/>
+    </idiom>
+    <idiom date="2011-03-03" id="971" value="vi blev mer eller mindre (&amp;quot;n&#xE4;rmast, snarast&amp;quot;) utsparkade">
+      <translation value="we were more or less (&amp;quot;just about, rather&amp;quot;) thrown out"/>
+    </idiom>
+    <idiom date="2011-03-03" id="972" value="med mera (m m) (&amp;quot;och annat&amp;quot;)">
+      <translation value="et cetera (etc.) (&amp;quot;and so on&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="973" value="det r&#xE4;cker mer &#xE4;n v&#xE4;l (&amp;quot;det r&#xE4;cker och blir &#xF6;ver&amp;quot;)">
+      <translation value="that is more than enough (&amp;quot;it is enough and more&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="10585" value="i h&#xF6;gre grad, ytterligare"/>
+    <see date="2011-03-03" origin="lexin" type="phonetic" value="mera.swf"/>
+  </word>
+  <word class="" date="2011-03-03" id="109780" lang="sv" lexinid="10978" origin="lexin" value="mera">
+    <translation date="2011-03-03" id="10785" value="more"/>
+    <phonetic date="2011-03-03" soundFile="mera.swf" value="mE:ra"/>
+    <see date="2011-03-03" origin="lexin" value="mer"/>
+  </word>
+  <word value="more" lang="en" class="jj" id="278021" lexinid="270" origin="lexin" date="2009-02-24">
+    <translation id="278021-1" value="mer" origin="lexin" date="2009-02-24"/>
+    <translation id="278021-2" value="mera" origin="lexin" date="2009-02-24"/>
+    <translation id="278021-3" value="st&#xF6;rre" origin="lexin" date="2009-02-24"/>
+    <example id="278021-4" value="there are more and more cars on the road" origin="lexin" date="2009-02-24">
+      <translation value="bilismen &#xF6;kar alltmer(a)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="mer och mer" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

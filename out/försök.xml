@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="f&#xF6;rs&#xF6;k" lang="sv" class="nn" id="57630" lexinid="5763" origin="lexin" date="2011-03-03">
+    <translation id="5668" value="attempt" date="2011-03-03"/>
+    <phonetic value="f&#xF6;r+s&#xD6;:k" soundFile="f&#xF6;rs&#xF6;k.swf" date="2011-03-03"/>
+    <paradigm id="4993" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rs&#xF6;ket"/>
+      <inflection value="f&#xF6;rs&#xF6;k"/>
+      <inflection value="f&#xF6;rs&#xF6;ken"/>
+    </paradigm>
+    <synonym value="prov" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rs&#xF6;k||f&#xF6;rs&#xF6;k..1||f&#xF6;rs&#xF6;k..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="f&#xF6;rs&#xF6;k||f&#xF6;rs&#xF6;k..2||f&#xF6;rs&#xF6;k..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3378" value="v&#xE5;ga ett f&#xF6;rs&#xF6;k" date="2011-03-03">
+      <translation value="risk a try"/>
+    </example>
+    <example id="3379" value="g&#xF6;ra ett f&#xF6;rs&#xF6;k" date="2011-03-03">
+      <translation value="make an attempt, have a try"/>
+    </example>
+    <example id="3380" value="f&#xF6;rs&#xF6;k till motst&#xE5;nd" date="2011-03-03">
+      <translation value="attempt resistance"/>
+    </example>
+    <example id="3381" value="f&#xF6;rs&#xF6;k med l&#xE4;gre avgifter" date="2011-03-03">
+      <translation value="try lower charges"/>
+    </example>
+    <compound id="2045" value="mordf&#xF6;rs&#xF6;k" date="2011-03-03">
+      <translation value="attempted murder"/>
+    </compound>
+    <compound id="2046" value="f&#xF6;rs&#xF6;ks|verksamhet" date="2011-03-03">
+      <translation value="experimental work"/>
+    </compound>
+    <definition id="5550" value="anstr&#xE4;ngning att &#xE5;stadkomma n&#xE5;got" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;rs&#xF6;k" lang="sv" class="nn" id="57640" lexinid="5764" origin="lexin" date="2011-03-03">
+    <translation id="5669" value="trial, experiment" date="2011-03-03"/>
+    <phonetic value="f&#xF6;r+s&#xD6;:k" soundFile="f&#xF6;rs&#xF6;k.swf" date="2011-03-03"/>
+    <paradigm id="4994" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rs&#xF6;ket"/>
+      <inflection value="f&#xF6;rs&#xF6;k"/>
+      <inflection value="f&#xF6;rs&#xF6;ken"/>
+    </paradigm>
+    <synonym value="test" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rs&#xF6;k||f&#xF6;rs&#xF6;k..2||f&#xF6;rs&#xF6;k..nn.1" type="saldo" origin="saldo" date="2015-03-14T03:13:33"/>
+    <compound id="2047" value="f&#xF6;rs&#xF6;ks|djur" date="2011-03-03">
+      <translation value="laboratory animal, animal used for experimental purposes"/>
+    </compound>
+    <compound id="2048" value="djurf&#xF6;rs&#xF6;k" date="2011-03-03">
+      <translation value="experiment on animals"/>
+    </compound>
+    <compound id="2049" value="f&#xF6;rs&#xF6;ks|person" date="2011-03-03">
+      <translation value="subject of an experiment"/>
+    </compound>
+    <compound id="2050" value="f&#xF6;rs&#xF6;ks|kanin" date="2011-03-03">
+      <translation value="guinea pig"/>
+    </compound>
+    <definition id="5551" value="(natur)vetenskaplig unders&#xF6;kning, experiment" date="2011-03-03"/>
+  </word>
+  <word value="f&#xF6;rs&#xF6;ka" lang="sv" class="vb" id="57650" lexinid="5765" origin="lexin" date="2011-03-03">
+    <translation id="57650-5553" value="try" origin="user" date="2012-01-18T00:49:50"/>
+    <translation id="57650-5554" value="attempt" origin="user" date="2012-01-18T00:49:50"/>
+    <phonetic value="f&#xF6;r+s&#xD6;:ker" soundFile="f&#xF6;rs&#xF6;ker.swf" date="2011-03-03"/>
+    <paradigm id="4995" origin="lexin" date="2011-03-03">
+      <inflection value="f&#xF6;rs&#xF6;kte"/>
+      <inflection value="f&#xF6;rs&#xF6;kt"/>
+      <inflection value="f&#xF6;rs&#xF6;k"/>
+      <inflection value="f&#xF6;rs&#xF6;ka"/>
+      <inflection value="f&#xF6;rs&#xF6;ker"/>
+    </paradigm>
+    <synonym value="prova" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="pr&#xF6;va" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="testa" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="f&#xF6;rs&#xF6;ka||f&#xF6;rs&#xF6;ka..1||f&#xF6;rs&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="3382" value="han f&#xF6;rs&#xF6;ker visa vad han kan" date="2011-03-03">
+      <translation value="he tries to show what he can do"/>
+    </example>
+    <definition id="5552" value="anstr&#xE4;nga sig att &#xE5;stadkomma n&#xE5;got" date="2011-03-03"/>
+    <grammar value="A &amp; + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="attempt" lang="en" class="nn" id="23801" origin="lexin" date="2009-02-24">
+    <translation id="23801-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bid" lang="en" class="nn" id="40821" origin="lexin" date="2009-02-24">
+    <translation id="40821-1" value="anbud" origin="lexin" date="2009-02-24"/>
+    <translation id="40821-2" value="bud" origin="lexin" date="2009-02-24"/>
+    <translation id="40821-3" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="40821-4" value="satsning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="crack" lang="en" class="nn" id="107811" origin="lexin" date="2009-02-24">
+    <translation id="107811-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="effort" lang="en" class="nn" id="151751" origin="lexin" date="2009-02-24">
+    <translation id="151751-1" value="prestation" comment="konstn&#xE4;rlig eller litter&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-2" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-3" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-4" value="alster" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-5" value="kraftprov" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="essay" lang="en" class="nn" id="160451" origin="lexin" date="2009-02-24">
+    <translation id="160451-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="experiment" lang="en" class="nn" id="165361" origin="lexin" date="2009-02-24">
+    <translation id="165361-1" value="experiment" origin="lexin" date="2009-02-24"/>
+    <translation id="165361-2" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="165361-3" value="prov" origin="lexin" date="2009-02-24"/>
+    <translation id="165361-4" value="test" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="experimentation" lang="en" class="nn" id="165411" origin="lexin" date="2009-02-24">
+    <translation id="165411-1" value="experimenterande" origin="lexin" date="2009-02-24"/>
+    <translation id="165411-2" value="experimentering" origin="lexin" date="2009-02-24"/>
+    <translation id="165411-3" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fling" lang="en" class="nn" id="179031" origin="lexin" date="2009-02-24">
+    <translation id="179031-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="179031-2" value="attack" origin="lexin" date="2009-02-24"/>
+    <translation id="179031-3" value="hugg" origin="lexin" date="2009-02-24"/>
+    <example id="179031-4" value="have a fling at" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rs&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="go" lang="en" class="nn" id="199561" origin="lexin" date="2009-02-24">
+    <translation id="199561-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <example id="199561-3" value="let me have a go at opening that bottle now that you&amp;#39;ve tried" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;t mig f&#xF6;rs&#xF6;ka &#xF6;ppna flaskan nu n&#xE4;r du har gjort ett f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="199561-2" value="have a go" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra ett f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="show" lang="en" class="nn" id="380991" origin="lexin" date="2009-02-24">
+    <translation id="380991-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <idiom id="380991-2" value="put up a good/poor show" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;ra bra/d&#xE5;ligt ifr&#xE5;n sig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="trial" lang="en" class="nn" id="425591" origin="lexin" date="2009-02-24">
+    <translation id="425591-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="425591-2" value="prov" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="try" lang="en" class="nn" id="427111" origin="lexin" date="2009-02-24">
+    <translation id="427111-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <paradigm id="427111-3" origin="lexin" date="2009-02-24">
+      <inflection value="tries" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="427111-2" value="I think it&amp;#39;s worth a try" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker att det &#xE4;r v&#xE4;rt ett f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="try" lang="en" class="nn" id="427121" origin="lexin" date="2009-02-24">
+    <translation id="427121-1" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="427121-2" value="try" comment="rugby" origin="lexin" date="2009-02-24"/>
+    <paradigm id="427121-3" origin="lexin" date="2009-02-24">
+      <inflection value="tries" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+</definition>

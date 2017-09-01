@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="n&#xE4;sta" lang="sv" class="nn" id="120070" lexinid="12008" origin="lexin" date="2011-03-03">
+    <translation id="120070-11564" value="neighbour" origin="user" date="2012-02-08T23:49:35"/>
+    <translation id="120070-11565" value="(neighbor [US])" origin="user" date="2012-02-08T23:49:35"/>
+    <phonetic value="&#xB2;nEs:ta" soundFile="n&#xE4;sta.swf" date="2011-03-03"/>
+    <paradigm id="10399" origin="lexin" date="2011-03-03">
+      <inflection value="n&#xE4;stan"/>
+    </paradigm>
+    <synonym value="eftertr&#xE4;dande" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="kommande" level="4.5" origin="synlex" date="2011-03-03"/>
+    <example id="6601" value="&#xE4;lska sin n&#xE4;sta" date="2011-03-03">
+      <translation value="love one&amp;#39;s neighbour"/>
+    </example>
+    <definition id="11563" value="medm&#xE4;nniska" date="2011-03-03"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="120080" lang="sv" lexinid="12009" origin="lexin" value="n&#xE4;stan">
+    <translation date="2011-03-03" id="11792" value="almost"/>
+    <phonetic date="2011-03-03" soundFile="n&#xE4;stan.swf" value="&#xB2;nEs:tan"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ganska"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="n&#xE4;rap&#xE5;"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="n&#xE4;stintill"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="omkring"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="ungef&#xE4;r"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="uppemot"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="n&#xE4;stan||n&#xE4;stan..1||n&#xE4;stan..ab.1"/>
+    <example date="2011-03-03" id="6602" value="n&#xE4;stan frisk">
+      <translation value="almost well"/>
+    </example>
+    <example date="2011-03-03" id="6603" value="n&#xE4;stan alltid glad">
+      <translation value="almost always happy"/>
+    </example>
+    <example date="2011-03-03" id="6604" value="n&#xE4;stan hela tiden">
+      <translation value="almost all the time"/>
+    </example>
+    <definition date="2011-03-03" id="11564" value="s&#xE5; gott som"/>
+  </word>
+  <word value="about" lang="en" class="ab" id="1211" origin="lexin" date="2009-02-24">
+    <translation id="1211-1" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="1211-2" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <example id="1211-3" value="that&amp;#39;s about right!" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) s&#xE5; &#xE4;r det, ungef&#xE4;r!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="1211-4" value="be about to (+infinitiv)" origin="lexin" date="2009-02-24">
+      <translation value="st&#xE5; i begrepp att" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="almost" lang="en" class="ab" id="10971" origin="lexin" date="2009-02-24">
+    <translation id="10971-1" value="s&#xE5; gott som" origin="lexin" date="2009-02-24"/>
+    <translation id="10971-2" value="bort&#xE5;t" origin="lexin" date="2009-02-24"/>
+    <translation id="10971-3" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <translation id="10971-4" value="n&#xE4;ra p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="10971-5" value="n&#xE4;rmare" origin="lexin" date="2009-02-24"/>
+    <translation id="10971-6" value="upp emot" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="but" lang="en" class="ab" id="61871" lexinid="37" origin="lexin" date="2009-02-24">
+    <translation id="61871-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-4" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="near" lang="en" class="jj" id="284021" origin="lexin" date="2009-02-24">
+    <translation id="284021-1" value="n&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="284021-2" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <translation id="284021-3" value="snudd p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="284021-4" value="n&#xE4;ra nog fullst&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    <example id="284021-5" value="it was a near disaster" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xF6;ll p&#xE5; att bli en katastrof, katastrofen var n&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="near" lang="en" class="ab" id="284051" origin="lexin" date="2009-02-24">
+    <translation id="284051-1" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <example id="284051-2" value="this task is near impossible" origin="lexin" date="2009-02-24">
+      <translation value="den h&#xE4;r uppgiften &#xE4;r n&#xE4;stan om&#xF6;jlig att genomf&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="nearly" lang="en" class="ab" id="284111" origin="lexin" date="2009-02-24">
+    <translation id="284111-1" value="bort&#xE5;t" comment="i synnerhet brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-2" value="ungef&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-3" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-4" value="n&#xE4;rmare" origin="lexin" date="2009-02-24"/>
+    <translation id="284111-5" value="n&#xE4;ra p&#xE5;" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sub-" lang="en" class="prefix" id="404061" origin="lexin" date="2009-02-24">
+    <translation id="404061-1" value="sub-" origin="lexin" date="2009-02-24"/>
+    <translation id="404061-2" value="under-" origin="lexin" date="2009-02-24"/>
+    <translation id="404061-3" value="del-" origin="lexin" date="2009-02-24"/>
+    <translation id="404061-4" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+    <translation id="404061-5" value="n&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="vanligen i sammans&#xE4;ttningar" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

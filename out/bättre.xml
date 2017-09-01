@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="bra" lang="sv" class="jj" id="22910" lexinid="2291" origin="lexin" date="2011-03-03">
+    <translation id="22910-2226" value="good" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="22910-2227" value="excellent" origin="user" date="2012-01-28T23:48:23"/>
+    <translation id="22910-2228" value="fine" origin="user" date="2012-01-28T23:48:23"/>
+    <use value="ob&#xF6;jligt" date="2011-03-03"/>
+    <phonetic value="bra:" soundFile="bra.swf" date="2011-03-03"/>
+    <paradigm id="1999" origin="lexin" date="2011-03-03">
+      <inflection value="b&#xE4;ttre"/>
+      <inflection value="b&#xE4;st"/>
+    </paradigm>
+    <synonym value="duktig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="enast&#xE5;ende" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="finfin" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="god" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="inte d&#xE5;ligt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="kalas" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="suver&#xE4;n" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="suver&#xE4;nt" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="utm&#xE4;rkt" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;l" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="bra||bra..3||bra..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bra||bra..4||bra..av.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1398" value="han &#xE4;r bra p&#xE5; att sjunga" date="2011-03-03">
+      <translation value="he is good at singing"/>
+    </example>
+    <example id="1399" value="en bra fotbollsspelare" date="2011-03-03">
+      <translation value="a skilled footballer"/>
+    </example>
+    <example id="1400" value="det &#xE4;r lika bra att du g&#xE5;r" date="2011-03-03">
+      <translation value="you may just as well leave"/>
+    </example>
+    <example id="1401" value="vara bra i matematik" date="2011-03-03">
+      <translation value="be good at maths"/>
+    </example>
+    <example id="1402" value="ett bra resultat" date="2011-03-03">
+      <translation value="a great result"/>
+    </example>
+    <example id="1403" value="ett bra jobb" date="2011-03-03">
+      <translation value="an excellent piece of work"/>
+    </example>
+    <definition id="2225" value="god, fin, prima" date="2011-03-03"/>
+    <grammar value="&amp; (i x); &amp; (p&#xE5; x/att+INF)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="bra" lang="sv" class="ab" id="22920" lexinid="2292" origin="lexin" date="2011-03-03">
+    <translation id="22920-2227" value="excellently" origin="user" date="2012-05-01T01:16:57"/>
+    <translation id="22920-2228" value="well" origin="user" date="2012-05-01T01:16:57"/>
+    <phonetic value="bra:" soundFile="bra.swf" date="2011-03-03"/>
+    <paradigm id="2000" origin="lexin" date="2011-03-03">
+      <inflection value="b&#xE4;ttre"/>
+      <inflection value="b&#xE4;st"/>
+    </paradigm>
+    <synonym value="duktig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="enast&#xE5;ende" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="finemang" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="finfin" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;tt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="inte d&#xE5;ligt" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="kanon" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="prima" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="toppen" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="bra||bra..1||bra..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bra||bra..2||bra..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1404" value="jag m&#xE5;r bra" date="2011-03-03">
+      <translation value="I&amp;#39;m fine"/>
+    </example>
+    <example id="1405" value="det g&#xE5;r bra" date="2011-03-03">
+      <translation value="things are going well"/>
+    </example>
+    <example id="1406" value="vi har f&#xE5;tt det bra mycket b&#xE4;ttre" date="2011-03-03">
+      <translation value="we&amp;#39;re doing much better now"/>
+    </example>
+    <example id="1407" value="du ligger bra till" date="2011-03-03">
+      <translation value="you&amp;#39;re doing well, you&amp;#39;ve got an excellent chance"/>
+    </example>
+    <definition id="2226" value="fint, prima, v&#xE4;l" date="2011-03-03"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="26750" lang="sv" lexinid="2675" origin="lexin" value="b&#xE4;ttre">
+    <translation date="2011-03-03" id="2639" value="better"/>
+    <phonetic date="2011-03-03" soundFile="b&#xE4;ttre.swf" value="bEt:re"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="f&#xF6;rb&#xE4;ttring"/>
+    <idiom date="2011-03-03" id="202" value="resultatet blev b&#xE4;ttre och b&#xE4;ttre (&amp;quot;allt b&#xE4;ttre&amp;quot;)">
+      <translation value="the result kept on improving (&amp;quot;became better and better&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="2584" value="mera bra el. god"/>
+  </word>
+  <word value="better" lang="en" class="jj" id="40321" origin="lexin" date="2009-02-24">
+    <translation id="40321-1" value="b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    <idiom id="40321-2" value="against one&amp;#39;s better judgement" origin="lexin" date="2009-02-24">
+      <translation value="mot b&#xE4;ttre vetande" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="40321-3" value="better late than never" origin="lexin" date="2009-02-24">
+      <translation value="b&#xE4;ttre sent &#xE4;n aldrig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="40321-4" value="one had better do something" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r b&#xE4;st man g&#xF6;r n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="mera bra eller god" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="better" lang="en" class="ab" id="40331" origin="lexin" date="2009-02-24">
+    <translation id="40331-1" value="b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    <translation id="40331-2" value="mer" origin="lexin" date="2009-02-24"/>
+    <translation id="40331-3" value="hellre" origin="lexin" date="2009-02-24"/>
+    <idiom id="40331-4" value="be better off" origin="lexin" date="2009-02-24">
+      <translation value="klara sig b&#xE4;ttre, ha det b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="40331-5" value="better safe than sorry" origin="lexin" date="2009-02-24">
+      <translation value="b&#xE4;st att ta det s&#xE4;kra f&#xF6;re det os&#xE4;kra" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="40331-6" value="better the devil you know (than the devil you don&amp;#39;t)" origin="lexin" date="2009-02-24">
+      <translation value="man vet vad man har men inte vad man f&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="healthier" lang="en" id="489881" origin="user" date="2012-12-18T03:50:09">
+    <translation id="489881-1" value="h&#xE4;lsosammare" origin="user" date="2012-12-18T03:50:09"/>
+    <translation id="489881-1" value="b&#xE4;ttre" origin="user" date="2013-01-16T04:19:16"/>
+  </word>
+  <word value="stages" lang="en" id="520641" origin="user" date="2013-11-08T01:20:03">
+    <translation id="520641-1" value="stadier" origin="user" date="2013-11-08T01:20:03"/>
+    <translation id="520641-2" value="scener (t.ex. " origin="user" date="2013-11-08T01:20:04"/>
+    <translation id="520641-1" value="niv&#xE5;er, scener" origin="user" date="2014-03-31T02:07:14"/>
+    <translation id="520641-3" value="b&#xE4;ttre" origin="user" date="2015-08-25T01:20:01"/>
+    <translation id="520641-4" value="steg, scener" origin="user" date="2016-01-30T03:47:53"/>
+    <translation id="520641-5" value="steg" origin="user" date="2016-06-08T04:14:36"/>
+  </word>
+</definition>

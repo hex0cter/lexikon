@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="36370" lang="sv" lexinid="3637" origin="lexin" value="d&#xE4;r">
+    <translation date="2011-03-03" id="3588" value="there"/>
+    <phonetic date="2011-03-03" soundFile="d&#xE4;r.swf" value="d&#xE4;:r"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="d&#xE4;rborta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="d&#xE4;r||d&#xE4;r..1||d&#xE4;r..ab.1"/>
+    <example date="2011-03-03" id="2129" value="h&#xE4;r och d&#xE4;r">
+      <translation value="all over"/>
+    </example>
+    <example date="2011-03-03" id="2130" value="d&#xE4;r borta">
+      <translation value="over there"/>
+    </example>
+    <example date="2011-03-03" id="2131" value="d&#xE4;r springer han">
+      <translation value="there he goes"/>
+    </example>
+    <example date="2011-03-03" id="2132" value="en s&#xE5;n d&#xE4;r bil">
+      <translation value="a car like that"/>
+    </example>
+    <example date="2011-03-03" id="2133" value="den d&#xE4;r boken">
+      <translation value="that book"/>
+    </example>
+    <idiom date="2011-03-03" id="268" value="-- Hur m&#xE5;r du? -- S&#xE5; d&#xE4;r (&amp;quot;n&#xE5;gorlunda&amp;quot;)">
+      <translation value="-- How are you?-- So, so (&amp;quot;not too bad&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="269" value="S&#xE5; d&#xE4;r ja! (&amp;quot;Det var det!&amp;quot;)">
+      <translation value="There we go! (&amp;quot;Well, that&amp;#39;s that!&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="3502" value="p&#xE5; det st&#xE4;llet"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="36380" lang="sv" lexinid="3638" origin="lexin" value="d&#xE4;r">
+    <translation date="2011-03-03" id="3589" value="where"/>
+    <phonetic date="2011-03-03" soundFile="d&#xE4;r.swf" value="d&#xE4;:r"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="d&#xE4;rborta"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="d&#xE4;r||d&#xE4;r..1||d&#xE4;r..ab.1"/>
+    <example date="2011-03-03" id="2134" value="d&#xE4;r huset l&#xE5;g finns nu en motorv&#xE4;g">
+      <translation value="where the house was, there is now a motorway"/>
+    </example>
+    <example date="2011-03-03" id="2135" value="huset d&#xE4;r jag bor ska rivas">
+      <translation value="the house where I live will be torn down"/>
+    </example>
+    <definition date="2011-03-03" id="3503" value="p&#xE5; det st&#xE4;llet som"/>
+  </word>
+  <word value="there" lang="en" class="ab" id="417171" origin="lexin" date="2009-02-24">
+    <translation id="417171-1" value="d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <idiom id="417171-2" value="there and then (then and there)" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; fl&#xE4;cken, genast, omedelbart" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417171-3" value="there you are" origin="lexin" date="2009-02-24">
+      <translation value="vars&#xE5;god" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417171-4" value="there you are!" origin="lexin" date="2009-02-24">
+      <translation value="d&#xE4;r ser du!/vad var det jag sa!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="417171-5" value="there you go (again)!" origin="lexin" date="2009-02-24">
+      <translation value="nu b&#xF6;rjar du (b&#xF6;rjas det) igen!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="p&#xE5; det st&#xE4;llet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="there" lang="en" class="ab" id="417181" origin="lexin" date="2009-02-24">
+    <translation id="417181-1" value="d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="417181-2" value="d&#xE4;ri" origin="lexin" date="2009-02-24"/>
+    <translation id="417181-3" value="i det" origin="lexin" date="2009-02-24"/>
+    <translation id="417181-4" value="i det avseendet" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="where" lang="en" class="ab, kn" id="443181" origin="lexin" date="2009-02-24">
+    <translation id="443181-1" value="d&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <example id="443181-2" value="Is this the place where it happened?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r det h&#xE4;r platsen d&#xE4;r det h&#xE4;nde?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="443181-3" value="A country where the sun never sets." origin="lexin" date="2009-02-24">
+      <translation value="Ett land d&#xE4;r solen aldrig g&#xE5;r ner." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="at which" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="bottletops" lang="en" id="470581" origin="user" date="2012-06-21T02:43:54">
+    <translation id="470581-1" value="d&#xE4;r" origin="user" date="2012-06-21T02:43:54"/>
+  </word>
+</definition>

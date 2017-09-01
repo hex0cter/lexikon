@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="viss" lang="sv" class="jj" id="209560" lexinid="20957" origin="lexin" date="2011-03-03">
+    <translation id="20586" value="certain" date="2011-03-03"/>
+    <phonetic value="vis:" soundFile="viss.swf" date="2011-03-03"/>
+    <paradigm id="18272" origin="lexin" date="2011-03-03">
+      <inflection value="visst"/>
+      <inflection value="vissa"/>
+    </paradigm>
+    <see value="viss||viss..1||viss..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viss||viss..2||viss..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11806" value="vissa av deltagarna" date="2011-03-03">
+      <translation value="some of the participants"/>
+    </example>
+    <example id="11807" value="under en viss tid" date="2011-03-03">
+      <translation value="for a given time"/>
+    </example>
+    <example id="11808" value="ett visst omr&#xE5;de" date="2011-03-03">
+      <translation value="a given area"/>
+    </example>
+    <example id="11809" value="en viss Mr X" date="2011-03-03">
+      <translation value="a certain Mr. X"/>
+    </example>
+    <idiom id="1828" value="i viss m&#xE5;n (&amp;quot;till en del&amp;quot;)" date="2011-03-03">
+      <translation value="to a certain extent"/>
+    </idiom>
+    <idiom id="1829" value="i vissa fall (&amp;quot;ibland&amp;quot;)" date="2011-03-03">
+      <translation value="in some (certain) cases (&amp;quot;sometimes&amp;quot;)"/>
+    </idiom>
+    <idiom id="1830" value="p&#xE5; vissa h&#xE5;ll (&amp;quot;p&#xE5; en del platser, bland somliga&amp;quot;)" date="2011-03-03">
+      <translation value="in some quarters (&amp;quot;in some places, among some people&amp;quot;)"/>
+    </idiom>
+    <definition id="20243" value="best&#xE4;md, s&#xE4;rskild" date="2011-03-03"/>
+  </word>
+  <word value="viss" lang="sv" class="jj" id="209570" lexinid="20958" origin="lexin" date="2011-03-03">
+    <translation id="20587" value="certain" date="2011-03-03"/>
+    <phonetic value="vis:" soundFile="viss.swf" date="2011-03-03"/>
+    <paradigm id="18273" origin="lexin" date="2011-03-03">
+      <inflection value="visst"/>
+      <inflection value="vissa"/>
+    </paradigm>
+    <synonym value="s&#xE4;ker" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="viss||viss..1||viss..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="viss||viss..2||viss..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11810" value="vara viss om att lyckas" date="2011-03-03">
+      <translation value="be sure about winning"/>
+    </example>
+    <compound id="6860" value="viss|het" date="2011-03-03">
+      <translation value="certainty"/>
+    </compound>
+    <definition id="20244" value="s&#xE4;ker, &#xF6;vertygad" date="2011-03-03"/>
+  </word>
+  <word class="" date="2011-03-03" id="209650" lang="sv" lexinid="20966" origin="lexin" value="visst">
+    <translation date="2011-03-03" id="20593" value="certain"/>
+    <phonetic date="2011-03-03" soundFile="visst.swf" value="vis:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="okej"/>
+    <see date="2011-03-03" origin="lexin" value="viss"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="209660" lang="sv" lexinid="20967" origin="lexin" value="visst">
+    <translation date="2011-03-03" id="20594" value="certainly"/>
+    <phonetic date="2011-03-03" soundFile="visst.swf" value="vis:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="okej"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="visst||visst..1||visst..ab.1"/>
+    <example date="2011-03-03" id="11816" value="visst &#xE4;r det sk&#xF6;nt med semester">
+      <translation value="it certainly is nice to have a holiday"/>
+    </example>
+    <example date="2011-03-03" id="11817" value="det har jag visst inte sagt!">
+      <translation value="I certainly didn&amp;#39;t say that!"/>
+    </example>
+    <example date="2011-03-03" id="11818" value="ja visst!">
+      <translation value="yes, of course!"/>
+    </example>
+    <definition date="2011-03-03" id="20251" value="s&#xE4;kert, absolut"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="209670" lang="sv" lexinid="20968" origin="lexin" value="visst">
+    <translation date="2011-03-03" id="20595" value="probably"/>
+    <phonetic date="2011-03-03" soundFile="visst.swf" value="vis:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="okej"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="visst||visst..1||visst..ab.1"/>
+    <example date="2011-03-03" id="11819" value="han kommer visst fr&#xE5;n Spanien">
+      <translation value="he probably comes from Spain"/>
+    </example>
+    <definition date="2011-03-03" id="20252" value="tydligen, enligt vad folk s&#xE4;ger"/>
+  </word>
+  <word value="all right" lang="en" class="ab" id="10221" origin="lexin" date="2009-02-24">
+    <translation id="10221-1" value="okej" origin="lexin" date="2009-02-24"/>
+    <translation id="10221-2" value="visst" comment="som svar p&#xE5; fr&#xE5;ga" origin="lexin" date="2009-02-24"/>
+    <example id="10221-3" value="all right, I&amp;#39;ll come" origin="lexin" date="2009-02-24">
+      <translation value="visst, jag kommer (som jakande svar p&#xE5; en fr&#xE5;ga eller inbjudan)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="cornflour" lang="en" id="521261" origin="user" date="2013-11-15T01:47:23">
+    <translation id="521261-1" value="visst" origin="user" date="2013-11-15T01:47:23"/>
+  </word>
+  <word value="tat" lang="en" id="528481" origin="user" date="2014-01-31T02:53:42">
+    <translation id="528481-1" value="visst" origin="user" date="2014-01-31T02:53:55"/>
+  </word>
+</definition>

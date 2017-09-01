@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="avg&#xF6;rande" lang="sv" class="jj" id="9370" lexinid="937" origin="lexin" date="2011-03-03">
+    <translation id="9370-919" value="decisive" origin="user" date="2012-03-27T01:41:03"/>
+    <translation id="9370-920" value="conclusive" origin="user" date="2012-03-27T01:41:03"/>
+    <phonetic value="&#xB2;A:vj&#xF6;:rande" soundFile="avg&#xF6;rande.swf" date="2011-03-03"/>
+    <synonym value="best&#xE4;mmande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="essentiell" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="slutgiltig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="slutlig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="utslagsgivande" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentligt" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="avg&#xF6;rande||avg&#xF6;rande..1||avg&#xF6;rande..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="614" value="fr&#xE5;gan blir avg&#xF6;rande f&#xF6;r valresultatet" date="2011-03-03">
+      <translation value="the issue is one of decisive importance for the result of the election"/>
+    </example>
+    <example id="615" value="f&#xE5; avg&#xF6;rande betydelse f&#xF6;r utvecklingen" date="2011-03-03">
+      <translation value="be of crucial importance to future developments"/>
+    </example>
+    <example id="616" value="ha avg&#xF6;rande inflytande p&#xE5;" date="2011-03-03">
+      <translation value="have a decisive influence on"/>
+    </example>
+    <example id="617" value="spela en avg&#xF6;rande roll" date="2011-03-03">
+      <translation value="play a decisive role"/>
+    </example>
+    <definition id="918" value="som avg&#xF6;r saken, v&#xE4;sentlig, definitiv" date="2011-03-03"/>
+  </word>
+  <word value="avg&#xF6;rande" lang="sv" class="nn" id="9380" lexinid="938" origin="lexin" date="2011-03-03">
+    <translation id="9380-920" value="conclusion" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="9380-921" value="settlement" origin="user" date="2012-01-14T23:15:29"/>
+    <translation id="9380-922" value="decision" origin="user" date="2012-01-14T23:15:29"/>
+    <phonetic value="&#xB2;A:vj&#xF6;:rande" soundFile="avg&#xF6;rande.swf" date="2011-03-03"/>
+    <paradigm id="776" origin="lexin" date="2011-03-03">
+      <inflection value="avg&#xF6;randet"/>
+      <inflection value="avg&#xF6;randen"/>
+      <inflection value="avg&#xF6;randena"/>
+    </paradigm>
+    <synonym value="best&#xE4;mmande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="betydande" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="essentiell" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="slutgiltig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="slutlig" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="utslagsgivande" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentlig" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;sentligt" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="avg&#xF6;rande||avg&#xF6;rande..2||avg&#xF6;rande..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="618" value="komma till ett avg&#xF6;rande" date="2011-03-03">
+      <translation value="come to (arrive at) a conclusion"/>
+    </example>
+    <definition id="919" value="beslut, utslag" date="2011-03-03"/>
+  </word>
+  <word value="cardinal" lang="en" class="jj" id="67231" origin="lexin" date="2009-02-24">
+    <translation id="67231-1" value="huvudsaklig" origin="lexin" date="2009-02-24"/>
+    <translation id="67231-2" value="fr&#xE4;mst" origin="lexin" date="2009-02-24"/>
+    <translation id="67231-3" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="67231-4" value="v&#xE4;sentlig" origin="lexin" date="2009-02-24"/>
+    <example id="67231-5" value="of cardinal importance" origin="lexin" date="2009-02-24">
+      <translation value="av st&#xF6;rsta vikt" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="conclusive" lang="en" class="jj" id="94921" origin="lexin" date="2009-02-24">
+    <translation id="94921-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="94921-2" value="bindande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="crucial" lang="en" class="jj" id="112431" origin="lexin" date="2009-02-24">
+    <translation id="112431-1" value="kritisk" origin="lexin" date="2009-02-24"/>
+    <translation id="112431-2" value="central" origin="lexin" date="2009-02-24"/>
+    <translation id="112431-3" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <explanation value="som inneb&#xE4;r en st&#xF6;rre f&#xF6;r&#xE4;ndring eller kris" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="crunch" lang="en" class="nn" id="112861" origin="lexin" date="2009-02-24">
+    <translation id="112861-1" value="kris" origin="lexin" date="2009-02-24"/>
+    <translation id="112861-2" value="krux" origin="lexin" date="2009-02-24"/>
+    <translation id="112861-3" value="kritisk punkt" origin="lexin" date="2009-02-24"/>
+    <translation id="112861-4" value="konfrontation" origin="lexin" date="2009-02-24"/>
+    <translation id="112861-5" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <example id="112861-6" value="when it comes to the crunch" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;r det kommer till kritan" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="decision" lang="en" class="nn" id="120761" origin="lexin" date="2009-02-24">
+    <translation id="120761-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-2" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-3" value="utslag" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-4" value="slut" origin="lexin" date="2009-02-24"/>
+    <translation id="120761-5" value="domslut" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decisive" lang="en" class="jj" id="120801" lexinid="930" origin="lexin" date="2009-02-24">
+    <translation id="120801-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="120801-2" value="avgjord" origin="lexin" date="2009-02-24"/>
+    <example id="120801-3" value="the issue is one of decisive importance for the result of the election" origin="lexin" date="2009-02-24">
+      <translation value="fr&#xE5;gan blir avg&#xF6;rande f&#xF6;r valresultatet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="120801-4" value="have a decisive influence on" origin="lexin" date="2009-02-24">
+      <translation value="ha avg&#xF6;rande inflytande p&#xE5;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="120801-5" value="play a decisive role" origin="lexin" date="2009-02-24">
+      <translation value="spela en avg&#xF6;rande roll" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="som avg&#xF6;r saken, v&#xE4;sentlig, definitiv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="definitive" lang="en" class="jj" id="122511" origin="lexin" date="2009-02-24">
+    <translation id="122511-1" value="definitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="122511-2" value="slutgiltig" origin="lexin" date="2009-02-24"/>
+    <translation id="122511-3" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="122511-4" value="o&#xE5;terkallelig" origin="lexin" date="2009-02-24"/>
+    <example id="122511-5" value="it would be difficult to give a definitive answer at this point" origin="lexin" date="2009-02-24">
+      <translation value="det skulle vara sv&#xE5;rt att l&#xE4;mna ett definitivt svar i detta nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="definite; final" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="determinant" lang="en" class="jj" id="128221" origin="lexin" date="2009-02-24">
+    <translation id="128221-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="128221-2" value="best&#xE4;mmande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="determination" lang="en" class="nn" id="128241" origin="lexin" date="2009-02-24">
+    <translation id="128241-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="128241-2" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="128241-3" value="utslag" comment="juridik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fateful" lang="en" class="jj" id="170691" origin="lexin" date="2009-02-24">
+    <translation id="170691-1" value="&#xF6;desdiger" origin="lexin" date="2009-02-24"/>
+    <translation id="170691-2" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <example id="170691-3" value="a fateful (fatal) error" origin="lexin" date="2009-02-24">
+      <translation value="ett &#xF6;desdigert misstag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="som inneb&#xE4;r ett viktigt avg&#xF6;rande (med allvarliga f&#xF6;ljder)" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="final" lang="en" class="jj" id="175181" origin="lexin" date="2009-02-24">
+    <translation id="175181-1" value="slutlig" origin="lexin" date="2009-02-24"/>
+    <translation id="175181-2" value="sista" origin="lexin" date="2009-02-24"/>
+    <translation id="175181-3" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="operative" lang="en" class="jj" id="295601" origin="lexin" date="2009-02-24">
+    <translation id="295601-1" value="v&#xE4;sentlig" origin="lexin" date="2009-02-24"/>
+    <translation id="295601-2" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="295601-3" value="effektiv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="payoff" lang="en" class="nn" id="309681" origin="lexin" date="2009-02-24">
+    <translation id="309681-1" value="avg&#xF6;rande" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="309681-2" value="vederg&#xE4;llning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="resolution" lang="en" class="nn" id="357851" origin="lexin" date="2009-02-24">
+    <translation id="357851-1" value="beslut" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-2" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-3" value="utslag" origin="lexin" date="2009-02-24"/>
+    <translation id="357851-4" value="resolution" origin="lexin" date="2009-02-24"/>
+    <explanation value="that which is decided, judgement, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ruling" lang="en" class="nn" id="366971" origin="lexin" date="2009-02-24">
+    <translation id="366971-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="366971-2" value="utslag" comment="juridiskt" origin="lexin" date="2009-02-24"/>
+    <example id="366971-3" value="I think that the jury gave an unfair ruling" origin="lexin" date="2009-02-24">
+      <translation value="jag tycker att juryn f&#xE4;llde ett or&#xE4;ttvist avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="settlement" lang="en" class="nn" id="377421" origin="lexin" date="2009-02-24">
+    <translation id="377421-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="377421-2" value="uppg&#xF6;relse" origin="lexin" date="2009-02-24"/>
+    <translation id="377421-3" value="l&#xF6;sning" comment="av en konflikt" origin="lexin" date="2009-02-24"/>
+    <translation id="377421-4" value="biliggande" comment="av en tvist" origin="lexin" date="2009-02-24"/>
+    <translation id="377421-5" value="f&#xF6;rlikning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="settling" lang="en" class="nn" id="377501" origin="lexin" date="2009-02-24">
+    <translation id="377501-1" value="avg&#xF6;rande" origin="lexin" date="2009-02-24"/>
+    <translation id="377501-2" value="fastst&#xE4;llande" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="strax" lang="sv" class="ab" id="174660" lexinid="17467" origin="lexin" comment="om plats &#xE4;ven &amp;quot;p&#xE5; ett kort avst&#xE5;nd&amp;quot;" date="2011-03-03">
+    <translation id="174660-16903" value="at once" origin="user" date="2012-01-14T23:15:27"/>
+    <translation id="174660-16904" value="directly" origin="user" date="2012-01-14T23:15:27"/>
+    <phonetic value="strak:s" soundFile="strax.swf" date="2011-03-03"/>
+    <synonym value="bums" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="inom kort" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="snart" level="4.7" origin="synlex" date="2011-03-03"/>
+    <see value="strax||strax..1||strax..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9858" value="strax s&#xF6;der om Falk&#xF6;ping" date="2011-03-03">
+      <translation value="just south of Falk&#xF6;ping"/>
+    </example>
+    <example id="9859" value="strax innan tidsfristen l&#xF6;pte ut" date="2011-03-03">
+      <translation value="just before the deadline, just before the allotted time ran out"/>
+    </example>
+    <example id="9860" value="strax efter klockan 16" date="2011-03-03">
+      <translation value="just (immediately, soon) after 4.00 pm"/>
+    </example>
+    <definition id="16902" value="genast, omedelbart" date="2011-03-03"/>
+  </word>
+  <word value="close" lang="en" class="ab" id="83751" origin="lexin" date="2009-02-24">
+    <translation id="83751-1" value="t&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="83751-2" value="n&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="83751-3" value="strax" origin="lexin" date="2009-02-24"/>
+    <translation id="83751-4" value="t&#xE4;tt ihop" origin="lexin" date="2009-02-24"/>
+    <translation id="83751-5" value="n&#xE4;ra tillsammans" origin="lexin" date="2009-02-24"/>
+    <example id="83751-6" value="close at hand" origin="lexin" date="2009-02-24">
+      <translation value="strax i n&#xE4;rheten, n&#xE4;ra f&#xF6;rest&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="directly" lang="en" class="ab" id="132271" origin="lexin" date="2009-02-24">
+    <translation id="132271-1" value="strax" origin="lexin" date="2009-02-24"/>
+    <translation id="132271-2" value="genast" origin="lexin" date="2009-02-24"/>
+    <explanation value="omedelbart" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="soon" lang="en" class="ab" id="390201" origin="lexin" date="2009-02-24">
+    <translation id="390201-1" value="snart" origin="lexin" date="2009-02-24"/>
+    <translation id="390201-2" value="strax" origin="lexin" date="2009-02-24"/>
+    <example id="390201-3" value="I&amp;#39;ll soon be done in here" origin="lexin" date="2009-02-24">
+      <translation value="jag &#xE4;r snart klar h&#xE4;r inne" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

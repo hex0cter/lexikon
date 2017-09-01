@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="och" lang="sv" class="kn" id="121430" lexinid="12144" origin="lexin" date="2011-03-03">
+    <translation id="11923" value="and" date="2011-03-03"/>
+    <use value="binder samman ord eller satser av samma slag" date="2011-03-03"/>
+    <phonetic value="&#xE5;(k:)" soundFile="och.swf" date="2011-03-03"/>
+    <see value="och||b&#xE5;de_och..1||och..kn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="och||handla_och_vandla..1||och..kn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="och||och..1||och..kn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6686" value="pojkar och flickor" date="2011-03-03">
+      <translation value="boys and girls"/>
+    </example>
+    <example id="6687" value="jag vaknade och gick upp" date="2011-03-03">
+      <translation value="I awoke and got up"/>
+    </example>
+    <definition id="11692" value="samt, s&#xE5;v&#xE4;l som" date="2011-03-03"/>
+  </word>
+  <word value="and" lang="en" class="kn" id="13491" origin="lexin" date="2009-02-24">
+    <translation id="13491-1" value="och" origin="lexin" date="2009-02-24"/>
+    <example id="13491-2" value="and so on" origin="lexin" date="2009-02-24">
+      <translation value="och s&#xE5; vidare" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="13491-3" value="boys and girls" origin="lexin" date="2009-02-24">
+      <translation value="pojkar och flickor" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="13491-4" value="I awoke and got up" origin="lexin" date="2009-02-24">
+      <translation value="jag vaknade och gick upp" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="samt, s&#xE5;v&#xE4;l som" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="45740" lang="sv" lexinid="4574" origin="lexin" value="fler">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="flera"/>
+    <translation date="2011-03-03" id="4501" value="more"/>
+    <use date="2011-03-03" value="komparativ"/>
+    <phonetic date="2011-03-03" soundFile="fler.swf" value="fle:r"/>
+    <paradigm date="2011-03-03" id="3954" origin="lexin">
+      <inflection value="flest"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="ytterligare"/>
+    <example date="2011-03-03" id="2648" value="&#xE4;nnu fler attentat v&#xE4;ntas">
+      <translation value="even more attacks are expected"/>
+    </example>
+    <compound date="2011-03-03" id="1581" value="fler|faldig">
+      <translation value="many, numerous"/>
+    </compound>
+    <definition date="2011-03-03" id="4406" value="st&#xF6;rre antal, ytterligare"/>
+  </word>
+  <word class="pn" date="2011-03-03" id="45750" lang="sv" lexinid="4575" origin="lexin" value="flera">
+    <translation date="2011-03-03" id="4502" value="several"/>
+    <phonetic date="2011-03-03" soundFile="flera.swf" value="flEra"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="flertal"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="m&#xE5;nga"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="flera||flera..1||flera..pn.1"/>
+    <example date="2011-03-03" id="2649" value="jag har v&#xE4;ntat i flera dagar p&#xE5; svar">
+      <translation value="I have waited several days for an answer"/>
+    </example>
+    <definition date="2011-03-03" id="4407" value="mer &#xE4;n en, &#xE5;tskilliga, m&#xE5;nga"/>
+  </word>
+  <word value="more" lang="en" class="jj" id="278001" origin="lexin" date="2009-02-24">
+    <translation id="278001-1" value="fler" origin="lexin" date="2009-02-24"/>
+    <translation id="278001-2" value="flera" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="more" lang="en" class="pn" id="278011" origin="lexin" date="2009-02-24">
+    <translation id="278011-1" value="fler" origin="lexin" date="2009-02-24"/>
+    <translation id="278011-2" value="flera" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="several" lang="en" class="pn" id="377711" origin="lexin" date="2009-02-24">
+    <translation id="377711-1" value="flera" origin="lexin" date="2009-02-24"/>
+    <translation id="377711-2" value="&#xE5;tskilliga" origin="lexin" date="2009-02-24"/>
+    <example id="377711-3" value="There were several people in front of her in the queue." origin="lexin" date="2009-02-24">
+      <translation value="Det var flera personer f&#xF6;re henne i k&#xF6;n." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="More than a few but not very many." origin="lexin" date="2009-02-24"/>
+    <grammar value="determinativt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sundry" lang="en" class="jj" id="406841" origin="lexin" date="2009-02-24">
+    <translation id="406841-1" value="flerfaldiga" origin="lexin" date="2009-02-24"/>
+    <translation id="406841-2" value="flera" origin="lexin" date="2009-02-24"/>
+    <translation id="406841-3" value="diverse" origin="lexin" date="2009-02-24"/>
+    <translation id="406841-4" value="alla m&#xF6;jliga" origin="lexin" date="2009-02-24"/>
+    <translation id="406841-5" value="varjehanda" origin="lexin" date="2009-02-24"/>
+    <idiom id="406841-6" value="all and sundry" origin="lexin" date="2009-02-24">
+      <translation value="alla och envar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="sundry" lang="en" class="jj" id="406851" lexinid="252" origin="lexin" date="2009-02-24">
+    <translation id="406851-1" value="flerfaldiga" origin="lexin" date="2009-02-24"/>
+    <translation id="406851-2" value="&#xE5;tskilliga" origin="lexin" date="2009-02-24"/>
+    <translation id="406851-3" value="flera" origin="lexin" date="2009-02-24"/>
+    <translation id="406851-4" value="diverse" origin="lexin" date="2009-02-24"/>
+    <translation id="406851-5" value="alla m&#xF6;jliga" origin="lexin" date="2009-02-24"/>
+    <translation id="406851-6" value="allsk&#xF6;ns" origin="lexin" date="2009-02-24"/>
+    <explanation value="different types of, a variety of" origin="lexin" date="2009-02-24">
+      <translation value="olika slags" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+</definition>

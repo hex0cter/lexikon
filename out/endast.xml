@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="endast" lang="sv" class="ab" id="39040" lexinid="3904" origin="lexin" date="2011-03-03">
+    <translation id="3849" value="only" date="2011-03-03"/>
+    <phonetic value="&#xB2;En:dast" soundFile="endast.swf" date="2011-03-03"/>
+    <synonym value="bara" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="blott" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="enkom" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="endast||endast..1||endast..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="endast||endast..2||endast..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="3756" value="bara, enbart, blott" date="2011-03-03"/>
+  </word>
+  <word value="alone" lang="en" class="ab" id="10991" origin="lexin" date="2009-02-24">
+    <translation id="10991-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-3" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="10991-4" value="uteslutande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="but" lang="en" class="ab" id="61871" lexinid="37" origin="lexin" date="2009-02-24">
+    <translation id="61871-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="61871-4" value="n&#xE4;stan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exclusively" lang="en" class="ab" id="163491" origin="lexin" date="2009-02-24">
+    <translation id="163491-1" value="uteslutande" origin="lexin" date="2009-02-24"/>
+    <translation id="163491-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="163491-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <example id="163491-4" value="the group consisted exclusively of Greeks" origin="lexin" date="2009-02-24">
+      <translation value="gruppen bestod uteslutande av greker" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="just" lang="en" class="ab" id="244141" origin="lexin" date="2009-02-24">
+    <translation id="244141-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="244141-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <idiom id="244141-3" value="just a minute/moment/second!" origin="lexin" date="2009-02-24">
+      <translation value="ett &#xF6;gonblick!/v&#xE4;nta lite!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="244141-4" value="just like that" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; d&#xE4;r utan vidare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mere" lang="en" class="jj" id="271521" origin="lexin" date="2009-02-24">
+    <translation id="271521-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-3" value="ren" origin="lexin" date="2009-02-24"/>
+    <translation id="271521-4" value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="merely" lang="en" class="ab" id="271531" origin="lexin" date="2009-02-24">
+    <translation id="271531-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-4" value="r&#xE4;tt och sl&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="271531-5" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <explanation value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="only" lang="en" class="ab" id="294721" origin="lexin" date="2009-02-24">
+    <translation id="294721-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="294721-2" value="blott" origin="lexin" date="2009-02-24"/>
+    <translation id="294721-3" value="endast" origin="lexin" date="2009-02-24"/>
+    <idiom id="294721-4" value="if only&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="om bara&#xE4;" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="294721-5" value="only too" origin="lexin" date="2009-02-24">
+      <translation value="alltf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="294721-6" value="only too" origin="lexin" date="2009-02-24">
+      <translation value="v&#xE4;ldigt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="solely" lang="en" class="ab" id="389541" origin="lexin" date="2009-02-24">
+    <translation id="389541-1" value="endast" origin="lexin" date="2009-02-24"/>
+    <translation id="389541-2" value="enbart" origin="lexin" date="2009-02-24"/>
+    <translation id="389541-3" value="uteslutande" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="153940" lang="sv" lexinid="15395" origin="lexin" value="sex">
+    <translation date="2011-03-03" id="15122" value="six"/>
+    <phonetic date="2011-03-03" soundFile="sex.swf" value="sek:s"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="banka b&#xE4;ver"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="g&#xF6;ka"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="kuttra sju"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="k&#xF6;nsumg&#xE4;nge"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ligga med"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pula"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="samlag"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="s&#xE4;tta p&#xE5;"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="vuxenmys"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="&#xE4;lskog"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sex||sex..1||sex..nl.1"/>
+    <definition date="2011-03-03" id="14916" value="6"/>
+  </word>
+  <word class="nn" comment="vardagligt" date="2011-03-03" id="153950" lang="sv" lexinid="15396" origin="lexin" value="sex">
+    <translation comment="informal" date="2011-03-03" id="15123" value="sex"/>
+    <use date="2011-03-03" value="ofta i sms"/>
+    <phonetic date="2011-03-03" soundFile="sex.swf" value="sek:s"/>
+    <paradigm date="2011-03-03" id="13428" origin="lexin">
+      <inflection value="sexet"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="banka b&#xE4;ver"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="g&#xF6;ka"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="kuttra sju"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="k&#xF6;nsumg&#xE4;nge"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ligga med"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="pula"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="samlag"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="s&#xE4;tta p&#xE5;"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="vuxenmys"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="&#xE4;lskog"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sex||sex..2||sex..nn.1"/>
+    <example date="2011-03-03" id="8710" value="v&#xE5;ld och sex i TV">
+      <translation value="sex and violence on TV"/>
+    </example>
+    <compound date="2011-03-03" id="5371" value="sex|symbol">
+      <translation value="sex symbol"/>
+    </compound>
+    <compound date="2011-03-03" id="5372" value="sex|objekt">
+      <translation value="sex object"/>
+    </compound>
+    <compound date="2011-03-03" id="5373" inflection="sex|klubben" value="sex|klubb">
+      <translation value="porno club"/>
+    </compound>
+    <definition date="2011-03-03" id="14917" value="verksamhet som r&#xF6;r k&#xF6;nslivet"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377991" origin="lexin" date="2009-02-24">
+    <translation id="377991-1" value="sex" origin="lexin" date="2009-02-24"/>
+    <translation id="377991-2" value="erotik" origin="lexin" date="2009-02-24"/>
+    <explanation value="(sinnlig) k&#xE4;rlek" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="378001" origin="lexin" date="2009-02-24">
+    <translation id="378001-1" value="sex" origin="lexin" date="2009-02-24"/>
+    <translation id="378001-2" value="erotik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="six" lang="en" class="rg" id="384161" origin="lexin" date="2009-02-24">
+    <translation id="384161-1" value="sex" origin="lexin" date="2009-02-24"/>
+    <translation id="384161-2" value="sexa" origin="lexin" date="2009-02-24"/>
+    <translation id="384161-3" value="siffran 6." origin="lexin" date="2009-02-24"/>
+    <explanation value="The number 6." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="erotik" lang="sv" class="nn" id="40150" lexinid="4015" origin="lexin" date="2011-03-03">
+    <translation id="40150-3861" value="sex" origin="user" date="2012-01-26T00:06:51"/>
+    <translation id="40150-3862" value="eroticism" origin="user" date="2012-01-26T00:06:51"/>
+    <phonetic value="erotI:k" soundFile="erotik.swf" date="2011-03-03"/>
+    <paradigm id="3469" origin="lexin" date="2011-03-03">
+      <inflection value="erotiken"/>
+    </paradigm>
+    <see value="erotik||erotik..1||erotik..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="3860" value="(sinnlig) k&#xE4;rlek, sex" date="2011-03-03"/>
+  </word>
+  <word value="k&#xF6;n" lang="sv" class="nn" id="96890" lexinid="9689" origin="lexin" date="2011-03-03">
+    <translation id="96890-9338" value="sex" origin="user" date="2012-01-14T23:15:24"/>
+    <translation id="96890-9339" value="gender" origin="user" date="2012-01-14T23:15:24"/>
+    <phonetic value="c&#xF6;:n" soundFile="k&#xF6;n.swf" date="2011-03-03"/>
+    <paradigm id="8423" origin="lexin" date="2011-03-03">
+      <inflection value="k&#xF6;net"/>
+      <inflection value="k&#xF6;n"/>
+      <inflection value="k&#xF6;nen"/>
+    </paradigm>
+    <see value="k&#xF6;n||k&#xF6;n..1||k&#xF6;n..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3458" value="kvinnok&#xF6;n" date="2011-03-03">
+      <translation value="female sex"/>
+    </compound>
+    <compound id="3459" value="k&#xF6;ns|roll" date="2011-03-03">
+      <translation value="gender role"/>
+    </compound>
+    <compound id="3460" value="k&#xF6;ns|cell" date="2011-03-03">
+      <translation value="gamete"/>
+    </compound>
+    <definition id="9337" value="egenskapen att vara hane eller hona" date="2011-03-03"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377931" origin="lexin" date="2009-02-24">
+    <translation id="377931-1" value="samlag" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <example id="377931-2" value="have sex" origin="lexin" date="2009-02-24">
+      <translation value="ligga med varandra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377941" origin="lexin" date="2009-02-24">
+    <translation id="377941-1" value="k&#xF6;n" origin="lexin" date="2009-02-24"/>
+    <example id="377941-2" value="the weaker sex" origin="lexin" date="2009-02-24">
+      <translation value="det svaga k&#xF6;net" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="377941-3" value="the sterner sex" origin="lexin" date="2009-02-24">
+      <translation value="det starka k&#xF6;net" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="egenskapen att vara hane eller hona" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377951" origin="lexin" date="2009-02-24">
+    <translation id="377951-1" value="k&#xF6;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377961" origin="lexin" date="2009-02-24">
+    <translation id="377961-1" value="k&#xF6;ns-" origin="lexin" date="2009-02-24"/>
+    <translation id="377961-2" value="sex-" origin="lexin" date="2009-02-24"/>
+    <translation id="377961-3" value="sexuell" origin="lexin" date="2009-02-24"/>
+    <example id="377961-4" value="sex equality" origin="lexin" date="2009-02-24">
+      <translation value="j&#xE4;mst&#xE4;lldhet mellan k&#xF6;nen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="attributivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sex" lang="en" class="vb" id="377971" origin="lexin" date="2009-02-24">
+    <translation id="377971-1" value="k&#xF6;nsbest&#xE4;mma" origin="lexin" date="2009-02-24"/>
+    <translation id="377971-2" value="fastst&#xE4;lla k&#xF6;net av" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sex" lang="en" class="nn" id="377981" origin="lexin" date="2009-02-24">
+    <translation id="377981-1" value="samlag" origin="lexin" date="2009-02-24"/>
+    <translation id="377981-2" value="k&#xF6;nsumg&#xE4;nge" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

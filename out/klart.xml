@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="klar" lang="sv" class="jj" id="85240" lexinid="8524" origin="lexin" date="2011-03-03">
+    <translation id="8371" value="clear, bright" date="2011-03-03"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7349" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4895" value="klart vatten" date="2011-03-03">
+      <translation value="clear water"/>
+    </example>
+    <example id="4896" value="klara &#xF6;gon" date="2011-03-03">
+      <translation value="bright eyes"/>
+    </example>
+    <related value="matt" type="antonym" origin="lexin">
+      <translation value="matte, opaque" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="ogenomskinlig" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="8189" value="ljus, lysande, genomskinlig" date="2011-03-03"/>
+  </word>
+  <word value="klar" lang="sv" class="jj" id="85250" lexinid="8525" origin="lexin" date="2011-03-03">
+    <translation id="85250-8191" value="obvious" origin="user" date="2011-12-23T22:43:54"/>
+    <translation id="85250-8192" value="clear" origin="user" date="2011-12-23T22:43:54"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7350" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <synonym value="beredd" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="nykter" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="tydlig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4897" value="klara besked" date="2011-03-03">
+      <translation value="straight answers"/>
+    </example>
+    <example id="4898" value="en klar majoritet" date="2011-03-03">
+      <translation value="an indisputable majority"/>
+    </example>
+    <related value="oklar" type="antonym" origin="lexin">
+      <translation value="unclear, obscure" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="dunkel" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <idiom id="710" value="vara klar &#xF6;ver (n&#xE5;got) (&amp;quot;f&#xF6;rst&#xE5; (n&#xE5;got)&amp;quot;)" date="2011-03-03">
+      <translation value="be perfectly aware of (&amp;quot;understand (sth.)&amp;quot;)"/>
+    </idiom>
+    <idiom id="711" value="ha klart f&#xF6;r sig (&amp;quot;vara medveten om&amp;quot;)" date="2011-03-03">
+      <translation value="have a clear idea of (&amp;quot;be aware of&amp;quot;)"/>
+    </idiom>
+    <idiom id="712" value="det &#xE4;r klart att man blir arg (&amp;quot;naturligtvis blir man arg&amp;quot;)" date="2011-03-03">
+      <translation value="it&amp;#39;s the sort of thing that makes you really upset (&amp;quot;one would naturally get angry&amp;quot;)"/>
+    </idiom>
+    <idiom id="713" value="s&#xE5; klart (&amp;quot;naturligtvis&amp;quot;)" date="2011-03-03">
+      <translation value="of course (&amp;quot;naturally&amp;quot;)"/>
+    </idiom>
+    <definition id="8190" value="tydlig, l&#xE4;ttbegriplig" date="2011-03-03"/>
+  </word>
+  <word value="klar" lang="sv" class="jj" id="85260" lexinid="8526" origin="lexin" date="2011-03-03">
+    <translation id="8373" value="ready" date="2011-03-03"/>
+    <phonetic value="kla:r" soundFile="klar.swf" date="2011-03-03"/>
+    <paradigm id="7351" origin="lexin" date="2011-03-03">
+      <inflection value="klart"/>
+      <inflection value="klara"/>
+    </paradigm>
+    <synonym value="f&#xE4;rdig" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="redo" level="5.0" origin="synlex" date="2011-03-03"/>
+    <see value="klar||klar..1||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..2||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..3||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="klar||klar..4||klar..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4899" value="&#xE4;r du klar snart?" date="2011-03-03">
+      <translation value="will you be ready soon?"/>
+    </example>
+    <example id="4900" value="maten &#xE4;r klar" date="2011-03-03">
+      <translation value="the food is ready"/>
+    </example>
+    <definition id="8191" value="f&#xE4;rdig" date="2011-03-03"/>
+    <grammar value="A/x &#xE4;r &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="klart" lang="sv" id="263660" origin="user" date="2012-06-27T04:57:10">
+    <translation id="263660-1" value="clear" origin="user" date="2012-06-27T04:57:11"/>
+    <translation id="263660-1" value="finished" origin="user" date="2012-10-24T05:02:52"/>
+    <translation id="263660-1" value="Done" origin="user" date="2013-06-10T01:11:01"/>
+    <translation id="263660-1" value="ready" origin="user" date="2014-06-14T08:03:06"/>
+    <translation id="263660-2" value="cleared" origin="user" date="2015-03-04T02:19:42"/>
+  </word>
+  <word value="bright" lang="en" class="ab" id="55491" origin="lexin" date="2009-02-24">
+    <translation id="55491-1" value="klart" origin="lexin" date="2009-02-24"/>
+    <idiom id="55491-2" value="get up bright and early" origin="lexin" date="2009-02-24">
+      <translation value="stiga upp (tidigt) p&#xE5; morgonkvisten" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clear" lang="en" class="ab" id="81891" origin="lexin" date="2009-02-24">
+    <translation id="81891-1" value="klart" origin="lexin" date="2009-02-24"/>
+    <translation id="81891-2" value="tydligt" origin="lexin" date="2009-02-24"/>
+    <translation id="81891-3" value="ljust" origin="lexin" date="2009-02-24"/>
+    <translation id="81891-4" value="uppenbart" origin="lexin" date="2009-02-24"/>
+    <idiom id="81891-5" value="hear somebody loud and clear" origin="lexin" date="2009-02-24">
+      <translation value="h&#xF6;ra n&#xE5;gon klart och tydligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="81891-6" value="see something clear" origin="lexin" date="2009-02-24">
+      <translation value="se n&#xE5;got klart och tydligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="clearly" lang="en" class="ab" id="82151" origin="lexin" date="2009-02-24">
+    <translation id="82151-1" value="klart" origin="lexin" date="2009-02-24"/>
+    <translation id="82151-2" value="tydligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="serenely" lang="en" class="ab" id="376501" origin="lexin" date="2009-02-24">
+    <translation id="376501-1" value="fridfull" origin="lexin" date="2009-02-24"/>
+    <translation id="376501-2" value="lugnt" origin="lexin" date="2009-02-24"/>
+    <translation id="376501-3" value="klart" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

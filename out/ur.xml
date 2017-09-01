@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="200870" lang="sv" lexinid="20088" origin="lexin" value="ur">
+    <translation date="2011-03-03" id="19732" value="out"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="ur.swf" value="u:r"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="klocka"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="utav"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ur||ur..5||ur..ab.1"/>
+    <example date="2011-03-03" id="11259" value="dra ur sladden">
+      <translation value="pull out the plug (cord)"/>
+    </example>
+    <definition date="2011-03-03" id="19423" value="bort, loss"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="200880" lang="sv" lexinid="20089" origin="lexin" value="ur">
+    <translation date="2011-03-03" id="19733" value="empty"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="ur.swf" value="u:r"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="klocka"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="utav"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ur||ur..5||ur..ab.1"/>
+    <example date="2011-03-03" id="11260" value="dricka ur ett glas">
+      <translation value="drain a glass"/>
+    </example>
+    <definition date="2011-03-03" id="19424" value="s&#xE5; att n&#xE5;got blir tomt"/>
+  </word>
+  <word value="ur" lang="sv" class="pp" id="200890" lexinid="20090" origin="lexin" date="2011-03-03">
+    <translation id="200890-19426" value="from" origin="user" date="2012-02-02T00:55:04"/>
+    <translation id="200890-19427" value="out of" origin="user" date="2012-02-02T00:55:04"/>
+    <phonetic value="u:r" soundFile="ur.swf" date="2011-03-03"/>
+    <synonym value="klocka" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="utav" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="ur||ur..1||ur..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11261" value="stiga upp ur vattnet" date="2011-03-03">
+      <translation value="get out of the water"/>
+    </example>
+    <example id="11262" value="fly ur landet" date="2011-03-03">
+      <translation value="flee the country, escape from the country"/>
+    </example>
+    <example id="11263" value="ta upp ur fickan" date="2011-03-03">
+      <translation value="take out of one&amp;#39;s pocket"/>
+    </example>
+    <example id="11264" value="ur m&#xE5;nga synpunkter" date="2011-03-03">
+      <translation value="from many viewpoints"/>
+    </example>
+    <idiom id="1729" value="(apparaten &#xE4;r) ur funktion (&amp;quot;oanv&#xE4;ndbar&amp;quot;)" date="2011-03-03">
+      <translation value="(the apparatus is) out of order (&amp;quot;unusable, not working&amp;quot;)"/>
+    </idiom>
+    <definition id="19425" value="ut fr&#xE5;n (det inre av)" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="200900" lang="sv" lexinid="20091" origin="lexin" value="ur">
+    <phonetic date="2011-03-03" soundFile="ur.swf" value="u:r"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="klocka"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="utav"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ur||ur..2||ur..nn.1"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ur||ur..3||ur..nn.2"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ur||ur..4||ur..nn.3"/>
+    <idiom date="2011-03-03" id="1730" value="i ur och skur (&amp;quot;i vilket (o)v&#xE4;der som helst&amp;quot;)">
+      <translation value="rain or shine, in all weathers"/>
+    </idiom>
+  </word>
+  <word value="ur" lang="sv" class="nn" id="200910" lexinid="20092" origin="lexin" date="2011-03-03">
+    <translation id="200910-19427" value="watch" origin="user" date="2012-01-28T23:48:22"/>
+    <translation id="200910-19428" value="clock" origin="user" date="2012-01-28T23:48:22"/>
+    <phonetic value="u:r" soundFile="ur.swf" date="2011-03-03"/>
+    <paradigm id="17554" origin="lexin" date="2011-03-03">
+      <inflection value="uret"/>
+      <inflection value="ur"/>
+      <inflection value="uren"/>
+    </paradigm>
+    <see value="ur||ur..2||ur..nn.1" type="saldo" origin="saldo" date="2014-07-24T04:59:53"/>
+    <compound id="6618" value="armbandsur" date="2011-03-03">
+      <translation value="wristwatch"/>
+    </compound>
+    <definition id="19426" value="klocka" date="2011-03-03"/>
+    <url value="28/klocka.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="clock" lang="en" class="nn" id="83351" origin="lexin" date="2009-02-24">
+    <translation id="83351-1" value="klocka" origin="lexin" date="2009-02-24"/>
+    <translation id="83351-2" value="ur" origin="lexin" date="2009-02-24"/>
+    <idiom id="83351-3" value="around the clock" origin="lexin" date="2009-02-24">
+      <translation value="dygnet runt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="83351-4" value="twelve o&amp;#39;clock" origin="lexin" date="2009-02-24">
+      <translation value="klockan tolv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="from" lang="en" class="pp" id="186871" origin="lexin" date="2009-02-24">
+    <translation id="186871-1" value="av" comment="om material" origin="lexin" date="2009-02-24"/>
+    <translation id="186871-2" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="186871-3" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="from" lang="en" class="pp" id="186901" lexinid="266" origin="lexin" date="2009-02-24">
+    <translation id="186901-1" value="fr&#xE5;n" comment="om rum, ursprung, tid och skillnad" origin="lexin" date="2009-02-24"/>
+    <translation id="186901-2" value="ur" origin="lexin" date="2009-02-24"/>
+    <explanation value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="from" lang="en" class="pp" id="186961" origin="lexin" date="2009-02-24">
+    <translation id="186961-1" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="186961-2" value="ut ur" origin="lexin" date="2009-02-24"/>
+    <example id="186961-3" value="she took a handkerchief from her purse" origin="lexin" date="2009-02-24">
+      <translation value="hon tog fram en n&#xE4;sduk ur handv&#xE4;skan" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="off" lang="en" class="ab" id="292731" origin="lexin" date="2009-02-24">
+    <translation id="292731-1" value="bort" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-2" value="iv&#xE4;g" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-3" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-4" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-5" value="borta" origin="lexin" date="2009-02-24"/>
+    <translation id="292731-6" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="off" lang="en" class="pp" id="292811" origin="lexin" date="2009-02-24">
+    <translation id="292811-1" value="bort fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292811-2" value="fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292811-3" value="ner fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292811-4" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="292811-5" value="borta fr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    <translation id="292811-6" value="ur" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out of" lang="en" class="pp" id="298071" origin="lexin" date="2009-02-24">
+    <translation id="298071-1" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="298071-2" value="upp ur" origin="lexin" date="2009-02-24"/>
+    <translation id="298071-3" value="upp ur visst tillst&#xE5;nd" origin="lexin" date="2009-02-24"/>
+    <example id="298071-4" value="he woke out of a very deep sleep" origin="lexin" date="2009-02-24">
+      <translation value="han vaknade ur en mycket djup s&#xF6;mn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="298071-5" value="my daughter is out of control" origin="lexin" date="2009-02-24">
+      <translation value="min dotter &#xE4;r helt vild" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="298071-6" value="you&amp;#39;re out of danger now" origin="lexin" date="2009-02-24">
+      <translation value="du/ni &#xE4;r utom fara nu" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="out" lang="en" class="ab" id="298221" origin="lexin" date="2009-02-24">
+    <translation id="298221-1" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="298221-2" value="s&#xE5; att ingenting finns kvar" origin="lexin" date="2009-02-24"/>
+    <translation id="298221-3" value="s&#xE5; att det inte finns n&#xE5;gra sp&#xE5;r kvar" origin="lexin" date="2009-02-24"/>
+    <example id="298221-4" value="I&amp;#39;ve run out of money" origin="lexin" date="2009-02-24">
+      <translation value="mina pengar &#xE4;r slut" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="298221-5" value="I&amp;#39;ll try and wash this stain out" origin="lexin" date="2009-02-24">
+      <translation value="jag ska f&#xF6;rs&#xF6;ka tv&#xE4;tta ur den h&#xE4;r fl&#xE4;cken (s&#xE5; att den f&#xF6;rsvinner helt)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="The Swedish Educational Broadcasting Company" lang="en" class="nn" id="416921" origin="lexin" date="2009-02-24">
+    <translation id="416921-1" value="Utbildningsradion" origin="lexin" date="2009-02-24"/>
+    <translation id="416921-2" value="UR" origin="lexin" date="2009-02-24"/>
+    <explanation value="A member of the Swedish public service broadcasting service. It specialises in educational programmes and promotes &amp;#39;life-long&amp;#39; learning." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="timepiece" lang="en" class="nn" id="420091" origin="lexin" date="2009-02-24">
+    <translation id="420091-1" value="ur" origin="lexin" date="2009-02-24"/>
+    <translation id="420091-2" value="tidm&#xE4;tare" comment="tekniskt eller gammaldags" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

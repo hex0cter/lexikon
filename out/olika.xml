@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" comment="f&#xF6;rsvagat &amp;quot;varierande, diverse&amp;quot;" date="2011-03-03" id="122960" lang="sv" lexinid="12297" origin="lexin" value="olik">
+    <translation comment="weaker &amp;quot;varying, diverse&amp;quot;" date="2011-03-03" id="12075" value="different"/>
+    <phonetic date="2011-03-03" soundFile="olik.swf" value="&#xB2;O:li:ka"/>
+    <paradigm date="2011-03-03" id="10645" origin="lexin">
+      <inflection value="olikt"/>
+      <inflection value="olika"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="annorlunda"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="avvikande"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="skiljaktig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="olik||olik..1||olik..av.1"/>
+    <example date="2011-03-03" id="6819" value="p&#xE5; olika h&#xE5;ll">
+      <translation value="in various quarters"/>
+    </example>
+    <example date="2011-03-03" id="6820" value="p&#xE5; olika s&#xE4;tt">
+      <translation value="in different (various) ways"/>
+    </example>
+    <example date="2011-03-03" id="6821" value="av olika slag">
+      <translation value="of various kinds"/>
+    </example>
+    <example date="2011-03-03" id="6822" value="i olika sammanhang">
+      <translation value="in various contexts"/>
+    </example>
+    <example date="2011-03-03" id="6823" value="vi har helt olika &#xE5;sikter om politik">
+      <translation value="we have quite different political opinions"/>
+    </example>
+    <example date="2011-03-03" id="6824" value="i olika delar av landet">
+      <translation value="in different parts of the country"/>
+    </example>
+    <example date="2011-03-03" id="6825" value="de finska och svenska spr&#xE5;ken &#xE4;r v&#xE4;ldigt olika">
+      <translation value="the Swedish and Finnish languages are very different"/>
+    </example>
+    <definition date="2011-03-03" id="11840" value="inte lik, skild, annorlunda"/>
+  </word>
+  <word value="olika" lang="sv" class="ab" id="122970" lexinid="12298" origin="lexin" date="2011-03-03">
+    <translation id="122970-11842" value="different" origin="user" date="2012-04-05T04:44:13"/>
+    <translation id="122970-11843" value="unlike" origin="user" date="2012-04-05T04:44:13"/>
+    <phonetic value="&#xB2;O:li:ka" soundFile="olika.swf" date="2011-03-03"/>
+    <synonym value="annorlunda" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="skilda" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="olika||olika..1||olika..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6826" value="reagera olika" date="2011-03-03">
+      <translation value="react differently"/>
+    </example>
+    <definition id="11841" value="inte p&#xE5; samma s&#xE4;tt, p&#xE5; avvikande s&#xE4;tt" date="2011-03-03"/>
+  </word>
+  <word value="different" lang="en" class="jj" id="130451" lexinid="480" origin="lexin" date="2009-02-24">
+    <translation id="130451-1" value="olik" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-2" value="olika" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-3" value="skild" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-4" value="skiljaktig" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-5" value="avvikande" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-6" value="annorlunda" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-7" value="helt annan" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-8" value="ny" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-9" value="speciell" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-10" value="s&#xE4;rskild" origin="lexin" date="2009-02-24"/>
+    <translation id="130451-11" value="ovanlig" origin="lexin" date="2009-02-24"/>
+    <example id="130451-12" value="conditions are quite different" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rh&#xE5;llandena &#xE4;r helt annorlunda" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="different, *unusual" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="differently" lang="en" class="ab" id="130541" lexinid="481" origin="lexin" date="2009-02-24">
+    <translation id="130541-1" value="annorlunda" origin="lexin" date="2009-02-24"/>
+    <translation id="130541-2" value="p&#xE5; ett annat s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="130541-3" value="olika" origin="lexin" date="2009-02-24"/>
+    <explanation value="in another *manner" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; annat s&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="distinct" lang="en" class="jj" id="137201" origin="lexin" date="2009-02-24">
+    <translation id="137201-1" value="olik" origin="lexin" date="2009-02-24"/>
+    <translation id="137201-2" value="olika" origin="lexin" date="2009-02-24"/>
+    <translation id="137201-3" value="skild" origin="lexin" date="2009-02-24"/>
+    <translation id="137201-4" value="s&#xE4;rskild" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="uneven" lang="en" class="jj" id="432221" origin="lexin" date="2009-02-24">
+    <translation id="432221-1" value="oj&#xE4;mn" origin="lexin" date="2009-02-24"/>
+    <translation id="432221-2" value="udda" origin="lexin" date="2009-02-24"/>
+    <translation id="432221-3" value="olika" origin="lexin" date="2009-02-24"/>
+    <translation id="432221-4" value="olika l&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <example id="432221-5" value="a rather uneven performance" origin="lexin" date="2009-02-24">
+      <translation value="ett r&#xE4;tt s&#xE5; oj&#xE4;mnt upptr&#xE4;dande" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="unevenly" lang="en" class="ab" id="432231" origin="lexin" date="2009-02-24">
+    <translation id="432231-1" value="oj&#xE4;mnt" origin="lexin" date="2009-02-24"/>
+    <translation id="432231-2" value="udda" origin="lexin" date="2009-02-24"/>
+    <translation id="432231-3" value="olika" origin="lexin" date="2009-02-24"/>
+    <translation id="432231-4" value="olika l&#xE5;ngt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="various" lang="en" class="jj" id="435701" origin="lexin" date="2009-02-24">
+    <translation id="435701-1" value="olika" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-2" value="olikartad" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-3" value="olika slags" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-4" value="skiftande" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-5" value="v&#xE4;xlande" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-6" value="omv&#xE4;xlande" origin="lexin" date="2009-02-24"/>
+    <translation id="435701-7" value="diverse" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="jobb" lang="sv" class="nn" id="80110" lexinid="8011" origin="lexin" date="2011-03-03">
+    <translation id="80110-7701" value="work" origin="user" date="2012-01-26T00:06:49"/>
+    <translation id="80110-7702" value="job" origin="user" date="2012-01-26T00:06:49"/>
+    <use value="ej f&#xF6;rled i sms" date="2011-03-03"/>
+    <phonetic value="j&#xE5;b:" soundFile="jobb.swf" date="2011-03-03"/>
+    <paradigm id="6900" origin="lexin" date="2011-03-03">
+      <inflection value="jobbet"/>
+      <inflection value="jobb"/>
+      <inflection value="jobben"/>
+    </paradigm>
+    <synonym value="arbete" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="arbetsplats" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="arbetsuppgift" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;rom&#xE5;l" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="kneg" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="syssels&#xE4;ttning" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="yrke" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="jobb||jobb..1||jobb..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="arbete" type="compare" origin="lexin" date="2011-03-03"/>
+    <example id="4733" value="g&#xF6;ra ett bra jobb" date="2011-03-03">
+      <translation value="do a good job"/>
+    </example>
+    <compound id="2922" value="hush&#xE5;llsjobb" date="2011-03-03">
+      <translation value="domestic chores"/>
+    </compound>
+    <definition id="7700" value="arbete, verksamhet; resultat av arbete" date="2011-03-03"/>
+  </word>
+  <word value="jobb" lang="sv" class="nn" id="80120" lexinid="8012" origin="lexin" date="2011-03-03">
+    <translation id="80120-7702" value="job" origin="user" date="2012-02-08T23:49:35"/>
+    <translation id="80120-7703" value="work" origin="user" date="2012-02-08T23:49:35"/>
+    <phonetic value="j&#xE5;b:" soundFile="jobb.swf" date="2011-03-03"/>
+    <paradigm id="6901" origin="lexin" date="2011-03-03">
+      <inflection value="jobbet"/>
+      <inflection value="jobb"/>
+      <inflection value="jobben"/>
+    </paradigm>
+    <synonym value="arbete" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="arbetsplats" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="arbetsuppgift" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="g&#xF6;rom&#xE5;l" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="kneg" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="syssels&#xE4;ttning" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="yrke" level="4.1" origin="synlex" date="2011-03-03"/>
+    <see value="jobb||jobb..1||jobb..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4734" value="s&#xF6;ka jobb" date="2011-03-03">
+      <translation value="look for work"/>
+    </example>
+    <example id="4735" value="skapa nya jobb" date="2011-03-03">
+      <translation value="create jobs"/>
+    </example>
+    <definition id="7701" value="anst&#xE4;llning; arbetstillf&#xE4;lle" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="80130" lang="sv" lexinid="8013" origin="lexin" value="jobb">
+    <translation date="2011-03-03" id="7865" value="work"/>
+    <phonetic date="2011-03-03" soundFile="jobb.swf" value="j&#xE5;b:"/>
+    <paradigm date="2011-03-03" id="6902" origin="lexin">
+      <inflection value="jobbet"/>
+      <inflection value="jobb"/>
+      <inflection value="jobben"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="arbete"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="arbetsplats"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="arbetsuppgift"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="g&#xF6;rom&#xE5;l"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="kneg"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="syssels&#xE4;ttning"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="yrke"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="jobb||jobb..1||jobb..nn.1"/>
+    <example date="2011-03-03" id="4736" value="&#xE5;ka till jobbet">
+      <translation value="go to work"/>
+    </example>
+    <definition date="2011-03-03" id="7702" value="arbetsplats">
+      <translation value="one&amp;#39;s place of work"/>
+    </definition>
+  </word>
+  <word value="berth" lang="en" class="nn" id="39811" origin="lexin" date="2009-02-24">
+    <translation id="39811-1" value="jobb" comment="gammaldags, informellt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="employment" lang="en" class="nn" id="154991" lexinid="534" origin="lexin" date="2009-02-24">
+    <translation id="154991-1" value="anst&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="154991-2" value="syssels&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <translation id="154991-3" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="154991-4" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="154991-5" value="plats" origin="lexin" date="2009-02-24"/>
+    <translation id="154991-6" value="tj&#xE4;nst" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="graft" lang="en" class="nn" id="202721" origin="lexin" date="2009-02-24">
+    <translation id="202721-1" value="kneg" origin="lexin" date="2009-02-24"/>
+    <translation id="202721-2" value="jobb" comment="informellt, s&#xE4;rskilt brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <idiom id="202721-3" value="hard graft" origin="lexin" date="2009-02-24">
+      <translation value="h&#xE5;rt slit" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="grind" lang="en" class="nn" id="205711" origin="lexin" date="2009-02-24">
+    <translation id="205711-1" value="kneg" origin="lexin" date="2009-02-24"/>
+    <translation id="205711-2" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="205711-3" value="slitg&#xF6;ra" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="job" lang="en" class="nn" id="242371" origin="lexin" date="2009-02-24">
+    <translation id="242371-1" value="jobb" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="242371-2" value="slit" origin="lexin" date="2009-02-24"/>
+    <translation id="242371-3" value="besv&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="242371-4" value="knog" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="job" lang="en" class="nn" id="242391" origin="lexin" date="2009-02-24">
+    <translation id="242391-1" value="st&#xF6;t" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="242391-2" value="kupp" origin="lexin" date="2009-02-24"/>
+    <translation id="242391-3" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="242391-4" value="skum aff&#xE4;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="job" lang="en" class="nn" id="242481" origin="lexin" date="2009-02-24">
+    <translation id="242481-1" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="242481-2" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="242481-3" value="arbetsuppgift" origin="lexin" date="2009-02-24"/>
+    <translation id="242481-4" value="anst&#xE4;llning" origin="lexin" date="2009-02-24"/>
+    <translation id="242481-5" value="arbetstillf&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="242481-6" value="arbetsplats" origin="lexin" date="2009-02-24"/>
+    <example id="242481-7" value="I need to get a job" origin="lexin" date="2009-02-24">
+      <translation value="jag m&#xE5;ste hitta ett arbete" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="work" lang="en" class="nn" id="447141" origin="lexin" date="2009-02-24">
+    <translation id="447141-1" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-2" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-3" value="syssels&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-4" value="verksamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-5" value="g&#xE4;rning" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-6" value="insats" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-7" value="syssla" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-8" value="g&#xF6;rom&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-9" value="uppgift" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-10" value="verk" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

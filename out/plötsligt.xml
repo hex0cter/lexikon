@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="132490" lang="sv" lexinid="13250" origin="lexin" value="pl&#xF6;tslig">
+    <translation date="2011-03-03" id="13007" value="sudden"/>
+    <phonetic date="2011-03-03" soundFile="pl&#xF6;tslig.swf" value="&#xB2;pl&#xD6;t:slig"/>
+    <paradigm date="2011-03-03" id="11502" origin="lexin">
+      <inflection value="pl&#xF6;tsligt"/>
+      <inflection value="pl&#xF6;tsliga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="abrupt"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="med ens"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="ov&#xE4;ntad"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="&#xF6;verraskande"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pl&#xF6;tslig||pl&#xF6;tslig..1||pl&#xF6;tslig..av.1"/>
+    <example date="2011-03-03" id="7378" value="en pl&#xF6;tslig tystnad">
+      <translation value="a sudden silence"/>
+    </example>
+    <example date="2011-03-03" id="7379" value="en pl&#xF6;tslig sv&#xE4;ng">
+      <translation value="a sudden turn"/>
+    </example>
+    <definition date="2011-03-03" id="12780" value="hastig och ov&#xE4;ntad"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="132500" lang="sv" lexinid="13251" origin="lexin" value="pl&#xF6;tsligt">
+    <translation date="2011-03-03" id="13008" value="suddenly"/>
+    <phonetic date="2011-03-03" soundFile="pl&#xF6;tsligt.swf" value="&#xB2;pl&#xD6;t:sli(k)t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="abrupt"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="pl&#xF6;tsligen"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="tv&#xE4;rt"/>
+    <example date="2011-03-03" id="7380" value="pl&#xF6;tsligt kom en &#xE5;skskur">
+      <translation value="suddenly there was a thunderstorm"/>
+    </example>
+    <definition date="2011-03-03" id="12781" value="hastigt och ov&#xE4;ntat"/>
+  </word>
+  <word value="short" lang="en" class="ab" id="380461" origin="lexin" date="2009-02-24">
+    <translation id="380461-1" value="tv&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="380461-2" value="pl&#xF6;tsligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suddenly" lang="en" class="ab" id="405871" origin="lexin" date="2009-02-24">
+    <translation id="405871-1" value="pl&#xF6;tsligt" origin="lexin" date="2009-02-24"/>
+    <example id="405871-2" value="Suddenly, the door opened." origin="lexin" date="2009-02-24">
+      <translation value="Pl&#xF6;tsligt &#xF6;ppnades d&#xF6;rren." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="quickly and unexpectedly" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

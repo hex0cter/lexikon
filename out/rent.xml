@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="142150" lang="sv" lexinid="14216" origin="lexin" value="ren">
+    <translation date="2011-03-03" id="13961" value="clean"/>
+    <phonetic date="2011-03-03" soundFile="ren.swf" value="re:n"/>
+    <paradigm date="2011-03-03" id="12376" origin="lexin">
+      <inflection value="rent"/>
+      <inflection value="rena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="fl&#xE4;ckfri"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="fr&#xE4;sch"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="hovdjur"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="hygienisk"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="obefl&#xE4;ckad"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="ofl&#xE4;ckad"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="proper"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="pur"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="sanit&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ren||ren..1||ren..av.1"/>
+    <example date="2011-03-03" id="8010" value="rent vatten">
+      <translation value="pure water"/>
+    </example>
+    <example date="2011-03-03" id="8011" value="en ren blus">
+      <translation value="a clean blouse"/>
+    </example>
+    <definition date="2011-03-03" id="13755" value="inte smutsig, fl&#xE4;ckfri"/>
+  </word>
+  <word class="jj" comment="&#xE4;ven abstrakt &amp;quot;fullst&#xE4;ndig, total&amp;quot;" date="2011-03-03" id="142160" lang="sv" lexinid="14217" origin="lexin" value="ren">
+    <translation comment="also abstract &amp;quot;complete, total&amp;quot;" date="2011-03-03" id="13962" value="pure"/>
+    <phonetic date="2011-03-03" soundFile="ren.swf" value="re:n"/>
+    <paradigm date="2011-03-03" id="12377" origin="lexin">
+      <inflection value="rent"/>
+      <inflection value="rena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="fl&#xE4;ckfri"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="fr&#xE4;sch"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="hovdjur"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="hygienisk"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="obefl&#xE4;ckad"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="ofl&#xE4;ckad"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="proper"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="pur"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="sanit&#xE4;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ren||ren..1||ren..av.1"/>
+    <example date="2011-03-03" id="8012" value="ren sprit">
+      <translation value="neat spirits"/>
+    </example>
+    <example date="2011-03-03" id="8013" value="en ren tillf&#xE4;llighet">
+      <translation value="a sheer (pure) coincidence"/>
+    </example>
+    <example date="2011-03-03" id="8014" value="ren spekulation">
+      <translation value="pure speculation"/>
+    </example>
+    <definition date="2011-03-03" id="13756" value="of&#xF6;rfalskad, &#xE4;kta, alltigenom av samma &#xE4;mne"/>
+  </word>
+  <word value="rent" lang="sv" class="ab" id="142360" lexinid="14237" origin="lexin" date="2011-03-03">
+    <translation id="142360-13777" value="absolutely" origin="user" date="2011-12-07T22:20:41"/>
+    <translation id="142360-13778" value="completely" origin="user" date="2011-12-07T22:20:41"/>
+    <translation id="142360-13779" value="quite" origin="user" date="2011-12-07T22:20:41"/>
+    <phonetic value="re:nt" soundFile="rent.swf" date="2011-03-03"/>
+    <synonym value="fr&#xE4;scht" level="4.0" origin="synlex" date="2011-03-03"/>
+    <example id="8023" value="rent otroligt" date="2011-03-03">
+      <translation value="absolutely unbelievable"/>
+    </example>
+    <idiom id="1227" value="rent ut sagt (&amp;quot;sagt rakt p&#xE5; sak, utan omskrivning&amp;quot;)" date="2011-03-03">
+      <translation value="to put it bluntly (&amp;quot;speak plainly, without mincing words&amp;quot;)"/>
+    </idiom>
+    <idiom id="1228" value="rent av (&amp;quot;till och med&amp;quot;)" date="2011-03-03">
+      <translation value="indeed (&amp;quot;even&amp;quot;)"/>
+    </idiom>
+    <definition id="13776" value="alldeles" date="2011-03-03"/>
+  </word>
+  <word value="cleanly" lang="en" class="ab" id="81531" origin="lexin" date="2009-02-24">
+    <translation id="81531-1" value="rent" origin="lexin" date="2009-02-24"/>
+    <example id="81531-2" value="the branch broke cleanly in two" origin="lexin" date="2009-02-24">
+      <translation value="grenen br&#xF6;ts i tv&#xE5; j&#xE4;mna delar" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="neatly" lang="en" class="ab" id="284221" origin="lexin" date="2009-02-24">
+    <translation id="284221-1" value="oblandat" origin="lexin" date="2009-02-24"/>
+    <translation id="284221-2" value="outsp&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="284221-3" value="rent" comment="om alkoholhaltiga drycker" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="purely" lang="en" class="ab" id="340621" origin="lexin" date="2009-02-24">
+    <translation id="340621-1" value="helt och h&#xE5;llet" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-2" value="totalt" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-3" value="rent" origin="lexin" date="2009-02-24"/>
+    <translation id="340621-4" value="uteslutande" origin="lexin" date="2009-02-24"/>
+    <idiom id="340621-5" value="purely and simply" origin="lexin" date="2009-02-24">
+      <translation value="endast, rent och sk&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="simply" lang="en" class="ab" id="383021" origin="lexin" date="2009-02-24">
+    <translation id="383021-1" value="enkelt" origin="lexin" date="2009-02-24"/>
+    <translation id="383021-2" value="naturligt" origin="lexin" date="2009-02-24"/>
+    <translation id="383021-3" value="trivialt" origin="lexin" date="2009-02-24"/>
+    <translation id="383021-4" value="naivt" origin="lexin" date="2009-02-24"/>
+    <translation id="383021-5" value="rent" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word class="nn" comment="&#xE4;ven om kostnaden" date="2011-03-03" id="7370" lang="sv" lexinid="737" origin="lexin" value="arrende">
+    <translation comment="also used of the cost" date="2011-03-03" id="725" value="tenancy, lease, leasehold, rent"/>
+    <phonetic date="2011-03-03" soundFile="arrende.swf" value="&#xB2;arEn:de"/>
+    <paradigm date="2011-03-03" id="606" origin="lexin">
+      <inflection value="arrendet"/>
+      <inflection value="arrenden"/>
+      <inflection value="arrendena"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="hyra"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="arrende||arrende..1||arrende..nn.1"/>
+    <example date="2011-03-03" id="502" value="betala tusen kronor i arrende">
+      <translation value="pay one thousand kronor in rent"/>
+    </example>
+    <compound date="2011-03-03" id="240" inflection="arrende|avgiften" value="arrende|avgift">
+      <translation value="rent, rental"/>
+    </compound>
+    <definition date="2011-03-03" id="731" value="avtal om uthyrning av mark">
+      <translation value="an agreement on the letting of land"/>
+    </definition>
+  </word>
+  <word value="arrendera" lang="sv" class="vb" id="7380" lexinid="738" origin="lexin" date="2011-03-03">
+    <translation id="7380-733" value="rent" origin="user" date="2012-02-02T00:55:09"/>
+    <translation id="7380-734" value="lease" origin="user" date="2012-02-02T00:55:09"/>
+    <phonetic value="arendE:rar" soundFile="arrenderar.swf" date="2011-03-03"/>
+    <paradigm id="607" origin="lexin" date="2011-03-03">
+      <inflection value="arrenderade"/>
+      <inflection value="arrenderat"/>
+      <inflection value="arrendera"/>
+      <inflection value="arrenderar"/>
+    </paradigm>
+    <synonym value="hyra" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="arrendera||arrendera..1||arrendera..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="503" value="arrendera ett jordbruk" date="2011-03-03">
+      <translation value="lease a farm"/>
+    </example>
+    <definition id="732" value="hyra (mark)" date="2011-03-03">
+      <translation value="rent land"/>
+    </definition>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="hyra" lang="sv" class="vb" id="71470" lexinid="7147" origin="lexin" date="2011-03-03">
+    <translation id="71470-6877" value="rent" comment="Brittish English" origin="user" date="2015-10-10T03:23:15"/>
+    <translation id="71470-6878" value="hire" origin="user" date="2012-01-24T00:40:52"/>
+    <phonetic value="hy:r" soundFile="hyr.swf" date="2011-03-03"/>
+    <paradigm id="6208" origin="lexin" date="2011-03-03">
+      <inflection value="hyrde"/>
+      <inflection value="hyrt"/>
+      <inflection value="hyr"/>
+      <inflection value="hyra"/>
+      <inflection value="hyr"/>
+    </paradigm>
+    <synonym value="leasa" level="4.7" origin="synlex" date="2011-03-03"/>
+    <see value="hyra||hyra..1||hyra..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4195" value="vi hyrde huset" origin="user" date="2015-01-02T00:52:29"/>
+    <example id="4196" value="de hyrde stugan" date="2011-03-03">
+      <translation value="they took the cottage"/>
+    </example>
+    <definition id="6876" value="anv&#xE4;nda mot betalning" date="2011-03-03">
+      <translation value="make use of against payment"/>
+    </definition>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="71490" lang="sv" lexinid="7149" origin="lexin" value="hyra">
+    <translation date="2011-03-03" id="7015" value="rent, rental, hire"/>
+    <phonetic date="2011-03-03" soundFile="hyra.swf" value="&#xB2;hY:ra"/>
+    <paradigm date="2011-03-03" id="6209" origin="lexin">
+      <inflection value="hyran"/>
+      <inflection value="hyror"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="arrende"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="arrendera"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="hyresbelopp"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="leasa"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="leja"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="hyra||hyra..2||hyra..nn.1"/>
+    <example date="2011-03-03" id="4197" value="betala hyra f&#xF6;r en l&#xE4;genhet">
+      <translation value="pay rent for a flat"/>
+    </example>
+    <compound date="2011-03-03" id="2654" inflection="hyres|bidraget" value="hyres|bidrag">
+      <translation value="housing allowance"/>
+    </compound>
+    <compound date="2011-03-03" id="2655" inflection="hyres|r&#xE4;tten" value="hyres|r&#xE4;tt">
+      <translation value="right of tenancy"/>
+    </compound>
+    <compound date="2011-03-03" id="2656" value="m&#xE5;nadshyra">
+      <translation value="monthly rent"/>
+    </compound>
+    <compound date="2011-03-03" id="2657" value="normalhyra">
+      <translation value="average rent"/>
+    </compound>
+    <definition date="2011-03-03" id="6877" value="betalning f&#xF6;r att man anv&#xE4;nder n&#xE5;got">
+      <translation value="payment for the right to use sth."/>
+    </definition>
+  </word>
+  <word class="nn" date="2011-03-03" id="190440" lang="sv" lexinid="19045" origin="lexin" value="tomtr&#xE4;tts|avg&#xE4;ld">
+    <translation date="2011-03-03" id="18698" value="rent [for a leasehold site]"/>
+    <phonetic date="2011-03-03" soundFile="tomtr&#xE4;ttsavg&#xE4;ld.swf" value="&#xB2;t&#xC5;m:tretsa:vjel:d"/>
+    <paradigm date="2011-03-03" id="16634" origin="lexin">
+      <inflection value="tomtr&#xE4;ttsavg&#xE4;lden"/>
+      <inflection value="tomtr&#xE4;ttsavg&#xE4;lder"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tomtr&#xE4;ttsavg&#xE4;ld||tomtr&#xE4;ttsavg&#xE4;ld..1||tomtr&#xE4;ttsavg&#xE4;ld..nn.1"/>
+    <definition date="2011-03-03" id="18409" value="&#xE5;rlig avgift f&#xF6;r tomtr&#xE4;tt"/>
+  </word>
+  <word value="hyreskostnad" lang="sv" class="nn" id="223230" origin="user" date="2011-11-12T00:14:27">
+    <translation id="223230-1" value="rent" origin="user" date="2011-11-12T00:14:27"/>
+  </word>
+  <word value="rent" lang="en" class="nn" id="354901" origin="lexin" date="2009-02-24">
+    <variant value="rent for a leasehold site" origin="lexin" date="2009-02-24"/>
+    <translation id="354901-1" value="tomtr&#xE4;tts|avg&#xE4;ld" origin="lexin" date="2009-02-24"/>
+    <explanation value="&#xE5;rlig avgift f&#xF6;r tomtr&#xE4;tt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rent" lang="en" class="vb" id="354911" origin="lexin" date="2009-02-24">
+    <translation id="354911-1" value="hyra ut" origin="lexin" date="2009-02-24"/>
+    <translation id="354911-2" value="arrendera ut" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rent" lang="en" class="nn" id="354921" lexinid="730" origin="lexin" date="2009-02-24">
+    <translation id="354921-1" value="hyra" origin="lexin" date="2009-02-24"/>
+    <translation id="354921-2" value="arrende" origin="lexin" date="2009-02-24"/>
+    <translation id="354921-3" value="avg&#xE4;ld" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="354921-4" value="jordr&#xE4;nta" comment="ekonomi" origin="lexin" date="2009-02-24"/>
+    <example id="354921-5" value="pay a set sum in rent" origin="lexin" date="2009-02-24">
+      <translation value="betala en viss summa i arrende" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="an agreement on the letting of land" origin="lexin" date="2009-02-24">
+      <translation value="avtal om uthyrning av mark" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="rent" lang="en" class="vb" id="354931" origin="lexin" date="2009-02-24">
+    <translation id="354931-1" value="hyra" origin="lexin" date="2009-02-24"/>
+    <translation id="354931-2" value="arrendera" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rent" lang="en" class="vb" id="354941" origin="lexin" date="2009-02-24">
+    <translation id="354941-1" value="hyras ut" origin="lexin" date="2009-02-24"/>
+    <translation id="354941-2" value="arrenderas ut" origin="lexin" date="2009-02-24"/>
+    <translation id="354941-3" value="vara uthyrd" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rent" lang="en" class="nn" id="354951" origin="lexin" date="2009-02-24">
+    <translation id="354951-1" value="spricka" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="354951-2" value="klyfta" origin="lexin" date="2009-02-24"/>
+    <translation id="354951-3" value="reva" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="rent" lang="en" class="vb" id="354961" origin="lexin" date="2009-02-24">
+    <translation id="354961-1" value="ta ut hyra" origin="lexin" date="2009-02-24"/>
+    <translation id="354961-2" value="ta ut arrende" origin="lexin" date="2009-02-24"/>
+    <explanation value="l&#xE4;gga p&#xE5; n&#xE5;gon hyra (arrende)" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

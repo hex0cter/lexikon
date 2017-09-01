@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="&#xE4;ven bildligt" date="2011-03-03" id="99530" lang="sv" lexinid="9953" origin="lexin" value="leva">
+    <translation comment="also figuratively" date="2011-03-03" id="9777" value="live"/>
+    <phonetic date="2011-03-03" soundFile="lever.swf" value="lE:ver"/>
+    <paradigm date="2011-03-03" id="8660" origin="lexin">
+      <inflection value="levde"/>
+      <inflection value="levt"/>
+      <inflection value="lev"/>
+      <inflection value="leva"/>
+      <inflection value="lever"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="leva||leva..1||leva..vb.1"/>
+    <example date="2011-03-03" id="5421" value="lever dina f&#xF6;r&#xE4;ldrar?">
+      <translation value="are your parents still alive?"/>
+    </example>
+    <example date="2011-03-03" id="5422" value="f&#xF6;da levande ungar">
+      <translation value="give birth to live offspring"/>
+    </example>
+    <example date="2011-03-03" id="5423" value="leva p&#xE5; ris">
+      <translation value="live on rice"/>
+    </example>
+    <idiom date="2011-03-03" id="842" value="leva upp till sitt rykte (&amp;quot;leva som folk anser att man lever&amp;quot;)">
+      <translation value="live up to one&amp;#39;s reputation (&amp;quot;live as people believe one lives&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="843" value="levande ljus (&amp;quot;stearinljus etc&amp;quot;)">
+      <translation value="candles (&amp;quot;wax candles, etc.&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="9588" value="vara vid liv, existera"/>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp;"/>
+  </word>
+  <word class="vb" comment="vardagligt" date="2011-03-03" id="99540" lang="sv" lexinid="9954" origin="lexin" value="leva">
+    <translation comment="informal" date="2011-03-03" id="9778" value="be noisy"/>
+    <phonetic date="2011-03-03" soundFile="lever.swf" value="lE:ver"/>
+    <paradigm date="2011-03-03" id="8661" origin="lexin">
+      <inflection value="levde"/>
+      <inflection value="levt"/>
+      <inflection value="lev"/>
+      <inflection value="leva"/>
+      <inflection value="lever"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="leva||leva..1||leva..vb.1"/>
+    <example date="2011-03-03" id="5424" value="han svor och levde">
+      <translation value="he cursed and kicked up a row"/>
+    </example>
+    <definition date="2011-03-03" id="9589" value="f&#xF6;ra ov&#xE4;sen"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp;"/>
+  </word>
+  <word value="breathe" lang="en" class="vb" id="54621" lexinid="359" origin="lexin" date="2009-02-24">
+    <translation id="54621-1" value="andas" origin="lexin" date="2009-02-24"/>
+    <translation id="54621-2" value="andas ut" origin="lexin" date="2009-02-24"/>
+    <translation id="54621-3" value="leva" origin="lexin" date="2009-02-24"/>
+    <example id="54621-5" value="breathe in" origin="lexin" date="2009-02-24">
+      <translation value="andas in" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="54621-6" value="breathe out" origin="lexin" date="2009-02-24">
+      <translation value="andas ut" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="54621-7" value="breathe deeply" origin="lexin" date="2009-02-24">
+      <translation value="andas djupt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="54621-8" value="have difficulty in breathing" origin="lexin" date="2009-02-24">
+      <translation value="ha sv&#xE5;rt att anda" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="54621-4" value="breathe freely" origin="lexin" date="2009-02-24">
+      <translation value="andas ut" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="to draw air into (and expel it from) the lungs" origin="lexin" date="2009-02-24">
+      <translation value="dra in luft i (och skicka ut luft ur) lungorna" origin="lexin" date="2009-02-24"/>
+    </explanation>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dwell" lang="en" class="vb" id="148921" origin="lexin" date="2009-02-24">
+    <translation id="148921-1" value="bo" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-2" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-3" value="vistas" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-4" value="vara bosatt" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-5" value="dv&#xE4;ljas" origin="lexin" date="2009-02-24"/>
+    <paradigm id="148921-6" origin="lexin" date="2009-02-24">
+      <inflection value="dwelt" origin="lexin" date="2009-02-24"/>
+      <inflection value="dwelt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <explanation value="have one&amp;#39;s home" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exist" lang="en" class="vb" id="164541" origin="lexin" date="2009-02-24">
+    <translation id="164541-1" value="existera" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-2" value="finnas" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-3" value="finnas till" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-4" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-5" value="vara till" origin="lexin" date="2009-02-24"/>
+    <translation id="164541-6" value="f&#xF6;rekomma" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="exist" lang="en" class="vb" id="164551" origin="lexin" date="2009-02-24">
+    <translation id="164551-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="164551-2" value="existera" origin="lexin" date="2009-02-24"/>
+    <translation id="164551-3" value="livn&#xE4;ra sig" origin="lexin" date="2009-02-24"/>
+    <translation id="164551-4" value="uppeh&#xE5;lla sig" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="last" lang="en" class="vb" id="250091" origin="lexin" date="2009-02-24">
+    <translation id="250091-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <example id="250091-2" value="he didn&amp;#39;t last long after that terrible shock" origin="lexin" date="2009-02-24">
+      <translation value="han levde inte l&#xE4;nge till efter den f&#xF6;rf&#xE4;rliga chocken" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="last" lang="en" class="vb" id="250101" origin="lexin" date="2009-02-24">
+    <translation id="250101-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <example id="250101-2" value="she only lasted that night" origin="lexin" date="2009-02-24">
+      <translation value="hon levde bara den natten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lead" lang="en" class="vb" id="252001" origin="lexin" date="2009-02-24">
+    <translation id="252001-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="252001-2" value="f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="252001-3" value="l&#xE5;ta f&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <paradigm id="252001-4" origin="lexin" date="2009-02-24">
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+      <inflection value="led" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="live out" lang="en" class="vb" id="259091" origin="lexin" date="2009-02-24">
+    <translation id="259091-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="259091-2" value="leva till sitt slut" origin="lexin" date="2009-02-24"/>
+    <translation id="259091-3" value="leva ut" origin="lexin" date="2009-02-24"/>
+    <idiom id="259091-4" value="live out a storm" origin="lexin" date="2009-02-24">
+      <translation value="rida ut en storm" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="live" lang="en" class="vb" id="259221" origin="lexin" date="2009-02-24">
+    <translation id="259221-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="259221-2" value="fortleva" origin="lexin" date="2009-02-24"/>
+    <idiom id="259221-3" value="live beyond one&amp;#39;s means" origin="lexin" date="2009-02-24">
+      <translation value="leva &#xF6;ver sina tillg&#xE5;ngar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-4" value="live by one&amp;#39;s wits" origin="lexin" date="2009-02-24">
+      <translation value="leva p&#xE5; sin intelligens och fiffighet (utan hederligt arbete)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-5" value="live from hand to mouth" origin="lexin" date="2009-02-24">
+      <translation value="leva ur hand i mun, leva f&#xF6;r dagen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-6" value="live in each other&amp;#39;s pockets" origin="lexin" date="2009-02-24">
+      <translation value="vara oskiljaktiga, j&#xE4;mt h&#xE5;lla samman/vara tillsammans" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-7" value="live in the past" origin="lexin" date="2009-02-24">
+      <translation value="leva i det f&#xF6;rg&#xE5;ngna" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-8" value="live in sin" origin="lexin" date="2009-02-24">
+      <translation value="(sk&#xE4;mtsamt) leva i synd" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-9" value="live in a dream world" origin="lexin" date="2009-02-24">
+      <translation value="leva i en dr&#xF6;mv&#xE4;rld, leva i sin egen (lilla) v&#xE4;rld" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-10" value="live in a world of one&amp;#39;s own" origin="lexin" date="2009-02-24">
+      <translation value="leva i sin egen (lilla) v&#xE4;rld" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-11" value="we live and learn" origin="lexin" date="2009-02-24">
+      <translation value="vi l&#xE4;r s&#xE5; l&#xE4;nge vi lever" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-12" value="live and let live" origin="lexin" date="2009-02-24">
+      <translation value="man b&#xF6;r leva sitt eget liv och l&#xE5;ta andra leva sitt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-13" value="live rough" origin="lexin" date="2009-02-24">
+      <translation value="(brittisk engelska) leva enkelt, leva primitivt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-14" value="live to see another day" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; uppleva &#xE4;nnu en dag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="259221-15" value="long live the Queen!" origin="lexin" date="2009-02-24">
+      <translation value="L&#xE4;nge leve drottningen!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="live" lang="en" class="vb" id="259231" origin="lexin" date="2009-02-24">
+    <translation id="259231-1" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="259231-2" value="leva i enlighet med" origin="lexin" date="2009-02-24"/>
+    <idiom id="259231-3" value="live a lie" origin="lexin" date="2009-02-24">
+      <translation value="leva p&#xE5; en l&#xF6;gn" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reside" lang="en" class="vb" id="357401" origin="lexin" date="2009-02-24">
+    <translation id="357401-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-2" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-3" value="vara bosatt" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-4" value="vistas" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-5" value="residera" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

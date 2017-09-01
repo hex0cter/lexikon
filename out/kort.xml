@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="kort" lang="sv" class="jj" id="91570" lexinid="9157" origin="lexin" comment="om tid och rum" date="2011-03-03">
+    <translation id="9001" value="short" comment="temporally and spatially" date="2011-03-03"/>
+    <phonetic value="k&#xE5;r+t:" soundFile="kort.swf" date="2011-03-03"/>
+    <paradigm id="7939" origin="lexin" date="2011-03-03">
+      <inflection value="kort"/>
+      <inflection value="korta"/>
+    </paradigm>
+    <synonym value="fotografi" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="l&#xE5;g dv&#xE4;rg" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sm&#xE5;v&#xE4;xt" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="underl&#xE5;ng" level="3.7" origin="synlex" date="2011-03-03"/>
+    <see value="kort||kort..1||kort..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5121" value="korta ben" date="2011-03-03">
+      <translation value="short legs"/>
+    </example>
+    <example id="5122" value="p&#xE5; kort tid" date="2011-03-03">
+      <translation value="in a short time"/>
+    </example>
+    <example id="5123" value="korta str&#xE4;ckor" date="2011-03-03">
+      <translation value="short distances"/>
+    </example>
+    <compound id="3255" value="kort|film" date="2011-03-03">
+      <translation value="short film"/>
+    </compound>
+    <idiom id="770" value="inom kort (&amp;quot;snart&amp;quot;)" date="2011-03-03">
+      <translation value="shortly (&amp;quot;soon&amp;quot;)"/>
+    </idiom>
+    <idiom id="771" value="kort sagt (&amp;quot;kortfattat, i korthet&amp;quot;)" date="2011-03-03">
+      <translation value="in short (&amp;quot;concise, brief&amp;quot;)"/>
+    </idiom>
+    <idiom id="772" value="kort och gott (&amp;quot;uttryckt i f&#xE5; ord&amp;quot;)" date="2011-03-03">
+      <translation value="to put it briefly (&amp;quot;expressed with few words&amp;quot;)"/>
+    </idiom>
+    <definition id="8819" value="som har liten l&#xE4;ngd" date="2011-03-03"/>
+  </word>
+  <word value="kort" lang="sv" class="nn" id="91580" lexinid="9158" origin="lexin" date="2011-03-03">
+    <translation id="9002" value="card" date="2011-03-03"/>
+    <phonetic value="kor+t:" soundFile="kort.swf" date="2011-03-03"/>
+    <paradigm id="7940" origin="lexin" date="2011-03-03">
+      <inflection value="kortet"/>
+      <inflection value="kort"/>
+      <inflection value="korten"/>
+    </paradigm>
+    <see value="kort||kort..2||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..3||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..4||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3256" value="l&#xE5;nekort" date="2011-03-03">
+      <translation value="library card"/>
+    </compound>
+    <compound id="3257" value="kontokort" date="2011-03-03">
+      <translation value="credit card"/>
+    </compound>
+    <definition id="8820" value="litet blad i styvt papper (el. plast etc) f&#xF6;r olika &#xE4;ndam&#xE5;l (ofta som bevis p&#xE5; n&#xE5;got)" date="2011-03-03"/>
+  </word>
+  <word value="kort" lang="sv" class="nn" id="91590" lexinid="9159" origin="lexin" date="2011-03-03">
+    <translation id="9003" value="card" date="2011-03-03"/>
+    <phonetic value="kor+t:" soundFile="kort.swf" date="2011-03-03"/>
+    <paradigm id="7941" origin="lexin" date="2011-03-03">
+      <inflection value="kortet"/>
+      <inflection value="kort"/>
+      <inflection value="korten"/>
+    </paradigm>
+    <see value="kort||kort..2||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..3||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..4||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5124" value="spela kort" date="2011-03-03">
+      <translation value="play cards"/>
+    </example>
+    <definition id="8821" value="spelkort" date="2011-03-03"/>
+  </word>
+  <word value="kort" lang="sv" class="nn" id="91600" lexinid="9160" origin="lexin" date="2011-03-03">
+    <translation id="9004" value="photo" date="2011-03-03"/>
+    <phonetic value="kor+t:" soundFile="kort.swf" date="2011-03-03"/>
+    <paradigm id="7942" origin="lexin" date="2011-03-03">
+      <inflection value="kortet"/>
+      <inflection value="kort"/>
+      <inflection value="korten"/>
+    </paradigm>
+    <see value="kort||kort..2||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..3||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="kort||kort..4||kort..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5125" value="ta kort" date="2011-03-03">
+      <translation value="take a photo"/>
+    </example>
+    <compound id="3258" value="ungdomskort" date="2011-03-03">
+      <translation value="youth [discount] card"/>
+    </compound>
+    <definition id="8822" value="foto, bild" date="2011-03-03"/>
+  </word>
+  <word value="brief" lang="en" class="jj" id="55321" origin="lexin" date="2009-02-24">
+    <translation id="55321-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="55321-2" value="knapph&#xE4;ndig" origin="lexin" date="2009-02-24"/>
+    <translation id="55321-3" value="kortfattad" origin="lexin" date="2009-02-24"/>
+    <translation id="55321-4" value="kortvarig" origin="lexin" date="2009-02-24"/>
+    <example id="55321-6" value="brief shower" origin="lexin" date="2009-02-24">
+      <translation value="kortvarigt regn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="55321-7" value="the news in brief" origin="lexin" date="2009-02-24">
+      <translation value="nyheterna i sammandrag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="55321-5" value="be brief" origin="lexin" date="2009-02-24">
+      <translation value="fatta sig kort" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="card" lang="en" class="nn" id="67131" origin="lexin" date="2009-02-24">
+    <translation id="67131-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <idiom id="67131-2" value="have a card up one&amp;#39;s sleeve" origin="lexin" date="2009-02-24">
+      <translation value="ha n&#xE5;got i bakfickan/ha ett &#xE4;ss i rock&#xE4;rmen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="67131-3" value="it&amp;#39;s on the cards" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r troligt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="kort av olika slag, exempelvis spelkort, julkort, visitkort och bjudningskort" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="little" lang="en" class="jj" id="258901" origin="lexin" date="2009-02-24">
+    <translation id="258901-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <example id="258901-2" value="I can only stay a little while" origin="lexin" date="2009-02-24">
+      <translation value="jag kan bara stanna en kort stund" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="offhand" lang="en" class="ab" id="293041" origin="lexin" date="2009-02-24">
+    <translation id="293041-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="293041-2" value="nonchalant" origin="lexin" date="2009-02-24"/>
+    <example id="293041-3" value="she replied rather offhand" origin="lexin" date="2009-02-24">
+      <translation value="hon var ganska kort i tonen n&#xE4;r hon svarade" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="photo" lang="en" class="nn" id="315561" origin="lexin" date="2009-02-24">
+    <translation id="315561-1" value="foto" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="315561-2" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="315561-3" value="bild" origin="lexin" date="2009-02-24"/>
+    <example id="315561-4" value="take a photo" origin="lexin" date="2009-02-24">
+      <translation value="ta kort" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="picture" lang="en" class="nn" id="316751" origin="lexin" date="2009-02-24">
+    <translation id="316751-1" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-2" value="tavla" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-3" value="m&#xE5;lning" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-4" value="portr&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-5" value="illustration" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-6" value="foto" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-7" value="fotografi" origin="lexin" date="2009-02-24"/>
+    <translation id="316751-8" value="kort" origin="lexin" date="2009-02-24"/>
+    <idiom id="316751-9" value="look (be) a picture" origin="lexin" date="2009-02-24">
+      <translation value="vara vacker som en tavla, vara sk&#xF6;nheten sj&#xE4;lv" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="representation (of sth.) by a drawing, photograph, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="short" lang="en" class="jj" id="380411" origin="lexin" date="2009-02-24">
+    <translation id="380411-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-2" value="kort-" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-3" value="kortvarig" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-4" value="kortfattad" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-5" value="l&#xE5;g" origin="lexin" date="2009-02-24"/>
+    <translation id="380411-6" value="liten" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="short" lang="en" class="jj" id="380431" origin="lexin" date="2009-02-24">
+    <translation id="380431-1" value="m&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="380431-2" value="sk&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="380431-3" value="l&#xF6;s" origin="lexin" date="2009-02-24"/>
+    <translation id="380431-4" value="kort" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="shortly" lang="en" class="ab" id="380621" origin="lexin" date="2009-02-24">
+    <translation id="380621-1" value="kort" origin="lexin" date="2009-02-24"/>
+    <translation id="380621-2" value="kort i tonen" origin="lexin" date="2009-02-24"/>
+    <translation id="380621-3" value="tv&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="380621-4" value="sn&#xE4;sigt" origin="lexin" date="2009-02-24"/>
+    <example id="380621-5" value="He answered her shortly that he was not interested." origin="lexin" date="2009-02-24">
+      <translation value="Han svarade henne kort att han inte var intresserad." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Impatiently, not politely" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="view" lang="en" class="nn" id="437111" origin="lexin" date="2009-02-24">
+    <translation id="437111-1" value="fotografi" origin="lexin" date="2009-02-24"/>
+    <translation id="437111-2" value="bild" origin="lexin" date="2009-02-24"/>
+    <translation id="437111-3" value="kort" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

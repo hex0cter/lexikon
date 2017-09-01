@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="30350" lang="sv" lexinid="3035" origin="lexin" value="del">
+    <translation date="2011-03-03" id="2995" value="part"/>
+    <phonetic date="2011-03-03" soundFile="del.swf" value="de:l"/>
+    <paradigm date="2011-03-03" id="2656" origin="lexin">
+      <inflection value="delen"/>
+      <inflection value="delar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="andel"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="bit"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="fraktion"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="pusselbit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="segment"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="del||del..1||del..nn.1"/>
+    <example date="2011-03-03" id="1720" value="en del av semestern">
+      <translation value="part of the vacation"/>
+    </example>
+    <example date="2011-03-03" id="1721" value="motorns delar"/>
+    <compound date="2011-03-03" id="1082" value="stadsdel">
+      <translation value="quarter; section of a city"/>
+    </compound>
+    <compound date="2011-03-03" id="1083" value="femtedel">
+      <translation value="fifth"/>
+    </compound>
+    <idiom date="2011-03-03" id="227" value="f&#xE5; sin besk&#xE4;rda del (&amp;quot;f&#xE5; det som tillfaller en&amp;quot;)">
+      <translation value="get one&amp;#39;s share (&amp;quot;get that which is rightly due&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="228" value="ta del av (&amp;quot;skaffa sig kunskap om&amp;quot;)">
+      <translation value="acquaint oneself with"/>
+    </idiom>
+    <idiom date="2011-03-03" id="229" value="f&#xF6;r den delen (&amp;quot;vad det betr&#xE4;ffar&amp;quot;)">
+      <translation value="for that matter, (&amp;quot;as far as that goes&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="230" value="f&#xF6;r all del (&amp;quot;ingen orsak&amp;quot;)">
+      <translation value="don&amp;#39;t mention it!"/>
+    </idiom>
+    <idiom date="2011-03-03" id="231" value="en hel del (&amp;quot;m&#xE5;nga&amp;quot;)">
+      <translation value="a good many (&amp;quot;many&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="232" value="jag f&#xF6;r min del (&amp;quot;jag personligen&amp;quot;)">
+      <translation value="for my part (&amp;quot;I personally&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="233" value="en del (&amp;quot;vissa&amp;quot;) m&#xE4;nniskor">
+      <translation value="some (&amp;quot;certain&amp;quot;) people"/>
+    </idiom>
+    <definition date="2011-03-03" id="2935" value="mindre bit av en helhet">
+      <translation value="a component of a whole"/>
+    </definition>
+  </word>
+</definition>

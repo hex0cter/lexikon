@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="late" lang="en" class="jj" id="250291" origin="lexin" date="2009-02-24">
+    <translation id="250291-1" value="senaste" origin="lexin" date="2009-02-24"/>
+    <translation id="250291-2" value="nyligen avslutad" origin="lexin" date="2009-02-24"/>
+    <example id="250291-3" value="we&amp;#39;ve made some late changes in the programme" origin="lexin" date="2009-02-24">
+      <translation value="vi har gjort n&#xE5;ra &#xE4;ndringar i programmet i sista stund" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="latest" lang="en" class="jj" id="250361" origin="lexin" date="2009-02-24">
+    <translation id="250361-1" value="senaste" origin="lexin" date="2009-02-24"/>
+    <example id="250361-2" value="Her latest book." origin="lexin" date="2009-02-24">
+      <translation value="Hennes senaste bok." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to the most recent of its kind." origin="lexin" date="2009-02-24"/>
+    <grammar value="superlativ av late" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

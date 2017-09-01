@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="tro" lang="sv" class="vb" id="192730" lexinid="19274" origin="lexin" date="2011-03-03">
+    <translation id="18927" value="believe" date="2011-03-03"/>
+    <phonetic value="tro:r" soundFile="tror.swf" date="2011-03-03"/>
+    <paradigm id="16845" origin="lexin" date="2011-03-03">
+      <inflection value="trodde"/>
+      <inflection value="trott"/>
+      <inflection value="tro"/>
+      <inflection value="tror"/>
+    </paradigm>
+    <synonym value="ana" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rlita" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="mena" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="tro||tro..1||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tro||tro..3||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10800" value="vi trodde att det skulle g&#xE5; bra" date="2011-03-03">
+      <translation value="we believed it would go well"/>
+    </example>
+    <definition id="18639" value="anse el. anta s&#xE5;som sant, f&#xF6;rmoda" date="2011-03-03"/>
+    <grammar value="A &amp; att + S; A &amp; sig + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="tro" lang="sv" class="vb" id="192740" lexinid="19275" origin="lexin" comment="bildligt &amp;quot;ha stark tilltro (till)&amp;quot;" date="2011-03-03">
+    <translation id="18928" value="believe" comment="figuratively, &amp;quot;have strong faith (in)&amp;quot;" date="2011-03-03"/>
+    <phonetic value="tro:r" soundFile="tror.swf" date="2011-03-03"/>
+    <paradigm id="16846" origin="lexin" date="2011-03-03">
+      <inflection value="trodde"/>
+      <inflection value="trott"/>
+      <inflection value="tro"/>
+      <inflection value="tror"/>
+    </paradigm>
+    <synonym value="antar" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="tro||tro..1||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tro||tro..3||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10801" value="tro p&#xE5; Gud" date="2011-03-03">
+      <translation value="believe in God"/>
+    </example>
+    <example id="10802" value="tro p&#xE5; utvecklingen" date="2011-03-03">
+      <translation value="believe in progress"/>
+    </example>
+    <definition id="18640" value="ha en religi&#xF6;s &#xF6;vertygelse" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5; B/x)" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

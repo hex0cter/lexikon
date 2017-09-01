@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="minska" lang="sv" class="vb" id="110700" lexinid="11070" origin="lexin" date="2011-03-03">
+    <translation id="110700-10674" value="diminish" origin="user" date="2012-04-12T01:56:29"/>
+    <translation id="110700-10675" value="reduce" origin="user" date="2012-04-12T01:56:29"/>
+    <phonetic value="&#xB2;mIn:skar" soundFile="minskar.swf" date="2011-03-03"/>
+    <paradigm id="9636" origin="lexin" date="2011-03-03">
+      <inflection value="minskade"/>
+      <inflection value="minskat"/>
+      <inflection value="minska"/>
+      <inflection value="minskar"/>
+    </paradigm>
+    <synonym value="avta" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="avtaga" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rdr&#xF6;ja" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rkorta" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="komprimera" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="krympa" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="reducera" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="minska||minska..1||minska..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6001" value="minska (p&#xE5;) hastigheten" date="2011-03-03">
+      <translation value="reduce speed"/>
+    </example>
+    <example id="6002" value="vi m&#xE5;ste minska v&#xE5;rt beroende av olja" date="2011-03-03">
+      <translation value="we must reduce our dependency on oil"/>
+    </example>
+    <definition id="10673" value="g&#xF6;ra mindre, reducera" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5;) x" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="110710" lang="sv" lexinid="11071" origin="lexin" value="minska">
+    <translation date="2011-03-03" id="10877" value="decrease"/>
+    <phonetic date="2011-03-03" soundFile="minskar.swf" value="&#xB2;mIn:skar ;4(91)"/>
+    <paradigm date="2011-03-03" id="9637" origin="lexin">
+      <inflection value="minskade"/>
+      <inflection value="minskat"/>
+      <inflection value="minska"/>
+      <inflection value="minskar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avta"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="avtaga"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="f&#xF6;rdr&#xF6;ja"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="f&#xF6;rkorta"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="komprimera"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="krympa"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="reducera"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="minska||minska..1||minska..vb.1"/>
+    <example date="2011-03-03" id="6003" value="exporten minskade med 10 procent">
+      <translation value="exports decreased by 10 percent"/>
+    </example>
+    <example date="2011-03-03" id="6004" value="minskad l&#xF6;nsamhet">
+      <translation value="decreased profitability"/>
+    </example>
+    <definition date="2011-03-03" id="10674" value="bli mindre, avta"/>
+    <grammar date="2011-03-03" origin="lexin" value="x &amp;"/>
+  </word>
+  <word value="abate" lang="en" class="vb" id="391" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="391-1" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="391-2" value="mildras" origin="lexin" date="2009-02-24"/>
+    <translation id="391-3" value="sakta sig" origin="lexin" date="2009-02-24"/>
+    <translation id="391-4" value="bedarra" origin="lexin" date="2009-02-24"/>
+    <translation id="391-5" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="391-6" value="mojna" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="abate" lang="en" class="vb" id="401" origin="lexin" comment="formellt" date="2009-02-24">
+    <translation id="401-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="401-2" value="f&#xF6;rsvaga" origin="lexin" date="2009-02-24"/>
+    <translation id="401-3" value="d&#xE4;mpa" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="chip away at" lang="en" class="vb" id="77171" origin="lexin" date="2009-02-24">
+    <translation id="77171-1" value="nagga i kanten" origin="lexin" date="2009-02-24"/>
+    <translation id="77171-2" value="decimera" origin="lexin" date="2009-02-24"/>
+    <translation id="77171-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <paradigm id="77171-4" origin="lexin" date="2009-02-24">
+      <inflection value="chipped" origin="lexin" date="2009-02-24"/>
+      <inflection value="chipping" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="close" lang="en" class="vb" id="83641" origin="lexin" date="2009-02-24">
+    <translation id="83641-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <example id="83641-2" value="close the distance" origin="lexin" date="2009-02-24">
+      <translation value="minska avst&#xE5;ndet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="collapse" lang="en" class="vb" id="87221" origin="lexin" date="2009-02-24">
+    <translation id="87221-1" value="komprimera" origin="lexin" date="2009-02-24"/>
+    <translation id="87221-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="contract" lang="en" class="vb" id="100551" origin="lexin" date="2009-02-24">
+    <translation id="100551-1" value="dra samman" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-2" value="dras samman" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-3" value="dra ihop" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-4" value="dras ihop" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-5" value="dra ihop sig" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-6" value="kontrahera" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-7" value="rynka" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-8" value="f&#xF6;rkorta" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-9" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-10" value="minskas" origin="lexin" date="2009-02-24"/>
+    <translation id="100551-11" value="krympa" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="deaden" lang="en" class="vb" id="119331" origin="lexin" date="2009-02-24">
+    <translation id="119331-1" value="d&#xE4;mpa" origin="lexin" date="2009-02-24"/>
+    <translation id="119331-2" value="bed&#xF6;va" origin="lexin" date="2009-02-24"/>
+    <translation id="119331-3" value="d&#xF6;va" origin="lexin" date="2009-02-24"/>
+    <translation id="119331-4" value="f&#xF6;rsvaga" origin="lexin" date="2009-02-24"/>
+    <translation id="119331-5" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decline" lang="en" class="vb" id="120991" origin="lexin" date="2009-02-24">
+    <translation id="120991-1" value="g&#xE5; utf&#xF6;r" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-2" value="g&#xE5; tillbaka" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-3" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-4" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-5" value="sjunka" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-6" value="g&#xE5; ned" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-7" value="falla" origin="lexin" date="2009-02-24"/>
+    <translation id="120991-8" value="f&#xF6;rfalla" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="decrease" lang="en" class="vb" id="121401" origin="lexin" date="2009-02-24">
+    <translation id="121401-1" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="121401-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="diminish" lang="en" class="vb" id="131441" origin="lexin" date="2009-02-24">
+    <translation id="131441-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="131441-2" value="f&#xF6;rminska" origin="lexin" date="2009-02-24"/>
+    <translation id="131441-3" value="f&#xF6;rsvaga" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dock" lang="en" class="vb" id="139331" origin="lexin" date="2009-02-24">
+    <translation id="139331-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="139331-2" value="f&#xF6;rminska" origin="lexin" date="2009-02-24"/>
+    <translation id="139331-3" value="besk&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="drop off" lang="en" class="vb" id="146411" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="146411-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="146411-2" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="146411-3" value="f&#xF6;rsvinna" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ebb away" lang="en" class="vb" id="150101" origin="lexin" date="2009-02-24">
+    <translation id="150101-1" value="ebba ut" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="150101-2" value="sina" origin="lexin" date="2009-02-24"/>
+    <translation id="150101-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="150101-4" value="avta" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="ebb" lang="en" class="vb" id="150121" origin="lexin" date="2009-02-24">
+    <translation id="150121-1" value="ebba ut" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="150121-2" value="sina" origin="lexin" date="2009-02-24"/>
+    <translation id="150121-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="150121-4" value="avta" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fine" lang="en" class="vb" id="175471" origin="lexin" date="2009-02-24">
+    <translation id="175471-1" value="minska" comment="brittisk engelska" origin="lexin" date="2009-02-24"/>
+    <translation id="175471-2" value="f&#xF6;rtunna" origin="lexin" date="2009-02-24"/>
+    <translation id="175471-3" value="g&#xF6;ra smalare" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="let up" lang="en" class="vb" id="254481" origin="lexin" date="2009-02-24">
+    <translation id="254481-1" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="254481-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="254481-3" value="sluta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="254481-4" origin="lexin" date="2009-02-24">
+      <inflection value="let" origin="lexin" date="2009-02-24"/>
+      <inflection value="let" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt och intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lower" lang="en" class="vb" id="262851" origin="lexin" date="2009-02-24">
+    <translation id="262851-1" value="s&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="262851-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lower" lang="en" class="vb" id="262861" origin="lexin" date="2009-02-24">
+    <translation id="262861-1" value="s&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="262861-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <example id="262861-3" value="she lowered her voice when she saw that the baby was asleep" origin="lexin" date="2009-02-24">
+      <translation value="hon s&#xE4;nkte r&#xF6;sten n&#xE4;r hon s&#xE5;g att babyn sov" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pare down" lang="en" class="vb" id="305261" origin="lexin" date="2009-02-24">
+    <translation id="305261-1" value="sk&#xE4;ra ner" origin="lexin" date="2009-02-24"/>
+    <translation id="305261-2" value="reducera" origin="lexin" date="2009-02-24"/>
+    <translation id="305261-3" value="banta ner" origin="lexin" date="2009-02-24"/>
+    <translation id="305261-4" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="305261-5" value="f&#xE5; ner" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="relax" lang="en" class="vb" id="353031" origin="lexin" date="2009-02-24">
+    <translation id="353031-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <example id="353031-2" value="relax stress at work" origin="lexin" date="2009-02-24">
+      <translation value="minska stressen p&#xE5; arbetet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sink" lang="en" class="vb" id="383381" origin="lexin" date="2009-02-24">
+    <translation id="383381-1" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="383381-2" value="minskas" origin="lexin" date="2009-02-24"/>
+    <translation id="383381-3" value="falla" origin="lexin" date="2009-02-24"/>
+    <translation id="383381-4" value="dala" origin="lexin" date="2009-02-24"/>
+    <translation id="383381-5" value="avta" origin="lexin" date="2009-02-24"/>
+    <translation id="383381-6" value="mojna" origin="lexin" date="2009-02-24"/>
+    <paradigm id="383381-7" origin="lexin" date="2009-02-24">
+      <inflection value="sank" origin="lexin" date="2009-02-24"/>
+      <inflection value="sunk" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sink" lang="en" class="vb" id="383411" origin="lexin" date="2009-02-24">
+    <translation id="383411-1" value="s&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="383411-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="383411-3" value="f&#xE5; att sjunka" origin="lexin" date="2009-02-24"/>
+    <translation id="383411-4" value="f&#xE5; att avta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="383411-5" origin="lexin" date="2009-02-24">
+      <inflection value="sank" origin="lexin" date="2009-02-24"/>
+      <inflection value="sunk" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slim down" lang="en" class="vb" id="385941" origin="lexin" date="2009-02-24">
+    <translation id="385941-1" value="g&#xF6;ra smal" origin="lexin" date="2009-02-24"/>
+    <translation id="385941-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <paradigm id="385941-3" origin="lexin" date="2009-02-24">
+      <inflection value="slimmed" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="385941-4" origin="lexin" date="2009-02-24">
+      <inflection value="slimming" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slim" lang="en" class="vb" id="385961" origin="lexin" date="2009-02-24">
+    <translation id="385961-1" value="g&#xF6;ra smal" origin="lexin" date="2009-02-24"/>
+    <translation id="385961-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <paradigm id="385961-3" origin="lexin" date="2009-02-24">
+      <inflection value="slimmed" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="385961-4" origin="lexin" date="2009-02-24">
+      <inflection value="slimming" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="slow down" lang="en" class="vb" id="386591" origin="lexin" date="2009-02-24">
+    <translation id="386591-1" value="sakta in" origin="lexin" date="2009-02-24"/>
+    <translation id="386591-2" value="s&#xE4;nka farten" origin="lexin" date="2009-02-24"/>
+    <translation id="386591-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="386591-4" value="sjumka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="taper off" lang="en" class="vb" id="413381" origin="lexin" date="2009-02-24">
+    <translation id="413381-1" value="avsmalna" origin="lexin" date="2009-02-24"/>
+    <translation id="413381-2" value="avta" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="413381-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="taper off" lang="en" class="vb" id="413391" origin="lexin" date="2009-02-24">
+    <translation id="413391-1" value="g&#xF6;ra spetsigare" origin="lexin" date="2009-02-24"/>
+    <translation id="413391-2" value="g&#xF6;ra konformad" origin="lexin" date="2009-02-24"/>
+    <translation id="413391-3" value="sk&#xE4;ra ner" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="413391-4" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="taper" lang="en" class="vb" id="413411" origin="lexin" date="2009-02-24">
+    <translation id="413411-1" value="avsmalna" origin="lexin" date="2009-02-24"/>
+    <translation id="413411-2" value="avta" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="413411-3" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="taper" lang="en" class="vb" id="413431" origin="lexin" date="2009-02-24">
+    <translation id="413431-1" value="g&#xF6;ra spetsigare" origin="lexin" date="2009-02-24"/>
+    <translation id="413431-2" value="g&#xF6;ra konformad" origin="lexin" date="2009-02-24"/>
+    <translation id="413431-3" value="sk&#xE4;ra ner" comment="bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="413431-4" value="minska" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wane" lang="en" class="vb" id="439891" origin="lexin" date="2009-02-24">
+    <translation id="439891-1" value="f&#xF6;rsvagas" origin="lexin" date="2009-02-24"/>
+    <translation id="439891-2" value="minska" origin="lexin" date="2009-02-24"/>
+    <translation id="439891-3" value="avta" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

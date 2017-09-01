@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="208310" lang="sv" lexinid="20832" origin="lexin" value="vilja">
+    <translation date="2011-03-03" id="20464" value="will"/>
+    <phonetic date="2011-03-03" soundFile="vilja.swf" value="&#xB2;vIl:ja"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;mna"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xF6;nska"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="&#xF6;nskan"/>
+    <see date="2011-03-03" id="208390" origin="lexin" value="vilja"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="208320" lang="sv" lexinid="20833" origin="lexin" value="vilja">
+    <translation date="2011-03-03" id="20465" value="will"/>
+    <phonetic date="2011-03-03" soundFile="vilja.swf" value="&#xB2;vIl:ja"/>
+    <paradigm date="2011-03-03" id="18164" origin="lexin">
+      <inflection value="viljan"/>
+      <inflection value="viljor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;mna"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xF6;nska"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="&#xF6;nskan"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vilja||vilja..2||vilja..nn.1"/>
+    <example date="2011-03-03" id="11731" value="viljan att l&#xE4;ra sig n&#xE5;got">
+      <translation value="the will to learn sth."/>
+    </example>
+    <example date="2011-03-03" id="11732" value="en stark vilja">
+      <translation value="a strong will"/>
+    </example>
+    <compound date="2011-03-03" id="6815" inflection="vilje|l&#xF6;st" value="vilje|l&#xF6;s">
+      <translation value="without a will of one&amp;#39;s own"/>
+    </compound>
+    <compound date="2011-03-03" id="6816" value="motvilja">
+      <translation value="reluctance"/>
+    </compound>
+    <derivation date="2011-03-03" id="973" value="ovilja">
+      <translation value="unwillingness"/>
+    </derivation>
+    <idiom date="2011-03-03" id="1811" value="f&#xE5; sin vilja fram (&amp;quot;f&#xE5; som man vill&amp;quot;)">
+      <translation value="have one&amp;#39;s own way (&amp;quot;get what one wants&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1812" value="mot sin vilja (&amp;quot;motvilligt&amp;quot;)">
+      <translation value="against one&amp;#39;s will (&amp;quot;reluctantly&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="20123" value="f&#xF6;rm&#xE5;ga och avsikt att best&#xE4;mma sina egna handlingar; &#xF6;nskan"/>
+  </word>
+  <word class="vb" comment="&#xE4;ven med f&#xF6;rsvagad betydelse i uppmaningar" date="2011-03-03" id="208390" lang="sv" lexinid="20840" origin="lexin" value="vilja">
+    <translation comment="also downtoned in exhortations" date="2011-03-03" id="20471" value="want"/>
+    <phonetic date="2011-03-03" soundFile="vill.swf" value="vil:"/>
+    <paradigm date="2011-03-03" id="18170" origin="lexin">
+      <inflection value="ville"/>
+      <inflection value="velat"/>
+      <inflection value="vilja"/>
+      <inflection value="vill"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="&#xE4;mna"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="&#xF6;nska"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="&#xF6;nskan"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vilja||vilja..1||vilja..vb.1"/>
+    <example date="2011-03-03" id="11738" value="vill du skicka mig saltet?">
+      <translation value="would you pass me the salt, please?"/>
+    </example>
+    <example date="2011-03-03" id="11739" value="jag ville att han skulle stanna">
+      <translation value="I wanted him to stay"/>
+    </example>
+    <example date="2011-03-03" id="11740" value="jag vill inte g&#xE5; och l&#xE4;gga mig">
+      <translation value="I don&amp;#39;t want to go to bed"/>
+    </example>
+    <example date="2011-03-03" id="11741" value="vad vill du ha till middag?">
+      <translation value="what do you want for dinner?"/>
+    </example>
+    <idiom date="2011-03-03" id="1814" value="det vill till (krafter f&#xF6;r att lyfta stenen) (&amp;quot;det beh&#xF6;vs (krafter etc)&amp;quot;)">
+      <translation value="it will take (strength to lift the stone) (&amp;quot;(strength etc.) is needed to&amp;quot;)"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1815" value="om det vill sig v&#xE4;l (&amp;quot;om det g&#xE5;r bra&amp;quot;)">
+      <translation value="if all goes well"/>
+    </idiom>
+    <idiom date="2011-03-03" id="1816" value="det vill s&#xE4;ga (&amp;quot;det betyder, allts&#xE5;&amp;quot;)">
+      <translation value="that is to say (&amp;quot;that means&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="20129" value="&#xF6;nska, str&#xE4;va (efter)"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF/att + S"/>
+  </word>
+  <word value="choose" lang="en" class="vb" id="78021" origin="lexin" date="2009-02-24">
+    <translation id="78021-1" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="78021-2" value="behaga" origin="lexin" date="2009-02-24"/>
+    <paradigm id="78021-4" origin="lexin" date="2009-02-24">
+      <inflection value="chose" origin="lexin" date="2009-02-24"/>
+      <inflection value="chosen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="78021-3" value="do as you choose" origin="lexin" date="2009-02-24">
+      <translation value="g&#xF6;r som du vill" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="choose" lang="en" class="vb" id="78031" origin="lexin" date="2009-02-24">
+    <translation id="78031-1" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="78031-2" value="behaga" origin="lexin" date="2009-02-24"/>
+    <paradigm id="78031-4" origin="lexin" date="2009-02-24">
+      <inflection value="chose" origin="lexin" date="2009-02-24"/>
+      <inflection value="chosen" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="78031-3" value="I don&amp;#39;t choose to work" origin="lexin" date="2009-02-24">
+      <translation value="jag vill inte arbeta" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="intend" lang="en" class="vb" id="236081" origin="lexin" date="2009-02-24">
+    <translation id="236081-1" value="&#xE4;mna" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-2" value="avse" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-3" value="ha f&#xF6;r avsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-4" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-5" value="planera" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-6" value="mena" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-7" value="vilja" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mean" lang="en" class="vb" id="269981" origin="lexin" date="2009-02-24">
+    <translation id="269981-1" value="mena" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-2" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-3" value="&#xE4;mna" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-4" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-5" value="vara fast besluten" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-6" value="ha f&#xF6;r avsikt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="269981-7" origin="lexin" date="2009-02-24">
+      <inflection value="meant" origin="lexin" date="2009-02-24"/>
+      <inflection value="meant" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="please" lang="en" class="vb" id="322001" origin="lexin" date="2009-02-24">
+    <translation id="322001-1" value="behaga" origin="lexin" date="2009-02-24"/>
+    <translation id="322001-2" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="322001-3" value="till&#xE5;ta" origin="lexin" date="2009-02-24"/>
+    <translation id="322001-4" value="finna passande" origin="lexin" date="2009-02-24"/>
+    <idiom id="322001-5" value="as bold/cool as you please" origin="lexin" date="2009-02-24">
+      <translation value="hur modigt/lugnt som helst" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="322001-6" value="as you please" origin="lexin" date="2009-02-24">
+      <translation value="som du vill, som det behagar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="322001-7" value="if you please" origin="lexin" date="2009-02-24">
+      <translation value="vars&#xE5;god, ja tack, om jag f&#xE5;r be, om du till&#xE5;ter" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="322001-8" value="please God" origin="lexin" date="2009-02-24">
+      <translation value="om Gud vill" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="pleasure" lang="en" class="nn" id="322081" origin="lexin" date="2009-02-24">
+    <translation id="322081-1" value="&#xF6;nskan" origin="lexin" date="2009-02-24"/>
+    <translation id="322081-2" value="gottfinnande" origin="lexin" date="2009-02-24"/>
+    <translation id="322081-3" value="vilja" origin="lexin" date="2009-02-24"/>
+    <idiom id="322081-4" value="at somebody&amp;#39;s pleasure" origin="lexin" date="2009-02-24">
+      <translation value="efter n&#xE5;gons behag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="322081-5" value="at his/her Majesty&amp;#39;s pleasure" origin="lexin" date="2009-02-24">
+      <translation value="efter Hans/Hennes H&#xF6;ghets gottfinnande/vilja, efter konungens/drottningens behag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="want" lang="en" class="nn" id="439911" origin="lexin" date="2009-02-24">
+    <translation id="439911-1" value="vilja" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="439911-2" value="ambition" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="want" lang="en" class="vb" id="439981" origin="lexin" date="2009-02-24">
+    <translation id="439981-1" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="439981-2" value="vilja ha" origin="lexin" date="2009-02-24"/>
+    <translation id="439981-3" value="&#xF6;nska" origin="lexin" date="2009-02-24"/>
+    <translation id="439981-4" value="&#xF6;nska sig" origin="lexin" date="2009-02-24"/>
+    <translation id="439981-5" value="beg&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="439981-6" value="s&#xF6;ka" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="will" lang="en" class="nn" id="444521" origin="lexin" date="2009-02-24">
+    <translation id="444521-1" value="vilja" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="will" lang="en" class="vb" id="444531" origin="lexin" date="2009-02-24">
+    <translation id="444531-1" value="vilja" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

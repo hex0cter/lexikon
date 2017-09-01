@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="205960" lang="sv" lexinid="20597" origin="lexin" value="vars">
+    <translation date="2011-03-03" id="20238" value="whose"/>
+    <use date="2011-03-03" value="genitiv"/>
+    <phonetic date="2011-03-03" soundFile="vars.swf" value="va:r+s (el. var+s:)"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vars||vars..1||vars..pn.1"/>
+    <example date="2011-03-03" id="11566" value="en person vars omd&#xF6;me jag litar p&#xE5;">
+      <translation value="a person whose judgement I trust"/>
+    </example>
+    <definition date="2011-03-03" id="19907" value="vilkens, vilkas">
+      <translation value="of things &amp;quot;of which&amp;quot;"/>
+    </definition>
+    <see date="2011-03-03" origin="lexin" type="compare" value="som"/>
+  </word>
+  <word value="whose" lang="en" class="pn" id="444061" origin="lexin" date="2009-02-24">
+    <translation id="444061-1" value="vems" origin="lexin" date="2009-02-24"/>
+    <translation id="444061-2" value="vilkens" origin="lexin" date="2009-02-24"/>
+    <translation id="444061-3" value="vars" origin="lexin" date="2009-02-24"/>
+    <translation id="444061-4" value="vilkas" origin="lexin" date="2009-02-24"/>
+    <example id="444061-5" value="Whose house is that?" origin="lexin" date="2009-02-24">
+      <translation value="Vems hus &#xE4;r det d&#xE4;r?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="fr&#xE5;gepronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="genitiv av who" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="whose" lang="en" class="pn" id="444071" origin="lexin" date="2009-02-24">
+    <translation id="444071-1" value="vems" origin="lexin" date="2009-02-24"/>
+    <translation id="444071-2" value="vilkens" origin="lexin" date="2009-02-24"/>
+    <translation id="444071-3" value="vars" origin="lexin" date="2009-02-24"/>
+    <translation id="444071-4" value="vilkas" origin="lexin" date="2009-02-24"/>
+    <example id="444071-5" value="Is this the person whose CV you gave me?" origin="lexin" date="2009-02-24">
+      <translation value="&#xC3;x83&#xC2;x84r det h&#xE4;r den person vars CV du gav mig?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="relativt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="genitiv av who" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

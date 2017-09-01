@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="val" lang="sv" class="nn" id="204520" lexinid="20453" origin="lexin" date="2011-03-03">
+    <translation id="20095" value="choice" date="2011-03-03"/>
+    <phonetic value="va:l" soundFile="val.swf" date="2011-03-03"/>
+    <paradigm id="17858" origin="lexin" date="2011-03-03">
+      <inflection value="valet"/>
+      <inflection value="val"/>
+      <inflection value="valen"/>
+    </paradigm>
+    <synonym value="option" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="val||val..1||val..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..2||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="val||val..3||val..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11484" value="ett sv&#xE5;rt val" date="2011-03-03">
+      <translation value="a difficult choice"/>
+    </example>
+    <idiom id="1755" value="vara i valet och kvalet (&amp;quot;ha sv&#xE5;rt att best&#xE4;mma sig&amp;quot;)" date="2011-03-03">
+      <translation value="be facing a difficult choice, be on the horns of a dilemma (&amp;quot;have difficulty in making up one&amp;#39;s mind&amp;quot;)"/>
+    </idiom>
+    <definition id="19778" value="det att v&#xE4;lja" date="2011-03-03"/>
+  </word>
+  <word value="val" lang="sv" class="nn" id="204530" lexinid="20454" origin="lexin" comment="p&#xE5; kandidat till befattning el. f&#xF6;rtroendepost" date="2011-03-03">
+    <translation id="20096" value="election" comment="by vote of candidates to an office or position of trust" date="2011-03-03"/>
+    <phonetic value="va:l" soundFile="val.swf" date="2011-03-03"/>
+    <paradigm id="17859" origin="lexin" date="2011-03-03">
+      <inflection value="valet"/>
+      <inflection value="val"/>
+      <inflection value="valen"/>
+    </paradigm>
+    <synonym value="r&#xF6;stning" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="val||val..1||val..nn.1" type="saldo" origin="saldo" date="2015-05-18T02:49:24"/>
+    <example id="11485" value="allm&#xE4;nna val" date="2011-03-03">
+      <translation value="general election"/>
+    </example>
+    <example id="11486" value="val av ordf&#xF6;rande" date="2011-03-03">
+      <translation value="election of chairman (president)"/>
+    </example>
+    <compound id="6700" value="val|beredning" date="2011-03-03">
+      <translation value="election committee"/>
+    </compound>
+    <compound id="6701" value="riksdagsval" date="2011-03-03">
+      <translation value="general election"/>
+    </compound>
+    <compound id="6702" value="val|hemlighet" date="2011-03-03">
+      <translation value="election secret"/>
+    </compound>
+    <compound id="6703" value="val|fusk" date="2011-03-03">
+      <translation value="electoral (ballot) rigging"/>
+    </compound>
+    <compound id="6704" value="kommunalval" date="2011-03-03">
+      <translation value="local government (municipal) election"/>
+    </compound>
+    <compound id="6705" value="nyval" date="2011-03-03">
+      <translation value="new election"/>
+    </compound>
+    <compound id="6706" value="val|kampanj" date="2011-03-03">
+      <translation value="election campaign"/>
+    </compound>
+    <definition id="19779" value="offentlig r&#xF6;stning" date="2011-03-03"/>
+  </word>
+  <word value="betj&#xE4;nt" lang="sv" class="nn" id="17510" lexinid="1751" origin="lexin" date="2011-03-03">
+    <translation id="17510-1706" value="valet" origin="user" date="2012-03-02T04:14:20"/>
+    <translation id="17510-1707" value="manservant" origin="user" date="2012-03-02T04:14:20"/>
+    <phonetic value="bec&#xE4;:nt" soundFile="betj&#xE4;nt.swf" date="2011-03-03"/>
+    <paradigm id="1513" origin="lexin" date="2011-03-03">
+      <inflection value="betj&#xE4;nten"/>
+      <inflection value="betj&#xE4;nter"/>
+    </paradigm>
+    <synonym value="passopp" level="4.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="uppassare" level="3.9" origin="synlex" date="2011-03-03"/>
+    <see value="betj&#xE4;nt||betj&#xE4;nt..1||betj&#xE4;nt..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="1705" value="uppassare anst&#xE4;lld hos person" date="2011-03-03">
+      <translation value="servant employed by a private person"/>
+    </definition>
+  </word>
+  <word value="valet" lang="en" class="nn" id="435231" origin="lexin" date="2009-02-24">
+    <translation id="435231-1" value="betj&#xE4;nt" origin="lexin" date="2009-02-24"/>
+    <translation id="435231-2" value="tj&#xE4;nare" origin="lexin" date="2009-02-24"/>
+    <translation id="435231-3" value="kammartj&#xE4;nare" origin="lexin" date="2009-02-24"/>
+    <explanation value="servant employed by a private person" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="valet" lang="en" class="nn" id="435241" origin="lexin" date="2009-02-24">
+    <translation id="435241-1" value="hotellvaktm&#xE4;stare" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="valet" lang="en" class="vb" id="435251" origin="lexin" date="2009-02-24">
+    <translation id="435251-1" value="passa upp p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="valet" lang="en" class="vb" id="435261" origin="lexin" date="2009-02-24">
+    <translation id="435261-1" value="tv&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <translation id="435261-2" value="tv&#xE4;tta bilar" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

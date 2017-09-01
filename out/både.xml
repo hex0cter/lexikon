@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="kn" date="2011-03-03" id="26200" lang="sv" lexinid="2620" origin="lexin" value="b&#xE5;de">
+    <translation date="2011-03-03" id="2585" value="both"/>
+    <use date="2011-03-03" value="endast tillsammans med &amp;quot;och&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="b&#xE5;de.swf" value="&#xB2;b&#xC5;:de"/>
+    <example date="2011-03-03" id="1572" value="b&#xE5;de det ena och det andra">
+      <translation value="both one thing and the other"/>
+    </example>
+    <example date="2011-03-03" id="1573" value="b&#xE5;de fram&#xE5;t och bak&#xE5;t">
+      <translation value="both backwards and forwards"/>
+    </example>
+    <definition date="2011-03-03" id="2533" value="inte bara ... (utan ocks&#xE5;)">
+      <translation value="not only ... (but also)"/>
+    </definition>
+  </word>
+  <word value="both" lang="en" class="kn" id="50951" origin="lexin" date="2009-02-24">
+    <translation id="50951-1" value="b&#xE5;de" origin="lexin" date="2009-02-24"/>
+    <idiom id="50951-2" value="both...and" origin="lexin" date="2009-02-24">
+      <translation value="b&#xE5;de...och, s&#xE5;v&#xE4;l...som" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="not only ... (but also)" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="either" lang="en" class="kn" id="152241" origin="lexin" date="2009-02-24">
+    <translation id="152241-1" value="antingen" origin="lexin" date="2009-02-24"/>
+    <translation id="152241-2" value="endera" origin="lexin" date="2009-02-24"/>
+    <translation id="152241-3" value="b&#xE5;de" origin="lexin" date="2009-02-24"/>
+    <translation id="152241-4" value="vare sig" origin="lexin" date="2009-02-24"/>
+    <translation id="152241-5" value="varken" origin="lexin" date="2009-02-24"/>
+    <example id="152241-6" value="either you or I" origin="lexin" date="2009-02-24">
+      <translation value="antingen du eller jag" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="partly" lang="en" class="kn" id="306451" origin="lexin" date="2009-02-24">
+    <translation id="306451-1" value="dels" origin="lexin" date="2009-02-24"/>
+    <translation id="306451-2" value="b&#xE5;de" origin="lexin" date="2009-02-24"/>
+    <idiom id="306451-3" value="partly...partly" origin="lexin" date="2009-02-24">
+      <translation value="dels...dels, b&#xE5;de...och" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="on the one hand... (on the other)" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

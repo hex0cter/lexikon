@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="100590" lang="sv" lexinid="10059" origin="lexin" value="liten">
+    <translation date="2011-03-03" id="9883" value="small"/>
+    <phonetic date="2011-03-03" soundFile="liten.swf" value="&#xB2;lI:ten"/>
+    <paradigm date="2011-03-03" id="8755" origin="lexin">
+      <inflection value="litet"/>
+      <inflection value="lilla"/>
+      <inflection value="mindre"/>
+      <inflection value="minst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="fjuttig"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="futtig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;ga"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="litet"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="mini"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="miniatyr"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="petit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="pytte"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sm&#xE5;"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sm&#xE5;v&#xE4;xt"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="sp&#xE4;d"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="subtil"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="liten||liten..1||liten..av.1"/>
+    <example date="2011-03-03" id="5476" value="ett litet antal">
+      <translation value="a small amount"/>
+    </example>
+    <example date="2011-03-03" id="5477" value="en liten summa">
+      <translation value="a small sum"/>
+    </example>
+    <example date="2011-03-03" id="5478" value="en liten flicka">
+      <translation value="a little girl"/>
+    </example>
+    <related origin="lexin" type="antonym" value="stor">
+      <translation date="2011-03-03" origin="lexin" value="large"/>
+    </related>
+    <definition date="2011-03-03" id="9690" value="obetydlig ifr&#xE5;ga om storlek, &#xE5;lder etc"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="100600" lang="sv" lexinid="10060" origin="lexin" value="liten">
+    <translation date="2011-03-03" id="9884" value="short"/>
+    <phonetic date="2011-03-03" soundFile="liten.swf" value="&#xB2;lI:ten"/>
+    <paradigm date="2011-03-03" id="8756" origin="lexin">
+      <inflection value="litet"/>
+      <inflection value="lilla"/>
+      <inflection value="mindre"/>
+      <inflection value="minst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="fjuttig"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="futtig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;ga"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="litet"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="mini"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="miniatyr"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="petit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="pytte"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sm&#xE5;"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sm&#xE5;v&#xE4;xt"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="sp&#xE4;d"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="subtil"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="liten||liten..1||liten..av.1"/>
+    <example date="2011-03-03" id="5479" value="en liten stund">
+      <translation value="a little while"/>
+    </example>
+    <related origin="lexin" type="antonym" value="l&#xE5;ng">
+      <translation date="2011-03-03" origin="lexin" value="long"/>
+    </related>
+    <definition date="2011-03-03" id="9691" value="kort"/>
+  </word>
+  <word value="minst" lang="sv" class="jj" id="110740" lexinid="11074" origin="lexin" date="2011-03-03">
+    <translation id="10880" value="least" comment="Brittish English" origin="user" date="2014-01-29T05:24:55"/>
+    <use value="superlativ" date="2011-03-03"/>
+    <phonetic value="min:st" soundFile="minst.swf" date="2011-03-03"/>
+    <paradigm id="9640" origin="lexin" date="2011-03-03">
+      <inflection value="minst"/>
+      <inflection value="minsta"/>
+    </paradigm>
+    <see value="liten" type="compare" origin="lexin" date="2011-03-03"/>
+    <example id="6006" value="inte p&#xE5; minsta s&#xE4;tt" date="2011-03-03">
+      <translation value="not in the least"/>
+    </example>
+    <example id="6007" value="jag &#xE4;r inte det minsta f&#xF6;rv&#xE5;nad" date="2011-03-03">
+      <translation value="I am not in the least surprised"/>
+    </example>
+    <example id="6008" value="han &#xE4;r minst i klassen" date="2011-03-03">
+      <translation value="he is the smallest one in his class"/>
+    </example>
+    <example id="6009" value="han klarade f&#xF6;rs&#xF6;ket med minsta m&#xF6;jliga marginal" date="2011-03-03">
+      <translation value="he made it by the smallest possible margin"/>
+    </example>
+    <definition id="10677" value="obetydligast (i l&#xE4;ngd, storlek etc)" date="2011-03-03"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="110750" lang="sv" lexinid="11075" origin="lexin" value="minst">
+    <translation date="2011-03-03" id="10881" value="least"/>
+    <phonetic date="2011-03-03" soundFile="minst.swf" value="min:st"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="minst||minst..1||minst..ab.1"/>
+    <example date="2011-03-03" id="6010" value="milj&#xF6;n &#xE4;r bra, inte minst f&#xF6;r barnen">
+      <translation value="these surroundings are favourable, especially for the children"/>
+    </example>
+    <example date="2011-03-03" id="6011" value="beslutet &#xE4;r minst sagt diskutabelt">
+      <translation value="the decision is debatable, to say the least"/>
+    </example>
+    <definition date="2011-03-03" id="10678" value="i ringaste utstr&#xE4;ckning"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="110760" lang="sv" lexinid="11076" origin="lexin" value="minst">
+    <translation date="2011-03-03" id="10882" value="at least"/>
+    <phonetic date="2011-03-03" soundFile="minst.swf" value="min:st"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="minst||minst..1||minst..ab.1"/>
+    <example date="2011-03-03" id="6012" value="jag sjunger minst lika bra som hon">
+      <translation value="I can sing just as well as she can"/>
+    </example>
+    <example date="2011-03-03" id="6013" value="boken kostar minst hundra kronor">
+      <translation value="this book costs at least a hundred kronor"/>
+    </example>
+    <definition date="2011-03-03" id="10679" value="&#xE5;tminstone"/>
+  </word>
+  <word value="fully" lang="en" class="ab" id="188151" origin="lexin" date="2009-02-24">
+    <translation id="188151-1" value="minst" origin="lexin" date="2009-02-24"/>
+    <example id="188151-2" value="it&amp;#39;s fully two hours since he called" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r minst tv&#xE5; timmar sedan han ringde" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="good" lang="en" class="jj" id="200931" origin="lexin" date="2009-02-24">
+    <translation id="200931-1" value="minst" origin="lexin" date="2009-02-24"/>
+    <translation id="200931-2" value="mer &#xE4;n" origin="lexin" date="2009-02-24"/>
+    <example id="200931-3" value="it&amp;#39;s a good two kilometres from here" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r minst tv&#xE5; kilometer h&#xE4;rifr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="least" lang="en" class="jj" id="252711" origin="lexin" date="2009-02-24">
+    <translation id="252711-1" value="minst" origin="lexin" date="2009-02-24"/>
+    <example id="252711-2" value="The least likely solution" origin="lexin" date="2009-02-24">
+      <translation value="Den minst troliga l&#xF6;sningen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="The smallest." origin="lexin" date="2009-02-24"/>
+    <grammar value="superlativ av little" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

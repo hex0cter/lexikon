@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="100590" lang="sv" lexinid="10059" origin="lexin" value="liten">
+    <translation date="2011-03-03" id="9883" value="small"/>
+    <phonetic date="2011-03-03" soundFile="liten.swf" value="&#xB2;lI:ten"/>
+    <paradigm date="2011-03-03" id="8755" origin="lexin">
+      <inflection value="litet"/>
+      <inflection value="lilla"/>
+      <inflection value="mindre"/>
+      <inflection value="minst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="fjuttig"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="futtig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;ga"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="litet"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="mini"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="miniatyr"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="petit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="pytte"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sm&#xE5;"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sm&#xE5;v&#xE4;xt"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="sp&#xE4;d"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="subtil"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="liten||liten..1||liten..av.1"/>
+    <example date="2011-03-03" id="5476" value="ett litet antal">
+      <translation value="a small amount"/>
+    </example>
+    <example date="2011-03-03" id="5477" value="en liten summa">
+      <translation value="a small sum"/>
+    </example>
+    <example date="2011-03-03" id="5478" value="en liten flicka">
+      <translation value="a little girl"/>
+    </example>
+    <related origin="lexin" type="antonym" value="stor">
+      <translation date="2011-03-03" origin="lexin" value="large"/>
+    </related>
+    <definition date="2011-03-03" id="9690" value="obetydlig ifr&#xE5;ga om storlek, &#xE5;lder etc"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="100600" lang="sv" lexinid="10060" origin="lexin" value="liten">
+    <translation date="2011-03-03" id="9884" value="short"/>
+    <phonetic date="2011-03-03" soundFile="liten.swf" value="&#xB2;lI:ten"/>
+    <paradigm date="2011-03-03" id="8756" origin="lexin">
+      <inflection value="litet"/>
+      <inflection value="lilla"/>
+      <inflection value="mindre"/>
+      <inflection value="minst"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="fjuttig"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="futtig"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="f&#xF6;ga"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="litet"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="mini"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="miniatyr"/>
+    <synonym date="2011-03-03" level="3.9" origin="synlex" value="petit"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="pytte"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="ringa"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sm&#xE5;"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="sm&#xE5;v&#xE4;xt"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="sp&#xE4;d"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="subtil"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="liten||liten..1||liten..av.1"/>
+    <example date="2011-03-03" id="5479" value="en liten stund">
+      <translation value="a little while"/>
+    </example>
+    <related origin="lexin" type="antonym" value="l&#xE5;ng">
+      <translation date="2011-03-03" origin="lexin" value="long"/>
+    </related>
+    <definition date="2011-03-03" id="9691" value="kort"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="110500" lang="sv" lexinid="11050" origin="lexin" value="mindre">
+    <translation date="2011-03-03" id="10856" value="smaller"/>
+    <use date="2011-03-03" value="komparativ"/>
+    <phonetic date="2011-03-03" soundFile="mindre.swf" value="mIn:dre"/>
+    <example date="2011-03-03" id="5985" value="han &#xE4;r mindre &#xE4;n sin bror">
+      <translation value="he is smaller than his brother"/>
+    </example>
+    <example date="2011-03-03" id="5986" value="ett mindre f&#xF6;retag">
+      <translation value="a small company"/>
+    </example>
+    <definition date="2011-03-03" id="10653" value="obetydligare (i storlek); t&#xE4;mligen liten"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="liten"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="110510" lang="sv" lexinid="11051" origin="lexin" value="mindre">
+    <translation date="2011-03-03" id="10857" value="less"/>
+    <use date="2011-03-03" value="komparativ"/>
+    <phonetic date="2011-03-03" soundFile="mindre.swf" value="mIn:dre"/>
+    <example date="2011-03-03" id="5987" value="prata mindre och handla mer!">
+      <translation value="less talk and more action!"/>
+    </example>
+    <example date="2011-03-03" id="5988" value="mer eller mindre tydligt">
+      <translation value="more or less clear"/>
+    </example>
+    <example date="2011-03-03" id="5989" value="p&#xE5; mindre &#xE4;n tio sekunder">
+      <translation value="in less than ten seconds"/>
+    </example>
+    <example date="2011-03-03" id="5990" value="priserna har h&#xF6;jts med inte mindre &#xE4;n tio procent">
+      <translation value="prices have gone up by no less than ten percent"/>
+    </example>
+    <definition date="2011-03-03" id="10654" value="inte s&#xE5; mycket, i l&#xE4;gre grad"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="litet"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="f&#xF6;ga"/>
+  </word>
+  <word value="less" lang="en" class="ab" id="254061" origin="lexin" date="2009-02-24">
+    <translation id="254061-1" value="mindre" comment="bildas med adjektiv och adverb" origin="lexin" date="2009-02-24"/>
+    <example id="254061-4" value="be less than" origin="lexin" date="2009-02-24">
+      <translation value="underskrida" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="254061-2" value="less and less" origin="lexin" date="2009-02-24">
+      <translation value="mer och mer s&#xE4;llan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="254061-3" value="much/still less" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;n mindre" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="less" lang="en" class="ab" id="254071" origin="lexin" date="2009-02-24">
+    <translation id="254071-1" value="mindre" comment="bildas med verb" origin="lexin" date="2009-02-24"/>
+    <example id="254071-2" value="the less said about it the better" origin="lexin" date="2009-02-24">
+      <translation value="ju mindre det pratas om saken, dess b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="254071-3" value="you work less and less, it seems" origin="lexin" date="2009-02-24">
+      <translation value="det verkar som om du arbetar mindre och mindre" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="minor" lang="en" class="jj" id="273971" origin="lexin" date="2009-02-24">
+    <translation id="273971-1" value="mindre" origin="lexin" date="2009-02-24"/>
+    <translation id="273971-2" value="sm&#xE4;rre" origin="lexin" date="2009-02-24"/>
+    <example id="273971-3" value="I only have a minor part in this new production" origin="lexin" date="2009-02-24">
+      <translation value="jag har bara en mindre roll i den h&#xE4;r nya produktionen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="273971-4" value="minor changes" origin="lexin" date="2009-02-24">
+      <translation value="sm&#xE4;rre f&#xF6;r&#xE4;ndringar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="st&#xF6;rre, mer omfattande" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="major" origin="lexin" date="2009-02-24"/>
+    </related>
+  </word>
+</definition>

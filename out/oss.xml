@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="oss" lang="sv" class="pn" id="126390" lexinid="12640" origin="lexin" date="2011-03-03">
+    <translation id="12413" value="us" date="2011-03-03"/>
+    <phonetic value="&#xE5;s:" soundFile="oss.swf" date="2011-03-03"/>
+    <see id="207530" value="vi" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="pn" comment="anger den talande plus en eller flera andra" date="2011-03-03" id="207530" lang="sv" lexinid="20754" origin="lexin" value="vi">
+    <translation date="2011-03-03" id="20389" value="we"/>
+    <use date="2011-03-03" value="plural till &amp;quot;jag&amp;quot;; b&#xF6;jd form anv&#xE4;nds som objekt och efter preposition"/>
+    <phonetic date="2011-03-03" soundFile="vi.swf" value="vi:"/>
+    <paradigm date="2011-03-03" id="18100" origin="lexin">
+      <inflection value="oss"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="vi||vi..1||vi..pn.1"/>
+    <example date="2011-03-03" id="11660" value="han har sett oss">
+      <translation value="he has seen us"/>
+    </example>
+    <example date="2011-03-03" id="11661" value="ska vi g&#xE5; nu?">
+      <translation value="shall we go now?"/>
+    </example>
+  </word>
+  <word value="ourselves" lang="en" class="pn" id="297971" origin="lexin" date="2009-02-24">
+    <translation id="297971-1" value="oss" origin="lexin" date="2009-02-24"/>
+    <example id="297971-2" value="we bought ourselves a summer house" origin="lexin" date="2009-02-24">
+      <translation value="vi har k&#xF6;pt ett sommarhus (&#xE5;t oss sj&#xE4;lva)" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="reflexivt pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="us" lang="en" class="pn" id="434421" origin="lexin" date="2009-02-24">
+    <translation id="434421-1" value="oss" origin="lexin" date="2009-02-24"/>
+    <grammar value="personligt pronomen" origin="lexin" date="2009-02-24"/>
+    <grammar value="objektsform av we" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="74860" lang="sv" lexinid="7486" origin="lexin" value="igenom">
+    <translation date="2011-03-03" id="7348" value="through"/>
+    <phonetic date="2011-03-03" soundFile="igenom.swf" value="ijE:n&#xE5;m"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="genom"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="via"/>
+    <see date="2011-03-03" origin="lexin" value="genom"/>
+  </word>
+  <word class="ab" date="2011-03-03" id="74870" lang="sv" lexinid="7487" origin="lexin" value="igenom">
+    <translation date="2011-03-03" id="7349" value="through"/>
+    <use date="2011-03-03" value="verbpartikel"/>
+    <phonetic date="2011-03-03" soundFile="igenom.swf" value="ijE:n&#xE5;m"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="genom"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="via"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="igenom||genom..3||igenom..ab.1"/>
+    <definition date="2011-03-03" id="7195" value="genom"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="g&#xE5; igenom"/>
+    <see date="2011-03-03" origin="lexin" type="compare" value="sl&#xE5; igenom"/>
+  </word>
+  <word value="through" lang="en" class="ab" id="429661" origin="lexin" date="2009-02-24">
+    <translation id="429661-1" value="igenom" origin="lexin" date="2009-02-24"/>
+    <example id="429661-2" value="The guard wouldn&amp;#39;t let me through." origin="lexin" date="2009-02-24">
+      <translation value="Vakten ville inte sl&#xE4;ppa igenom mig." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="from one end to the other" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="through" lang="en" class="pp" id="429671" origin="lexin" date="2009-02-24">
+    <translation id="429671-1" value="igenom" origin="lexin" date="2009-02-24"/>
+    <translation id="429671-2" value="fr&#xE5;n b&#xF6;rjan till slut" origin="lexin" date="2009-02-24"/>
+    <example id="429671-3" value="He slept all through the play." origin="lexin" date="2009-02-24">
+      <translation value="Han sov rakt igenom hela pj&#xE4;sen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="from the beginning to the end" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

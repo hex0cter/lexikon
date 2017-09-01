@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="jj" date="2011-03-03" id="41790" lang="sv" lexinid="4179" origin="lexin" value="faktisk">
+    <translation date="2011-03-03" id="4119" value="real"/>
+    <phonetic date="2011-03-03" soundFile="faktisk.swf" value="fAk:tisk"/>
+    <paradigm date="2011-03-03" id="3606" origin="lexin">
+      <inflection value="faktiskt"/>
+      <inflection value="faktiska"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="egentlig"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="real"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="reell"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="riktig"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="verklig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="faktisk||faktisk..1||faktisk..av.1"/>
+    <example date="2011-03-03" id="2457" value="den faktiska inneb&#xF6;rden i det som s&#xE4;gs">
+      <translation value="the real meaning of what is said"/>
+    </example>
+    <definition date="2011-03-03" id="4021" value="verklig">
+      <translation value="actual, factual"/>
+    </definition>
+  </word>
+  <word class="ab" date="2011-03-03" id="41800" lang="sv" lexinid="4180" origin="lexin" value="faktiskt">
+    <translation date="2011-03-03" id="4120" value="as a matter of fact"/>
+    <phonetic date="2011-03-03" soundFile="faktiskt.swf" value="fAk:tiskt"/>
+    <synonym date="2011-03-03" level="3.7" origin="synlex" value="minsann"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="rentav"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="riktig"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="sannerligen"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="verkligen"/>
+    <example date="2011-03-03" id="2458" value="det &#xE4;r faktiskt sant">
+      <translation value="as a matter of fact, it is true"/>
+    </example>
+    <definition date="2011-03-03" id="4022" value="verkligen, i sj&#xE4;lva verket">
+      <translation value="in fact, actually, really"/>
+    </definition>
+  </word>
+  <word value="actually" lang="en" class="ab" id="4301" origin="lexin" date="2009-02-24">
+    <translation id="4301-1" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-2" value="i sj&#xE4;lva verket" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="4301-4" value="verkligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244151" origin="lexin" date="2009-02-24">
+    <translation id="244151-1" value="helt enkelt" origin="lexin" date="2009-02-24"/>
+    <translation id="244151-2" value="faktiskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="really" lang="en" class="ab" id="347721" origin="lexin" date="2009-02-24">
+    <translation id="347721-1" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-2" value="sannerligen" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-3" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="347721-4" value="egentligen" origin="lexin" date="2009-02-24"/>
+    <idiom id="347721-5" value="not really" origin="lexin" date="2009-02-24">
+      <translation value="inte precis, inte direkt, egentligen inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="347721-6" value="really and truly" origin="lexin" date="2009-02-24">
+      <translation value="verkligen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="virtually" lang="en" class="ab" id="437671" origin="lexin" date="2009-02-24">
+    <translation id="437671-1" value="faktiskt" origin="lexin" date="2009-02-24"/>
+    <translation id="437671-2" value="verkligt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

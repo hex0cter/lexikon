@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" date="2011-03-03" id="207330" lang="sv" lexinid="20734" origin="lexin" value="veta">
+    <translation date="2011-03-03" id="20371" value="know"/>
+    <phonetic date="2011-03-03" soundFile="vet.swf" value="ve:t"/>
+    <paradigm date="2011-03-03" id="18082" origin="lexin">
+      <inflection value="visste"/>
+      <inflection value="vetat"/>
+      <inflection value="veta"/>
+      <inflection value="vet"/>
+      <inflection value="vet"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="kunna"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="k&#xE4;nna till"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="vara medveten om"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="veta||veta..1||veta..vb.1"/>
+    <example date="2011-03-03" id="11645" value="hon kom till Sverige utan att vi visste om det">
+      <translation value="she came to Sweden without our knowing about it"/>
+    </example>
+    <example date="2011-03-03" id="11646" value="vi fick veta att t&#xE5;get just hade g&#xE5;tt">
+      <translation value="we found out that the train had just gone"/>
+    </example>
+    <example date="2011-03-03" id="11647" value="jag vet inte n&#xE4;r hon kommer">
+      <translation value="I don&amp;#39;t know when she is coming"/>
+    </example>
+    <idiom date="2011-03-03" id="1796" value="vet hut! (&amp;quot;du borde sk&#xE4;mmas!&amp;quot;)">
+      <translation value="watch it!, none of your cheek! (&amp;quot;you should be ashamed of yourself!&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="20030" value="ha kunskap om, k&#xE4;nna till"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; (om) x/att+SATS; A &amp; + FR&#xC5;GESATS"/>
+  </word>
+  <word value="know" lang="en" class="vb" id="247581" origin="lexin" date="2009-02-24">
+    <translation id="247581-1" value="veta" origin="lexin" date="2009-02-24"/>
+    <translation id="247581-2" value="ha kunskap i" origin="lexin" date="2009-02-24"/>
+    <translation id="247581-3" value="k&#xE4;nna till" origin="lexin" date="2009-02-24"/>
+    <translation id="247581-4" value="ha reda p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="247581-5" value="veta av" origin="lexin" date="2009-02-24"/>
+    <paradigm id="247581-14" origin="lexin" date="2009-02-24">
+      <inflection value="knew" origin="lexin" date="2009-02-24"/>
+      <inflection value="known" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="247581-8" value="you never know" origin="lexin" date="2009-02-24">
+      <translation value="man kan aldrig veta" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247581-9" value="I wouldn&amp;#39;t know" origin="lexin" date="2009-02-24">
+      <translation value="(vardagligt) jag har ingen aning" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247581-10" value="not that I know of" origin="lexin" date="2009-02-24">
+      <translation value="inte s&#xE5; vitt jag vet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247581-11" value="I know what" origin="lexin" date="2009-02-24">
+      <translation value="jag har en id&#xE9;" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247581-12" value="let me know when you&amp;#39;re finished" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE4;g till mig n&#xE4;r du &#xE4;r klar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="247581-13" value="I know my own mind!" origin="lexin" date="2009-02-24">
+      <translation value="jag vet vad jag vill!" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="247581-6" value="not if I know it" origin="lexin" date="2009-02-24">
+      <translation value="inte s&#xE5; l&#xE4;nge jag f&#xE5;r ett ord med i spelet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="247581-7" value="before you know where you are" origin="lexin" date="2009-02-24">
+      <translation value="innan man vet ordet av" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt och intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="tell" lang="en" class="vb" id="415161" origin="lexin" date="2009-02-24">
+    <translation id="415161-1" value="avg&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="415161-2" value="skilja" origin="lexin" date="2009-02-24"/>
+    <translation id="415161-3" value="urskilja" origin="lexin" date="2009-02-24"/>
+    <translation id="415161-4" value="k&#xE4;nna igen" origin="lexin" date="2009-02-24"/>
+    <translation id="415161-5" value="veta" origin="lexin" date="2009-02-24"/>
+    <paradigm id="415161-7" origin="lexin" date="2009-02-24">
+      <inflection value="told" origin="lexin" date="2009-02-24"/>
+      <inflection value="told" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <idiom id="415161-6" value="you never can tell" origin="lexin" date="2009-02-24">
+      <translation value="man kan aldrig s&#xE5; noga veta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wit" lang="en" class="vb" id="445861" origin="lexin" date="2009-02-24">
+    <translation id="445861-1" value="veta" comment="&#xE5;lderdomligt" origin="lexin" date="2009-02-24"/>
+    <idiom id="445861-2" value="to wit" origin="lexin" date="2009-02-24">
+      <translation value="n&#xE4;mligen (gammaldags eller juridiskt)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+</definition>

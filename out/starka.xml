@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="stark" lang="sv" class="jj" id="172300" lexinid="17231" origin="lexin" comment="om levande varelser; bildligt &amp;quot;m&#xE4;ktig&amp;quot;" date="2011-03-03">
+    <translation id="16927" value="strong" comment="of living creatures; figuratively &amp;quot;powerful&amp;quot;" date="2011-03-03"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15047" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="markant" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="solid" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="strong" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..1||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9736" value="stark kyla" date="2011-03-03">
+      <translation value="severe cold"/>
+    </example>
+    <example id="9737" value="starka armar" date="2011-03-03">
+      <translation value="strong arms"/>
+    </example>
+    <example id="9738" value="stark regering" date="2011-03-03">
+      <translation value="strong government"/>
+    </example>
+    <related value="svag" type="antonym" origin="lexin">
+      <translation value="weak, mild" origin="lexin" date="2011-03-03"/>
+    </related>
+    <related value="mild" type="antonym" origin="lexin">
+      <translation value="" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="16672" value="som har stor styrka, kraftfull" date="2011-03-03"/>
+  </word>
+  <word value="stark" lang="sv" class="jj" id="172310" lexinid="17232" origin="lexin" date="2011-03-03">
+    <translation id="16928" value="strong" date="2011-03-03"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15048" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="markant" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="slagkraftig" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="strong" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..1||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="9739" value="stark ost" date="2011-03-03">
+      <translation value="strong cheese"/>
+    </example>
+    <example id="9740" value="starka drycker" date="2011-03-03">
+      <translation value="strong drinks"/>
+    </example>
+    <example id="9741" value="starkt kaffe" date="2011-03-03">
+      <translation value="strong coffee"/>
+    </example>
+    <definition id="16673" value="som intensivt p&#xE5;verkar sinnena" date="2011-03-03"/>
+  </word>
+  <word value="stark" lang="sv" class="jj" id="172320" lexinid="17233" origin="lexin" date="2011-03-03">
+    <translation id="172320-16675" value="lasting" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="172320-16676" value="durable" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="172320-16677" value="solid" origin="user" date="2012-02-02T00:55:08"/>
+    <phonetic value="star:k" soundFile="stark.swf" date="2011-03-03"/>
+    <paradigm id="15049" origin="lexin" date="2011-03-03">
+      <inflection value="starkt"/>
+      <inflection value="starka"/>
+    </paradigm>
+    <synonym value="h&#xE5;llfast" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="kraftfull" level="4.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="robust" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="stark||stark..2||stark..av.1" type="saldo" origin="saldo" date="2014-08-06T04:00:50"/>
+    <example id="9742" value="ett starkt tyg" date="2011-03-03">
+      <translation value="strong fabric"/>
+    </example>
+    <related value="&#xF6;mt&#xE5;lig" type="antonym" origin="lexin">
+      <translation value="fragile, brittle, perishable" origin="lexin" date="2011-03-03"/>
+    </related>
+    <definition id="16674" value="slitstark, h&#xE5;llbar" date="2011-03-03"/>
+  </word>
+</definition>

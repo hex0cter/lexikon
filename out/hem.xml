@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="68330" lang="sv" lexinid="6833" origin="lexin" value="hem">
+    <translation date="2011-03-03" id="6712" value="home"/>
+    <phonetic date="2011-03-03" soundFile="hem.swf" value="hem:"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="bo"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="boning"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="bostad"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="hush&#xE5;ll"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="lya"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="revir"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="hem||hem..2||hem..ab.1"/>
+    <example date="2011-03-03" id="4006" value="resa hem">
+      <translation value="go home"/>
+    </example>
+    <definition date="2011-03-03" id="6572" value="till sitt hem eller sin hemort">
+      <translation value="(go) to one&amp;#39;s home or place of origin"/>
+    </definition>
+  </word>
+  <word class="nn" comment="bildligt &amp;quot;familjegemenskap&amp;quot;" date="2011-03-03" id="68340" lang="sv" lexinid="6834" origin="lexin" value="hem">
+    <translation comment="figuratively &amp;quot;the spirit of togetherness within a family&amp;quot;" date="2011-03-03" id="6713" value="home"/>
+    <phonetic date="2011-03-03" soundFile="hem.swf" value="hem:"/>
+    <paradigm date="2011-03-03" id="5940" origin="lexin">
+      <inflection value="hemmet"/>
+      <inflection value="hem"/>
+      <inflection value="hemmen"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="bo"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="boning"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="bostad"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="hush&#xE5;ll"/>
+    <synonym date="2011-03-03" level="3.8" origin="synlex" value="lya"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="revir"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="hem||hem..1||hem..nn.1"/>
+    <example date="2011-03-03" id="4007" value="arbeta i hemmet">
+      <translation value="work at home, do home-based work"/>
+    </example>
+    <example date="2011-03-03" id="4008" value="han kommer fr&#xE5;n ett gott hem">
+      <translation value="he comes from a good family"/>
+    </example>
+    <compound date="2011-03-03" id="2488" value="f&#xF6;r&#xE4;ldrahem">
+      <translation value="parental home"/>
+    </compound>
+    <compound date="2011-03-03" id="2489" inflection="hem|arbetet" value="hem|arbete">
+      <translation value="housework"/>
+    </compound>
+    <definition date="2011-03-03" id="6573" value="st&#xE4;lle d&#xE4;r man bor, permanent bostad">
+      <translation value="the place where one lives, permanent accommodation"/>
+    </definition>
+  </word>
+  <word value="hem" lang="sv" class="nn" id="68350" lexinid="6835" origin="lexin" date="2011-03-03">
+    <translation id="68350-6575" value="house" origin="user" date="2012-01-23T00:35:22"/>
+    <translation id="68350-6576" value="home" origin="user" date="2012-01-23T00:35:22"/>
+    <phonetic value="hem:" soundFile="hem.swf" date="2011-03-03"/>
+    <paradigm id="5941" origin="lexin" date="2011-03-03">
+      <inflection value="hemmet"/>
+      <inflection value="hem"/>
+      <inflection value="hemmen"/>
+    </paradigm>
+    <synonym value="bo" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="boning" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="bostad" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="hush&#xE5;ll" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="lya" level="3.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="revir" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="hem||hem..1||hem..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="2490" value="v&#xE5;rdhem" date="2011-03-03">
+      <translation value="nursing home"/>
+    </compound>
+    <compound id="2491" value="daghem" date="2011-03-03">
+      <translation value="day nursery"/>
+    </compound>
+    <compound id="2492" value="vandrarhem" date="2011-03-03">
+      <translation value="youth hostel"/>
+    </compound>
+    <definition id="6574" value="institution som fungerar som bostad" date="2011-03-03">
+      <translation value="an institution or building serving as a home or as accommodation"/>
+    </definition>
+  </word>
+  <word value="habitation" lang="en" class="nn" id="209261" origin="lexin" date="2009-02-24">
+    <translation id="209261-1" value="boning" comment="formellt eller sk&#xE4;mtsamt" origin="lexin" date="2009-02-24"/>
+    <translation id="209261-2" value="hem" origin="lexin" date="2009-02-24"/>
+    <translation id="209261-3" value="bostad" origin="lexin" date="2009-02-24"/>
+    <explanation value="home, house" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="home" lang="en" class="nn" id="220671" origin="lexin" date="2009-02-24">
+    <translation id="220671-1" value="hem" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-2" value="hemvist" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-3" value="bostad" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-4" value="hemort" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-5" value="hembygd" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-6" value="hemland" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-7" value="villa" origin="lexin" date="2009-02-24"/>
+    <translation id="220671-8" value="hus" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="home" lang="en" class="nn" id="220721" origin="lexin" date="2009-02-24">
+    <translation id="220721-1" value="anstalt" origin="lexin" date="2009-02-24"/>
+    <translation id="220721-2" value="hem" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="place" lang="en" class="nn" id="319881" origin="lexin" date="2009-02-24">
+    <translation id="319881-1" value="hus" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-2" value="bostad" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-3" value="st&#xE4;lle" origin="lexin" date="2009-02-24"/>
+    <translation id="319881-4" value="hem" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="calligraphy" lang="en" id="473121" origin="user" date="2012-08-04T02:12:18">
+    <translation id="473121-1" value="kalligrafi" origin="user" date="2012-08-04T02:12:18"/>
+    <translation id="473121-1" value="calligrafi" origin="user" date="2013-09-17T01:24:53"/>
+    <translation id="473121-2" value="hem" origin="user" date="2016-03-16T03:57:58"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="51580" lang="sv" lexinid="5158" origin="lexin" value="f&#xE5;ll">
+    <translation date="2011-03-03" id="5076" value="hem"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;ll.swf" value="f&#xE5;l:"/>
+    <paradigm date="2011-03-03" id="4463" origin="lexin">
+      <inflection value="f&#xE5;llen"/>
+      <inflection value="f&#xE5;llar"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;ll||f&#xE5;ll..1||f&#xE5;ll..nn.1"/>
+    <compound date="2011-03-03" id="1823" value="kjolf&#xE5;ll">
+      <translation value="skirt hem"/>
+    </compound>
+    <definition date="2011-03-03" id="4977" value="invikt och tillsydd kant p&#xE5; tyg"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="51590" lang="sv" lexinid="5159" origin="lexin" value="f&#xE5;lla">
+    <translation date="2011-03-03" id="5077" value="hem"/>
+    <phonetic date="2011-03-03" soundFile="f&#xE5;llar.swf" value="&#xB2;f&#xC5;l:ar"/>
+    <paradigm date="2011-03-03" id="4464" origin="lexin">
+      <inflection value="f&#xE5;llade"/>
+      <inflection value="f&#xE5;llat"/>
+      <inflection value="f&#xE5;lla"/>
+      <inflection value="f&#xE5;llar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="box"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="inh&#xE4;gnad"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="f&#xE5;lla||f&#xE5;lla..1||f&#xE5;lla..vb.1"/>
+    <definition date="2011-03-03" id="4978" value="sy f&#xE5;ll p&#xE5;"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; x"/>
+  </word>
+</definition>

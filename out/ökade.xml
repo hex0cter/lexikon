@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="&#xF6;ka" lang="sv" class="vb" id="217600" lexinid="21761" origin="lexin" date="2011-03-03">
+    <translation id="217600-21020" value="increase" comment="American English" origin="user" date="2013-04-18T04:46:00"/>
+    <translation id="217600-21021" value="gain" origin="user" date="2012-01-14T23:15:23"/>
+    <translation id="217600-21022" value="grow" origin="user" date="2012-01-14T23:15:23"/>
+    <phonetic value="&#xB2;&#xD6;:kar" soundFile="&#xF6;kar.swf" date="2011-03-03"/>
+    <paradigm id="18951" origin="lexin" date="2011-03-03">
+      <inflection value="&#xF6;kade"/>
+      <inflection value="&#xF6;kat"/>
+      <inflection value="&#xF6;ka"/>
+      <inflection value="&#xF6;kar"/>
+    </paradigm>
+    <synonym value="accelerera" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rstora" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;ja" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;jning" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="intensifiera" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="stegra" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="stegring" level="3.7" origin="synlex" date="2011-03-03"/>
+    <synonym value="stiga" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillta" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tilltagande" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="utbreda" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="utvidga" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;xa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..1||&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..2||&#xF6;ka..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="12328" value="en snabbt &#xF6;kande brist p&#xE5; bost&#xE4;der" date="2011-03-03">
+      <translation value="a rapidly-growing shortage of housing"/>
+    </example>
+    <example id="12329" value="kostnaderna har &#xF6;kat med hundra procent" date="2011-03-03">
+      <translation value="costs have increased by one hundred per cent"/>
+    </example>
+    <definition id="21019" value="bli st&#xF6;rre, v&#xE4;xa, tillta" date="2011-03-03"/>
+    <grammar value="x &amp;" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="&#xF6;ka" lang="sv" class="vb" id="217610" lexinid="21762" origin="lexin" date="2011-03-03">
+    <translation id="21368" value="increase" date="2011-03-03"/>
+    <phonetic value="&#xB2;&#xD6;:kar" soundFile="&#xF6;kar.swf" date="2011-03-03"/>
+    <paradigm id="18952" origin="lexin" date="2011-03-03">
+      <inflection value="&#xF6;kade"/>
+      <inflection value="&#xF6;kat"/>
+      <inflection value="&#xF6;ka"/>
+      <inflection value="&#xF6;kar"/>
+    </paradigm>
+    <synonym value="eskalera" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rh&#xF6;ja" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="h&#xF6;ja" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="tillta" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="tilltagande" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="utvidga" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="vidga" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;xa" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..1||&#xF6;ka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="&#xF6;ka||&#xF6;ka..2||&#xF6;ka..vb.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="12330" value="&#xF6;ka produktionen" date="2011-03-03">
+      <translation value="increase production"/>
+    </example>
+    <example id="12331" value="han &#xF6;kade farten" date="2011-03-03">
+      <translation value="he increased speed"/>
+    </example>
+    <example id="12332" value="&#xF6;kade kunskaper" date="2011-03-03">
+      <translation value="increased knowledge, a higher level of knowledge"/>
+    </example>
+    <definition id="21020" value="g&#xF6;ra st&#xF6;rre, h&#xF6;ja" date="2011-03-03"/>
+    <grammar value="A &amp; x" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

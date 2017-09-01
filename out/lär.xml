@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="vb" comment="markerar ett obevisat p&#xE5;st&#xE5;ende" date="2011-03-03" id="104650" lang="sv" lexinid="10465" origin="lexin" value="l&#xE4;r">
+    <translation comment="denotes an unproven statement" date="2011-03-03" id="10278" value="be said to"/>
+    <use date="2011-03-03" value="endast presens"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE4;r.swf" value="l&#xE4;:r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE4;r||l&#xE4;r..1||l&#xE4;r..vb.1"/>
+    <example date="2011-03-03" id="5680" value="hon l&#xE4;r vara miljon&#xE4;r">
+      <translation value="she is said to be a millionaire"/>
+    </example>
+    <definition date="2011-03-03" id="10090" value="p&#xE5;st&#xE5;s, s&#xE4;gs"/>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp; + INF"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="104660" lang="sv" lexinid="10466" origin="lexin" value="l&#xE4;ra">
+    <translation date="2011-03-03" id="10279" value="teach"/>
+    <phonetic date="2011-03-03" soundFile="l&#xE4;r.swf" value="l&#xE4;:r"/>
+    <paradigm date="2011-03-03" id="9112" origin="lexin">
+      <inflection value="l&#xE4;rde"/>
+      <inflection value="l&#xE4;rt"/>
+      <inflection value="l&#xE4;r"/>
+      <inflection value="l&#xE4;ra"/>
+      <inflection value="l&#xE4;r"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="bilda"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="doktrin"/>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="inl&#xE4;ra"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="instruera"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="teori"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="utbilda"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="&#xF6;va in"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="l&#xE4;ra||l&#xE4;ra..1||l&#xE4;ra..vb.1"/>
+    <example date="2011-03-03" id="5681" value="l&#xE4;ra ut ett knep">
+      <translation value="teach the tricks of the trade"/>
+    </example>
+    <example date="2011-03-03" id="5682" value="l&#xE4;ra barnen att l&#xE4;sa">
+      <translation value="teach the children to read"/>
+    </example>
+    <definition date="2011-03-03" id="10091" value="undervisa, visa hur n&#xE5;got ska g&#xF6;ras"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; B x/ att + INF"/>
+  </word>
+  <word value="allopathic" lang="en" id="510151" origin="user" date="2013-07-18T03:48:56">
+    <translation id="510151-1" value="allopatisk" origin="user" date="2013-07-18T03:49:00"/>
+    <translation id="510151-2" value="l&#xE4;r" origin="user" date="2015-06-05T04:42:09"/>
+  </word>
+</definition>

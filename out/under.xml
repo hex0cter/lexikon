@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="under" lang="sv" class="pp" id="197060" lexinid="19707" origin="lexin" comment="&#xE4;ven bildligt om l&#xE4;gre niv&#xE5;, underordnad st&#xE4;llning etc" date="2011-03-03">
+    <translation id="197060-19061" value="beneath" origin="user" date="2012-01-26T00:06:45"/>
+    <translation id="197060-19062" value="under" origin="user" date="2012-01-26T00:06:45"/>
+    <translation id="197060-19063" value="below" origin="user" date="2012-01-26T00:06:45"/>
+    <phonetic value="Un:der" soundFile="under.swf" date="2011-03-03"/>
+    <synonym value="nedanf&#xF6;r" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="under||under..1||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="under||under..2||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11018" value="sitta under ett tr&#xE4;d" date="2011-03-03">
+      <translation value="sit under a tree"/>
+    </example>
+    <example id="11019" value="temperatur under noll" date="2011-03-03">
+      <translation value="temperature below zero"/>
+    </example>
+    <idiom id="1703" value="(betala) under bordet (&amp;quot;inofficiellt&amp;quot;)" date="2011-03-03">
+      <translation value="(pay) under the table (&amp;quot;unofficially&amp;quot;)"/>
+    </idiom>
+    <idiom id="1704" value="(sjunga) under ledning av (n&#xE5;gon) (&amp;quot;sjunga med n&#xE5;gon som dirigent&amp;quot;)" date="2011-03-03">
+      <translation value="(sing) under (someone) (&amp;quot;sing with someone as conductor&amp;quot;)"/>
+    </idiom>
+    <idiom id="1705" value="(f&#xE5; situationen) under kontroll (&amp;quot;f&#xE5; kontroll &#xF6;ver situationen&amp;quot;)" date="2011-03-03">
+      <translation value="(get the situation) under control"/>
+    </idiom>
+    <definition id="19060" value="i l&#xE4;ge nedanf&#xF6;r" date="2011-03-03">
+      <translation value="positioned below"/>
+    </definition>
+  </word>
+  <word value="under" lang="sv" class="pp" id="197070" lexinid="19708" origin="lexin" comment="dolt el. skymt" date="2011-03-03">
+    <translation id="197070-19062" value="beneath" origin="user" date="2012-02-25T16:22:15"/>
+    <translation id="197070-19063" value="under" origin="user" date="2012-02-25T16:22:15"/>
+    <phonetic value="Un:der" soundFile="under.swf" date="2011-03-03"/>
+    <see value="under||under..1||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="under||under..2||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11020" value="g&#xF6;mma n&#xE5;got under skjortan" date="2011-03-03">
+      <translation value="hide something under one&amp;#39;s shirt"/>
+    </example>
+    <definition id="19061" value="i l&#xE4;ge innanf&#xF6;r" date="2011-03-03">
+      <translation value="positioned inside"/>
+    </definition>
+  </word>
+  <word value="under" lang="sv" class="pp" id="197080" lexinid="19709" origin="lexin" date="2011-03-03">
+    <translation id="19357" value="during" date="2011-03-03"/>
+    <phonetic value="Un:der" soundFile="under.swf" date="2011-03-03"/>
+    <synonym value="mirakel" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="under||under..1||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="under||under..2||under..pp.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11021" value="under dagen" date="2011-03-03">
+      <translation value="during the day"/>
+    </example>
+    <example id="11022" value="under f&#xF6;rra &#xE5;ret" date="2011-03-03">
+      <translation value="(during) last year"/>
+    </example>
+    <example id="11023" value="under kriget" date="2011-03-03">
+      <translation value="during the war"/>
+    </example>
+    <idiom id="1706" value="(jag stannar h&#xE4;r) under tiden (&amp;quot;medan n&#xE5;got annat sker&amp;quot;)" date="2011-03-03">
+      <translation value="(I&amp;#39;ll stay here) meanwhile (&amp;quot;while something else takes place&amp;quot;)"/>
+    </idiom>
+    <definition id="19062" value="medan n&#xE5;got varar" date="2011-03-03"/>
+  </word>
+  <word value="under" lang="sv" class="pp" id="197090" lexinid="19710" origin="lexin" comment="om omst&#xE4;ndigheterna kring n&#xE5;got som sker" date="2011-03-03">
+    <translation id="19358" value="under, in" comment="of the circumstances surrounding something that is taking place" date="2011-03-03"/>
+    <phonetic value="Un:der" soundFile="under.swf" date="2011-03-03"/>
+    <synonym value="mirakel" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="nedanf&#xF6;r" level="3.3" origin="synlex" date="2011-03-03"/>
+    <see value="under||under..1||under..pp.1" type="saldo" origin="saldo" date="2015-01-14T01:47:08"/>
+    <example id="11024" value="f&#xF6;rhandla under hot" date="2011-03-03">
+      <translation value="negotiate under pressure"/>
+    </example>
+    <example id="11025" value="arbeta under tystnad" date="2011-03-03">
+      <translation value="work in silence"/>
+    </example>
+  </word>
+  <word class="nn" date="2011-03-03" id="197100" lang="sv" lexinid="19711" origin="lexin" value="under">
+    <translation date="2011-03-03" id="19359" value="wonder"/>
+    <phonetic date="2011-03-03" soundFile="under.swf" value="Un:der"/>
+    <paradigm date="2011-03-03" id="17234" origin="lexin">
+      <inflection value="undret"/>
+      <inflection value="under"/>
+      <inflection value="undren"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="mirakel"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="nedanf&#xF6;r"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="under||under..3||under..nn.1"/>
+    <definition date="2011-03-03" id="19063" value="m&#xE4;rklig h&#xE4;ndelse, mirakel">
+      <translation value="marvel, miracle"/>
+    </definition>
+  </word>
+  <word value="below" lang="en" class="ab, pp" id="38941" origin="lexin" date="2009-02-24">
+    <translation id="38941-1" value="nedanf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="38941-2" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="38941-3" value="nedan" origin="lexin" date="2009-02-24"/>
+    <translation id="38941-4" value="inunder" origin="lexin" date="2009-02-24"/>
+    <example id="38941-5" value="from below" origin="lexin" date="2009-02-24">
+      <translation value="nerifr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="l&#xE4;ngre ner, i det f&#xF6;ljande" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="below" lang="en" class="pp, ab" id="38951" origin="lexin" date="2009-02-24">
+    <translation id="38951-1" value="nedanf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="38951-2" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="38951-3" value="nedan" origin="lexin" date="2009-02-24"/>
+    <translation id="38951-4" value="inunder" origin="lexin" date="2009-02-24"/>
+    <example id="38951-5" value="from below" origin="lexin" date="2009-02-24">
+      <translation value="nerifr&#xE5;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="38951-6" value="the figure is below the current standard" origin="lexin" date="2009-02-24">
+      <translation value="siffran understiger den g&#xE4;llande normen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="beneath" lang="en" class="pp" id="39321" origin="lexin" date="2009-02-24">
+    <translation id="39321-1" value="nedanf&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="39321-2" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="39321-3" value="nedan" origin="lexin" date="2009-02-24"/>
+    <example id="39321-4" value="he is beneath contempt" origin="lexin" date="2009-02-24">
+      <translation value="han &#xE4;r under all kritik" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="positioned inside" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="by" lang="en" class="pp" id="62651" origin="lexin" date="2009-02-24">
+    <translation id="62651-1" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="62651-2" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="62651-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <example id="62651-4" value="I mostly work by day" origin="lexin" date="2009-02-24">
+      <translation value="jag arbetar oftast p&#xE5; dagen (dagtid)" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="during" lang="en" class="pp" id="148421" origin="lexin" date="2009-02-24">
+    <translation id="148421-1" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="148421-2" value="under loppet av" origin="lexin" date="2009-02-24"/>
+    <example id="148421-3" value="It had rained during the night" origin="lexin" date="2009-02-24">
+      <translation value="Det hade regnat under natten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="between the beginning and the end of a period or event" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="in" lang="en" class="pp" id="228671" origin="lexin" date="2009-02-24">
+    <translation id="228671-1" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="228671-2" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="228671-3" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="228671-4" value="under" comment="som anger tillst&#xE5;nd och dylikt" origin="lexin" date="2009-02-24"/>
+    <example id="228671-8" value="I lived in poverty for a long time" origin="lexin" date="2009-02-24">
+      <translation value="jag levde mycket fattigt under en l&#xE5;ng tid" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="228671-9" value="work in silence" origin="lexin" date="2009-02-24">
+      <translation value="arbeta under tystnad" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="228671-5" value="be in tears" origin="lexin" date="2009-02-24">
+      <translation value="gr&#xE5;ta" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228671-6" value="be in a bad/good mood" origin="lexin" date="2009-02-24">
+      <translation value="var p&#xE5; d&#xE5;ligt/gott hum&#xF6;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228671-7" value="fall in love" origin="lexin" date="2009-02-24">
+      <translation value="bli k&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="in" lang="en" class="pp" id="228751" origin="lexin" date="2009-02-24">
+    <translation id="228751-1" value="i" origin="lexin" date="2009-02-24"/>
+    <translation id="228751-2" value="under" comment="som uttrycker tidspunkt" origin="lexin" date="2009-02-24"/>
+    <example id="228751-7" value="I believe we met in 1975 for the first time" origin="lexin" date="2009-02-24">
+      <translation value="jag har f&#xF6;r mig att f&#xF6;rsta g&#xE5;ngen vi tr&#xE4;ffades var 1975" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="228751-8" value="in the night" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; natten" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="228751-3" value="in the autumn (brittisk engelska)/fall (amerikansk engelska)/spring/summer/winter" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; h&#xF6;sten/v&#xE5;ren/sommaren/vintern" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228751-4" value="in the course of" origin="lexin" date="2009-02-24">
+      <translation value="under loppet av" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228751-5" value="in the long term" origin="lexin" date="2009-02-24">
+      <translation value="p&#xE5; l&#xE5;ng sikt" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="228751-6" value="be in the process of happening" origin="lexin" date="2009-02-24">
+      <translation value="vara p&#xE5; g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="in" lang="en" class="pp" id="228901" origin="lexin" date="2009-02-24">
+    <translation id="228901-1" value="p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="228901-2" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="228901-3" value="she hasn&amp;#39;t had a haircut in six months" origin="lexin" date="2009-02-24">
+      <translation value="hon har inte varit och klippt sig p&#xE5; ett halv&#xE5;r" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="ofta i negativa satser" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="miracle" lang="en" class="nn" id="274141" origin="lexin" date="2009-02-24">
+    <translation id="274141-1" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="274141-2" value="Christ worked many miracles" origin="lexin" date="2009-02-24">
+      <translation value="Kristus utf&#xF6;rde m&#xE5;nga under" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="on" lang="en" class="pp" id="294201" origin="lexin" date="2009-02-24">
+    <translation id="294201-1" value="p&#xE5;" comment="i tidsuttryck" origin="lexin" date="2009-02-24"/>
+    <translation id="294201-2" value="om" origin="lexin" date="2009-02-24"/>
+    <translation id="294201-3" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="294201-4" value="on May 1" origin="lexin" date="2009-02-24">
+      <translation value="den 1 maj" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="over" lang="en" class="pp" id="300001" origin="lexin" date="2009-02-24">
+    <translation id="300001-1" value="&#xF6;ver" origin="lexin" date="2009-02-24"/>
+    <translation id="300001-2" value="under" comment="om tidsperiod" origin="lexin" date="2009-02-24"/>
+    <example id="300001-3" value="I&amp;#39;ll have to study over the holidays" origin="lexin" date="2009-02-24">
+      <translation value="jag m&#xE5;ste plugga under lovet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="under" lang="en" class="pp" id="431301" origin="lexin" date="2009-02-24">
+    <translation id="431301-1" value="i enlighet med" origin="lexin" date="2009-02-24"/>
+    <translation id="431301-2" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="431301-3" value="Under the terms of the agreement." origin="lexin" date="2009-02-24">
+      <translation value="I enlighet med avtalet." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="According to." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="under" lang="en" class="pp" id="431311" origin="lexin" date="2009-02-24">
+    <translation id="431311-1" value="under" origin="lexin" date="2009-02-24"/>
+    <example id="431311-2" value="America under Bush." origin="lexin" date="2009-02-24">
+      <translation value="Amerika under Bush." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="During the rule of." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="under" lang="en" class="pp" id="431321" origin="lexin" date="2009-02-24">
+    <translation id="431321-1" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="431321-2" value="mindre &#xE4;n" origin="lexin" date="2009-02-24"/>
+    <translation id="431321-3" value="yngre &#xE4;n" origin="lexin" date="2009-02-24"/>
+    <example id="431321-4" value="No children under 12." origin="lexin" date="2009-02-24">
+      <translation value="Inga barn under 12 &#xE5;r." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="431321-5" value="The temperature was under 20 F." origin="lexin" date="2009-02-24">
+      <translation value="Temperaturen var under 20 grader Fahrenheit." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Less than." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="under" lang="en" class="pp" id="431331" origin="lexin" date="2009-02-24">
+    <translation id="431331-1" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="431331-2" value="ofta bildligt" origin="lexin" date="2009-02-24"/>
+    <example id="431331-3" value="The cat was under the bed." origin="lexin" date="2009-02-24">
+      <translation value="Katten var under s&#xE4;ngen." origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="431331-4" value="I study under professor Jones." origin="lexin" date="2009-02-24">
+      <translation value="Jag studerar under professor Jones." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="At a lower level or position. Often used figuratively" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="underneath" lang="en" class="ab" id="431601" origin="lexin" date="2009-02-24">
+    <translation id="431601-1" value="p&#xE5; undersidan" origin="lexin" date="2009-02-24"/>
+    <translation id="431601-2" value="undertill" origin="lexin" date="2009-02-24"/>
+    <translation id="431601-3" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="431601-4" value="under ytan" comment="bildligt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="underneath" lang="en" class="pp" id="431611" origin="lexin" date="2009-02-24">
+    <translation id="431611-1" value="under" origin="lexin" date="2009-02-24"/>
+    <translation id="431611-2" value="p&#xE5; undersidan av" origin="lexin" date="2009-02-24"/>
+    <translation id="431611-3" value="nedanf&#xF6;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wonder" lang="en" class="nn" id="446421" origin="lexin" date="2009-02-24">
+    <translation id="446421-1" value="under" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="peatlands" lang="en" class="nn" id="458431" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="458431-1" value="under" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+  <word value="sub" lang="en" class="nn" id="461321" origin="gen" date="2011-12-31T12:00:00">
+    <translation id="461321-1" value="under" origin="gen" date="2011-12-31T12:00:00"/>
+  </word>
+</definition>

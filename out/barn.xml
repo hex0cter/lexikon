@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="barn" lang="sv" class="nn" id="12580" lexinid="1258" origin="lexin" date="2011-03-03">
+    <translation id="1242" value="child" date="2011-03-03"/>
+    <translation id="12580-1222" value="kid" origin="user" date="2013-05-20T03:29:58"/>
+    <translation id="12580-1222" value="kid" comment="English English" origin="user" date="2014-03-04T03:04:56"/>
+    <phonetic value="ba:r+n" soundFile="barn.swf" date="2011-03-03"/>
+    <paradigm id="1059" origin="lexin" date="2011-03-03">
+      <inflection value="barnet"/>
+      <inflection value="barn"/>
+      <inflection value="barnen"/>
+    </paradigm>
+    <synonym value="kidsen" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="ungar" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="unge" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="barn||barn..1||barn..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="barn||barn..2||barn..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="789" value="passa barn" date="2011-03-03">
+      <translation value="look after (mind) children"/>
+    </example>
+    <example id="790" value="bli med barn" date="2011-03-03">
+      <translation value="become pregnant"/>
+    </example>
+    <compound id="416" value="barnledig" date="2011-03-03">
+      <translation value="to be on maternity (paternity) leav"/>
+    </compound>
+    <compound id="417" value="barnv&#xE4;nlig" date="2011-03-03">
+      <translation value="suitable for children"/>
+    </compound>
+    <compound id="418" value="&#xE4;lsklingsbarn" date="2011-03-03">
+      <translation value="favourite child"/>
+    </compound>
+    <compound id="419" value="barnmisshandel" date="2011-03-03">
+      <translation value="child abuse"/>
+    </compound>
+    <compound id="420" value="barn|hem" date="2011-03-03">
+      <translation value="children&amp;#39;s home, orphanage"/>
+    </compound>
+    <compound id="421" value="barna|rov" date="2011-03-03">
+      <translation value="kidnapping"/>
+    </compound>
+    <compound id="422" value="barn|bok" date="2011-03-03">
+      <translation value="children&amp;#39;s book"/>
+    </compound>
+    <definition id="1221" value="en ung m&#xE4;nniska fr&#xE5;n f&#xF6;dseln och n&#xE5;got tiotal &#xE5;r fram&#xE5;t; en persons son eller dotter" date="2011-03-03">
+      <translation value="young person, esp. between infancy and youth; sby&amp;#39;s son or daughter"/>
+    </definition>
+    <url value="1/familj.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <url value="8/barn.swf" type="any" origin="lexin" date="2011-03-03"/>
+    <url value="2/maenniska.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="baby" lang="en" class="nn" id="26901" origin="lexin" date="2009-02-24">
+    <translation id="26901-1" value="baby" origin="lexin" date="2009-02-24"/>
+    <translation id="26901-2" value="bebis" origin="lexin" date="2009-02-24"/>
+    <translation id="26901-3" value="barn" origin="lexin" date="2009-02-24"/>
+    <translation id="26901-4" value="sp&#xE4;dbarn" origin="lexin" date="2009-02-24"/>
+    <translation id="26901-5" value="dibarn" origin="lexin" date="2009-02-24"/>
+    <translation id="26901-6" value="unge" origin="lexin" date="2009-02-24"/>
+    <idiom id="26901-7" value="be expecting a baby" origin="lexin" date="2009-02-24">
+      <translation value="vara havande, vara med barn" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="26901-8" value="be somebody&amp;#39;s baby" origin="lexin" date="2009-02-24">
+      <translation value="vara n&#xE5;gons sk&#xF6;tebarn, vara n&#xE5;gons ansvar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="26901-9" value="have a baby" origin="lexin" date="2009-02-24">
+      <translation value="f&#xE5; barn, f&#xF6;da barn" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="26901-10" value="leave somebody holding the baby" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) l&#xE4;mna n&#xE5;gon i sticket" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="26901-11" value="nearly have a baby" origin="lexin" date="2009-02-24">
+      <translation value="(informellt) h&#xE5;lla p&#xE5; att f&#xE5; slag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="26901-12" value="throw the baby out with the bath water" origin="lexin" date="2009-02-24">
+      <translation value="kasta ut barnet med badvattnet, g&#xF6;ra sig av med det &#xF6;nskv&#xE4;rda tillsammans med det o&#xF6;nskade" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="child" lang="en" class="nn" id="76561" origin="lexin" date="2009-02-24">
+    <translation id="76561-1" value="barn" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="76561-2" origin="lexin" date="2009-02-24">
+      <inflection value="children" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="child" lang="en" class="nn" id="76571" origin="lexin" date="2009-02-24">
+    <translation id="76571-1" value="barn" origin="lexin" date="2009-02-24"/>
+    <translation id="76571-2" value="barnslig person" origin="lexin" date="2009-02-24"/>
+    <paradigm id="76571-3" origin="lexin" date="2009-02-24">
+      <inflection value="children" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+  </word>
+  <word value="child" lang="en" class="nn" id="76581" origin="lexin" date="2009-02-24">
+    <translation id="76581-1" value="barn" origin="lexin" date="2009-02-24"/>
+    <translation id="76581-2" value="son" origin="lexin" date="2009-02-24"/>
+    <translation id="76581-3" value="dotter" origin="lexin" date="2009-02-24"/>
+    <translation id="76581-4" value="unge" origin="lexin" date="2009-02-24"/>
+    <paradigm id="76581-8" origin="lexin" date="2009-02-24">
+      <inflection value="children" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <idiom id="76581-5" value="child&amp;#39;s play" origin="lexin" date="2009-02-24">
+      <translation value="barnlek, enkel match" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="76581-6" value="children should be seen not heard" origin="lexin" date="2009-02-24">
+      <translation value="barn ska ses men inte h&#xF6;ras" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="76581-7" value="spare the rod and spoil the child" origin="lexin" date="2009-02-24">
+      <translation value="(ungef&#xE4;r) om man spar p&#xE5; riset, f&#xF6;rd&#xE4;rvar man barnet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="young person, esp. between infancy and youth; sby&amp;#39;s son or daughter" origin="lexin" date="2009-02-24">
+      <translation value="en ung m&#xE4;nniska fr&#xE5;n f&#xF6;dseln och n&#xE5;got tiotal &#xE5;r fram&#xE5;t; en persons son eller dotter" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="family" lang="en" class="nn" id="169791" origin="lexin" date="2009-02-24">
+    <translation id="169791-1" value="barn" origin="lexin" date="2009-02-24"/>
+    <paradigm id="169791-5" origin="lexin" date="2009-02-24">
+      <inflection value="families" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="169791-4" value="I don&amp;#39;t have any family" origin="lexin" date="2009-02-24">
+      <translation value="jag har inga barn" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="169791-2" value="be in the family way" origin="lexin" date="2009-02-24">
+      <translation value="vara gravid (gammaldags; eufemism)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="169791-3" value="start a family" origin="lexin" date="2009-02-24">
+      <translation value="skaffa barn" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="infant" lang="en" class="nn" id="232101" origin="lexin" date="2009-02-24">
+    <translation id="232101-1" value="barn" comment="brittisk engelska; skolv&#xE4;sende; mellan 4 och 8 &#xE5;r, oftast 7 &#xE5;r" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="kid" lang="en" class="nn" id="245471" origin="lexin" date="2009-02-24">
+    <translation id="245471-1" value="barn" comment="vardagligt" origin="lexin" date="2009-02-24"/>
+    <translation id="245471-2" value="unge" origin="lexin" date="2009-02-24"/>
+    <translation id="245471-3" value="kille" origin="lexin" date="2009-02-24"/>
+    <translation id="245471-4" value="tjej" origin="lexin" date="2009-02-24"/>
+    <translation id="245471-5" value="ungdom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="offspring" lang="en" class="nn" id="293441" origin="lexin" date="2009-02-24">
+    <translation id="293441-1" value="&#xE4;ttling" origin="lexin" date="2009-02-24"/>
+    <translation id="293441-2" value="barn" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="wean" lang="en" class="nn" id="441551" origin="lexin" date="2009-02-24">
+    <translation id="441551-1" value="barn" comment="i Skottland" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="correcting" lang="en" id="489691" origin="user" date="2012-12-18T03:50:05">
+    <translation id="489691-1" value="barn" origin="user" date="2012-12-18T03:50:05"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="97380" lang="sv" lexinid="9738" origin="lexin" value="lada">
+    <translation date="2011-03-03" id="9566" value="barn"/>
+    <phonetic date="2011-03-03" soundFile="lada.swf" value="&#xB2;lA:da"/>
+    <paradigm date="2011-03-03" id="8466" origin="lexin">
+      <inflection value="ladan"/>
+      <inflection value="lador"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="ladug&#xE5;rd"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="lada||lada..1||lada..nn.1"/>
+    <definition date="2011-03-03" id="9383" value="byggnad d&#xE4;r man f&#xF6;rvarar h&#xF6; och halm etc"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="27/bondgaard.swf"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="97470" lang="sv" lexinid="9747" origin="lexin" value="ladu|g&#xE5;rd">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="lag&#xE5;rd"/>
+    <translation date="2011-03-03" id="9575" value="barn"/>
+    <phonetic date="2011-03-03" soundFile="ladug&#xE5;rd.swf" value="&#xB2;lA:dug&#xE5;:r+d"/>
+    <paradigm date="2011-03-03" id="8474" origin="lexin">
+      <inflection value="ladug&#xE5;rden"/>
+      <inflection value="ladug&#xE5;rdar"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.3" origin="synlex" value="lada"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="ladug&#xE5;rd||ladug&#xE5;rd..1||ladug&#xE5;rd..nn.1"/>
+    <definition date="2011-03-03" id="9391" value="byggnad f&#xF6;r kor (p&#xE5; en lantg&#xE5;rd)"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="27/bondgaard.swf"/>
+  </word>
+  <word class="" date="2011-03-03" id="97770" lang="sv" lexinid="9777" origin="lexin" value="lag&#xE5;rd">
+    <translation date="2011-03-03" id="9603" value="barn"/>
+    <phonetic date="2011-03-03" soundFile="lag&#xE5;rd.swf" value="lA:g&#xE5;:r+d"/>
+    <paradigm date="2011-03-03" id="8500" origin="lexin">
+      <inflection value="lag&#xE5;rden"/>
+      <inflection value="lag&#xE5;rdar"/>
+    </paradigm>
+    <see date="2011-03-03" id="97470" origin="lexin" value="ladug&#xE5;rd"/>
+  </word>
+  <word value="loge" lang="sv" class="nn" id="101360" lexinid="10136" origin="lexin" comment="om &#xE4;ldre f&#xF6;rh&#xE5;llanden" date="2011-03-03">
+    <translation id="9953" value="barn" comment="historical" date="2011-03-03"/>
+    <phonetic value="&#xB2;lO:ge" soundFile="loge.swf" date="2011-03-03"/>
+    <paradigm id="8819" origin="lexin" date="2011-03-03">
+      <inflection value="logen"/>
+      <inflection value="logar"/>
+    </paradigm>
+    <see value="loge||loge..1||loge..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="loge||loge..2||loge..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="loge||loge..3||loge..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="9762" value="utrymme i en ladug&#xE5;rd f&#xF6;r otr&#xF6;skad s&#xE4;d" date="2011-03-03"/>
+  </word>
+  <word value="barn" lang="en" id="472371" origin="user" date="2012-07-21T03:41:04">
+    <translation id="472371-1" value="Lada" origin="user" date="2012-07-21T03:41:04"/>
+  </word>
+</definition>

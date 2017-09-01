@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ocks&#xE5;" lang="sv" class="ab" id="121470" lexinid="12148" origin="lexin" date="2011-03-03">
+    <translation id="121470-11697" value="too" origin="user" date="2012-01-26T00:06:46"/>
+    <translation id="121470-11698" value="also" origin="user" date="2012-01-26T00:06:46"/>
+    <phonetic value="&#xB2;&#xC5;k:s&#xE5;" soundFile="ocks&#xE5;.swf" date="2011-03-03"/>
+    <synonym value="likas&#xE5;" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="samt" level="3.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xE4;ven" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="ocks&#xE5;||ocks&#xE5;..1||ocks&#xE5;..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="6689" value="inte bara jag utan ocks&#xE5; min fru spelar fiol" date="2011-03-03">
+      <translation value="I play the violin and my wife does as well"/>
+    </example>
+    <example id="6690" value="jag spelar fiol ocks&#xE5;" date="2011-03-03">
+      <translation value="I play the violin as well"/>
+    </example>
+    <example id="6691" value="jag ska ocks&#xE5; g&#xE5; nu" date="2011-03-03">
+      <translation value="I, too, will go out now"/>
+    </example>
+    <definition id="11696" value="&#xE4;ven, dessutom" date="2011-03-03"/>
+  </word>
+  <word value="also" lang="en" class="ab" id="11171" origin="lexin" date="2009-02-24">
+    <translation id="11171-1" value="&#xE4;ven" origin="lexin" date="2009-02-24"/>
+    <translation id="11171-2" value="ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="11171-3" value="likas&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="11171-4" value="dessutom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="too" lang="en" class="ab" id="421611" origin="lexin" date="2009-02-24">
+    <translation id="421611-1" value="ocks&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="421611-2" value="med" origin="lexin" date="2009-02-24"/>
+    <translation id="421611-3" value="&#xE4;ven" origin="lexin" date="2009-02-24"/>
+    <translation id="421611-4" value="dessutom" origin="lexin" date="2009-02-24"/>
+    <translation id="421611-5" value="d&#xE4;rj&#xE4;mte" origin="lexin" date="2009-02-24"/>
+    <translation id="421611-6" value="d&#xE4;rtill" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="blacklisting" lang="en" id="505681" origin="user" date="2013-05-18T01:43:22">
+    <translation id="505681-1" value="svartlistning" origin="user" date="2013-05-18T01:43:26"/>
+    <translation id="505681-1" value="svartlista" origin="user" date="2013-09-24T02:28:32"/>
+    <translation id="505681-1" value="Svartlistad" origin="user" date="2014-02-04T04:52:53"/>
+    <translation id="505681-2" value="ocks&#xE5;" origin="user" date="2016-07-25T04:20:27"/>
+  </word>
+</definition>

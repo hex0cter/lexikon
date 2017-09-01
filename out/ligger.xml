@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="ligga" lang="sv" class="vb" id="99820" lexinid="9982" origin="lexin" comment="f&#xF6;rsvagat &amp;quot;finnas&amp;quot;" date="2011-03-03">
+    <translation id="9806" value="lie" comment="down-toned, &amp;quot;be situated&amp;quot;" date="2011-03-03"/>
+    <phonetic value="lIg:er" soundFile="ligger.swf" date="2011-03-03"/>
+    <paradigm id="8688" origin="lexin" date="2011-03-03">
+      <inflection value="l&#xE5;g"/>
+      <inflection value="legat"/>
+      <inflection value="ligg"/>
+      <inflection value="ligga"/>
+      <inflection value="ligger"/>
+    </paradigm>
+    <see value="ligga||ligga..1||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligga||ligga..2||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligga||ligga..3||ligga..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="ligger.swf" type="animation" origin="lexin" date="2011-03-03"/>
+    <example id="5435" value="ligga i s&#xE4;ngen" date="2011-03-03">
+      <translation value="lie in bed"/>
+    </example>
+    <example id="5436" value="boken ligger p&#xE5; bordet" date="2011-03-03">
+      <translation value="the book is on the table"/>
+    </example>
+    <example id="5437" value="gatan ligger i G&#xF6;teborg" date="2011-03-03">
+      <translation value="that street is in G&#xF6;teborg"/>
+    </example>
+    <example id="5438" value="hon ligger trea i t&#xE4;vlingen" date="2011-03-03">
+      <translation value="she is lying third in the competition"/>
+    </example>
+    <example id="5439" value="det ligger mycket i vad du s&#xE4;ger" date="2011-03-03">
+      <translation value="there&amp;#39;s a lot to what you say"/>
+    </example>
+    <idiom id="846" value="ligga i luften (&amp;quot;kunna anas el. k&#xE4;nnas&amp;quot;)" date="2011-03-03">
+      <translation value="be in the air (&amp;quot;be able to anticipate or feel&amp;quot;)"/>
+    </idiom>
+    <idiom id="847" value="ligga l&#xE5;gt (&amp;quot;vara passiv, avvakta&amp;quot;)" date="2011-03-03">
+      <translation value="lie low (&amp;quot;bide one&amp;#39;s time, remain secretly ready for action&amp;quot;)"/>
+    </idiom>
+    <idiom id="848" value="ligga i blodet (&amp;quot;vara naturligt, typiskt&amp;quot;)" date="2011-03-03">
+      <translation value="be part of one&amp;#39;s character (&amp;quot;be of one&amp;#39;s nature, typical&amp;quot;)"/>
+    </idiom>
+    <idiom id="849" value="vad ligger bakom beslutet? (&amp;quot;vad beror beslutet p&#xE5;?&amp;quot;)" date="2011-03-03">
+      <translation value="what is behind the decision? (&amp;quot;what is the reason for the decision?&amp;quot;)"/>
+    </idiom>
+    <idiom id="850" value="ligga med n&#xE5;gon (&amp;quot;ha samlag med n&#xE5;gon&amp;quot;)" date="2011-03-03">
+      <translation value="sleep with sby, go to bed with sby (&amp;quot;have sexual intercourse with sby&amp;quot;)"/>
+    </idiom>
+    <idiom id="851" value="du ligger illa till (&amp;quot;du &#xE4;r illa ute&amp;quot;)" date="2011-03-03">
+      <translation value="you&amp;#39;re in a pickle (&amp;quot;you are in an unfortunate situation&amp;quot;)"/>
+    </idiom>
+    <definition id="9616" value="vara i v&#xE5;gr&#xE4;tt l&#xE4;ge, vila; vara placerad" date="2011-03-03"/>
+    <grammar value="A/x &amp; + PLATS" origin="lexin" date="2011-03-03"/>
+  </word>
+</definition>

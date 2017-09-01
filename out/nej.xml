@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="in" comment="vid svar p&#xE5; fr&#xE5;ga eller f&#xF6;r att uttrycka v&#xE4;gran eller oenighet" date="2011-03-03" id="117340" lang="sv" lexinid="11735" origin="lexin" value="nej">
+    <translation comment="in answer to a question or to express refusal or disagreement" date="2011-03-03" id="11523" value="no"/>
+    <phonetic date="2011-03-03" soundFile="nej.swf" value="nej:"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="icke"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="nix"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="nopp"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="n&#xE4;"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="tyv&#xE4;rr"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="nej||nej..1||nej..in.1"/>
+    <example date="2011-03-03" id="6406" value="nej d&#xE5;!">
+      <translation value="oh, no!"/>
+    </example>
+    <example date="2011-03-03" id="6407" value="nej tack!">
+      <translation value="no thank you!"/>
+    </example>
+    <example date="2011-03-03" id="6408" value="nej till k&#xE4;rnkraft">
+      <translation value="no to nuclear power"/>
+    </example>
+    <definition date="2011-03-03" id="11308" value="inte alls"/>
+  </word>
+  <word value="nix" lang="en" class="ab" id="287191" origin="lexin" date="2009-02-24">
+    <translation id="287191-1" value="nix" origin="lexin" date="2009-02-24"/>
+    <translation id="287191-2" value="nej" comment="amerikansk engelska, informellt" origin="lexin" date="2009-02-24"/>
+    <example id="287191-3" value="my mom said nix to the idea" origin="lexin" date="2009-02-24">
+      <translation value="min mamma sade nej till id&#xE9;n" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="no" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="no" lang="en" class="ab" id="287251" origin="lexin" date="2009-02-24">
+    <translation id="287251-1" value="nej" comment="uttrycker stor f&#xF6;rv&#xE5;ning" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="no" lang="en" class="ab" id="287261" origin="lexin" date="2009-02-24">
+    <translation id="287261-1" value="nej" origin="lexin" date="2009-02-24"/>
+    <example id="287261-3" value="like it or no, but you&amp;#39;ll have to come with me" origin="lexin" date="2009-02-24">
+      <translation value="vare sig du vill eller inte m&#xE5;ste du f&#xF6;lja med" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="287261-4" value="no, I&amp;#39;ll take my own car" origin="lexin" date="2009-02-24">
+      <translation value="nej, jag tar min egen bil" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="287261-5" value="no, it&amp;#39;s not raining here today" origin="lexin" date="2009-02-24">
+      <translation value="nej, det regnar inte h&#xE4;r i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="287261-6" value="whether or no you want to, you&amp;#39;ll have to do it" origin="lexin" date="2009-02-24">
+      <translation value="du m&#xE5;ste g&#xF6;ra det, vare sig du vill eller inte" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="ja" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="yes" origin="lexin" date="2009-02-24"/>
+    </related>
+    <idiom id="287261-2" value="or no" origin="lexin" date="2009-02-24">
+      <translation value="eller inte" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="no" lang="en" class="nn" id="287271" origin="lexin" date="2009-02-24">
+    <translation id="287271-1" value="nej" origin="lexin" date="2009-02-24"/>
+    <paradigm id="287271-3" origin="lexin" date="2009-02-24">
+      <inflection value="noes" comment="plural" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="287271-2" value="she gave me a no to my request" origin="lexin" date="2009-02-24">
+      <translation value="jag fick ett nej p&#xE5; mitt &#xF6;nskem&#xE5;l" origin="lexin" date="2009-02-24"/>
+    </example>
+    <related value="ja" type="antonym" origin="lexin" date="2009-02-24">
+      <translation value="yes" origin="lexin" date="2009-02-24"/>
+    </related>
+    <grammar value="vanligen i singular" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Oh no" lang="en" id="548831" origin="user" date="2016-12-04T04:19:37">
+    <translation id="548831-1" value="&#xC5;h, nej" origin="user" date="2016-12-04T04:19:37"/>
+  </word>
+</definition>

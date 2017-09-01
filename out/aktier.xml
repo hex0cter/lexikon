@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="bildligt &amp;quot;anseende&amp;quot;" date="2011-03-03" id="1510" lang="sv" lexinid="151" origin="lexin" value="aktie">
+    <translation comment="figuratively, &amp;quot;favour&amp;quot;, &amp;quot;stock&amp;quot;" date="2011-03-03" id="149" value="share, (stock [US])"/>
+    <phonetic date="2011-03-03" soundFile="aktie.swf" value="Ak:tsie"/>
+    <paradigm date="2011-03-03" id="122" origin="lexin">
+      <inflection value="aktien"/>
+      <inflection value="aktier"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="andel"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="v&#xE4;rdepapper"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="aktie||aktie..1||aktie..nn.1"/>
+    <example date="2011-03-03" id="74" value="hennes aktier st&#xE5;r h&#xF6;gt i kurs">
+      <translation value="she is very much in favour, her stock is high"/>
+    </example>
+    <compound date="2011-03-03" id="48" value="aktie|b&#xF6;rs">
+      <translation value="stock exchange"/>
+    </compound>
+    <compound date="2011-03-03" id="49" value="aktie|fond">
+      <translation value="unit trust, (mutual fund [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="50" value="aktie|majoritet">
+      <translation value="share (stock) majority, controlling interest"/>
+    </compound>
+    <compound date="2011-03-03" id="51" value="aktie|portf&#xF6;lj">
+      <translation value="share (stock) portfolio"/>
+    </compound>
+    <compound date="2011-03-03" id="52" inflection="aktie|kapitalet" value="aktie|kapital">
+      <translation value="share capital, capital, (stock [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="53" inflection="aktie|&#xE4;garen" value="aktie|&#xE4;gare">
+      <translation value="shareholder, (stockholder [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="54" value="aktie|brev">
+      <translation value="share certificate, (stock certificate [US])"/>
+    </compound>
+    <compound date="2011-03-03" id="55" value="aktie|post">
+      <translation value="block of shares, shareholding"/>
+    </compound>
+    <compound date="2011-03-03" id="56" inflection="aktie|sparade" value="aktie|spara">
+      <translation value="invest in shares as a form of saving"/>
+    </compound>
+    <compound date="2011-03-03" id="57" value="A-|aktie">
+      <translation value="Class A share"/>
+    </compound>
+    <idiom date="2011-03-03" id="10" value="st&#xE4;rka sina aktier (&amp;quot;f&#xF6;rb&#xE4;ttra sin st&#xE4;llning&amp;quot;)"/>
+    <definition date="2011-03-03" id="153" value="andel i ett aktiebolag">
+      <translation value="any of the equal portions into which the invested capital of a joint-stock (limited) company is divided"/>
+    </definition>
+  </word>
+  <word value="stock market shares" lang="en" id="517451" origin="user" date="2013-10-07T01:48:53">
+    <translation id="517451-1" value="aktier" origin="user" date="2013-10-07T01:48:53"/>
+  </word>
+</definition>

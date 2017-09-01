@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="" date="2011-03-03" id="80910" lang="sv" lexinid="8091" origin="lexin" value="just">
+    <translation date="2011-03-03" id="7943" value="just"/>
+    <phonetic date="2011-03-03" soundFile="just.swf" value="$ys:t"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="exakt"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="hederlig"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="hygglig"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="nyligen"/>
+    <synonym date="2011-03-03" level="4.1" origin="synlex" value="nyss"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="okej"/>
+    <synonym date="2011-03-03" level="4.6" origin="synlex" value="precis"/>
+    <synonym date="2011-03-03" level="4.2" origin="synlex" value="r&#xE4;ttvis"/>
+    <see date="2011-03-03" id="155770" origin="lexin" value="sjyst"/>
+  </word>
+  <word value="just" lang="sv" class="ab" id="80920" lexinid="8092" origin="lexin" date="2011-03-03">
+    <translation id="7944" value="exactly" date="2011-03-03"/>
+    <phonetic value="jus:t" soundFile="just.swf" date="2011-03-03"/>
+    <synonym value="nyligen" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="just||just..1||just..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="just||just..2||just..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="4762" value="just det!" date="2011-03-03">
+      <translation value="exactly!"/>
+    </example>
+    <example id="4763" value="just som vi hade b&#xF6;rjat &#xE4;ta knackade det p&#xE5; d&#xF6;rren" date="2011-03-03">
+      <translation value="just as we began to eat, a knock sounded at the door"/>
+    </example>
+    <example id="4764" value="jag har inte tid just nu" date="2011-03-03">
+      <translation value="I don&amp;#39;t have time right now"/>
+    </example>
+    <definition id="7779" value="precis, exakt" date="2011-03-03"/>
+  </word>
+  <word class="jj" comment="vardagligt &#xE4;ven allm&#xE4;nt &amp;quot;bra, snygg&amp;quot;" date="2011-03-03" id="155770" lang="sv" lexinid="15578" origin="lexin" value="sjyst">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="schyst, just"/>
+    <translation comment="informal" date="2011-03-03" id="15300" value="good, decent; fair"/>
+    <phonetic date="2011-03-03" soundFile="sjyst.swf" value="$ys:t"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="juste"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="schyst"/>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="sn&#xE4;ll"/>
+    <synonym date="2011-03-03" level="4.5" origin="synlex" value="trevlig"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="sjyst||schyst..1||sjyst..av.1"/>
+    <example date="2011-03-03" id="8815" value="sjysta prylar">
+      <translation value="good stuff"/>
+    </example>
+    <definition date="2011-03-03" id="15098" value="hederlig, korrekt"/>
+    <see date="2011-03-03" id="80910" origin="lexin" type="compare" value="just"/>
+  </word>
+  <word value="exactly" lang="en" class="ab" id="162601" origin="lexin" date="2009-02-24">
+    <translation id="162601-1" value="just" comment="f&#xF6;rst&#xE4;rkande" origin="lexin" date="2009-02-24"/>
+    <example id="162601-2" value="she did exactly what I had asked her not to do" origin="lexin" date="2009-02-24">
+      <translation value="hon gjorde just det som jag hade bett henne att inte g&#xF6;ra" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="exactly" lang="en" class="ab" id="162621" origin="lexin" date="2009-02-24">
+    <translation id="162621-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="162621-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="162621-3" value="exakt" origin="lexin" date="2009-02-24"/>
+    <example id="162621-4" value="you&amp;#39;re standing exactly where he was when he saw the snake" origin="lexin" date="2009-02-24">
+      <translation value="du st&#xE5;r exakt p&#xE5; det st&#xE4;lle d&#xE4;r han stod n&#xE4;r han s&#xE5;g ormen" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="fair" lang="en" class="jj" id="168931" origin="lexin" date="2009-02-24">
+    <translation id="168931-1" value="r&#xE4;ttvis" origin="lexin" date="2009-02-24"/>
+    <translation id="168931-2" value="just" origin="lexin" date="2009-02-24"/>
+    <example id="168931-3" value="give a fair picture of the circumstances" origin="lexin" date="2009-02-24">
+      <translation value="ge en r&#xE4;ttvis bild av f&#xF6;rh&#xE5;llandena" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="opartisk, objektiv" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="fresh" lang="en" class="ab" id="186151" origin="lexin" date="2009-02-24">
+    <translation id="186151-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="186151-2" value="nyligen" origin="lexin" date="2009-02-24"/>
+    <idiom id="186151-3" value="be fresh out of&#xE4;" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;har precis tagit slut (amerikansk engelska)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="just" lang="en" class="ab" id="244171" origin="lexin" date="2009-02-24">
+    <translation id="244171-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="244171-2" value="nyss" origin="lexin" date="2009-02-24"/>
+    <translation id="244171-3" value="nyligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244181" origin="lexin" date="2009-02-24">
+    <translation id="244181-1" value="just" origin="lexin" date="2009-02-24"/>
+    <translation id="244181-2" value="precis" origin="lexin" date="2009-02-24"/>
+    <translation id="244181-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <idiom id="244181-4" value="it is just as well" origin="lexin" date="2009-02-24">
+      <translation value="det &#xE4;r lika bra" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="244181-5" value="just so!" origin="lexin" date="2009-02-24">
+      <translation value="just det!/det &#xE4;r riktigt!/alldeles riktigt!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="Ottoman" lang="en" id="515621" origin="user" date="2013-09-22T05:07:36">
+    <translation id="515621-1" value="ottoman" origin="user" date="2013-09-22T05:07:36"/>
+    <translation id="515621-1" value="just" origin="user" date="2014-03-27T01:59:21"/>
+  </word>
+  <word value="fair-minded" lang="en" id="522221" origin="user" date="2013-11-25T04:43:17">
+    <translation id="522221-1" value="just" origin="user" date="2013-11-25T04:43:17"/>
+  </word>
+  <word value="bara" lang="sv" class="ab" id="12430" lexinid="1243" origin="lexin" date="2011-03-03">
+    <translation id="12430-1208" value="merely" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="12430-1209" value="only" origin="user" date="2012-02-02T00:55:08"/>
+    <translation id="12430-1210" value="just" origin="user" date="2012-02-02T00:55:08"/>
+    <phonetic value="&#xB2;bA:ra" soundFile="bara.swf" date="2011-03-03"/>
+    <synonym value="blott" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="enbart" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="endast" level="5.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="enkom" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="nakna" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bara||bara..1||bara..ab.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="784" value="det &#xE4;r bara att kliva p&#xE5;" date="2011-03-03">
+      <translation value="just walk in"/>
+    </example>
+    <example id="785" value="jag har bara en krona kvar" date="2011-03-03">
+      <translation value="I&amp;#39;ve only got one krona left"/>
+    </example>
+    <example id="786" value="av bara farten" date="2011-03-03">
+      <translation value="automatically, unintentionally"/>
+    </example>
+    <definition id="1207" value="endast" date="2011-03-03"/>
+  </word>
+  <word value="befogad" lang="sv" class="jj" id="13830" lexinid="1383" origin="lexin" date="2011-03-03">
+    <translation id="13830-1346" value="legitimate" origin="user" date="2011-12-07T22:20:42"/>
+    <translation id="13830-1347" value="just" origin="user" date="2011-12-07T22:20:42"/>
+    <translation id="13830-1348" value="justified" origin="user" date="2011-12-07T22:20:42"/>
+    <phonetic value="befO:gad" soundFile="befogad.swf" date="2011-03-03"/>
+    <paradigm id="1175" origin="lexin" date="2011-03-03">
+      <inflection value="befogat"/>
+      <inflection value="befogade"/>
+    </paradigm>
+    <synonym value="ber&#xE4;ttigad" level="3.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="r&#xE4;ttm&#xE4;tig" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="v&#xE4;lgrundad" level="3.1" origin="synlex" date="2011-03-03"/>
+    <see value="befogad||befogad..1||befogad..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="841" value="kritiken &#xE4;r befogad" date="2011-03-03">
+      <translation value="the criticism is well-founded"/>
+    </example>
+    <definition id="1345" value="ber&#xE4;ttigad" date="2011-03-03"/>
+  </word>
+  <word class="vb" comment="anger f&#xF6;rs&#xE4;kran" date="2011-03-03" id="114460" lang="sv" lexinid="11446" origin="lexin" value="m&#xE5;">
+    <translation comment="gives assurance" date="2011-03-03" id="11245" value="might (just)"/>
+    <phonetic date="2011-03-03" soundFile="m&#xE5;.swf" value="m&#xE5;:"/>
+    <paradigm date="2011-03-03" id="9965" origin="lexin">
+      <inflection value="m&#xE5;tte"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;||m&#xE5;..3||m&#xE5;..vb.2"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="m&#xE5;||m&#xE5;tte..2||m&#xE5;..vb.2"/>
+    <idiom date="2011-03-03" id="1010" value="du m&#xE5; tro att jag blev f&#xF6;rv&#xE5;nad! (&amp;quot;jag blev v&#xE4;ldigt f&#xF6;rv&#xE5;nad&amp;quot;)">
+      <translation value="I was surprised, believe me! (&amp;quot;I was very surprised&amp;quot;)"/>
+    </idiom>
+    <grammar date="2011-03-03" origin="lexin" value="A/x &amp; + INF"/>
+  </word>
+  <word class="jj" date="2011-03-03" id="148600" lang="sv" lexinid="14861" origin="lexin" value="r&#xE4;ttf&#xE4;rdig">
+    <translation date="2011-03-03" id="14598" value="just"/>
+    <phonetic date="2011-03-03" soundFile="r&#xE4;ttf&#xE4;rdig.swf" value="&#xB2;rEt:f&#xE4;:r+dig"/>
+    <paradigm date="2011-03-03" id="12968" origin="lexin">
+      <inflection value="r&#xE4;ttf&#xE4;rdigt"/>
+      <inflection value="r&#xE4;ttf&#xE4;rdiga"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="god"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="r&#xE4;ttf&#xE4;rdig||r&#xE4;ttf&#xE4;rdig..1||r&#xE4;ttf&#xE4;rdig..av.1"/>
+    <example date="2011-03-03" id="8437" value="k&#xE4;mpa f&#xF6;r en r&#xE4;ttf&#xE4;rdig sak">
+      <translation value="fight for a just cause"/>
+    </example>
+    <definition date="2011-03-03" id="14391" value="god och moralisk"/>
+  </word>
+  <word value="r&#xE4;ttvis" lang="sv" class="jj" id="148840" lexinid="14885" origin="lexin" date="2011-03-03">
+    <translation id="148840-14420" value="equitable" origin="user" date="2012-05-24T01:10:01"/>
+    <translation id="148840-14421" value="just" origin="user" date="2012-05-24T01:10:01"/>
+    <translation id="148840-14422" value="fair" origin="user" date="2012-05-24T01:10:01"/>
+    <phonetic value="&#xB2;rEt:vi:s" soundFile="r&#xE4;ttvis.swf" date="2011-03-03"/>
+    <paradigm id="12991" origin="lexin" date="2011-03-03">
+      <inflection value="r&#xE4;ttvist"/>
+      <inflection value="r&#xE4;ttvisa"/>
+    </paradigm>
+    <synonym value="just" level="4.2" origin="synlex" date="2011-03-03"/>
+    <see value="r&#xE4;ttvis||r&#xE4;ttvis..1||r&#xE4;ttvis..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="8443" value="ge en r&#xE4;ttvis bild av ett f&#xF6;rh&#xE5;llande" date="2011-03-03"/>
+    <example id="8444" value="en r&#xE4;ttvis seger" date="2011-03-03">
+      <translation value="a fair victory"/>
+    </example>
+    <definition id="14419" value="opartisk, objektiv" date="2011-03-03"/>
+  </word>
+  <word value="r&#xE4;ttvist" lang="sv" id="310600" origin="user" date="2013-01-17T02:23:51">
+    <translation id="310600-1" value="fair" origin="user" date="2013-01-17T02:23:56"/>
+    <translation id="310600-1" value="just" origin="user" date="2014-03-13T02:06:42"/>
+    <translation id="310600-2" value="faire" origin="user" date="2015-10-03T02:40:15"/>
+    <translation id="310600-3" value="tangent" origin="user" date="2017-08-19T05:13:20"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244141" origin="lexin" date="2009-02-24">
+    <translation id="244141-1" value="bara" origin="lexin" date="2009-02-24"/>
+    <translation id="244141-2" value="endast" origin="lexin" date="2009-02-24"/>
+    <idiom id="244141-3" value="just a minute/moment/second!" origin="lexin" date="2009-02-24">
+      <translation value="ett &#xF6;gonblick!/v&#xE4;nta lite!" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="244141-4" value="just like that" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; d&#xE4;r utan vidare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="endast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244151" origin="lexin" date="2009-02-24">
+    <translation id="244151-1" value="helt enkelt" origin="lexin" date="2009-02-24"/>
+    <translation id="244151-2" value="faktiskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244161" origin="lexin" date="2009-02-24">
+    <translation id="244161-1" value="helt" origin="lexin" date="2009-02-24"/>
+    <translation id="244161-2" value="fullkomligt" origin="lexin" date="2009-02-24"/>
+    <translation id="244161-3" value="alldeles" origin="lexin" date="2009-02-24"/>
+    <idiom id="244161-4" value="not just yet" origin="lexin" date="2009-02-24">
+      <translation value="inte riktigt &#xE4;n" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="just" lang="en" class="ab" id="244191" origin="lexin" date="2009-02-24">
+    <translation id="244191-1" value="knappt" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-2" value="med n&#xF6;d och n&#xE4;ppe" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-3" value="n&#xE4;tt och j&#xE4;mt" origin="lexin" date="2009-02-24"/>
+    <translation id="244191-4" value="precis" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244201" origin="lexin" date="2009-02-24">
+    <translation id="244201-1" value="med detsamma" origin="lexin" date="2009-02-24"/>
+    <translation id="244201-2" value="genast" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="ab" id="244211" origin="lexin" date="2009-02-24">
+    <translation id="244211-1" value="minsann" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-2" value="verkligen" origin="lexin" date="2009-02-24"/>
+    <translation id="244211-3" value="egentligen" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="jj" id="244221" origin="lexin" date="2009-02-24">
+    <translation id="244221-1" value="r&#xE4;tt" origin="lexin" date="2009-02-24"/>
+    <translation id="244221-2" value="riktig" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="jj" id="244231" origin="lexin" date="2009-02-24">
+    <translation id="244231-1" value="r&#xE4;ttvis" origin="lexin" date="2009-02-24"/>
+    <translation id="244231-2" value="r&#xE4;ttr&#xE5;dig" origin="lexin" date="2009-02-24"/>
+    <translation id="244231-3" value="r&#xE4;ttskaffens" origin="lexin" date="2009-02-24"/>
+    <translation id="244231-4" value="opartisk" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="jj" id="244241" origin="lexin" date="2009-02-24">
+    <translation id="244241-1" value="v&#xE4;lf&#xF6;rtj&#xE4;nt" origin="lexin" date="2009-02-24"/>
+    <translation id="244241-2" value="befogad" origin="lexin" date="2009-02-24"/>
+    <translation id="244241-3" value="ber&#xE4;ttigad" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="just" lang="en" class="jj" id="244251" origin="lexin" date="2009-02-24">
+    <translation id="244251-1" value="v&#xE4;lgrundad" origin="lexin" date="2009-02-24"/>
+    <translation id="244251-2" value="befogad" origin="lexin" date="2009-02-24"/>
+    <translation id="244251-3" value="ber&#xE4;ttigad" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="t&#xE4;nka" lang="sv" class="vb" id="196270" lexinid="19628" origin="lexin" date="2011-03-03">
+    <translation id="196270-18982" value="imagine" origin="user" date="2012-03-27T01:41:02"/>
+    <translation id="196270-18983" value="think" origin="user" date="2012-03-27T01:41:02"/>
+    <phonetic value="tE@:ker" soundFile="t&#xE4;nker.swf" date="2011-03-03"/>
+    <paradigm id="17163" origin="lexin" date="2011-03-03">
+      <inflection value="t&#xE4;nkte"/>
+      <inflection value="t&#xE4;nkt"/>
+      <inflection value="t&#xE4;nk"/>
+      <inflection value="t&#xE4;nka"/>
+      <inflection value="t&#xE4;nker"/>
+    </paradigm>
+    <synonym value="filosofera" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="fundera" level="4.8" origin="synlex" date="2011-03-03"/>
+    <synonym value="grubbla" level="3.6" origin="synlex" date="2011-03-03"/>
+    <synonym value="klura" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="reflektera" level="3.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="sp&#xE5;na" level="3.2" origin="synlex" date="2011-03-03"/>
+    <synonym value="&#xF6;verv&#xE4;ga" level="3.4" origin="synlex" date="2011-03-03"/>
+    <see value="t&#xE4;nka||t&#xE4;nka..1||t&#xE4;nka..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10971" value="t&#xE4;nka p&#xE5; konsekvenserna" date="2011-03-03">
+      <translation value="think about the consequences"/>
+    </example>
+    <example id="10972" value="det kan t&#xE4;nkas" date="2011-03-03">
+      <translation value="that is possible"/>
+    </example>
+    <example id="10973" value="t&#xE4;nka sig" date="2011-03-03">
+      <translation value="imagine"/>
+    </example>
+    <example id="10974" value="t&#xE4;nk att det gick!" date="2011-03-03">
+      <translation value="well, it worked!"/>
+    </example>
+    <example id="10975" value="t&#xE4;nk om hon inte kommer!" date="2011-03-03">
+      <translation value="what if she doesn&amp;#39;t come!"/>
+    </example>
+    <derivation id="925" value="t&#xE4;nkande" date="2011-03-03">
+      <translation value="thinking"/>
+    </derivation>
+    <definition id="18981" value="medvetet bearbeta i hj&#xE4;rnan, fundera; f&#xF6;rest&#xE4;lla sig" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5; x/att+SATS); A &amp; sig att+SATS/att+INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word class="vb" date="2011-03-03" id="196280" lang="sv" lexinid="19629" origin="lexin" value="t&#xE4;nka">
+    <translation date="2011-03-03" id="19278" value="intend"/>
+    <phonetic date="2011-03-03" soundFile="t&#xE4;nker.swf" value="tE@:ker"/>
+    <paradigm date="2011-03-03" id="17164" origin="lexin">
+      <inflection value="t&#xE4;nkte"/>
+      <inflection value="t&#xE4;nkt"/>
+      <inflection value="t&#xE4;nk"/>
+      <inflection value="t&#xE4;nka"/>
+      <inflection value="t&#xE4;nker"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="filosofera"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="fundera"/>
+    <synonym date="2011-03-03" level="3.6" origin="synlex" value="grubbla"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="klura"/>
+    <synonym date="2011-03-03" level="3.5" origin="synlex" value="reflektera"/>
+    <synonym date="2011-03-03" level="3.2" origin="synlex" value="sp&#xE5;na"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="&#xF6;verv&#xE4;ga"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="t&#xE4;nka||t&#xE4;nka..1||t&#xE4;nka..vb.1"/>
+    <example date="2011-03-03" id="10976" value="jag t&#xE4;nker g&#xE5; nu">
+      <translation value="I&amp;#39;m going to go now"/>
+    </example>
+    <definition date="2011-03-03" id="18982" value="&#xE4;mna, avse att"/>
+    <grammar date="2011-03-03" origin="lexin" value="A &amp; + INF"/>
+  </word>
+  <word value="debate" lang="en" class="vb" id="119941" origin="lexin" date="2009-02-24">
+    <translation id="119941-1" value="fundera" origin="lexin" date="2009-02-24"/>
+    <translation id="119941-2" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="figure" lang="en" class="vb" id="174451" origin="lexin" comment="vardagligt" date="2009-02-24">
+    <translation id="174451-1" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="174451-2" value="gissa" origin="lexin" date="2009-02-24"/>
+    <translation id="174451-3" value="r&#xE4;kna ut" origin="lexin" date="2009-02-24"/>
+    <example id="174451-5" value="He figured that she might appreciate some flowers." origin="lexin" date="2009-02-24">
+      <translation value="Han t&#xE4;nkte att hon kanske skulle uppskatta lite blommor." origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="174451-4" value="That figures." origin="lexin" date="2009-02-24">
+      <translation value="Det kunde man ju r&#xE4;kna ut." origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="When a person thinks o guesses that something is the case, he figures that it is so." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="intend" lang="en" class="vb" id="236081" origin="lexin" date="2009-02-24">
+    <translation id="236081-1" value="&#xE4;mna" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-2" value="avse" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-3" value="ha f&#xF6;r avsikt" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-4" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-5" value="planera" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-6" value="mena" origin="lexin" date="2009-02-24"/>
+    <translation id="236081-7" value="vilja" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mean" lang="en" class="vb" id="269981" origin="lexin" date="2009-02-24">
+    <translation id="269981-1" value="mena" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-2" value="vilja" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-3" value="&#xE4;mna" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-4" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-5" value="vara fast besluten" origin="lexin" date="2009-02-24"/>
+    <translation id="269981-6" value="ha f&#xF6;r avsikt" origin="lexin" date="2009-02-24"/>
+    <paradigm id="269981-7" origin="lexin" date="2009-02-24">
+      <inflection value="meant" origin="lexin" date="2009-02-24"/>
+      <inflection value="meant" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="reflect" lang="en" class="vb" id="350881" origin="lexin" date="2009-02-24">
+    <translation id="350881-1" value="reflektera" origin="lexin" date="2009-02-24"/>
+    <translation id="350881-2" value="fundera" origin="lexin" date="2009-02-24"/>
+    <translation id="350881-3" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="350881-4" value="t&#xE4;nka p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="350881-5" value="t&#xE4;nka efter" origin="lexin" date="2009-02-24"/>
+    <translation id="350881-6" value="bet&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="think" lang="en" class="vb" id="417791" origin="lexin" date="2009-02-24">
+    <translation id="417791-1" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="417791-2" value="t&#xE4;nka sig f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="417791-3" value="bet&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="417791-4" value="t&#xE4;nka efter" origin="lexin" date="2009-02-24"/>
+    <translation id="417791-5" value="fundera p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="417791-7" origin="lexin" date="2009-02-24">
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="417791-6" value="I thought as much" origin="lexin" date="2009-02-24">
+      <translation value="det ante mig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="weigh" lang="en" class="vb" id="442281" origin="lexin" date="2009-02-24">
+    <translation id="442281-1" value="t&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="442281-2" value="sig f&#xF6;r" origin="lexin" date="2009-02-24"/>
+    <translation id="442281-3" value="&#xF6;verv&#xE4;ga" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

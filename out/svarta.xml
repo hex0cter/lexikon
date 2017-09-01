@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="svart" lang="sv" class="jj" id="179570" lexinid="17958" origin="lexin" comment="bildligt om ondska, sorg och olagligheter" date="2011-03-03">
+    <translation id="17640" value="black" comment="figuratively of evil, grief and unlawful actions" date="2011-03-03"/>
+    <phonetic value="svar+t:" soundFile="svart.swf" date="2011-03-03"/>
+    <paradigm id="15702" origin="lexin" date="2011-03-03">
+      <inflection value="svart"/>
+      <inflection value="svarta"/>
+    </paradigm>
+    <see value="svart||svart..1||svart..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="svart||svart..2||svart..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10150" value="en svart dag f&#xF6;r demokratin" date="2011-03-03">
+      <translation value="a black day for democracy"/>
+    </example>
+    <example id="10151" value="svarta skor" date="2011-03-03">
+      <translation value="black shoes"/>
+    </example>
+    <example id="10152" value="svarta vinb&#xE4;r" date="2011-03-03">
+      <translation value="blackcurrants"/>
+    </example>
+    <compound id="6136" value="svartkl&#xE4;dd" date="2011-03-03">
+      <translation value="clothed in black"/>
+    </compound>
+    <idiom id="1538" value="l&#xE4;mna svart p&#xE5; vitt (&amp;quot;intyga skriftligt&amp;quot;)" date="2011-03-03">
+      <translation value="put in black and white (&amp;quot;confirm in writing&amp;quot;)"/>
+    </idiom>
+    <idiom id="1539" value="st&#xE5; p&#xE5; svarta listan (&amp;quot;vara icke &#xF6;nskv&#xE4;rd&amp;quot;)" date="2011-03-03">
+      <translation value="be blacklisted (&amp;quot;be undesirable&amp;quot;)"/>
+    </idiom>
+    <idiom id="1540" value="svarta tavlan (&amp;quot;stor skrivtavla i skolan&amp;quot;)" date="2011-03-03">
+      <translation value="blackboard (&amp;quot;large writing board in schools&amp;quot;)"/>
+    </idiom>
+    <definition id="17361" value="f&#xE4;rgad som sot" date="2011-03-03"/>
+    <url value="19/faerg.swf" type="any" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="svart" lang="sv" class="jj" id="179580" lexinid="17959" origin="lexin" date="2011-03-03">
+    <translation id="17641" value="black" date="2011-03-03"/>
+    <phonetic value="svar+t:" soundFile="svart.swf" date="2011-03-03"/>
+    <paradigm id="15703" origin="lexin" date="2011-03-03">
+      <inflection value="svart"/>
+      <inflection value="svarta"/>
+    </paradigm>
+    <see value="svart||svart..2||svart..av.1" type="saldo" origin="saldo" date="2014-09-05T02:30:58"/>
+    <example id="10153" value="svart arbetskraft" date="2011-03-03">
+      <translation value="illegal workers"/>
+    </example>
+    <example id="10154" value="svarta pengar" date="2011-03-03">
+      <translation value="dirty money"/>
+    </example>
+    <compound id="6137" value="svartbygge" date="2011-03-03">
+      <translation value="building without planning permission"/>
+    </compound>
+    <definition id="17362" value="olaglig" date="2011-03-03"/>
+  </word>
+</definition>

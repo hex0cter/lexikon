@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="land" lang="sv" class="nn" id="97900" lexinid="9790" origin="lexin" date="2011-03-03">
+    <translation id="9616" value="country" date="2011-03-03"/>
+    <phonetic value="lan:d" soundFile="land.swf" date="2011-03-03"/>
+    <paradigm id="8512" origin="lexin" date="2011-03-03">
+      <inflection value="landet"/>
+    </paradigm>
+    <see value="land||land..1||land..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..2||land..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..3||land..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5365" value="bo p&#xE5; landet" date="2011-03-03">
+      <translation value="live in the country"/>
+    </example>
+    <idiom id="831" value="&#xE5;ka till landet (&amp;quot;&#xE5;ka till fritidshuset&amp;quot;)" date="2011-03-03">
+      <translation value="go to the country (&amp;quot;go to our cottage in the country&amp;quot;)"/>
+    </idiom>
+    <definition id="9431" value="landsbygd" date="2011-03-03"/>
+  </word>
+  <word value="land" lang="sv" class="nn" id="97910" lexinid="9791" origin="lexin" date="2011-03-03">
+    <translation id="9617" value="country" date="2011-03-03"/>
+    <phonetic value="lan:d" soundFile="land.swf" date="2011-03-03"/>
+    <paradigm id="8513" origin="lexin" date="2011-03-03">
+      <inflection value="landet"/>
+      <inflection value="l&#xE4;nder"/>
+    </paradigm>
+    <synonym value="rike" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="land||land..1||land..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..2||land..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..3||land..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="5366" value="fr&#xE4;mmande l&#xE4;nder" date="2011-03-03">
+      <translation value="foreign countries"/>
+    </example>
+    <example id="5367" value="&#xF6;ver hela landet" date="2011-03-03">
+      <translation value="throughout the country"/>
+    </example>
+    <compound id="3498" value="grannland" date="2011-03-03">
+      <translation value="neighbouring country"/>
+    </compound>
+    <definition id="9432" value="stat, rike" date="2011-03-03"/>
+  </word>
+  <word value="land" lang="sv" class="nn" id="97920" lexinid="9792" origin="lexin" date="2011-03-03">
+    <translation id="97920-9434" value="plot" origin="user" date="2012-01-22T00:11:33"/>
+    <translation id="97920-9435" value="[garden] patch" origin="user" date="2012-01-22T00:11:33"/>
+    <phonetic value="lan:d" soundFile="land.swf" date="2011-03-03"/>
+    <paradigm id="8514" origin="lexin" date="2011-03-03">
+      <inflection value="landet"/>
+      <inflection value="land"/>
+      <inflection value="landen"/>
+    </paradigm>
+    <synonym value="mark" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="land||land..1||land..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..2||land..nn.2" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="land||land..3||land..nn.3" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="3499" value="gr&#xF6;nsaksland" date="2011-03-03">
+      <translation value="vegetable garden"/>
+    </compound>
+    <definition id="9433" value="odlat jordstycke" date="2011-03-03"/>
+  </word>
+  <word value="LANDET" lang="sv" id="346460" origin="user" date="2013-11-01T04:43:39">
+    <translation id="346460-1" value="country-side" origin="user" date="2013-11-01T04:43:39"/>
+  </word>
+  <word value="boondocks" lang="en" class="nn" id="50121" origin="lexin" date="2009-02-24">
+    <translation id="50121-1" value="bondvischa" origin="lexin" date="2009-02-24"/>
+    <translation id="50121-2" value="bushen" origin="lexin" date="2009-02-24"/>
+    <translation id="50121-3" value="landet" origin="lexin" date="2009-02-24"/>
+    <explanation value="the countryside" origin="lexin" date="2009-02-24">
+      <translation value="landsbygd" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+</definition>

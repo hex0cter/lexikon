@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" comment="&#xE4;ven utvidgat &amp;quot;i varje fall&amp;quot;" date="2011-03-03" id="215950" lang="sv" lexinid="21596" origin="lexin" value="&#xE5;tminstone">
+    <translation comment="also &amp;quot;at all events, at any rate&amp;quot;" date="2011-03-03" id="21204" value="at least"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;tminstone.swf" value="&#xB2;&#xE5;:tmIn:stone"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="i alla fall"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;tminstone||&#xE5;tminstone..1||&#xE5;tminstone..ab.1"/>
+    <example date="2011-03-03" id="12205" value="Sverige har ett bra fotbollslag, &#xE5;tminstone p&#xE5; papperet">
+      <translation value="Sweden has a good football team, at least on paper"/>
+    </example>
+    <example date="2011-03-03" id="12206" value="vi tr&#xE4;ffas &#xE5;tminstone en g&#xE5;ng om &#xE5;ret">
+      <translation value="we meet at least once a year"/>
+    </example>
+    <definition date="2011-03-03" id="20858" value="minst"/>
+  </word>
+</definition>

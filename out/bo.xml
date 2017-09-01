@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="abbrev" date="2011-03-03" id="21140" lang="sv" lexinid="2114" origin="lexin" value="BO">
+    <translation date="2011-03-03" id="2087" value="the Childern&amp;#39;s Ombudsman"/>
+    <phonetic date="2011-03-03" soundFile="BO.swf" value="&#xB2;bE:o:"/>
+    <explanation date="2011-03-03" id="2045" value="Myndighet som tar tillvara barn och ungdomars r&#xE4;ttigheter och intressen utifr&#xE5;n FN:s barnkommission."/>
+    <definition date="2011-03-03" id="2046" value="Barnombudsmannen"/>
+  </word>
+  <word value="bo" lang="sv" class="nn" id="21150" lexinid="2115" origin="lexin" comment="bildligt om bostad f&#xF6;r m&#xE4;nniskor" date="2011-03-03">
+    <translation id="21150-2048" value="hole" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2049" value="lair" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2050" value="den" origin="user" date="2012-03-05T03:40:40"/>
+    <translation id="21150-2051" value="nest" origin="user" date="2012-03-05T03:40:40"/>
+    <phonetic value="bo:" date="2011-03-03"/>
+    <paradigm id="1840" origin="lexin" date="2011-03-03">
+      <inflection value="boet"/>
+      <inflection value="bon"/>
+      <inflection value="bona"/>
+    </paradigm>
+    <synonym value="hem" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bo||bo..2||bo..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bo||bo..3||bo..nnh.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="658" value="f&#xE5;gelbo" date="2011-03-03">
+      <translation value="bird&amp;#39;s nest"/>
+    </compound>
+    <definition id="2047" value="bostad f&#xF6;r djur (rede, ide etc)" date="2011-03-03">
+      <translation value="the shelter of a bird or animal"/>
+    </definition>
+  </word>
+  <word value="bo" lang="sv" class="nn" id="21160" lexinid="2116" origin="lexin" date="2011-03-03">
+    <translation id="21160-2049" value="property" origin="user" date="2012-02-03T23:48:05"/>
+    <translation id="21160-2050" value="estate" origin="user" date="2012-02-03T23:48:05"/>
+    <phonetic value="bo:" date="2011-03-03"/>
+    <paradigm id="1841" origin="lexin" date="2011-03-03">
+      <inflection value="boet"/>
+      <inflection value="bon"/>
+      <inflection value="bona"/>
+    </paradigm>
+    <synonym value="hem" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bo||bo..2||bo..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="bo||bo..3||bo..nnh.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="659" value="bo|delning" date="2011-03-03">
+      <translation value="distribution of marital property"/>
+    </compound>
+    <compound id="660" value="d&#xF6;dsbo" date="2011-03-03">
+      <translation value="estate (of a dead person)"/>
+    </compound>
+    <compound id="661" value="bo|skillnad" date="2011-03-03">
+      <translation value="division of marital property"/>
+    </compound>
+    <definition id="2048" value="egendom" date="2011-03-03"/>
+  </word>
+  <word value="bo" lang="sv" class="vb" id="21970" lexinid="2197" origin="lexin" date="2011-03-03">
+    <translation id="21970-2128" value="reside" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="21970-2129" value="dwell" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="21970-2130" value="stay" origin="user" date="2012-03-14T01:25:35"/>
+    <translation id="21970-2131" value="live" origin="user" date="2012-03-14T01:25:35"/>
+    <phonetic value="bo:r" soundFile="bor.swf" date="2011-03-03"/>
+    <paradigm id="1918" origin="lexin" date="2011-03-03">
+      <inflection value="bodde"/>
+      <inflection value="bott"/>
+      <inflection value="bo"/>
+      <inflection value="bor"/>
+    </paradigm>
+    <synonym value="hem" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="bo||bo..1||bo..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="1350" value="hon bor i villa" date="2011-03-03">
+      <translation value="she lives in a detached house"/>
+    </example>
+    <example id="1351" value="var bor du? jag bor p&#xE5; Vasagatan" date="2011-03-03"/>
+    <definition id="2127" value="ha sin bostad" date="2011-03-03">
+      <translation value="have one&amp;#39;s home"/>
+    </definition>
+    <grammar value="A &amp; + PLATS" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="base" lang="en" class="nn" id="33561" origin="lexin" comment="i sportsammanhang" date="2009-02-24">
+    <translation id="33561-1" value="m&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-2" value="m&#xE5;llinje" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-3" value="startlinje" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-4" value="bas" comment="baseball" origin="lexin" date="2009-02-24"/>
+    <translation id="33561-5" value="bo" origin="lexin" date="2009-02-24"/>
+    <idiom id="33561-6" value="get to first base" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) (baseball) hinna till f&#xF6;rsta basen" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="33561-7" value="get to first base" origin="lexin" date="2009-02-24">
+      <translation value="(amerikansk engelska) komma en bit p&#xE5; v&#xE4;gen, komma n&#xE5;gon vart" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="den" lang="en" class="nn" id="124751" origin="lexin" date="2009-02-24">
+    <translation id="124751-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-2" value="lya" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-3" value="h&#xE5;la" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-4" value="gryt" origin="lexin" date="2009-02-24"/>
+    <translation id="124751-5" value="kula" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="dwell" lang="en" class="vb" id="148921" origin="lexin" date="2009-02-24">
+    <translation id="148921-1" value="bo" comment="litter&#xE4;rt" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-2" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-3" value="vistas" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-4" value="vara bosatt" origin="lexin" date="2009-02-24"/>
+    <translation id="148921-5" value="dv&#xE4;ljas" origin="lexin" date="2009-02-24"/>
+    <paradigm id="148921-6" origin="lexin" date="2009-02-24">
+      <inflection value="dwelt" origin="lexin" date="2009-02-24"/>
+      <inflection value="dwelt" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <explanation value="have one&amp;#39;s home" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="hole" lang="en" class="nn" id="220301" origin="lexin" date="2009-02-24">
+    <translation id="220301-1" value="h&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="220301-2" value="h&#xE5;la" comment="&#xE4;ven bildligt" origin="lexin" date="2009-02-24"/>
+    <translation id="220301-3" value="lya" origin="lexin" date="2009-02-24"/>
+    <translation id="220301-4" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="220301-5" value="kula" comment="f&#xF6;r djur" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="home" lang="en" class="vb" id="220651" origin="lexin" date="2009-02-24">
+    <translation id="220651-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="220651-2" value="ha sitt hem" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="lie" lang="en" class="vb" id="255951" origin="lexin" date="2009-02-24">
+    <translation id="255951-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="255951-2" value="bo tillf&#xE4;lligt" origin="lexin" date="2009-02-24"/>
+    <translation id="255951-3" value="ligga &#xF6;ver" comment="gammaldags" origin="lexin" date="2009-02-24"/>
+    <paradigm id="255951-5" origin="lexin" date="2009-02-24">
+      <inflection value="lay" origin="lexin" date="2009-02-24"/>
+      <inflection value="lain" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <paradigm id="255951-6" origin="lexin" date="2009-02-24">
+      <inflection value="lying" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="255951-4" value="we lay at the Davieses" origin="lexin" date="2009-02-24">
+      <translation value="vi sov &#xF6;ver hos familjen Davies" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="live" lang="en" class="vb" id="259201" origin="lexin" date="2009-02-24">
+    <translation id="259201-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="259201-2" value="vistas" origin="lexin" date="2009-02-24"/>
+    <translation id="259201-3" value="vara bosatt" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="nest" lang="en" class="nn" id="285451" origin="lexin" date="2009-02-24">
+    <translation id="285451-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="285451-2" value="rede" origin="lexin" date="2009-02-24"/>
+    <translation id="285451-3" value="n&#xE4;ste" origin="lexin" date="2009-02-24"/>
+    <idiom id="285451-4" value="a mare&amp;#39;s nest" origin="lexin" date="2009-02-24">
+      <translation value="inbillningsfoster, fantasifoster, chim&#xE4;r" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="285451-5" value="feather one&amp;#39;s own nest" origin="lexin" date="2009-02-24">
+      <translation value="tillgodose sina egna intressen, skaffa sig sj&#xE4;lv f&#xF6;rdelar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="285451-6" value="stir up a hornet&amp;#39;s nest" origin="lexin" date="2009-02-24">
+      <translation value="(bildligt) sticka sin hand i ett getingbo" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="the shelter of a bird or animal" origin="lexin" date="2009-02-24">
+      <translation value="bostad f&#xF6;r djur" origin="lexin" date="2009-02-24"/>
+    </explanation>
+  </word>
+  <word value="reside" lang="en" class="vb" id="357401" origin="lexin" date="2009-02-24">
+    <translation id="357401-1" value="bo" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-2" value="leva" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-3" value="vara bosatt" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-4" value="vistas" origin="lexin" date="2009-02-24"/>
+    <translation id="357401-5" value="residera" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="stop" lang="en" class="vb" id="400031" origin="lexin" date="2009-02-24">
+    <translation id="400031-1" value="stanna" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="400031-2" value="stanna kvar" comment="vardaglig stil" origin="lexin" date="2009-02-24"/>
+    <translation id="400031-3" value="bo" origin="lexin" date="2009-02-24"/>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

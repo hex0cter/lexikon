@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="192470" lang="sv" lexinid="19248" origin="lexin" value="tro">
+    <translation date="2011-03-03" id="18901" value="belief"/>
+    <phonetic date="2011-03-03" soundFile="tro.swf" value="tro:"/>
+    <paradigm date="2011-03-03" id="16823" origin="lexin">
+      <inflection value="tron"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ana"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="anta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="antaga"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="antar"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="f&#xF6;rlita"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;rmoda"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="mena"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="tillit"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="&#xF6;vertygelse"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tro||tro..2||tro..nn.1"/>
+    <example date="2011-03-03" id="10787" value="kan man s&#xE4;tta tro till s&#xE5;dana rykten?">
+      <translation value="can one trust such rumours?"/>
+    </example>
+    <idiom date="2011-03-03" id="1657" value="(g&#xF6;ra n&#xE5;got) i god tro (&amp;quot;utan att ana att n&#xE5;got &#xE4;r fel&amp;quot;)">
+      <translation value="(do sth.) in good faith (&amp;quot;without realizing anything is wrong&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="18613" value="&#xF6;vertygelse att n&#xE5;got &#xE4;r sant"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="192480" lang="sv" lexinid="19249" origin="lexin" value="tro">
+    <translation date="2011-03-03" id="18902" value="faith"/>
+    <phonetic date="2011-03-03" soundFile="tro.swf" value="tro:"/>
+    <paradigm date="2011-03-03" id="16824" origin="lexin">
+      <inflection value="tron"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="3.0" origin="synlex" value="ana"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="anta"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="antaga"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="antar"/>
+    <synonym date="2011-03-03" level="3.4" origin="synlex" value="f&#xF6;rlita"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="f&#xF6;rmoda"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="mena"/>
+    <synonym date="2011-03-03" level="3.1" origin="synlex" value="tillit"/>
+    <synonym date="2011-03-03" level="3.3" origin="synlex" value="&#xF6;vertygelse"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="tro||tro..2||tro..nn.1"/>
+    <example date="2011-03-03" id="10788" value="den kristna tron">
+      <translation value="the Christian faith"/>
+    </example>
+    <compound date="2011-03-03" id="6459" value="folktro">
+      <translation value="folklore"/>
+    </compound>
+    <compound date="2011-03-03" id="6460" value="bokstavstro">
+      <translation value="literalism"/>
+    </compound>
+    <definition date="2011-03-03" id="18614" value="religi&#xF6;s &#xF6;vertygelse, l&#xE4;ra, religion"/>
+  </word>
+  <word value="tro" lang="sv" class="vb" id="192730" lexinid="19274" origin="lexin" date="2011-03-03">
+    <translation id="18927" value="believe" date="2011-03-03"/>
+    <phonetic value="tro:r" soundFile="tror.swf" date="2011-03-03"/>
+    <paradigm id="16845" origin="lexin" date="2011-03-03">
+      <inflection value="trodde"/>
+      <inflection value="trott"/>
+      <inflection value="tro"/>
+      <inflection value="tror"/>
+    </paradigm>
+    <synonym value="ana" level="3.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="f&#xF6;rlita" level="3.4" origin="synlex" date="2011-03-03"/>
+    <synonym value="mena" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="tro||tro..1||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tro||tro..3||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10800" value="vi trodde att det skulle g&#xE5; bra" date="2011-03-03">
+      <translation value="we believed it would go well"/>
+    </example>
+    <definition id="18639" value="anse el. anta s&#xE5;som sant, f&#xF6;rmoda" date="2011-03-03"/>
+    <grammar value="A &amp; att + S; A &amp; sig + INF" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="tro" lang="sv" class="vb" id="192740" lexinid="19275" origin="lexin" comment="bildligt &amp;quot;ha stark tilltro (till)&amp;quot;" date="2011-03-03">
+    <translation id="18928" value="believe" comment="figuratively, &amp;quot;have strong faith (in)&amp;quot;" date="2011-03-03"/>
+    <phonetic value="tro:r" soundFile="tror.swf" date="2011-03-03"/>
+    <paradigm id="16846" origin="lexin" date="2011-03-03">
+      <inflection value="trodde"/>
+      <inflection value="trott"/>
+      <inflection value="tro"/>
+      <inflection value="tror"/>
+    </paradigm>
+    <synonym value="antar" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="tro||tro..1||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="tro||tro..3||tro..vb.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10801" value="tro p&#xE5; Gud" date="2011-03-03">
+      <translation value="believe in God"/>
+    </example>
+    <example id="10802" value="tro p&#xE5; utvecklingen" date="2011-03-03">
+      <translation value="believe in progress"/>
+    </example>
+    <definition id="18640" value="ha en religi&#xF6;s &#xF6;vertygelse" date="2011-03-03"/>
+    <grammar value="A &amp; (p&#xE5; B/x)" origin="lexin" date="2011-03-03"/>
+  </word>
+  <word value="belief" lang="en" class="nn" id="38401" origin="lexin" date="2009-02-24">
+    <translation id="38401-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="38401-2" value="tilltro" origin="lexin" date="2009-02-24"/>
+    <example id="38401-5" value="to shake somebody&amp;#39;s belief in something" origin="lexin" date="2009-02-24">
+      <translation value="att f&#xE5; n&#xE5;gon att tappa tilltron till n&#xE5;gonting" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="38401-3" value="contrary to popular belief" origin="lexin" date="2009-02-24">
+      <translation value="i motsats till vad folk i allm&#xE4;nhet tror" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="38401-4" value="to the best of my/his/her etcetera belief" origin="lexin" date="2009-02-24">
+      <translation value="s&#xE5; vitt jag/han/hon etcetera vet" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="belief" lang="en" class="nn" id="38411" origin="lexin" date="2009-02-24">
+    <translation id="38411-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="38411-2" value="&#xF6;vertygelse" origin="lexin" date="2009-02-24"/>
+    <idiom id="38411-3" value="beyond belief" origin="lexin" date="2009-02-24">
+      <translation value="otrolig(t)" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="believe" lang="en" class="vb" id="38441" origin="lexin" date="2009-02-24">
+    <translation id="38441-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="38441-2" value="f&#xF6;rmoda" origin="lexin" date="2009-02-24"/>
+    <translation id="38441-3" value="anse f&#xF6;r troligt" origin="lexin" date="2009-02-24"/>
+    <example id="38441-4" value="I believe he is arriving today" origin="lexin" date="2009-02-24">
+      <translation value="jag har f&#xF6;r mig att han kommer i dag" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="believe" lang="en" class="vb" id="38451" origin="lexin" date="2009-02-24">
+    <translation id="38451-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="38451-2" value="s&#xE4;tta tro till" origin="lexin" date="2009-02-24"/>
+    <example id="38451-4" value="believe it or not" origin="lexin" date="2009-02-24">
+      <translation value="tro&amp;#39;t eller ej" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="38451-3" value="I could hardly believe my eyes" origin="lexin" date="2009-02-24">
+      <translation value="jag kunde inte tro mina &#xF6;gon/jag blev mycket f&#xF6;rv&#xE5;nad" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="believe" lang="en" class="vb" id="38461" origin="lexin" date="2009-02-24">
+    <translation id="38461-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="38461-2" value="tro p&#xE5;" origin="lexin" date="2009-02-24"/>
+    <translation id="38461-3" value="vara troende" origin="lexin" date="2009-02-24"/>
+    <example id="38461-4" value="do you believe in God?" origin="lexin" date="2009-02-24">
+      <translation value="tror du p&#xE5; Gud?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="creed" lang="en" class="nn" id="109711" origin="lexin" date="2009-02-24">
+    <translation id="109711-1" value="trosbek&#xE4;nnelse" comment="religion" origin="lexin" date="2009-02-24"/>
+    <translation id="109711-2" value="konfession" origin="lexin" date="2009-02-24"/>
+    <translation id="109711-3" value="trosl&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="109711-4" value="tro" origin="lexin" date="2009-02-24"/>
+    <explanation value="religious doctrine" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="creed" lang="en" class="nn" id="109721" origin="lexin" date="2009-02-24">
+    <translation id="109721-1" value="trosartikel" origin="lexin" date="2009-02-24"/>
+    <translation id="109721-2" value="tro" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="expect" lang="en" class="vb" id="164951" origin="lexin" date="2009-02-24">
+    <translation id="164951-1" value="anta" origin="lexin" date="2009-02-24"/>
+    <translation id="164951-2" value="f&#xF6;rmoda" origin="lexin" date="2009-02-24"/>
+    <translation id="164951-3" value="tro" origin="lexin" date="2009-02-24"/>
+    <example id="164951-5" value="I expect that she&amp;#39;ll be here any minute now" origin="lexin" date="2009-02-24">
+      <translation value="jag tror att hon kommer n&#xE4;r som helst nu" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="164951-6" value="my sister is expecting another baby" origin="lexin" date="2009-02-24">
+      <translation value="min syster v&#xE4;ntar barn igen" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="164951-4" value="only to be expected" origin="lexin" date="2009-02-24">
+      <translation value="bara att f&#xF6;rv&#xE4;nta sig" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="expect" lang="en" class="vb" id="164981" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="164981-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="164981-2" value="anta" origin="lexin" date="2009-02-24"/>
+    <example id="164981-3" value="I expect he&amp;#39;ll show up eventually" origin="lexin" date="2009-02-24">
+      <translation value="jag skulle tro att han kommer sent omsider" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+    <grammar value="ej i progressiv form" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="faith" lang="en" class="nn" id="169101" origin="lexin" date="2009-02-24">
+    <translation id="169101-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="169101-2" value="f&#xF6;rtroende" origin="lexin" date="2009-02-24"/>
+    <translation id="169101-3" value="tillit" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="faith" lang="en" class="nn" id="169111" origin="lexin" date="2009-02-24">
+    <translation id="169111-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="169111-2" value="trosl&#xE4;ra" origin="lexin" date="2009-02-24"/>
+    <translation id="169111-3" value="bek&#xE4;nnelse" origin="lexin" date="2009-02-24"/>
+    <translation id="169111-4" value="religion" origin="lexin" date="2009-02-24"/>
+    <example id="169111-5" value="the Christian faith" origin="lexin" date="2009-02-24">
+      <translation value="den kristna tron" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="fancy" lang="en" class="vb" id="169971" origin="lexin" date="2009-02-24">
+    <translation id="169971-1" value="tippa" origin="lexin" date="2009-02-24"/>
+    <translation id="169971-2" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="169971-3" value="tycka" origin="lexin" date="2009-02-24"/>
+    <example id="169971-4" value="I don&amp;#39;t fancy I&amp;#39;ll win the scholarship" origin="lexin" date="2009-02-24">
+      <translation value="jag tror inte att jag kommer att f&#xE5; stipendiet" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="imagine" lang="en" class="vb" id="226781" origin="lexin" date="2009-02-24">
+    <translation id="226781-1" value="gissa" origin="lexin" date="2009-02-24"/>
+    <translation id="226781-2" value="misst&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="226781-3" value="ana" origin="lexin" date="2009-02-24"/>
+    <translation id="226781-4" value="anta" origin="lexin" date="2009-02-24"/>
+    <translation id="226781-5" value="tro" origin="lexin" date="2009-02-24"/>
+    <example id="226781-6" value="you can&amp;#39;t imagine how happy I was" origin="lexin" date="2009-02-24">
+      <translation value="du kan inte ana vad glad jag blev" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suggestion" lang="en" class="nn" id="406091" origin="lexin" date="2009-02-24">
+    <translation id="406091-1" value="antagande" comment="juridik" origin="lexin" date="2009-02-24"/>
+    <translation id="406091-2" value="mening" origin="lexin" date="2009-02-24"/>
+    <translation id="406091-3" value="tro" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suppose" lang="en" class="vb" id="407681" lexinid="555" origin="lexin" date="2009-02-24">
+    <translation id="407681-1" value="anta" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-2" value="antaga" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-3" value="ponera" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-4" value="f&#xF6;rmoda" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-5" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-6" value="inbilla sig" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-7" value="t&#xE4;nka sig" origin="lexin" date="2009-02-24"/>
+    <translation id="407681-8" value="f&#xF6;ruts&#xE4;tta" origin="lexin" date="2009-02-24"/>
+    <example id="407681-9" value="let&amp;#39;s suppose that we run out of oil-what would we do then?" origin="lexin" date="2009-02-24">
+      <translation value="l&#xE5;t oss anta att oljan tar slut-vad skulle vi g&#xF6;ra d&#xE5;?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="supposition" lang="en" class="nn" id="407711" origin="lexin" date="2009-02-24">
+    <translation id="407711-1" value="antagande" origin="lexin" date="2009-02-24"/>
+    <translation id="407711-2" value="f&#xF6;rmodan" origin="lexin" date="2009-02-24"/>
+    <translation id="407711-3" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="407711-4" value="f&#xF6;ruts&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <translation id="407711-5" value="hypotes" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="suspect" lang="en" class="vb" id="408501" origin="lexin" date="2009-02-24">
+    <translation id="408501-1" value="misst&#xE4;nka" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-2" value="hysa misstankar" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-3" value="misst&#xE4;nka n&#xE5;got" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-4" value="misstro" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-5" value="betvivla" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-6" value="ana" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-7" value="ha en aning om" origin="lexin" date="2009-02-24"/>
+    <translation id="408501-8" value="tro" origin="lexin" date="2009-02-24"/>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="take" lang="en" class="vb" id="412301" origin="lexin" date="2009-02-24">
+    <translation id="412301-1" value="anse" origin="lexin" date="2009-02-24"/>
+    <translation id="412301-2" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="412301-3" value="lyda" origin="lexin" date="2009-02-24"/>
+    <translation id="412301-4" value="f&#xF6;rst&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="412301-8" origin="lexin" date="2009-02-24">
+      <inflection value="took" origin="lexin" date="2009-02-24"/>
+      <inflection value="taken" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <example id="412301-7" value="you really should take my advice" origin="lexin" date="2009-02-24">
+      <translation value="du borde verkligen lyda mitt r&#xE5;d" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="412301-5" value="take my word for it" origin="lexin" date="2009-02-24">
+      <translation value="tro mig p&#xE5; mitt ord" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="412301-6" value="take somebody&amp;#39;s point" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rst&#xE5;r vad n&#xE5;gon menar" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+    <grammar value="ej i progressiv form" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="think" lang="en" class="vb" id="417771" origin="lexin" date="2009-02-24">
+    <translation id="417771-1" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="417771-2" value="tycka" origin="lexin" date="2009-02-24"/>
+    <translation id="417771-3" value="anse" origin="lexin" date="2009-02-24"/>
+    <translation id="417771-4" value="anse som" origin="lexin" date="2009-02-24"/>
+    <paradigm id="417771-5" origin="lexin" date="2009-02-24">
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="transitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="think" lang="en" class="vb" id="417781" origin="lexin" date="2009-02-24">
+    <translation id="417781-1" value="t&#xE4;nka sig" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-2" value="f&#xF6;rest&#xE4;lla sig" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-3" value="g&#xF6;ra sig en f&#xF6;rest&#xE4;llning om" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-4" value="ana" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-5" value="tro" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-6" value="fatta" origin="lexin" date="2009-02-24"/>
+    <translation id="417781-7" value="f&#xF6;rst&#xE5;" origin="lexin" date="2009-02-24"/>
+    <paradigm id="417781-8" origin="lexin" date="2009-02-24">
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+      <inflection value="thought" origin="lexin" date="2009-02-24"/>
+    </paradigm>
+    <grammar value="intransitivt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

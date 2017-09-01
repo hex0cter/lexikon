@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pn" date="2011-03-03" id="205530" lang="sv" lexinid="20554" origin="lexin" value="varandra">
+    <variant alt="also" date="2011-03-03" origin="lexin" value="varann"/>
+    <translation date="2011-03-03" id="20195" value="each other"/>
+    <use date="2011-03-03" value="ej subjekt"/>
+    <phonetic date="2011-03-03" soundFile="varandra.swf" value="varAn:dra el. varAn:"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="varandra||varandra..1||varandra..pn.1"/>
+    <example date="2011-03-03" id="11526" value="de f&#xF6;ll i varandras armar">
+      <translation value="they fell into each others&amp;#39; arms"/>
+    </example>
+    <example date="2011-03-03" id="11527" value="vi tycker om varandra">
+      <translation value="we like each other"/>
+    </example>
+    <example date="2011-03-03" id="11528" value="vi k&#xE4;nner varandra sen gammalt">
+      <translation value="we have known each other a long time"/>
+    </example>
+    <definition date="2011-03-03" id="19871" value="var och en (av tv&#xE5; el. flera) den andre (el. de andra)">
+      <translation value="also one another"/>
+    </definition>
+    <see date="2011-03-03" origin="lexin" type="phonetic" value="varann.swf"/>
+  </word>
+  <word value="each other" lang="en" class="pn" id="149181" origin="lexin" date="2009-02-24">
+    <translation id="149181-1" value="varandra" origin="lexin" date="2009-02-24"/>
+    <example id="149181-2" value="we like each other" origin="lexin" date="2009-02-24">
+      <translation value="vi tycker om varandra" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="149181-3" value="we have known each other a long time" origin="lexin" date="2009-02-24">
+      <translation value="vi k&#xE4;nner varandra sen gammalt" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="149181-4" value="they fell into each others&amp;#39; arms" origin="lexin" date="2009-02-24">
+      <translation value="de f&#xF6;ll i varandras armar" origin="lexin" date="2009-02-24"/>
+    </example>
+    <grammar value="indefinit pronomen" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

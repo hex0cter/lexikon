@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="verk" lang="sv" class="nn" id="206970" lexinid="20698" origin="lexin" comment="mest i fraser" date="2011-03-03">
+    <translation id="20336" value="work" comment="mostly in phrases" date="2011-03-03"/>
+    <phonetic value="v&#xE4;r:k" soundFile="verk.swf" date="2011-03-03"/>
+    <paradigm id="18050" origin="lexin" date="2011-03-03">
+      <inflection value="verket"/>
+      <inflection value="verk"/>
+      <inflection value="verken"/>
+    </paradigm>
+    <synonym value="skapelse" level="4.0" origin="synlex" date="2011-03-03"/>
+    <synonym value="skriftalster" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="verk||verk..1||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verk||verk..2||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11615" value="g&#xE5; till verket" date="2011-03-03">
+      <translation value="go about it, go to it"/>
+    </example>
+    <example id="11616" value="ett &#xF6;gonblicks verk" date="2011-03-03">
+      <translation value="the work of a moment"/>
+    </example>
+    <idiom id="1789" value="i sj&#xE4;lva verket (&amp;quot;i verkligheten&amp;quot;)" date="2011-03-03">
+      <translation value="actually, in fact, as a matter of fact (&amp;quot;in reality&amp;quot;)"/>
+    </idiom>
+    <definition id="19997" value="handling, arbete" date="2011-03-03"/>
+  </word>
+  <word value="verk" lang="sv" class="nn" id="206980" lexinid="20699" origin="lexin" date="2011-03-03">
+    <translation id="20337" value="work" date="2011-03-03"/>
+    <phonetic value="v&#xE4;r:k" soundFile="verk.swf" date="2011-03-03"/>
+    <paradigm id="18051" origin="lexin" date="2011-03-03">
+      <inflection value="verket"/>
+      <inflection value="verk"/>
+      <inflection value="verken"/>
+    </paradigm>
+    <synonym value="alster" level="4.3" origin="synlex" date="2011-03-03"/>
+    <synonym value="arbete" level="4.1" origin="synlex" date="2011-03-03"/>
+    <synonym value="opus" level="4.5" origin="synlex" date="2011-03-03"/>
+    <synonym value="skapelse" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="verk||verk..1||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verk||verk..2||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11617" value="Strindbergs samlade verk" date="2011-03-03">
+      <translation value="the collected works of Strindberg"/>
+    </example>
+    <compound id="6772" value="konstverk" date="2011-03-03">
+      <translation value="work of art"/>
+    </compound>
+    <compound id="6773" value="m&#xE4;sterverk" date="2011-03-03">
+      <translation value="masterpiece"/>
+    </compound>
+    <definition id="19998" value="produkt av arbete, alster" date="2011-03-03"/>
+  </word>
+  <word value="verk" lang="sv" class="nn" id="206990" lexinid="20700" origin="lexin" date="2011-03-03">
+    <translation id="20338" value="agency" date="2011-03-03"/>
+    <phonetic value="v&#xE4;r:k" soundFile="verk.swf" date="2011-03-03"/>
+    <paradigm id="18052" origin="lexin" date="2011-03-03">
+      <inflection value="verket"/>
+      <inflection value="verk"/>
+      <inflection value="verken"/>
+    </paradigm>
+    <synonym value="alster" level="4.3" origin="synlex" date="2011-03-03"/>
+    <see value="verk||verk..1||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verk||verk..2||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="11618" value="statliga verk" date="2011-03-03">
+      <translation value="government agency boards, authority, department"/>
+    </example>
+    <compound id="6774" value="Migrationsverket" date="2011-03-03">
+      <translation value="Swedish Migration Board"/>
+    </compound>
+    <definition id="19999" value="central myndighet" date="2011-03-03"/>
+  </word>
+  <word value="verk" lang="sv" class="nn" id="207000" lexinid="20701" origin="lexin" date="2011-03-03">
+    <translation id="20339" value="works" date="2011-03-03"/>
+    <use value="i sms" date="2011-03-03"/>
+    <phonetic value="v&#xE4;r:k" soundFile="verk.swf" date="2011-03-03"/>
+    <paradigm id="18053" origin="lexin" date="2011-03-03">
+      <inflection value="verket"/>
+      <inflection value="verk"/>
+      <inflection value="verken"/>
+    </paradigm>
+    <synonym value="skapelse" level="4.0" origin="synlex" date="2011-03-03"/>
+    <see value="verk||verk..1||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verk||verk..2||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="6775" value="j&#xE4;rnverk" date="2011-03-03">
+      <translation value="ironworks"/>
+    </compound>
+    <definition id="20000" value="industrianl&#xE4;ggning" date="2011-03-03"/>
+  </word>
+  <word value="verk" lang="sv" class="nn" id="207010" lexinid="20702" origin="lexin" date="2011-03-03">
+    <translation id="20340" value="works" date="2011-03-03"/>
+    <phonetic value="v&#xE4;r:k" soundFile="verk.swf" date="2011-03-03"/>
+    <paradigm id="18054" origin="lexin" date="2011-03-03">
+      <inflection value="verket"/>
+      <inflection value="verk"/>
+      <inflection value="verken"/>
+    </paradigm>
+    <synonym value="opus" level="4.5" origin="synlex" date="2011-03-03"/>
+    <see value="verk||verk..1||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="verk||verk..2||verk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <compound id="6776" value="urverk" date="2011-03-03">
+      <translation value="clockwork"/>
+    </compound>
+    <definition id="20001" value="mekanism" date="2011-03-03">
+      <translation value="mechanism"/>
+    </definition>
+  </word>
+  <word value="action" lang="en" class="nn" id="4171" origin="lexin" date="2009-02-24">
+    <translation id="4171-1" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="4171-2" value="mekanism" origin="lexin" date="2009-02-24"/>
+    <translation id="4171-3" value="mekanik" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="creation" lang="en" class="nn" id="109361" origin="lexin" date="2009-02-24">
+    <translation id="109361-1" value="skapelse" origin="lexin" date="2009-02-24"/>
+    <translation id="109361-2" value="verk" origin="lexin" date="2009-02-24"/>
+    <example id="109361-3" value="is this your creation?" origin="lexin" date="2009-02-24">
+      <translation value="&#xE4;r detta ditt verk?" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="deed" lang="en" class="nn" id="121691" origin="lexin" date="2009-02-24">
+    <translation id="121691-1" value="g&#xE4;rning" origin="lexin" date="2009-02-24"/>
+    <translation id="121691-2" value="handling" origin="lexin" date="2009-02-24"/>
+    <translation id="121691-3" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="121691-4" value="d&#xE5;d" origin="lexin" date="2009-02-24"/>
+    <idiom id="121691-5" value="do a good deed" origin="lexin" date="2009-02-24">
+      <translation value="utf&#xF6;ra en god g&#xE4;rning" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="effort" lang="en" class="nn" id="151751" origin="lexin" date="2009-02-24">
+    <translation id="151751-1" value="prestation" comment="konstn&#xE4;rlig eller litter&#xE4;r" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-2" value="f&#xF6;rs&#xF6;k" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-3" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-4" value="alster" origin="lexin" date="2009-02-24"/>
+    <translation id="151751-5" value="kraftprov" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="establishment" lang="en" class="nn" id="160601" origin="lexin" date="2009-02-24">
+    <translation id="160601-1" value="f&#xF6;retag" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-2" value="handelshus" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-3" value="butik" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-4" value="fabrik" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-5" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-6" value="anl&#xE4;ggning" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-7" value="arbetsplats" origin="lexin" date="2009-02-24"/>
+    <translation id="160601-8" value="etablissemang" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mill" lang="en" class="nn" id="272821" origin="lexin" date="2009-02-24">
+    <translation id="272821-1" value="fabrik" origin="lexin" date="2009-02-24"/>
+    <translation id="272821-2" value="bruk" origin="lexin" date="2009-02-24"/>
+    <translation id="272821-3" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="272821-4" value="industri" origin="lexin" date="2009-02-24"/>
+    <explanation value="industry, foundry, etc." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="piece" lang="en" class="nn" id="316941" origin="lexin" date="2009-02-24">
+    <translation id="316941-1" value="stycke" origin="lexin" date="2009-02-24"/>
+    <translation id="316941-2" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="316941-3" value="musikstycke" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="nn" id="447141" origin="lexin" date="2009-02-24">
+    <translation id="447141-1" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-2" value="jobb" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-3" value="syssels&#xE4;ttning" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-4" value="verksamhet" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-5" value="g&#xE4;rning" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-6" value="insats" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-7" value="syssla" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-8" value="g&#xF6;rom&#xE5;l" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-9" value="uppgift" origin="lexin" date="2009-02-24"/>
+    <translation id="447141-10" value="verk" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="work" lang="en" class="nn" id="447261" origin="lexin" date="2009-02-24">
+    <translation id="447261-1" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="447261-2" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447261-3" value="alster" origin="lexin" date="2009-02-24"/>
+    <translation id="447261-4" value="opus" origin="lexin" date="2009-02-24"/>
+    <translation id="447261-5" value="arbete" origin="lexin" date="2009-02-24"/>
+    <translation id="447261-6" value="handarbete" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="works" lang="en" class="nn" id="447551" origin="lexin" date="2009-02-24">
+    <translation id="447551-1" value="fabrik" origin="lexin" date="2009-02-24"/>
+    <translation id="447551-2" value="bruk" origin="lexin" date="2009-02-24"/>
+    <translation id="447551-3" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="447551-4" value="anl&#xE4;ggningar" origin="lexin" date="2009-02-24"/>
+    <translation id="447551-5" value="installationer" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="works" lang="en" class="nn" id="447561" origin="lexin" date="2009-02-24">
+    <translation id="447561-1" value="mekanism" origin="lexin" date="2009-02-24"/>
+    <translation id="447561-2" value="verk" origin="lexin" date="2009-02-24"/>
+    <translation id="447561-3" value="urverk" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

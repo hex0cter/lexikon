@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="rg" date="2011-03-03" id="216050" lang="sv" lexinid="21606" origin="lexin" value="&#xE5;tta">
+    <translation date="2011-03-03" id="21214" value="eight"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;tta.swf" value="&#xB2;&#xC5;t:a"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;tta||&#xE5;tta..1||&#xE5;tta..nl.1"/>
+    <compound date="2011-03-03" id="7045" inflection="&#xE5;tta|&#xE5;rigt" value="&#xE5;tta|&#xE5;rig">
+      <translation value="eight year-old"/>
+    </compound>
+    <compound date="2011-03-03" id="7046" inflection="&#xE5;ttatimmars|dagen" value="&#xE5;ttatimmars|dag">
+      <translation value="eight-hour day"/>
+    </compound>
+    <definition date="2011-03-03" id="20867" value="8"/>
+  </word>
+  <word class="nn" date="2011-03-03" id="216060" lang="sv" lexinid="21607" origin="lexin" value="&#xE5;tta">
+    <translation date="2011-03-03" id="21215" value="eight"/>
+    <phonetic date="2011-03-03" soundFile="&#xE5;tta.swf" value="&#xB2;&#xC5;t:a"/>
+    <paradigm date="2011-03-03" id="18823" origin="lexin">
+      <inflection value="&#xE5;ttan"/>
+      <inflection value="&#xE5;ttor"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="&#xE5;tta||&#xE5;tta..2||&#xE5;tta..nn.1"/>
+    <definition date="2011-03-03" id="20868" value="siffran 8; nummer 8 i ordningen"/>
+  </word>
+  <word value="eight" lang="en" class="nn" id="152121" origin="lexin" date="2009-02-24">
+    <translation id="152121-1" value="&#xE5;tta" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="eight" lang="en" class="rg" id="152131" origin="lexin" date="2009-02-24">
+    <translation id="152131-1" value="&#xE5;tta" origin="lexin" date="2009-02-24"/>
+    <explanation value="8" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="octa" lang="en" id="542111" origin="user" date="2015-09-03T03:42:26">
+    <translation id="542111-1" value="&#xE5;tta" origin="user" date="2015-09-03T03:42:26"/>
+  </word>
+</definition>

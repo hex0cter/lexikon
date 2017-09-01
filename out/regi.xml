@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" comment="&#xE4;ven allm&#xE4;nt &amp;quot;ledning&amp;quot;" date="2011-03-03" id="141320" lang="sv" lexinid="14133" origin="lexin" value="regi">
+    <translation comment="also commonly &amp;quot;management&amp;quot;" date="2011-03-03" id="13878" value="direction"/>
+    <phonetic date="2011-03-03" soundFile="regi.swf" value="re$I:"/>
+    <paradigm date="2011-03-03" id="12299" origin="lexin">
+      <inflection value="regin"/>
+    </paradigm>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="regi||regi..1||regi..nn.1"/>
+    <example date="2011-03-03" id="7948" value="regi och dekor">
+      <translation value="direction and scenery"/>
+    </example>
+    <compound date="2011-03-03" id="4947" inflection="regi|assistenten" value="regi|assistent">
+      <translation value="assistant director"/>
+    </compound>
+    <idiom date="2011-03-03" id="1221" value="(driva n&#xE5;got) i egen regi (&amp;quot;med sig sj&#xE4;lv som chef&amp;quot;)">
+      <translation value="(run something) under personal management, under one&amp;#39;s own auspices (&amp;quot;managed personally&amp;quot;)"/>
+    </idiom>
+    <definition date="2011-03-03" id="13667" value="konstn&#xE4;rlig ledning av teaterpj&#xE4;s el. film"/>
+  </word>
+  <word value="direction" lang="en" class="nn" id="132171" lexinid="585" origin="lexin" date="2009-02-24">
+    <translation id="132171-1" value="anvisning" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-2" value="f&#xF6;reskrift" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-3" value="befallning" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-4" value="direktiv" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-5" value="f&#xF6;rh&#xE5;llningsorder" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-6" value="riktlinje" origin="lexin" date="2009-02-24"/>
+    <translation id="132171-7" value="regi" origin="lexin" date="2009-02-24"/>
+    <explanation value="upplysning, r&#xE5;d, tips" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

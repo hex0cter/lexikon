@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="nn" date="2011-03-03" id="128130" lang="sv" lexinid="12814" origin="lexin" value="pappa">
+    <translation date="2011-03-03" id="12579" value="father"/>
+    <phonetic date="2011-03-03" soundFile="pappa.swf" value="&#xB2;pAp:a"/>
+    <paradigm date="2011-03-03" id="11094" origin="lexin">
+      <inflection value="pappan"/>
+      <inflection value="pappor"/>
+    </paradigm>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="fader"/>
+    <synonym date="2011-03-03" level="4.8" origin="synlex" value="far"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="farsa"/>
+    <synonym date="2011-03-03" level="5.0" origin="synlex" value="pappsen"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="pappa||pappa..1||pappa..nn.1"/>
+    <definition date="2011-03-03" id="12336" value="far"/>
+    <url date="2011-03-03" origin="lexin" type="any" value="1/familj.swf"/>
+  </word>
+  <word value="dad" lang="en" class="nn" id="116911" origin="lexin" comment="informellt" date="2009-02-24">
+    <translation id="116911-1" value="pappa" origin="lexin" date="2009-02-24"/>
+    <translation id="116911-2" value="farsa" origin="lexin" date="2009-02-24"/>
+    <example id="116911-3" value="How are you, dad?" origin="lexin" date="2009-02-24">
+      <translation value="Hur m&#xE5;r du, pappa?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="An informal way of adressing your father." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="daddy" lang="en" class="nn" id="116921" origin="lexin" date="2009-02-24">
+    <translation id="116921-1" value="pappa" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="father" lang="en" class="nn" id="170741" origin="lexin" date="2009-02-24">
+    <translation id="170741-1" value="fader" origin="lexin" date="2009-02-24"/>
+    <translation id="170741-2" value="far" origin="lexin" date="2009-02-24"/>
+    <translation id="170741-3" value="pappa" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="papa" lang="en" class="nn" id="304321" origin="lexin" date="2009-02-24">
+    <variant value="poppa" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="304321-1" value="far" origin="lexin" date="2009-02-24"/>
+    <translation id="304321-2" value="pappa" comment="amerikansk engelska, informellt" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

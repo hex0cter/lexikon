@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="tidigare" lang="sv" id="242490" origin="user" date="2012-03-07T01:31:09">
+    <translation id="242490-1" value="earlier" origin="user" date="2012-03-07T01:31:10"/>
+    <translation id="242490-1" value="previously" origin="user" date="2013-11-06T00:59:10"/>
+  </word>
+  <word value="before" lang="en" class="ab" id="37571" origin="lexin" date="2009-02-24">
+    <translation id="37571-1" value="innan" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-2" value="f&#xF6;rut" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-3" value="dessf&#xF6;rinnan" origin="lexin" date="2009-02-24"/>
+    <translation id="37571-4" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="37571-6" value="haven&amp;#39;t we met before?" origin="lexin" date="2009-02-24">
+      <translation value="har vi inte tr&#xE4;ffats f&#xF6;rut?" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="37571-5" value="the day before" origin="lexin" date="2009-02-24">
+      <translation value="dagen innan" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="earlier" lang="en" class="jj" id="149351" origin="lexin" date="2009-02-24">
+    <translation id="149351-1" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="149351-2" value="Earlier discussions have been inconclusive." origin="lexin" date="2009-02-24">
+      <translation value="Tidigare diskussioner har varit resultatl&#xF6;sa." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="previous" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="earlier" lang="en" class="ab" id="149361" origin="lexin" date="2009-02-24">
+    <translation id="149361-1" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="149361-2" value="As I mentioned earlier..." origin="lexin" date="2009-02-24">
+      <translation value="Som jag n&#xE4;mnde tidigare..." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="Refers to a point in time before the present." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="former" lang="en" class="jj" id="183081" origin="lexin" date="2009-02-24">
+    <translation id="183081-1" value="f&#xF6;reg&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="183081-2" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="183081-3" value="d&#xE5;varande" origin="lexin" date="2009-02-24"/>
+    <idiom id="183081-4" value="be a shadow of one&amp;#39;s former self" origin="lexin" date="2009-02-24">
+      <translation value="vara en skugga av sitt forna jag" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="formerly" lang="en" class="ab" id="183091" origin="lexin" date="2009-02-24">
+    <translation id="183091-1" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-2" value="f&#xF6;rut" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-3" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="183091-4" value="fordom" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="once" lang="en" class="ab" id="294351" origin="lexin" date="2009-02-24">
+    <translation id="294351-1" value="en g&#xE5;ng" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-2" value="en g&#xE5;ng i tiden" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-3" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-4" value="f&#xF6;rr i tiden" origin="lexin" date="2009-02-24"/>
+    <translation id="294351-5" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="294351-6" value="once upon a time there was a king" origin="lexin" date="2009-02-24">
+      <translation value="det var en g&#xE5;ng en kung" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="past" lang="en" class="jj" id="307841" origin="lexin" date="2009-02-24">
+    <translation id="307841-1" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="307841-2" value="judging by his past experience, I think he will be perfect for the job" origin="lexin" date="2009-02-24">
+      <translation value="av hans tidigare erfarenhet att d&#xF6;ma tror jag att han &#xE4;r perfekt f&#xF6;r jobbet" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="previous" lang="en" class="jj" id="332401" origin="lexin" date="2009-02-24">
+    <translation id="332401-1" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="332401-2" value="f&#xF6;rra" origin="lexin" date="2009-02-24"/>
+    <example id="332401-3" value="A child from a previous marriage." origin="lexin" date="2009-02-24">
+      <translation value="Ett barn fr&#xE5;n ett tidigare &#xE4;ktenskap." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="A previous event, condition or time occurred before the present one." origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="previously" lang="en" class="ab" id="332411" origin="lexin" date="2009-02-24">
+    <translation id="332411-1" value="i f&#xF6;rv&#xE4;g" origin="lexin" date="2009-02-24"/>
+    <translation id="332411-2" value="p&#xE5; f&#xF6;rhand" origin="lexin" date="2009-02-24"/>
+    <translation id="332411-3" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <translation id="332411-4" value="dessf&#xF6;rinnan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="prior" lang="en" class="jj" id="333151" origin="lexin" date="2009-02-24">
+    <translation id="333151-1" value="f&#xF6;reg&#xE5;ende" origin="lexin" date="2009-02-24"/>
+    <translation id="333151-2" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <example id="333151-3" value="I have no prior knowledge of these charges." origin="lexin" date="2009-02-24">
+      <translation value="Jag har ingen tidigare vetskap om dessa anklagelser." origin="lexin" date="2009-02-24"/>
+    </example>
+    <explanation value="earlier, previous" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="sooner" lang="en" class="ab" id="390221" origin="lexin" date="2009-02-24">
+    <translation id="390221-1" value="f&#xF6;rr" origin="lexin" date="2009-02-24"/>
+    <translation id="390221-2" value="tidigare" origin="lexin" date="2009-02-24"/>
+    <idiom id="390221-3" value="no sooner &#xE4; than" origin="lexin" date="2009-02-24">
+      <translation value="knappt &#xE4; f&#xF6;rr&#xE4;n" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390221-4" value="sooner or later" origin="lexin" date="2009-02-24">
+      <translation value="f&#xF6;rr eller senare" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <idiom id="390221-5" value="the sooner the better" origin="lexin" date="2009-02-24">
+      <translation value="ju f&#xF6;rr dess b&#xE4;ttre" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="theorize" lang="en" id="469061" origin="user" date="2012-05-21T03:50:32">
+    <translation id="469061-1" value="tidigare" origin="user" date="2012-05-21T03:50:32"/>
+  </word>
+  <word value="leveling" lang="en" id="506501" origin="user" date="2013-05-28T03:26:54">
+    <translation id="506501-1" value="tidigare" origin="user" date="2013-05-28T03:26:54"/>
+  </word>
+</definition>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="kn" date="2011-03-03" id="30490" lang="sv" lexinid="3049" origin="lexin" value="dels">
+    <translation date="2011-03-03" id="3009" value="partly . . . partly"/>
+    <use date="2011-03-03" value="endast tillsammans med &amp;quot;dels&amp;quot;"/>
+    <phonetic date="2011-03-03" soundFile="dels.swf" value="de:ls"/>
+    <example date="2011-03-03" id="1732" value="dels kan jag inte, dels vill jag inte">
+      <translation value="I not only can&amp;#39;t, but I also don&amp;#39;t want to"/>
+    </example>
+    <definition date="2011-03-03" id="2949" value="b&#xE5;de ... (och)">
+      <translation value="on the one hand . . . (on the other)"/>
+    </definition>
+  </word>
+  <word value="part" lang="en" class="ab" id="305981" origin="lexin" date="2009-02-24">
+    <translation id="305981-1" value="delvis" origin="lexin" date="2009-02-24"/>
+    <translation id="305981-2" value="till en del" origin="lexin" date="2009-02-24"/>
+    <translation id="305981-3" value="dels" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="partly" lang="en" class="kn" id="306451" origin="lexin" date="2009-02-24">
+    <translation id="306451-1" value="dels" origin="lexin" date="2009-02-24"/>
+    <translation id="306451-2" value="b&#xE5;de" origin="lexin" date="2009-02-24"/>
+    <idiom id="306451-3" value="partly...partly" origin="lexin" date="2009-02-24">
+      <translation value="dels...dels, b&#xE5;de...och" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="on the one hand... (on the other)" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

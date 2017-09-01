@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<definition>
+  <word value="svensk" lang="sv" class="jj" id="179790" lexinid="17980" origin="lexin" date="2011-03-03">
+    <translation id="17662" value="Swedish" date="2011-03-03"/>
+    <phonetic value="sven:sk" soundFile="svensk.swf" date="2011-03-03"/>
+    <paradigm id="15721" origin="lexin" date="2011-03-03">
+      <inflection value="svenskt"/>
+      <inflection value="svenska"/>
+    </paradigm>
+    <see value="svensk||svensk..1||svensk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <see value="svensk||svensk..3||svensk..av.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <example id="10158" value="svensk medborgare" date="2011-03-03">
+      <translation value="Swedish citizen"/>
+    </example>
+    <definition id="17381" value="som avser Sverige eller svenska spr&#xE5;ket" date="2011-03-03"/>
+  </word>
+  <word value="svensk" lang="sv" class="nn" id="179800" lexinid="17981" origin="lexin" date="2011-03-03">
+    <translation id="17663" value="Swedish" date="2011-03-03"/>
+    <translation id="179800-17664" value="Swede" origin="user" date="2016-04-19T01:38:45"/>
+    <phonetic value="sven:sk" soundFile="svensk.swf" date="2011-03-03"/>
+    <paradigm id="15722" origin="lexin" date="2011-03-03">
+      <inflection value="svensken"/>
+      <inflection value="svenskar"/>
+      <inflection value="svenskarna"/>
+    </paradigm>
+    <synonym value="svensk person" level="3.0" origin="synlex" date="2011-03-03"/>
+    <see value="svensk||svensk..2||svensk..nn.1" type="saldo" origin="saldo" date="2011-03-03"/>
+    <definition id="17382" value="(manlig) person fr&#xE5;n Sverige" date="2011-03-03"/>
+  </word>
+  <word value="Swede" lang="en" class="nn" id="409161" origin="lexin" date="2009-02-24">
+    <translation id="409161-1" value="svensk" origin="lexin" date="2009-02-24"/>
+    <explanation value="manlig person fr&#xE5;n Sverige" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="swede" lang="en" class="nn" id="409171" origin="lexin" date="2009-02-24">
+    <translation id="409171-1" value="svensk" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="Swedish" lang="en" class="jj" id="409271" origin="lexin" date="2009-02-24">
+    <translation id="409271-1" value="svensk" origin="lexin" date="2009-02-24"/>
+    <explanation value="som &#xE4;r fr&#xE5;n eller avser Sverige" origin="lexin" date="2009-02-24"/>
+  </word>
+</definition>

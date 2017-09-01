@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="pp" date="2011-03-03" id="19580" lang="sv" lexinid="1958" origin="lexin" value="bland">
+    <translation date="2011-03-03" id="1932" value="among, amongst"/>
+    <phonetic date="2011-03-03" soundFile="bland.swf" value="blan:d"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="bland||bland..1||bland..pp.1"/>
+    <example date="2011-03-03" id="1245" value="bland annat (= bl a)">
+      <translation value="among other things"/>
+    </example>
+    <example date="2011-03-03" id="1246" value="bland de andra deltagarna">
+      <translation value="among the other participants"/>
+    </example>
+    <example date="2011-03-03" id="1247" value="bland de fem b&#xE4;sta">
+      <translation value="among the first five"/>
+    </example>
+    <example date="2011-03-03" id="1248" value="bland andra">
+      <translation value="among others"/>
+    </example>
+    <definition date="2011-03-03" id="1902" value="mellan; i kretsen av; f&#xF6;rutom, j&#xE4;mte"/>
+  </word>
+  <word value="among" lang="en" class="pp" id="12271" origin="lexin" date="2009-02-24">
+    <variant value="amongst" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12271-1" value="bland" origin="lexin" date="2009-02-24"/>
+    <example id="12271-2" value="they divided the money among themselves" origin="lexin" date="2009-02-24">
+      <translation value="de delade (lika) p&#xE5; pengarna; de delade pengarna mellan sig" origin="lexin" date="2009-02-24"/>
+    </example>
+    <example id="12271-3" value="this car is among the finest in the world" origin="lexin" date="2009-02-24">
+      <translation value="det h&#xE4;r &#xE4;r en av de finaste bilarna i v&#xE4;rlden" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+  <word value="among" lang="en" class="pp" id="12281" origin="lexin" date="2009-02-24">
+    <variant value="amongst" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12281-1" value="bland" origin="lexin" date="2009-02-24"/>
+    <translation id="12281-2" value="ibland" origin="lexin" date="2009-02-24"/>
+    <translation id="12281-3" value="mellan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="among" lang="en" class="pp" id="12291" origin="lexin" date="2009-02-24">
+    <variant value="amongst" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12291-1" value="hos" origin="lexin" date="2009-02-24"/>
+    <translation id="12291-2" value="bland" origin="lexin" date="2009-02-24"/>
+    <example id="12291-4" value="she found the letter among his things" origin="lexin" date="2009-02-24">
+      <translation value="hon hittade brevet i hans saker" origin="lexin" date="2009-02-24"/>
+    </example>
+    <idiom id="12291-3" value="among other things" origin="lexin" date="2009-02-24">
+      <translation value="bland annat" origin="lexin" date="2009-02-24"/>
+    </idiom>
+    <explanation value="tillsammans med och omgiven av" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="amongst" lang="en" class="pp" id="12311" origin="lexin" date="2009-02-24">
+    <variant value="among" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12311-1" value="bland" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="amongst" lang="en" class="pp" id="12321" origin="lexin" date="2009-02-24">
+    <variant value="among" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12321-1" value="bland" origin="lexin" date="2009-02-24"/>
+    <translation id="12321-2" value="ibland" origin="lexin" date="2009-02-24"/>
+    <translation id="12321-3" value="mellan" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="amongst" lang="en" class="pp" id="12341" origin="lexin" date="2009-02-24">
+    <variant value="among" alt="also" origin="lexin" date="2009-02-24"/>
+    <translation id="12341-1" value="hos" origin="lexin" date="2009-02-24"/>
+    <translation id="12341-2" value="bland" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="mid" lang="en" class="pp" id="272281" origin="lexin" date="2009-02-24">
+    <variant value="amid" alt="properly" origin="lexin" date="2009-02-24"/>
+    <translation id="272281-1" value="bland" origin="lexin" date="2009-02-24"/>
+    <translation id="272281-2" value="mitt bland" comment="poetiskt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="of" lang="en" class="pp" id="292641" origin="lexin" date="2009-02-24">
+    <translation id="292641-1" value="av" comment="i uttryck med partitiv genitiv" origin="lexin" date="2009-02-24"/>
+    <translation id="292641-2" value="bland" origin="lexin" date="2009-02-24"/>
+    <translation id="292641-3" value="till" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="out of" lang="en" class="pp" id="298101" origin="lexin" date="2009-02-24">
+    <translation id="298101-1" value="av" origin="lexin" date="2009-02-24"/>
+    <translation id="298101-2" value="bland" origin="lexin" date="2009-02-24"/>
+    <example id="298101-3" value="nine out of ten people drink milk" origin="lexin" date="2009-02-24">
+      <translation value="nio av tio personer dricker mj&#xF6;lk" origin="lexin" date="2009-02-24"/>
+    </example>
+  </word>
+</definition>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<definition>
+  <word class="ab" date="2011-03-03" id="47790" lang="sv" lexinid="4779" origin="lexin" value="fortfarande">
+    <translation date="2011-03-03" id="4701" value="still"/>
+    <phonetic date="2011-03-03" soundFile="fortfarande.swf" value="&#xB2;fOr+t:fa:rande"/>
+    <synonym date="2011-03-03" level="4.7" origin="synlex" value="&#xE4;nnu"/>
+    <synonym date="2011-03-03" level="4.0" origin="synlex" value="&#xE4;ven forts&#xE4;ttningsvis"/>
+    <see date="2011-03-03" origin="saldo" type="saldo" value="fortfarande||fortfarande..1||fortfarande..ab.1"/>
+    <example date="2011-03-03" id="2728" value="&#xE4;r du fortfarande kvar?">
+      <translation value="are you still here?"/>
+    </example>
+    <definition date="2011-03-03" id="4608" value="&#xE4;nnu, alltj&#xE4;mt"/>
+  </word>
+  <word value="still" lang="en" class="ab" id="399161" origin="lexin" date="2009-02-24">
+    <translation id="399161-1" value="&#xE4;nnu" origin="lexin" date="2009-02-24"/>
+    <translation id="399161-2" value="fortfarande" origin="lexin" date="2009-02-24"/>
+    <translation id="399161-3" value="alltj&#xE4;mt" origin="lexin" date="2009-02-24"/>
+  </word>
+  <word value="yet" lang="en" class="ab" id="449481" origin="lexin" date="2009-02-24">
+    <translation id="449481-1" value="&#xE4;nnu" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-2" value="&#xE4;n" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-3" value="fortfarande" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-4" value="redan" origin="lexin" date="2009-02-24"/>
+    <translation id="449481-5" value="till sist" origin="lexin" date="2009-02-24"/>
+    <idiom id="449481-6" value="as yet" origin="lexin" date="2009-02-24">
+      <translation value="hittintills" origin="lexin" date="2009-02-24"/>
+    </idiom>
+  </word>
+  <word value="asymmetrically" lang="en" id="506581" origin="user" date="2013-05-29T01:47:53">
+    <translation id="506581-1" value="asymmetriskt" origin="user" date="2013-05-29T01:47:53"/>
+    <translation id="506581-2" value="assymetriskt" origin="user" date="2013-05-29T01:47:54"/>
+    <translation id="506581-1" value="asymetriskt" origin="user" date="2013-08-14T02:25:00"/>
+    <translation id="506581-1" value="osymmetrisk" origin="user" date="2013-11-14T03:55:34"/>
+    <translation id="506581-1" value="osymetriskt" origin="user" date="2014-01-30T01:17:11"/>
+    <translation id="506581-3" value="assymmetriskt" origin="user" date="2014-08-08T03:26:38"/>
+    <translation id="506581-4" value="fortfarande" origin="user" date="2015-10-24T03:38:22"/>
+    <translation id="506581-5" value="osymmetriskt" origin="user" date="2016-04-26T04:18:16"/>
+    <translation id="506581-6" value="ut i fingerspetsarna" origin="user" date="2016-10-11T02:58:36"/>
+  </word>
+</definition>
