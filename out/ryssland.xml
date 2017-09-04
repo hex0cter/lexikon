@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<definition>
-  <word value="Ryssland" lang="sv" class="pn" id="147380" lexinid="14739" origin="lexin" date="2011-03-03">
-    <translation id="147380-14276" value="Russia" origin="user" date="2012-05-01T01:16:56"/>
-    <phonetic value="rYs:land" soundFile="ryssland.swf" date="2011-03-03"/>
-    <definition id="14275" value="ett land i Europa" date="2011-03-03"/>
-  </word>
-</definition>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<definition>
-  <word value="danmark" lang="sv" class="pm" id="261640" origin="user" date="2012-06-12T01:06:23">
-    <translation id="261640-1" value="denmark" origin="user" date="2012-06-12T01:06:25"/>
-  </word>
-  <word value="Denmark" lang="en" class="nn" id="124811" origin="lexin" date="2009-02-24">
-    <translation id="124811-1" value="Danmark" comment="geografiskt" origin="lexin" date="2009-02-24"/>
-  </word>
-</definition>

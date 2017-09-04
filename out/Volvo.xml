@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<definition>
-  <word value="Volvo" lang="en" class="nn" id="438851" origin="lexin" date="2009-02-24">
-    <translation id="438851-1" value="Volvo" comment="varum&#xE4;rke" origin="lexin" date="2009-02-24"/>
-    <translation id="438851-2" value="volvobil" origin="lexin" date="2009-02-24"/>
-  </word>
-</definition>
