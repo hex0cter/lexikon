@@ -5,7 +5,7 @@ require 'open-uri'
 
 url = 'http://folkets-lexikon.csc.kth.se/folkets/folkets/lookupword'
 word_list = 'in/swedish-word-list.txt'
-#word_list = 'in/word-verify.txt'
+# word_list = 'in/word-verify.txt'
 
 def map_char(string)
   string.gsub('å', '0345').gsub('ö', '0366').gsub('ä', '0344').gsub(' ', '%20').gsub('à', '0340').gsub('é', '0351')
