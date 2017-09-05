@@ -22,7 +22,7 @@ File.readlines(word_list).each do |word|
   end
 
   if response.body.start_with?('//OK') then
-    puts "#{word} => #{response.body}"
+    puts "#{word}"
     result = JSON.parse(response.body[4..-1]).select { |ele| ele.kind_of? Array }[0].select { |ele| ele.start_with?('<word')}
     next if result.nil? || result.empty?
 
@@ -34,7 +34,6 @@ File.readlines(word_list).each do |word|
       local_name = "out/sound/#{sound_file}"
       #next if File.file?(local_name)
 
-      puts "Downloading #{remote_url}"
       open(local_name, 'wb') do |file|
         begin
           file << open(remote_url).read
@@ -51,7 +50,6 @@ File.readlines(word_list).each do |word|
     aggregated_result = "<definition>#{result.join('')}</definition>"
 
     File.write("out/definition/#{word}.xml", Nokogiri::XML(aggregated_result).to_xml)
-    puts '------------'
   else
     STDERR.puts "Unable to find the definition of #{word}"
   end
